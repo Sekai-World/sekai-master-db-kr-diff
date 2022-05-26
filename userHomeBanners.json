@@ -1,0 +1,142 @@
+[
+  {
+    "homeBannerId": 2,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "CBT 시작 기념 뽑기",
+    "assetbundleName": "banner_gacha1",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1,
+    "startAt": 1596261600000,
+    "endAt": 1653803999000
+  },
+  {
+    "homeBannerId": 3,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "서비스 시작 기념 버추얼 라이브",
+    "assetbundleName": "banner_welcomelive",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 20001,
+    "startAt": 1651384800000,
+    "endAt": 4102412399000
+  },
+  {
+    "homeBannerId": 5,
+    "seq": 9999,
+    "homeBannerType": "general",
+    "name": "뉴비 가이드",
+    "assetbundleName": "banner_beginners_guide",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 2,
+    "startAt": 1649257200000,
+    "endAt": 4102412399000
+  },
+  {
+    "homeBannerId": 8,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_sodokumission",
+    "transitionDestinationType": "sudoku",
+    "startAt": 1649257200000,
+    "endAt": 4102412399000
+  },
+  {
+    "homeBannerId": 9,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha4",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 4,
+    "startAt": 1653112800000,
+    "endAt": 1653803999000
+  },
+  {
+    "homeBannerId": 10,
+    "seq": 50,
+    "homeBannerType": "event",
+    "name": "배너",
+    "assetbundleName": "event_stella_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 1,
+    "startAt": 1653112800000,
+    "endAt": 1653803999000
+  },
+  {
+    "homeBannerId": 26,
+    "seq": 70,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_sekairelease",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 18,
+    "startAt": 1651384800000,
+    "endAt": 1654009199000
+  },
+  {
+    "homeBannerId": 27,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_cp2",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 8,
+    "startAt": 1651384800000,
+    "endAt": 1656428399000
+  },
+  {
+    "homeBannerId": 28,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_beta_shopsetappeal",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1651384800000,
+    "endAt": 1654268399000
+  },
+  {
+    "homeBannerId": 31,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_virtuallive76",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 76,
+    "startAt": 1653285600000,
+    "endAt": 1653577199000
+  },
+  {
+    "homeBannerId": 33,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_bp01",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1651330800000,
+    "endAt": 1653976799000
+  },
+  {
+    "homeBannerId": 34,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha16",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 16,
+    "startAt": 1632970800000,
+    "endAt": 1653976799000
+  },
+  {
+    "homeBannerId": 37,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha3",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 3,
+    "startAt": 1596261600000,
+    "endAt": 1653803999000
+  }
+]

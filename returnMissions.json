@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "requirement": 1,
+    "sentence": "設定1次「自製個人資料」吧。",
+    "resourceBoxId": 200001,
+    "returnMissionGroupId": 1,
+    "returnMissionType": "save_custom_profile_data"
+  },
+  {
+    "id": 2,
+    "seq": 1,
+    "requirement": 10,
+    "sentence": "觀看10章過往活動的劇情吧。",
+    "resourceBoxId": 200002,
+    "returnMissionGroupId": 1,
+    "returnMissionType": "read_story_past_event"
+  },
+  {
+    "id": 3,
+    "seq": 1,
+    "requirement": 3,
+    "sentence": "參加3次虛擬LIVE吧。",
+    "resourceBoxId": 200003,
+    "returnMissionGroupId": 1,
+    "returnMissionType": "clear_virtual_live"
+  },
+  {
+    "id": 4,
+    "seq": 1,
+    "requirement": 5,
+    "sentence": "通過5次多人LIVE吧。",
+    "resourceBoxId": 200004,
+    "returnMissionGroupId": 1,
+    "returnMissionType": "clear_multi_live"
+  },
+  {
+    "id": 5,
+    "seq": 1,
+    "requirement": 3,
+    "sentence": "通過3次挑戰LIVE吧。",
+    "resourceBoxId": 200005,
+    "returnMissionGroupId": 1,
+    "returnMissionType": "clear_solo_challenge_live"
+  },
+  {
+    "id": 6,
+    "seq": 1,
+    "requirement": 3,
+    "sentence": "交換3首歌曲吧。",
+    "resourceBoxId": 200006,
+    "returnMissionGroupId": 1,
+    "returnMissionType": "buy_music"
+  },
+  {
+    "id": 7,
+    "seq": 1,
+    "requirement": 3,
+    "sentence": "使用練習譜提升3次成員等級吧。",
+    "resourceBoxId": 200007,
+    "returnMissionGroupId": 1,
+    "returnMissionType": "character_level_up"
+  },
+  {
+    "id": 8,
+    "seq": 1,
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 200008,
+    "returnMissionGroupId": 1,
+    "returnMissionType": "buy_event_item"
+  },
+  {
+    "id": 9,
+    "seq": 1,
+    "requirement": 8,
+    "sentence": "完成以上所有任務吧。",
+    "resourceBoxId": 200009,
+    "returnMissionGroupId": 1,
+    "returnMissionType": "clear_all_return_mission"
+  }
+]

@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "ruleSlideType": "MUSIC_SHOP",
+    "assetbundleName": "tutorial/slide/music_shop",
+    "redisplay": "once",
+    "tutorialpanel": "MusicShop"
+  },
+  {
+    "id": 2,
+    "ruleSlideType": "WORLD_MAP",
+    "assetbundleName": "tutorial/slide/world_map",
+    "redisplay": "once",
+    "tutorialpanel": "Worldmap"
+  },
+  {
+    "id": 3,
+    "ruleSlideType": "MULTI_LIVE",
+    "assetbundleName": "tutorial/slide/multi_live",
+    "redisplay": "once",
+    "tutorialpanel": "MultiRoomSelect"
+  },
+  {
+    "id": 4,
+    "ruleSlideType": "COSTUME_CHANGE",
+    "assetbundleName": "tutorial/slide/costume_change",
+    "redisplay": "redisplay",
+    "tutorialpanel": "LiveCostumeCharacterSelect"
+  },
+  {
+    "id": 5,
+    "ruleSlideType": "COSTUME_CHANGE_MIKU",
+    "assetbundleName": "tutorial/slide/costume_change_miku",
+    "redisplay": "once"
+  },
+  {
+    "id": 6,
+    "ruleSlideType": "AREA_SHOP_SEKAI",
+    "assetbundleName": "tutorial/slide/area_shop_sekai",
+    "redisplay": "once",
+    "tutorialpanel": "AreaShop"
+  },
+  {
+    "id": 7,
+    "ruleSlideType": "VIRTUAL_LIVE_OVERVIEW",
+    "assetbundleName": "tutorial/slide/virtual_live_overview",
+    "redisplay": "once",
+    "tutorialpanel": "VirtualLiveSelect"
+  },
+  {
+    "id": 8,
+    "ruleSlideType": "VIRTUAL_WAITING_ROOM",
+    "assetbundleName": "tutorial/slide/virtual_waiting_room",
+    "redisplay": "once",
+    "tutorialpanel": "SuperVirtualLiveLobby"
+  },
+  {
+    "id": 9,
+    "ruleSlideType": "VIRTUAL_IN_LIVE",
+    "assetbundleName": "tutorial/slide/virtual_in_live",
+    "redisplay": "once"
+  },
+  {
+    "id": 10,
+    "ruleSlideType": "COSTUME_SHOP",
+    "assetbundleName": "tutorial/slide/costume_shop",
+    "redisplay": "once",
+    "tutorialpanel": "CostumeShopCharacterSelect"
+  },
+  {
+    "id": 11,
+    "ruleSlideType": "CHARACTER_RANK",
+    "assetbundleName": "tutorial/slide/character_rank",
+    "redisplay": "redisplay",
+    "tutorialpanel": "CharacterRankCharacterSelect"
+  },
+  {
+    "id": 12,
+    "ruleSlideType": "CHALLENGE_LIVE_CHARACTER_SELECT",
+    "assetbundleName": "tutorial/slide/challenge_live_character_add",
+    "redisplay": "once"
+  },
+  {
+    "id": 13,
+    "ruleSlideType": "CHALLENGE_LIVE_CHARACTER_ADD",
+    "assetbundleName": "tutorial/slide/challenge_live_character_select",
+    "redisplay": "once"
+  },
+  {
+    "id": 14,
+    "ruleSlideType": "SKILL_UP",
+    "assetbundleName": "tutorial/slide/skill_up",
+    "redisplay": "once",
+    "tutorialpanel": "PracticeCardSelect"
+  },
+  {
+    "id": 15,
+    "ruleSlideType": "STAMP_SHOP",
+    "assetbundleName": "tutorial/slide/stamp_shop",
+    "redisplay": "once",
+    "tutorialpanel": "StampShop"
+  },
+  {
+    "id": 16,
+    "ruleSlideType": "MASTER_TRAINING",
+    "assetbundleName": "tutorial/slide/master_training",
+    "redisplay": "redisplay",
+    "tutorialpanel": "PracticeCardSelect"
+  },
+  {
+    "id": 17,
+    "ruleSlideType": "ANOTHER_VOCAL_SHOP",
+    "assetbundleName": "tutorial/slide/another_vocal_shop",
+    "redisplay": "once",
+    "tutorialpanel": "AnotherVocalShop"
+  },
+  {
+    "id": 18,
+    "ruleSlideType": "WAITING_ROOM",
+    "assetbundleName": "tutorial/slide/waiting_room",
+    "redisplay": "once",
+    "tutorialpanel": "WaitingRoom"
+  },
+  {
+    "id": 19,
+    "ruleSlideType": "FREE_STAMP",
+    "assetbundleName": "tutorial/slide/free_stamp",
+    "redisplay": "once",
+    "tutorialpanel": "StampSetting"
+  },
+  {
+    "id": 20,
+    "ruleSlideType": "AREA_SHOP_SCHOOL",
+    "assetbundleName": "tutorial/slide/area_shop_school",
+    "redisplay": "once"
+  },
+  {
+    "id": 21,
+    "ruleSlideType": "MISSION",
+    "assetbundleName": "tutorial/slide/mission",
+    "redisplay": "once",
+    "tutorialpanel": "Mission"
+  },
+  {
+    "id": 22,
+    "ruleSlideType": "SUMMARY",
+    "assetbundleName": "tutorial/slide/summary",
+    "redisplay": "once"
+  },
+  {
+    "id": 23,
+    "ruleSlideType": "CHALLENGE_LIVE",
+    "assetbundleName": "tutorial/slide/challenge_live",
+    "redisplay": "once",
+    "tutorialpanel": "ChallengeLiveCharacterSelect"
+  },
+  {
+    "id": 24,
+    "ruleSlideType": "FREE_LIVE",
+    "assetbundleName": "tutorial/slide/free_live",
+    "redisplay": "once",
+    "tutorialpanel": "FreeLiveFinalConfirmation"
+  },
+  {
+    "id": 25,
+    "ruleSlideType": "LESSON",
+    "assetbundleName": "tutorial/slide/lesson",
+    "redisplay": "once",
+    "tutorialpanel": "PracticeCardSelect"
+  },
+  {
+    "id": 26,
+    "ruleSlideType": "SPECIAL_TRAINING",
+    "assetbundleName": "tutorial/slide/special_training",
+    "redisplay": "redisplay",
+    "tutorialpanel": "PracticeCardSelect"
+  },
+  {
+    "id": 27,
+    "ruleSlideType": "LIVE_BONUS",
+    "assetbundleName": "dummy",
+    "redisplay": "once"
+  },
+  {
+    "id": 28,
+    "ruleSlideType": "EVENT_TOP",
+    "assetbundleName": "event/{0}/slide/top",
+    "redisplay": "once"
+  },
+  {
+    "id": 29,
+    "ruleSlideType": "EVENT_DECK",
+    "assetbundleName": "event/{0}/slide/deck",
+    "redisplay": "once"
+  },
+  {
+    "id": 30,
+    "ruleSlideType": "GUILD_VIRTUAL_LIVE_TOP",
+    "assetbundleName": "dummy",
+    "redisplay": "once"
+  },
+  {
+    "id": 31,
+    "ruleSlideType": "AUTO_LIVE",
+    "assetbundleName": "tutorial/slide/auto_live",
+    "redisplay": "once"
+  },
+  {
+    "id": 32,
+    "ruleSlideType": "VIRTUAL_LIVE_MESSAGE",
+    "assetbundleName": "tutorial/slide/virtual_live_message",
+    "redisplay": "once"
+  },
+  {
+    "id": 33,
+    "ruleSlideType": "GACHA_ITEM",
+    "assetbundleName": "tutorial/slide/gacha_item",
+    "redisplay": "redisplay",
+    "tutorialpanel": "GachaItemExchange"
+  },
+  {
+    "id": 34,
+    "ruleSlideType": "STORY_EVENT",
+    "assetbundleName": "tutorial/slide/story_event",
+    "redisplay": "once",
+    "tutorialpanel": "ArchiveEventSelect"
+  },
+  {
+    "id": 35,
+    "ruleSlideType": "FRIEND_LIST",
+    "assetbundleName": "tutorial/slide/friend_list",
+    "redisplay": "once",
+    "tutorialpanel": "Friend"
+  },
+  {
+    "id": 36,
+    "ruleSlideType": "SELECT_LIST",
+    "assetbundleName": "tutorial/slide/select_list",
+    "redisplay": "redisplay"
+  },
+  {
+    "id": 37,
+    "ruleSlideType": "CHEERFUL_CARNIVAL",
+    "assetbundleName": "event/{0}/slide/top",
+    "redisplay": "once"
+  },
+  {
+    "id": 38,
+    "ruleSlideType": "GACHA_BONUS",
+    "assetbundleName": "tutorial/slide/gacha_bonus",
+    "redisplay": "redisplay"
+  },
+  {
+    "id": 39,
+    "ruleSlideType": "CHANGEROOM_MEMBER",
+    "assetbundleName": "tutorial/slide/changeroom_member",
+    "redisplay": "once"
+  },
+  {
+    "id": 40,
+    "ruleSlideType": "CUSTOM_PROFILE",
+    "assetbundleName": "tutorial/slide/custom_profile",
+    "redisplay": "once",
+    "tutorialpanel": "CustomProfileSelect"
+  },
+  {
+    "id": 1001,
+    "ruleSlideType": "SUDOKU_START",
+    "assetbundleName": "tutorial/slide/sudoku_start"
+  },
+  {
+    "id": 1002,
+    "ruleSlideType": "SUDOKU_FINISH",
+    "assetbundleName": "tutorial/slide/sudoku_finish"
+  }
+]

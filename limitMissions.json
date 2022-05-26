@@ -1,0 +1,56 @@
+[
+  {
+    "limitMissionGroupId": 2,
+    "id": 9,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 20,
+    "sentence": "‘멀티 라이브’ 20회 플레이하기",
+    "resourceBoxId": 100009
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 10,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 150,
+    "sentence": "라이브 보너스 150개 사용하기\n(‘라이브’의 ‘설정’에서 라이브 보너스 사용 수 변경 가능)",
+    "resourceBoxId": 100010
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 11,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "‘챌린지 라이브’ 5회 플레이하기",
+    "resourceBoxId": 100011
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 12,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100012
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 13,
+    "seq": 1,
+    "limitMissionType": "live_mission_reward",
+    "requirement": 10,
+    "sentence": "라이브 미션 보상 10회 받기\n(라이브 플레이 시 라이브 P를 획득할 수 있으며, 라이브 P를 일정 포인트 모으면 보상 획득 가능)",
+    "resourceBoxId": 100013
+  },
+  {
+    "limitMissionGroupId": 2,
+    "id": 14,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "50만 명 돌파 기념 기간 한정 미션 모두 클리어하기",
+    "resourceBoxId": 100014
+  }
+]

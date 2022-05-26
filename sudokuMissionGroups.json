@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "name": "新人应援任务！",
+    "turn": 3,
+    "startAt": 1644505199000,
+    "endAt": 4102412399000,
+    "assetbundleName": "Newcomer_Mission",
+    "sudokuMissionTurns": [
+      {
+        "sudokuMissionGroupId": 1,
+        "missionTurn": 1,
+        "resourceBoxId": 300001,
+        "sudokuMissions": [
+          {
+            "id": 1,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 1,
+            "sudokuMissionType": "watch_mv",
+            "requirement": 1,
+            "sentence": "MV 1회 보기",
+            "resourceBoxId": 300004
+          },
+          {
+            "id": 2,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 1,
+            "sudokuMissionType": "action_set",
+            "requirement": 1,
+            "sentence": "에어리어 대화\n1회 보기",
+            "resourceBoxId": 300005
+          },
+          {
+            "id": 3,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 1,
+            "sudokuMissionType": "read_mainstory",
+            "requirement": 1,
+            "sentence": "아무 유닛의\n메인 스토리\n제1화 읽기",
+            "resourceBoxId": 300006
+          },
+          {
+            "id": 4,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 1,
+            "sudokuMissionType": "clear_multi_live",
+            "requirement": 1,
+            "sentence": "'멀티 라이브'\n1회 플레이하기",
+            "resourceBoxId": 300007
+          },
+          {
+            "id": 5,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 1,
+            "sudokuMissionType": "clear_virtual_live",
+            "requirement": 1,
+            "sentence": "버추얼 라이브\n1회 참가하기",
+            "resourceBoxId": 300008
+          },
+          {
+            "id": 6,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 1,
+            "sudokuMissionType": "player_rank",
+            "requirement": 2,
+            "sentence": "플레이어 랭크\n3 달성하기",
+            "resourceBoxId": 300009
+          },
+          {
+            "id": 7,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 1,
+            "sudokuMissionType": "card_level_up",
+            "requirement": 1,
+            "sentence": "아무 멤버나\n1회 레벨 업",
+            "resourceBoxId": 300010
+          },
+          {
+            "id": 8,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 1,
+            "sudokuMissionType": "send_friend_request",
+            "requirement": 1,
+            "sentence": "친구 신청\n1회 하기",
+            "resourceBoxId": 300011
+          },
+          {
+            "id": 9,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 1,
+            "sudokuMissionType": "save_custom_profile_data",
+            "requirement": 1,
+            "sentence": "프로필\n1회 설정하기",
+            "resourceBoxId": 300012
+          }
+        ]
+      },
+      {
+        "sudokuMissionGroupId": 1,
+        "missionTurn": 2,
+        "resourceBoxId": 300002,
+        "sudokuMissions": [
+          {
+            "id": 10,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 2,
+            "sudokuMissionType": "clear_solo_challenge_live",
+            "requirement": 1,
+            "sentence": "챌린지 라이브\n1회 플레이하기",
+            "resourceBoxId": 300013
+          },
+          {
+            "id": 11,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 2,
+            "sudokuMissionType": "character_rank_bonus",
+            "requirement": 1,
+            "sentence": "캐릭터 랭크 보상\n1회 받기",
+            "resourceBoxId": 300014
+          },
+          {
+            "id": 12,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 2,
+            "sudokuMissionType": "set_note_speed",
+            "requirement": 1,
+            "sentence": "노트 속도\n1회 조정하기",
+            "resourceBoxId": 300015
+          },
+          {
+            "id": 13,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 2,
+            "sudokuMissionType": "dance_formation",
+            "requirement": 1,
+            "sentence": "편성 멤버\n1회 설정하기",
+            "resourceBoxId": 300016
+          },
+          {
+            "id": 14,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 2,
+            "sudokuMissionType": "live_normal",
+            "requirement": 1,
+            "sentence": "난이도 NORMAL\n1곡 클리어하기",
+            "resourceBoxId": 300017
+          },
+          {
+            "id": 15,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 2,
+            "sudokuMissionType": "collect_stamp",
+            "requirement": 1,
+            "sentence": "스탬프\n1회 구매하기",
+            "resourceBoxId": 300018
+          },
+          {
+            "id": 16,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 2,
+            "sudokuMissionType": "buy_music",
+            "requirement": 1,
+            "sentence": "음악 1회 구매하기",
+            "resourceBoxId": 300019
+          },
+          {
+            "id": 17,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 2,
+            "sudokuMissionType": "make_costume_3d",
+            "requirement": 1,
+            "sentence": "라이브 의상\n1회 제작하기",
+            "resourceBoxId": 300020
+          },
+          {
+            "id": 18,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 2,
+            "sudokuMissionType": "buy_exchange",
+            "requirement": 1,
+            "sentence": "교환소에서 아이템\n1회 구매하기",
+            "resourceBoxId": 300021
+          }
+        ]
+      },
+      {
+        "sudokuMissionGroupId": 1,
+        "missionTurn": 3,
+        "resourceBoxId": 300003,
+        "sudokuMissions": [
+          {
+            "id": 19,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 3,
+            "sudokuMissionType": "special_training",
+            "requirement": 1,
+            "sentence": "아무 멤버나 특훈\n1회 시키기",
+            "resourceBoxId": 300022
+          },
+          {
+            "id": 20,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 3,
+            "sudokuMissionType": "master_rank",
+            "requirement": 1,
+            "sentence": "아무 멤버나\n마스터 트레이닝\n1회 시키기",
+            "resourceBoxId": 300023
+          },
+          {
+            "id": 21,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 3,
+            "sudokuMissionType": "buy_area_item",
+            "requirement": 1,
+            "sentence": "에어리어 아이템\n1회 구매하기",
+            "resourceBoxId": 300024
+          },
+          {
+            "id": 22,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 3,
+            "sudokuMissionType": "collect_another_vocal",
+            "requirement": 1,
+            "sentence": "어나더 보컬 ver. \n음악 1회 구매하기",
+            "resourceBoxId": 300025
+          },
+          {
+            "id": 23,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 3,
+            "sudokuMissionType": "clear_live_hard",
+            "requirement": 1,
+            "sentence": "난이도 HARD\n1곡 클리어하기",
+            "resourceBoxId": 300026
+          },
+          {
+            "id": 24,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 3,
+            "sudokuMissionType": "equip_costume_3d",
+            "requirement": 1,
+            "sentence": "라이브 의상\n1회 변경하기",
+            "resourceBoxId": 300027
+          },
+          {
+            "id": 25,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 3,
+            "sudokuMissionType": "player_rank",
+            "requirement": 9,
+            "sentence": "플레이어 랭크\n10 달성하기",
+            "resourceBoxId": 300028
+          },
+          {
+            "id": 26,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 3,
+            "sudokuMissionType": "clear_live_fever",
+            "requirement": 1,
+            "sentence": "멀티 라이브에서\nFEVER\n1회 달성하기",
+            "resourceBoxId": 300029
+          },
+          {
+            "id": 27,
+            "sudokuMissionGroupId": 1,
+            "missionTurn": 3,
+            "sudokuMissionType": "waiting_room_exchange",
+            "requirement": 1,
+            "sentence": "대기실의 멤버를\n마음의 조각으로\n교환하기",
+            "resourceBoxId": 300030
+          }
+        ]
+      }
+    ]
+  }
+]

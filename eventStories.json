@@ -1,0 +1,764 @@
+[
+  {
+    "id": 1,
+    "eventId": 1,
+    "assetbundleName": "event_stella_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000001,
+        "eventStoryId": 1,
+        "episodeNo": 1,
+        "title": "비 올 듯한 날의 외톨이",
+        "assetbundleName": "event_stella_2020_01",
+        "scenarioId": "event_01_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000002,
+        "eventStoryId": 1,
+        "episodeNo": 2,
+        "title": "모두와 함께",
+        "assetbundleName": "event_stella_2020_02",
+        "scenarioId": "event_01_02",
+        "releaseConditionId": 100001,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000003,
+        "eventStoryId": 1,
+        "episodeNo": 3,
+        "title": "별보다 베이스",
+        "assetbundleName": "event_stella_2020_03",
+        "scenarioId": "event_01_03",
+        "releaseConditionId": 100002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000004,
+        "eventStoryId": 1,
+        "episodeNo": 4,
+        "title": "데이트 날까지",
+        "assetbundleName": "event_stella_2020_04",
+        "scenarioId": "event_01_04",
+        "releaseConditionId": 100003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000005,
+        "eventStoryId": 1,
+        "episodeNo": 5,
+        "title": "언제든지라니",
+        "assetbundleName": "event_stella_2020_05",
+        "scenarioId": "event_01_05",
+        "releaseConditionId": 100004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000006,
+        "eventStoryId": 1,
+        "episodeNo": 6,
+        "title": "비와 저녁놀",
+        "assetbundleName": "event_stella_2020_06",
+        "scenarioId": "event_01_06",
+        "releaseConditionId": 100005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000007,
+        "eventStoryId": 1,
+        "episodeNo": 7,
+        "title": "천천히 가자",
+        "assetbundleName": "event_stella_2020_07",
+        "scenarioId": "event_01_07",
+        "releaseConditionId": 100006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000008,
+        "eventStoryId": 1,
+        "episodeNo": 8,
+        "title": "우리의 밤하늘",
+        "assetbundleName": "event_stella_2020_08",
+        "scenarioId": "event_01_08",
+        "releaseConditionId": 100007,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "eventId": 2,
+    "assetbundleName": "event_jackpod_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000009,
+        "eventStoryId": 2,
+        "episodeNo": 1,
+        "title": "느끼는 것",
+        "assetbundleName": "event_jackpod_2020_01",
+        "scenarioId": "event_02_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000010,
+        "eventStoryId": 2,
+        "episodeNo": 2,
+        "title": "건네받은 티켓",
+        "assetbundleName": "event_jackpod_2020_02",
+        "scenarioId": "event_02_02",
+        "releaseConditionId": 100101,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000011,
+        "eventStoryId": 2,
+        "episodeNo": 3,
+        "title": "더 알고 싶어서",
+        "assetbundleName": "event_jackpod_2020_03",
+        "scenarioId": "event_02_03",
+        "releaseConditionId": 100102,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000012,
+        "eventStoryId": 2,
+        "episodeNo": 4,
+        "title": "새장 속의 마리오네트",
+        "assetbundleName": "event_jackpod_2020_04",
+        "scenarioId": "event_02_04",
+        "releaseConditionId": 100103,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000013,
+        "eventStoryId": 2,
+        "episodeNo": 5,
+        "title": "동족 혐오",
+        "assetbundleName": "event_jackpod_2020_05",
+        "scenarioId": "event_02_05",
+        "releaseConditionId": 100104,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000014,
+        "eventStoryId": 2,
+        "episodeNo": 6,
+        "title": "꿈꾸는 인형",
+        "assetbundleName": "event_jackpod_2020_06",
+        "scenarioId": "event_02_06",
+        "releaseConditionId": 100105,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000015,
+        "eventStoryId": 2,
+        "episodeNo": 7,
+        "title": "싫은 것도, 아픈 것도",
+        "assetbundleName": "event_jackpod_2020_07",
+        "scenarioId": "event_02_07",
+        "releaseConditionId": 100106,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000016,
+        "eventStoryId": 2,
+        "episodeNo": 8,
+        "title": "모르겠지만",
+        "assetbundleName": "event_jackpod_2020_08",
+        "scenarioId": "event_02_08",
+        "releaseConditionId": 100107,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "eventId": 3,
+    "assetbundleName": "event_potato_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000017,
+        "eventStoryId": 3,
+        "episodeNo": 1,
+        "title": "새로운 일상",
+        "assetbundleName": "event_potato_2020_01",
+        "scenarioId": "event_03_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000018,
+        "eventStoryId": 3,
+        "episodeNo": 2,
+        "title": "쇼 콘테스트!",
+        "assetbundleName": "event_potato_2020_02",
+        "scenarioId": "event_03_02",
+        "releaseConditionId": 100201,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000019,
+        "eventStoryId": 3,
+        "episodeNo": 3,
+        "title": "뜻밖의 무대 밑 공간",
+        "assetbundleName": "event_potato_2020_03",
+        "scenarioId": "event_03_03",
+        "releaseConditionId": 100202,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000020,
+        "eventStoryId": 3,
+        "episodeNo": 4,
+        "title": "보이지 않는 변화",
+        "assetbundleName": "event_potato_2020_04",
+        "scenarioId": "event_03_04",
+        "releaseConditionId": 100203,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000021,
+        "eventStoryId": 3,
+        "episodeNo": 5,
+        "title": "가장 좋은 연출을",
+        "assetbundleName": "event_potato_2020_05",
+        "scenarioId": "event_03_05",
+        "releaseConditionId": 100204,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000022,
+        "eventStoryId": 3,
+        "episodeNo": 6,
+        "title": "연기자와 연출가",
+        "assetbundleName": "event_potato_2020_06",
+        "scenarioId": "event_03_06",
+        "releaseConditionId": 100205,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000023,
+        "eventStoryId": 3,
+        "episodeNo": 7,
+        "title": "우리의 최선을 다해",
+        "assetbundleName": "event_potato_2020_07",
+        "scenarioId": "event_03_07",
+        "releaseConditionId": 100206,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000024,
+        "eventStoryId": 3,
+        "episodeNo": 8,
+        "title": "과자가 있든 없든",
+        "assetbundleName": "event_potato_2020_08",
+        "scenarioId": "event_03_08",
+        "releaseConditionId": 100207,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "eventId": 4,
+    "assetbundleName": "event_sportsfestival_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000025,
+        "eventStoryId": 4,
+        "episodeNo": 1,
+        "title": "실행 위원 제안",
+        "assetbundleName": "event_sportsfestival_2020_01",
+        "scenarioId": "event_04_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000026,
+        "eventStoryId": 4,
+        "episodeNo": 2,
+        "title": "잠깐 기다려~~~!",
+        "assetbundleName": "event_sportsfestival_2020_02",
+        "scenarioId": "event_04_02",
+        "releaseConditionId": 100301,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000027,
+        "eventStoryId": 4,
+        "episodeNo": 3,
+        "title": "행동 개시!",
+        "assetbundleName": "event_sportsfestival_2020_03",
+        "scenarioId": "event_04_03",
+        "releaseConditionId": 100302,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000028,
+        "eventStoryId": 4,
+        "episodeNo": 4,
+        "title": "선배와 함께",
+        "assetbundleName": "event_sportsfestival_2020_04",
+        "scenarioId": "event_04_04",
+        "releaseConditionId": 100303,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000029,
+        "eventStoryId": 4,
+        "episodeNo": 5,
+        "title": "세카이의 치어리더!",
+        "assetbundleName": "event_sportsfestival_2020_05",
+        "scenarioId": "event_04_05",
+        "releaseConditionId": 100304,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000030,
+        "eventStoryId": 4,
+        "episodeNo": 6,
+        "title": "바통을 이어",
+        "assetbundleName": "event_sportsfestival_2020_06",
+        "scenarioId": "event_04_06",
+        "releaseConditionId": 100305,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000031,
+        "eventStoryId": 4,
+        "episodeNo": 7,
+        "title": "축하 한가득",
+        "assetbundleName": "event_sportsfestival_2020_07",
+        "scenarioId": "event_04_07",
+        "releaseConditionId": 100306,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000032,
+        "eventStoryId": 4,
+        "episodeNo": 8,
+        "title": "내일 또 웃는 얼굴로",
+        "assetbundleName": "event_sportsfestival_2020_08",
+        "scenarioId": "event_04_08",
+        "releaseConditionId": 100307,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "eventId": 5,
+    "assetbundleName": "event_restart_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000033,
+        "eventStoryId": 5,
+        "episodeNo": 1,
+        "title": "나도 아이돌!",
+        "assetbundleName": "event_restart_2020_01",
+        "scenarioId": "event_05_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000034,
+        "eventStoryId": 5,
+        "episodeNo": 2,
+        "title": "넷이서 시작",
+        "assetbundleName": "event_restart_2020_02",
+        "scenarioId": "event_05_02",
+        "releaseConditionId": 100401,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000035,
+        "eventStoryId": 5,
+        "episodeNo": 3,
+        "title": "불온한 소문",
+        "assetbundleName": "event_restart_2020_03",
+        "scenarioId": "event_05_03",
+        "releaseConditionId": 100402,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000036,
+        "eventStoryId": 5,
+        "episodeNo": 4,
+        "title": "최종 수단",
+        "assetbundleName": "event_restart_2020_04",
+        "scenarioId": "event_05_04",
+        "releaseConditionId": 100403,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000037,
+        "eventStoryId": 5,
+        "episodeNo": 5,
+        "title": "이상과 현실",
+        "assetbundleName": "event_restart_2020_05",
+        "scenarioId": "event_05_05",
+        "releaseConditionId": 100404,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000038,
+        "eventStoryId": 5,
+        "episodeNo": 6,
+        "title": "언제나 웃는 얼굴로",
+        "assetbundleName": "event_restart_2020_06",
+        "scenarioId": "event_05_06",
+        "releaseConditionId": 100405,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000039,
+        "eventStoryId": 5,
+        "episodeNo": 7,
+        "title": "새로운 선택지",
+        "assetbundleName": "event_restart_2020_07",
+        "scenarioId": "event_05_07",
+        "releaseConditionId": 100406,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000040,
+        "eventStoryId": 5,
+        "episodeNo": 8,
+        "title": "우리가 선택하는 길",
+        "assetbundleName": "event_restart_2020_08",
+        "scenarioId": "event_05_08",
+        "releaseConditionId": 100407,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "eventId": 6,
+    "assetbundleName": "event_forward_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000041,
+        "eventStoryId": 6,
+        "episodeNo": 1,
+        "title": "'STAY GOLD'",
+        "assetbundleName": "event_forward_2020_01",
+        "scenarioId": "event_06_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000042,
+        "eventStoryId": 6,
+        "episodeNo": 2,
+        "title": "갑자기 사라진 목소리",
+        "assetbundleName": "event_forward_2020_02",
+        "scenarioId": "event_06_02",
+        "releaseConditionId": 100501,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000043,
+        "eventStoryId": 6,
+        "episodeNo": 3,
+        "title": "불협화음",
+        "assetbundleName": "event_forward_2020_03",
+        "scenarioId": "event_06_03",
+        "releaseConditionId": 100502,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000044,
+        "eventStoryId": 6,
+        "episodeNo": 4,
+        "title": "패배",
+        "assetbundleName": "event_forward_2020_04",
+        "scenarioId": "event_06_04",
+        "releaseConditionId": 100503,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000045,
+        "eventStoryId": 6,
+        "episodeNo": 5,
+        "title": "소꿉친구의 조언",
+        "assetbundleName": "event_forward_2020_05",
+        "scenarioId": "event_06_05",
+        "releaseConditionId": 100504,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000046,
+        "eventStoryId": 6,
+        "episodeNo": 6,
+        "title": "초보자끼리",
+        "assetbundleName": "event_forward_2020_06",
+        "scenarioId": "event_06_06",
+        "releaseConditionId": 100505,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000047,
+        "eventStoryId": 6,
+        "episodeNo": 7,
+        "title": "작은 한 걸음",
+        "assetbundleName": "event_forward_2020_07",
+        "scenarioId": "event_06_07",
+        "releaseConditionId": 100506,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000048,
+        "eventStoryId": 6,
+        "episodeNo": 8,
+        "title": "파트너가 되기 위해",
+        "assetbundleName": "event_forward_2020_08",
+        "scenarioId": "event_06_08",
+        "releaseConditionId": 100507,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  }
+]
