@@ -1,0 +1,828 @@
+{
+  "name": "應援！新春的世界",
+  "assetbundleName": "event_spring_2022",
+  "bgmAssetbundleName": "event/event_spring_2022/bgm/event_SpringFestival_2022_top",
+  "startAt": 1643511600000,
+  "aggregateAt": 1644235199000,
+  "closeAt": 1644505199000,
+  "liveScores": [
+    {
+      "liveType": "solo",
+      "score": 15
+    },
+    {
+      "liveType": "challenge_live",
+      "score": 30
+    },
+    {
+      "liveType": "multi_open",
+      "score": 25
+    },
+    {
+      "liveType": "multi_private",
+      "score": 25
+    },
+    {
+      "liveType": "cheerful_carnival_open",
+      "score": 25
+    },
+    {
+      "liveType": "cheerful_carnival_private",
+      "score": 25
+    }
+  ],
+  "unitScoreRewards": [
+    {
+      "id": 1,
+      "unit": "piapro",
+      "unitScore": 0,
+      "resourceBoxId": 1
+    },
+    {
+      "id": 2,
+      "unit": "piapro",
+      "unitScore": 2000000,
+      "resourceBoxId": 2
+    },
+    {
+      "id": 3,
+      "unit": "piapro",
+      "unitScore": 3900000,
+      "resourceBoxId": 3
+    },
+    {
+      "id": 4,
+      "unit": "piapro",
+      "unitScore": 5000000,
+      "resourceBoxId": 4
+    },
+    {
+      "id": 5,
+      "unit": "piapro",
+      "unitScore": 6660000,
+      "resourceBoxId": 5
+    },
+    {
+      "id": 6,
+      "unit": "piapro",
+      "unitScore": 8880000,
+      "resourceBoxId": 6
+    },
+    {
+      "id": 7,
+      "unit": "piapro",
+      "unitScore": 10000000,
+      "resourceBoxId": 7
+    },
+    {
+      "id": 8,
+      "unit": "theme_park",
+      "unitScore": 0,
+      "resourceBoxId": 8
+    },
+    {
+      "id": 9,
+      "unit": "theme_park",
+      "unitScore": 2000000,
+      "resourceBoxId": 9
+    },
+    {
+      "id": 10,
+      "unit": "theme_park",
+      "unitScore": 3900000,
+      "resourceBoxId": 10
+    },
+    {
+      "id": 11,
+      "unit": "theme_park",
+      "unitScore": 5000000,
+      "resourceBoxId": 11
+    },
+    {
+      "id": 12,
+      "unit": "theme_park",
+      "unitScore": 6660000,
+      "resourceBoxId": 12
+    },
+    {
+      "id": 13,
+      "unit": "theme_park",
+      "unitScore": 8880000,
+      "resourceBoxId": 13
+    },
+    {
+      "id": 14,
+      "unit": "theme_park",
+      "unitScore": 10000000,
+      "resourceBoxId": 14
+    },
+    {
+      "id": 15,
+      "unit": "idol",
+      "unitScore": 0,
+      "resourceBoxId": 15
+    },
+    {
+      "id": 16,
+      "unit": "idol",
+      "unitScore": 2000000,
+      "resourceBoxId": 16
+    },
+    {
+      "id": 17,
+      "unit": "idol",
+      "unitScore": 3900000,
+      "resourceBoxId": 17
+    },
+    {
+      "id": 18,
+      "unit": "idol",
+      "unitScore": 5000000,
+      "resourceBoxId": 18
+    },
+    {
+      "id": 19,
+      "unit": "idol",
+      "unitScore": 6660000,
+      "resourceBoxId": 19
+    },
+    {
+      "id": 20,
+      "unit": "idol",
+      "unitScore": 8880000,
+      "resourceBoxId": 20
+    },
+    {
+      "id": 21,
+      "unit": "idol",
+      "unitScore": 10000000,
+      "resourceBoxId": 21
+    },
+    {
+      "id": 22,
+      "unit": "street",
+      "unitScore": 0,
+      "resourceBoxId": 22
+    },
+    {
+      "id": 23,
+      "unit": "street",
+      "unitScore": 2000000,
+      "resourceBoxId": 23
+    },
+    {
+      "id": 24,
+      "unit": "street",
+      "unitScore": 3900000,
+      "resourceBoxId": 24
+    },
+    {
+      "id": 25,
+      "unit": "street",
+      "unitScore": 5000000,
+      "resourceBoxId": 25
+    },
+    {
+      "id": 26,
+      "unit": "street",
+      "unitScore": 6660000,
+      "resourceBoxId": 26
+    },
+    {
+      "id": 27,
+      "unit": "street",
+      "unitScore": 8880000,
+      "resourceBoxId": 27
+    },
+    {
+      "id": 28,
+      "unit": "street",
+      "unitScore": 10000000,
+      "resourceBoxId": 28
+    },
+    {
+      "id": 29,
+      "unit": "light_sound",
+      "unitScore": 0,
+      "resourceBoxId": 29
+    },
+    {
+      "id": 30,
+      "unit": "light_sound",
+      "unitScore": 2000000,
+      "resourceBoxId": 30
+    },
+    {
+      "id": 31,
+      "unit": "light_sound",
+      "unitScore": 3900000,
+      "resourceBoxId": 31
+    },
+    {
+      "id": 32,
+      "unit": "light_sound",
+      "unitScore": 5000000,
+      "resourceBoxId": 32
+    },
+    {
+      "id": 33,
+      "unit": "light_sound",
+      "unitScore": 6660000,
+      "resourceBoxId": 33
+    },
+    {
+      "id": 34,
+      "unit": "light_sound",
+      "unitScore": 8880000,
+      "resourceBoxId": 34
+    },
+    {
+      "id": 35,
+      "unit": "light_sound",
+      "unitScore": 10000000,
+      "resourceBoxId": 35
+    },
+    {
+      "id": 36,
+      "unit": "school_refusal",
+      "unitScore": 0,
+      "resourceBoxId": 36
+    },
+    {
+      "id": 37,
+      "unit": "school_refusal",
+      "unitScore": 2000000,
+      "resourceBoxId": 37
+    },
+    {
+      "id": 38,
+      "unit": "school_refusal",
+      "unitScore": 3900000,
+      "resourceBoxId": 38
+    },
+    {
+      "id": 39,
+      "unit": "school_refusal",
+      "unitScore": 5000000,
+      "resourceBoxId": 39
+    },
+    {
+      "id": 40,
+      "unit": "school_refusal",
+      "unitScore": 6660000,
+      "resourceBoxId": 40
+    },
+    {
+      "id": 41,
+      "unit": "school_refusal",
+      "unitScore": 8880000,
+      "resourceBoxId": 41
+    },
+    {
+      "id": 42,
+      "unit": "school_refusal",
+      "unitScore": 10000000,
+      "resourceBoxId": 42
+    }
+  ],
+  "rankingRewards": [
+    {
+      "unit": "piapro",
+      "fromRank": 1,
+      "toRank": 10,
+      "resourceBoxId": 1
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 11,
+      "toRank": 50,
+      "resourceBoxId": 2
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 51,
+      "toRank": 100,
+      "resourceBoxId": 3
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 101,
+      "toRank": 200,
+      "resourceBoxId": 4
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 201,
+      "toRank": 300,
+      "resourceBoxId": 5
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 301,
+      "toRank": 400,
+      "resourceBoxId": 6
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 401,
+      "toRank": 500,
+      "resourceBoxId": 7
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 501,
+      "toRank": 1000,
+      "resourceBoxId": 8
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 1001,
+      "toRank": 2000,
+      "resourceBoxId": 9
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 2001,
+      "toRank": 3000,
+      "resourceBoxId": 10
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 3001,
+      "toRank": 5000,
+      "resourceBoxId": 11
+    },
+    {
+      "unit": "piapro",
+      "fromRank": 5001,
+      "toRank": 10000,
+      "resourceBoxId": 12
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 1,
+      "toRank": 10,
+      "resourceBoxId": 13
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 11,
+      "toRank": 50,
+      "resourceBoxId": 14
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 51,
+      "toRank": 100,
+      "resourceBoxId": 15
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 101,
+      "toRank": 200,
+      "resourceBoxId": 16
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 201,
+      "toRank": 300,
+      "resourceBoxId": 17
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 301,
+      "toRank": 400,
+      "resourceBoxId": 18
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 401,
+      "toRank": 500,
+      "resourceBoxId": 19
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 501,
+      "toRank": 1000,
+      "resourceBoxId": 20
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 1001,
+      "toRank": 2000,
+      "resourceBoxId": 21
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 2001,
+      "toRank": 3000,
+      "resourceBoxId": 22
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 3001,
+      "toRank": 5000,
+      "resourceBoxId": 23
+    },
+    {
+      "unit": "theme_park",
+      "fromRank": 5001,
+      "toRank": 10000,
+      "resourceBoxId": 24
+    },
+    {
+      "unit": "idol",
+      "fromRank": 1,
+      "toRank": 10,
+      "resourceBoxId": 25
+    },
+    {
+      "unit": "idol",
+      "fromRank": 11,
+      "toRank": 50,
+      "resourceBoxId": 26
+    },
+    {
+      "unit": "idol",
+      "fromRank": 51,
+      "toRank": 100,
+      "resourceBoxId": 27
+    },
+    {
+      "unit": "idol",
+      "fromRank": 101,
+      "toRank": 200,
+      "resourceBoxId": 28
+    },
+    {
+      "unit": "idol",
+      "fromRank": 201,
+      "toRank": 300,
+      "resourceBoxId": 29
+    },
+    {
+      "unit": "idol",
+      "fromRank": 301,
+      "toRank": 400,
+      "resourceBoxId": 30
+    },
+    {
+      "unit": "idol",
+      "fromRank": 401,
+      "toRank": 500,
+      "resourceBoxId": 31
+    },
+    {
+      "unit": "idol",
+      "fromRank": 501,
+      "toRank": 1000,
+      "resourceBoxId": 32
+    },
+    {
+      "unit": "idol",
+      "fromRank": 1001,
+      "toRank": 2000,
+      "resourceBoxId": 33
+    },
+    {
+      "unit": "idol",
+      "fromRank": 2001,
+      "toRank": 3000,
+      "resourceBoxId": 34
+    },
+    {
+      "unit": "idol",
+      "fromRank": 3001,
+      "toRank": 5000,
+      "resourceBoxId": 35
+    },
+    {
+      "unit": "idol",
+      "fromRank": 5001,
+      "toRank": 10000,
+      "resourceBoxId": 36
+    },
+    {
+      "unit": "street",
+      "fromRank": 1,
+      "toRank": 10,
+      "resourceBoxId": 37
+    },
+    {
+      "unit": "street",
+      "fromRank": 11,
+      "toRank": 50,
+      "resourceBoxId": 38
+    },
+    {
+      "unit": "street",
+      "fromRank": 51,
+      "toRank": 100,
+      "resourceBoxId": 39
+    },
+    {
+      "unit": "street",
+      "fromRank": 101,
+      "toRank": 200,
+      "resourceBoxId": 40
+    },
+    {
+      "unit": "street",
+      "fromRank": 201,
+      "toRank": 300,
+      "resourceBoxId": 41
+    },
+    {
+      "unit": "street",
+      "fromRank": 301,
+      "toRank": 400,
+      "resourceBoxId": 42
+    },
+    {
+      "unit": "street",
+      "fromRank": 401,
+      "toRank": 500,
+      "resourceBoxId": 43
+    },
+    {
+      "unit": "street",
+      "fromRank": 501,
+      "toRank": 1000,
+      "resourceBoxId": 44
+    },
+    {
+      "unit": "street",
+      "fromRank": 1001,
+      "toRank": 2000,
+      "resourceBoxId": 45
+    },
+    {
+      "unit": "street",
+      "fromRank": 2001,
+      "toRank": 3000,
+      "resourceBoxId": 46
+    },
+    {
+      "unit": "street",
+      "fromRank": 3001,
+      "toRank": 5000,
+      "resourceBoxId": 47
+    },
+    {
+      "unit": "street",
+      "fromRank": 5001,
+      "toRank": 10000,
+      "resourceBoxId": 48
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 1,
+      "toRank": 10,
+      "resourceBoxId": 49
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 11,
+      "toRank": 50,
+      "resourceBoxId": 50
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 51,
+      "toRank": 100,
+      "resourceBoxId": 51
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 101,
+      "toRank": 200,
+      "resourceBoxId": 52
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 201,
+      "toRank": 300,
+      "resourceBoxId": 53
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 301,
+      "toRank": 400,
+      "resourceBoxId": 54
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 401,
+      "toRank": 500,
+      "resourceBoxId": 55
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 501,
+      "toRank": 1000,
+      "resourceBoxId": 56
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 1001,
+      "toRank": 2000,
+      "resourceBoxId": 57
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 2001,
+      "toRank": 3000,
+      "resourceBoxId": 58
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 3001,
+      "toRank": 5000,
+      "resourceBoxId": 59
+    },
+    {
+      "unit": "light_sound",
+      "fromRank": 5001,
+      "toRank": 10000,
+      "resourceBoxId": 60
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 1,
+      "toRank": 10,
+      "resourceBoxId": 61
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 11,
+      "toRank": 50,
+      "resourceBoxId": 62
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 51,
+      "toRank": 100,
+      "resourceBoxId": 63
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 101,
+      "toRank": 200,
+      "resourceBoxId": 64
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 201,
+      "toRank": 300,
+      "resourceBoxId": 65
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 301,
+      "toRank": 400,
+      "resourceBoxId": 66
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 401,
+      "toRank": 500,
+      "resourceBoxId": 67
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 501,
+      "toRank": 1000,
+      "resourceBoxId": 68
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 1001,
+      "toRank": 2000,
+      "resourceBoxId": 69
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 2001,
+      "toRank": 3000,
+      "resourceBoxId": 70
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 3001,
+      "toRank": 5000,
+      "resourceBoxId": 71
+    },
+    {
+      "unit": "school_refusal",
+      "fromRank": 5001,
+      "toRank": 10000,
+      "resourceBoxId": 72
+    }
+  ],
+  "unitCharacter3ds": [
+    {
+      "character3dId": 1,
+      "unit": "light_sound"
+    },
+    {
+      "character3dId": 2,
+      "unit": "light_sound"
+    },
+    {
+      "character3dId": 3,
+      "unit": "light_sound"
+    },
+    {
+      "character3dId": 4,
+      "unit": "light_sound"
+    },
+    {
+      "character3dId": 5,
+      "unit": "idol"
+    },
+    {
+      "character3dId": 6,
+      "unit": "idol"
+    },
+    {
+      "character3dId": 7,
+      "unit": "idol"
+    },
+    {
+      "character3dId": 8,
+      "unit": "idol"
+    },
+    {
+      "character3dId": 9,
+      "unit": "street"
+    },
+    {
+      "character3dId": 10,
+      "unit": "street"
+    },
+    {
+      "character3dId": 11,
+      "unit": "street"
+    },
+    {
+      "character3dId": 12,
+      "unit": "street"
+    },
+    {
+      "character3dId": 13,
+      "unit": "theme_park"
+    },
+    {
+      "character3dId": 14,
+      "unit": "theme_park"
+    },
+    {
+      "character3dId": 15,
+      "unit": "theme_park"
+    },
+    {
+      "character3dId": 16,
+      "unit": "theme_park"
+    },
+    {
+      "character3dId": 17,
+      "unit": "school_refusal"
+    },
+    {
+      "character3dId": 18,
+      "unit": "school_refusal"
+    },
+    {
+      "character3dId": 19,
+      "unit": "school_refusal"
+    },
+    {
+      "character3dId": 20,
+      "unit": "school_refusal"
+    },
+    {
+      "character3dId": 21,
+      "unit": "piapro"
+    },
+    {
+      "character3dId": 27,
+      "unit": "piapro"
+    },
+    {
+      "character3dId": 28,
+      "unit": "piapro"
+    },
+    {
+      "character3dId": 29,
+      "unit": "piapro"
+    },
+    {
+      "character3dId": 30,
+      "unit": "piapro"
+    },
+    {
+      "character3dId": 31,
+      "unit": "piapro"
+    }
+  ]
+}
