@@ -12029,7 +12029,7 @@
         "resourceBoxPurpose": "billing_shop_item_bonus",
         "resourceBoxId": 1125,
         "seq": 2,
-        "resourceType": "practice_ticket",
+        "resourceType": "skill_practice_ticket",
         "resourceId": 3,
         "resourceQuantity": 2
       },
@@ -72661,6 +72661,36 @@
         "resourceType": "material",
         "resourceId": 13,
         "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 10034,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 10034,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 3000
+      },
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 10034,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 11,
+        "resourceQuantity": 300
+      },
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 10034,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 12,
+        "resourceQuantity": 30
       }
     ]
   },
