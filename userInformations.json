@@ -619,7 +619,8 @@
     "title": " '전력! 원더 핼러윈!' 이벤트 개최 예정 안내",
     "path": "https://act.sgsnssdk.com/gms/b0e75d1794/?from_source=h5",
     "startAt": 1654408800000,
-    "endAt": 1663048800000
+    "endAt": 1663048800000,
+    "bannerAssetbundleName": "event_potato_2020"
   },
   {
     "id": 48,
@@ -645,7 +646,8 @@
     "title": " '젠틀★ 포테이토 스타 뽑기' 진행! ",
     "path": "https://act.sgsnssdk.com/gms/b5ce4d9e42/?from_source=h5",
     "startAt": 1654495200000,
-    "endAt": 1663135200000
+    "endAt": 1663135200000,
+    "bannerAssetbundleName": "banner_gacha6"
   },
   {
     "id": 50,
@@ -711,5 +713,150 @@
     "path": "https://act.sgsnssdk.com/gms/8260bfb2a0/?from_source=h5",
     "startAt": 1654398000000,
     "endAt": 1663038000000
+  },
+  {
+    "id": 55,
+    "seq": 70,
+    "displayOrder": 1654585200,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 일부 악곡 난이도 조정 관련 공지",
+    "path": "https://act.sgsnssdk.com/gms/019b6dfdfc/?from_source=h5",
+    "startAt": 1654581600000,
+    "endAt": 1663221600000
+  },
+  {
+    "id": 56,
+    "seq": 70,
+    "displayOrder": 1654671600,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " '이벤트 멤버 출현 확률 UP 뽑기' 진행!",
+    "path": "https://act.sgsnssdk.com/gms/87a6af0a4b/?from_source=h5",
+    "startAt": 1654668000000,
+    "endAt": 1663308000000
+  },
+  {
+    "id": 57,
+    "seq": 70,
+    "displayOrder": 1654758000,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 악곡 'Positive☆Dance Time' 추가!",
+    "path": "https://act.sgsnssdk.com/gms/0e3772d358/?from_source=h5",
+    "startAt": 1654754400000,
+    "endAt": 1663394400000
+  },
+  {
+    "id": 58,
+    "seq": 70,
+    "displayOrder": 1654844400,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 악곡 'Hitorinbo Envy' 추가!",
+    "path": "https://act.sgsnssdk.com/gms/3fc13adc49/?from_source=h5",
+    "startAt": 1654840800000,
+    "endAt": 1663480800000
+  },
+  {
+    "id": 59,
+    "seq": 70,
+    "displayOrder": 1654930800,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 악곡 'Greenlights Serenade' 추가!",
+    "path": "https://act.sgsnssdk.com/gms/a261ab92fd/?from_source=h5",
+    "startAt": 1654927200000,
+    "endAt": 1663567200000
+  },
+  {
+    "id": 60,
+    "seq": 70,
+    "displayOrder": 1655042700,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 악곡 'Becoming Potatoes' 추가!",
+    "path": "https://act.sgsnssdk.com/gms/ac1c4f6fe3/?from_source=h5",
+    "startAt": 1655039100000,
+    "endAt": 1663679100000
+  },
+  {
+    "id": 61,
+    "seq": 70,
+    "displayOrder": 1655103600,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 악곡 'The World is Mine' 추가!",
+    "path": "https://act.sgsnssdk.com/gms/c4ab6f00d6/?from_source=h5",
+    "startAt": 1655100000000,
+    "endAt": 1663740000000
+  },
+  {
+    "id": 62,
+    "seq": 70,
+    "displayOrder": 1655103600,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " '달려라! 운동회! ~바쁜 실행 위원~' 이벤트 개최 예정 안내",
+    "path": "https://act.sgsnssdk.com/gms/ff9f4635cd/?from_source=h5",
+    "startAt": 1655100000000,
+    "endAt": 1663740000000,
+    "bannerAssetbundleName": "event_sportsfestival_2020"
+  },
+  {
+    "id": 63,
+    "seq": 70,
+    "displayOrder": 1655190000,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 악곡 'Ifuudoudou' 추가!",
+    "path": "https://act.sgsnssdk.com/gms/5a0cdac346/?from_source=h5",
+    "startAt": 1655186400000,
+    "endAt": 1663826400000
+  },
+  {
+    "id": 64,
+    "seq": 70,
+    "displayOrder": 1655190000,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " '생기발랄♪ 응원단 뽑기' 진행!",
+    "path": "https://act.sgsnssdk.com/gms/a0d5ca0184/?from_source=h5",
+    "startAt": 1655186400000,
+    "endAt": 1663826400000,
+    "bannerAssetbundleName": "banner_gacha9"
+  },
+  {
+    "id": 65,
+    "seq": 70,
+    "displayOrder": 1655276400,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": " 악곡 'Dramaturgy' 추가!",
+    "path": "https://act.sgsnssdk.com/gms/b9d123c443/?from_source=h5",
+    "startAt": 1655272800000,
+    "endAt": 1663912800000
   }
 ]
