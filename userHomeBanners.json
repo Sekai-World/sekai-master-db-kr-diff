@@ -32,26 +32,37 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 11,
+    "homeBannerId": 13,
     "seq": 40,
     "homeBannerType": "event",
     "name": "배너",
-    "assetbundleName": "event_jackpod_2020",
+    "assetbundleName": "event_potato_2020",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 2,
-    "startAt": 1653804000000,
-    "endAt": 1654495199000
+    "transitionDestinationId": 3,
+    "startAt": 1654495200000,
+    "endAt": 1655186399000
   },
   {
-    "homeBannerId": 12,
+    "homeBannerId": 14,
     "seq": 50,
     "homeBannerType": "general",
     "name": "배너",
-    "assetbundleName": "banner_gacha5",
+    "assetbundleName": "banner_gacha6",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 5,
-    "startAt": 1653804000000,
-    "endAt": 1654495199000
+    "transitionDestinationId": 6,
+    "startAt": 1654495200000,
+    "endAt": 1655186399000
+  },
+  {
+    "homeBannerId": 15,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha8",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 8,
+    "startAt": 1654668000000,
+    "endAt": 1655035199000
   },
   {
     "homeBannerId": 27,
