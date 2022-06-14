@@ -464,7 +464,7 @@
         "id": 1000030,
         "eventStoryId": 4,
         "episodeNo": 6,
-        "title": "바통을 이어",
+        "title": "배턴을 이어",
         "assetbundleName": "event_sportsfestival_2020_06",
         "scenarioId": "event_04_06",
         "releaseConditionId": 100305,
@@ -752,6 +752,940 @@
         "assetbundleName": "event_forward_2020_08",
         "scenarioId": "event_06_08",
         "releaseConditionId": 100507,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "eventId": 7,
+    "assetbundleName": "event_culturalfestival_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000049,
+        "eventStoryId": 7,
+        "episodeNo": 1,
+        "title": "나 그리고 학교 축제",
+        "assetbundleName": "event_culturalfestival_2020_01",
+        "scenarioId": "event_07_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000050,
+        "eventStoryId": 7,
+        "episodeNo": 2,
+        "title": "동생 발견!",
+        "assetbundleName": "event_culturalfestival_2020_02",
+        "scenarioId": "event_07_02",
+        "releaseConditionId": 100601,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000051,
+        "eventStoryId": 7,
+        "episodeNo": 3,
+        "title": "연극을 보러 가자!",
+        "assetbundleName": "event_culturalfestival_2020_03",
+        "scenarioId": "event_07_03",
+        "releaseConditionId": 100602,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000052,
+        "eventStoryId": 7,
+        "episodeNo": 4,
+        "title": "선배를 찾자!",
+        "assetbundleName": "event_culturalfestival_2020_04",
+        "scenarioId": "event_07_04",
+        "releaseConditionId": 100603,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000053,
+        "eventStoryId": 7,
+        "episodeNo": 5,
+        "title": "반 티셔츠",
+        "assetbundleName": "event_culturalfestival_2020_05",
+        "scenarioId": "event_07_05",
+        "releaseConditionId": 100604,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000054,
+        "eventStoryId": 7,
+        "episodeNo": 6,
+        "title": "언젠가의 학교 축제",
+        "assetbundleName": "event_culturalfestival_2020_06",
+        "scenarioId": "event_07_06",
+        "releaseConditionId": 100605,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000055,
+        "eventStoryId": 7,
+        "episodeNo": 7,
+        "title": "단둘이 옥상에서",
+        "assetbundleName": "event_culturalfestival_2020_07",
+        "scenarioId": "event_07_07",
+        "releaseConditionId": 100606,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000056,
+        "eventStoryId": 7,
+        "episodeNo": 8,
+        "title": "나의 학교 축제",
+        "assetbundleName": "event_culturalfestival_2020_08",
+        "scenarioId": "event_07_08",
+        "releaseConditionId": 100607,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "eventId": 8,
+    "assetbundleName": "event_nijiiro_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000057,
+        "eventStoryId": 8,
+        "episodeNo": 1,
+        "title": "'스마일링 크리스마스'",
+        "assetbundleName": "event_nijiiro_2020_01",
+        "scenarioId": "event_08_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000058,
+        "eventStoryId": 8,
+        "episodeNo": 2,
+        "title": "정찰! 피닉스 스테이지",
+        "assetbundleName": "event_nijiiro_2020_02",
+        "scenarioId": "event_08_02",
+        "releaseConditionId": 100701,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000059,
+        "eventStoryId": 8,
+        "episodeNo": 3,
+        "title": "그런 식으로는",
+        "assetbundleName": "event_nijiiro_2020_03",
+        "scenarioId": "event_08_03",
+        "releaseConditionId": 100702,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000060,
+        "eventStoryId": 8,
+        "episodeNo": 4,
+        "title": "과거의 내 창법",
+        "assetbundleName": "event_nijiiro_2020_04",
+        "scenarioId": "event_08_04",
+        "releaseConditionId": 100703,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000061,
+        "eventStoryId": 8,
+        "episodeNo": 5,
+        "title": "그날 본 쇼",
+        "assetbundleName": "event_nijiiro_2020_05",
+        "scenarioId": "event_08_05",
+        "releaseConditionId": 100704,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000062,
+        "eventStoryId": 8,
+        "episodeNo": 6,
+        "title": "마법을 걸어",
+        "assetbundleName": "event_nijiiro_2020_06",
+        "scenarioId": "event_08_06",
+        "releaseConditionId": 100705,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000063,
+        "eventStoryId": 8,
+        "episodeNo": 7,
+        "title": "세카이의 새 단원?!",
+        "assetbundleName": "event_nijiiro_2020_07",
+        "scenarioId": "event_08_07",
+        "releaseConditionId": 100706,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000064,
+        "eventStoryId": 8,
+        "episodeNo": 8,
+        "title": "메리 크리스마스!",
+        "assetbundleName": "event_nijiiro_2020_08",
+        "scenarioId": "event_08_08",
+        "releaseConditionId": 100707,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "eventId": 9,
+    "assetbundleName": "event_newyear_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000065,
+        "eventStoryId": 9,
+        "episodeNo": 1,
+        "title": "세카이의 틈새에서",
+        "assetbundleName": "event_newyear_2020_01",
+        "scenarioId": "event_09_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000066,
+        "eventStoryId": 9,
+        "episodeNo": 2,
+        "title": "한 해의 마지막 날을 보내는 법",
+        "assetbundleName": "event_newyear_2020_02",
+        "scenarioId": "event_09_02",
+        "releaseConditionId": 100801,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000067,
+        "eventStoryId": 9,
+        "episodeNo": 3,
+        "title": "카운트다운 파티!",
+        "assetbundleName": "event_newyear_2020_03",
+        "scenarioId": "event_09_03",
+        "releaseConditionId": 100802,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000068,
+        "eventStoryId": 9,
+        "episodeNo": 4,
+        "title": "아이돌의 새해♪",
+        "assetbundleName": "event_newyear_2020_04",
+        "scenarioId": "event_09_04",
+        "releaseConditionId": 100803,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000069,
+        "eventStoryId": 9,
+        "episodeNo": 5,
+        "title": "가끔은 느긋하게",
+        "assetbundleName": "event_newyear_2020_05",
+        "scenarioId": "event_09_05",
+        "releaseConditionId": 100804,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000070,
+        "eventStoryId": 9,
+        "episodeNo": 6,
+        "title": "하네츠키 대결!",
+        "assetbundleName": "event_newyear_2020_06",
+        "scenarioId": "event_09_06",
+        "releaseConditionId": 100805,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000071,
+        "eventStoryId": 9,
+        "episodeNo": 7,
+        "title": "최강 팀 등장?",
+        "assetbundleName": "event_newyear_2020_07",
+        "scenarioId": "event_09_07",
+        "releaseConditionId": 100806,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000072,
+        "eventStoryId": 9,
+        "episodeNo": 8,
+        "title": "사자춤 로봇과 놀자!",
+        "assetbundleName": "event_newyear_2020_08",
+        "scenarioId": "event_09_08",
+        "releaseConditionId": 100807,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000073,
+        "eventStoryId": 9,
+        "episodeNo": 9,
+        "title": "사자춤 로봇 포획 대작전!",
+        "assetbundleName": "event_newyear_2020_09",
+        "scenarioId": "event_09_09",
+        "releaseConditionId": 100808,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000074,
+        "eventStoryId": 9,
+        "episodeNo": 10,
+        "title": "미쿠와 함께 새해맞이",
+        "assetbundleName": "event_newyear_2020_10",
+        "scenarioId": "event_09_10",
+        "releaseConditionId": 100809,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000075,
+        "eventStoryId": 9,
+        "episodeNo": 11,
+        "title": "올해도, 내년도",
+        "assetbundleName": "event_newyear_2020_11",
+        "scenarioId": "event_09_11",
+        "releaseConditionId": 100810,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "eventId": 10,
+    "assetbundleName": "event_hareomatsu_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000076,
+        "eventStoryId": 10,
+        "episodeNo": 1,
+        "title": "또 한 명의 선배",
+        "assetbundleName": "event_hareomatsu_2021_01",
+        "scenarioId": "event_10_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000077,
+        "eventStoryId": 10,
+        "episodeNo": 2,
+        "title": "밴드의 기둥",
+        "assetbundleName": "event_hareomatsu_2021_02",
+        "scenarioId": "event_10_02",
+        "releaseConditionId": 100901,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000078,
+        "eventStoryId": 10,
+        "episodeNo": 3,
+        "title": "파란만장한 합창 대회?!",
+        "assetbundleName": "event_hareomatsu_2021_03",
+        "scenarioId": "event_10_03",
+        "releaseConditionId": 100902,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000079,
+        "eventStoryId": 10,
+        "episodeNo": 4,
+        "title": "흔들리는 마음",
+        "assetbundleName": "event_hareomatsu_2021_04",
+        "scenarioId": "event_10_04",
+        "releaseConditionId": 100903,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000080,
+        "eventStoryId": 10,
+        "episodeNo": 5,
+        "title": "상냥함과 용기",
+        "assetbundleName": "event_hareomatsu_2021_05",
+        "scenarioId": "event_10_05",
+        "releaseConditionId": 100904,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000081,
+        "eventStoryId": 10,
+        "episodeNo": 6,
+        "title": "내가 할 수 있는 일",
+        "assetbundleName": "event_hareomatsu_2021_06",
+        "scenarioId": "event_10_06",
+        "releaseConditionId": 100905,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000082,
+        "eventStoryId": 10,
+        "episodeNo": 7,
+        "title": "한 걸음 앞으로",
+        "assetbundleName": "event_hareomatsu_2021_07",
+        "scenarioId": "event_10_07",
+        "releaseConditionId": 100906,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000083,
+        "eventStoryId": 10,
+        "episodeNo": 8,
+        "title": "빛을 가슴에 품고",
+        "assetbundleName": "event_hareomatsu_2021_08",
+        "scenarioId": "event_10_08",
+        "releaseConditionId": 100907,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "eventId": 12,
+    "assetbundleName": "event_nocturne_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000092,
+        "eventStoryId": 12,
+        "episodeNo": 1,
+        "title": "오선보는 엇갈리지 않아",
+        "assetbundleName": "event_nocturne_2021_01",
+        "scenarioId": "event_12_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000093,
+        "eventStoryId": 12,
+        "episodeNo": 2,
+        "title": "얽매인 선율",
+        "assetbundleName": "event_nocturne_2021_02",
+        "scenarioId": "event_12_02",
+        "releaseConditionId": 101101,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000094,
+        "eventStoryId": 12,
+        "episodeNo": 3,
+        "title": "부족한 것",
+        "assetbundleName": "event_nocturne_2021_03",
+        "scenarioId": "event_12_03",
+        "releaseConditionId": 101102,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000095,
+        "eventStoryId": 12,
+        "episodeNo": 4,
+        "title": "닿지 않는 말",
+        "assetbundleName": "event_nocturne_2021_04",
+        "scenarioId": "event_12_04",
+        "releaseConditionId": 101103,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000096,
+        "eventStoryId": 12,
+        "episodeNo": 5,
+        "title": "서로가 믿는 것",
+        "assetbundleName": "event_nocturne_2021_05",
+        "scenarioId": "event_12_05",
+        "releaseConditionId": 101104,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000097,
+        "eventStoryId": 12,
+        "episodeNo": 6,
+        "title": "힘을 주는 말",
+        "assetbundleName": "event_nocturne_2021_06",
+        "scenarioId": "event_12_06",
+        "releaseConditionId": 101105,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000098,
+        "eventStoryId": 12,
+        "episodeNo": 7,
+        "title": "밤의 막을 내리는 칸타빌레",
+        "assetbundleName": "event_nocturne_2021_07",
+        "scenarioId": "event_12_07",
+        "releaseConditionId": 101106,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000099,
+        "eventStoryId": 12,
+        "episodeNo": 8,
+        "title": "그 손으로 붙잡은 빛",
+        "assetbundleName": "event_nocturne_2021_08",
+        "scenarioId": "event_12_08",
+        "releaseConditionId": 101107,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "eventId": 13,
+    "assetbundleName": "event_parade_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000100,
+        "eventStoryId": 13,
+        "episodeNo": 1,
+        "title": "정할 수 없는 선택",
+        "assetbundleName": "event_parade_2021_01",
+        "scenarioId": "event_13_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000101,
+        "eventStoryId": 13,
+        "episodeNo": 2,
+        "title": "교차하는 만남",
+        "assetbundleName": "event_parade_2021_02",
+        "scenarioId": "event_13_02",
+        "releaseConditionId": 101201,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000102,
+        "eventStoryId": 13,
+        "episodeNo": 3,
+        "title": "처음 뵙겠습니다?! 원더호이!",
+        "assetbundleName": "event_parade_2021_03",
+        "scenarioId": "event_13_03",
+        "releaseConditionId": 101202,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000103,
+        "eventStoryId": 13,
+        "episodeNo": 4,
+        "title": "웃을 수 있는 곳",
+        "assetbundleName": "event_parade_2021_04",
+        "scenarioId": "event_13_04",
+        "releaseConditionId": 101203,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000104,
+        "eventStoryId": 13,
+        "episodeNo": 5,
+        "title": "추억을 만들자!",
+        "assetbundleName": "event_parade_2021_05",
+        "scenarioId": "event_13_05",
+        "releaseConditionId": 101204,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000105,
+        "eventStoryId": 13,
+        "episodeNo": 6,
+        "title": "이 노래로 미소 짓도록",
+        "assetbundleName": "event_parade_2021_06",
+        "scenarioId": "event_13_06",
+        "releaseConditionId": 101205,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000106,
+        "eventStoryId": 13,
+        "episodeNo": 7,
+        "title": "내가 이곳에 있는 이유",
+        "assetbundleName": "event_parade_2021_07",
+        "scenarioId": "event_13_07",
+        "releaseConditionId": 101206,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000107,
+        "eventStoryId": 13,
+        "episodeNo": 8,
+        "title": "커져가는 고민",
+        "assetbundleName": "event_parade_2021_08",
+        "scenarioId": "event_13_08",
+        "releaseConditionId": 101207,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "eventId": 14,
+    "assetbundleName": "event_infinitelygray_2021",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000108,
+        "eventStoryId": 14,
+        "episodeNo": 1,
+        "title": "채워지지 않는 마음",
+        "assetbundleName": "event_infinitelygray_2021_01",
+        "scenarioId": "event_14_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000109,
+        "eventStoryId": 14,
+        "episodeNo": 2,
+        "title": "갚아 주겠어",
+        "assetbundleName": "event_infinitelygray_2021_02",
+        "scenarioId": "event_14_02",
+        "releaseConditionId": 101301,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000110,
+        "eventStoryId": 14,
+        "episodeNo": 3,
+        "title": "평범한 사람",
+        "assetbundleName": "event_infinitelygray_2021_03",
+        "scenarioId": "event_14_03",
+        "releaseConditionId": 101302,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000111,
+        "eventStoryId": 14,
+        "episodeNo": 4,
+        "title": "혼자만의 세카이",
+        "assetbundleName": "event_infinitelygray_2021_04",
+        "scenarioId": "event_14_04",
+        "releaseConditionId": 101303,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000112,
+        "eventStoryId": 14,
+        "episodeNo": 5,
+        "title": "힘이 되고 싶어",
+        "assetbundleName": "event_infinitelygray_2021_05",
+        "scenarioId": "event_14_05",
+        "releaseConditionId": 101304,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000113,
+        "eventStoryId": 14,
+        "episodeNo": 6,
+        "title": "가장 중요한 것은",
+        "assetbundleName": "event_infinitelygray_2021_06",
+        "scenarioId": "event_14_06",
+        "releaseConditionId": 101305,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000114,
+        "eventStoryId": 14,
+        "episodeNo": 7,
+        "title": "인정받고 싶다면",
+        "assetbundleName": "event_infinitelygray_2021_07",
+        "scenarioId": "event_14_07",
+        "releaseConditionId": 101306,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000115,
+        "eventStoryId": 14,
+        "episodeNo": 8,
+        "title": "내가 그림을 그리는 이유",
+        "assetbundleName": "event_infinitelygray_2021_08",
+        "scenarioId": "event_14_08",
+        "releaseConditionId": 101307,
         "episodeRewards": [
           {
             "storyType": "event_story",
