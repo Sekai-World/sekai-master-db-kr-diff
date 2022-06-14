@@ -602,6 +602,70 @@
     ]
   },
   {
+    "id": 12,
+    "seq": 12,
+    "name": "제7회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 64,
+        "virtualShopId": 12,
+        "virtualShopItemType": "penlight",
+        "seq": 199979,
+        "resourceBoxId": 65,
+        "costPaidJewel": 1000,
+        "startAt": 1657951200000
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 19,
+    "name": "제10회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 74,
+        "virtualShopId": 19,
+        "virtualShopItemType": "penlight",
+        "seq": 199978,
+        "resourceBoxId": 74,
+        "costPaidJewel": 1000,
+        "startAt": 1659333600000
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "seq": 23,
+    "name": "제12회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 78,
+        "virtualShopId": 23,
+        "virtualShopItemType": "penlight",
+        "seq": 199976,
+        "resourceBoxId": 78,
+        "costPaidJewel": 1000,
+        "startAt": 1660024800000
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "seq": 27,
+    "name": "제14회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 82,
+        "virtualShopId": 27,
+        "virtualShopItemType": "penlight",
+        "seq": 199975,
+        "resourceBoxId": 83,
+        "costPaidJewel": 1000,
+        "startAt": 1661407200000
+      }
+    ]
+  },
+  {
     "id": 44,
     "seq": 44,
     "name": "토우야 BIRTHDAY",
@@ -632,6 +696,109 @@
         "costPaidJewel": 1000,
         "startAt": 1655877600000,
         "endAt": 1656136799000
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "seq": 50,
+    "name": "칠석 라이브",
+    "virtualShopItems": [
+      {
+        "id": 110,
+        "virtualShopId": 50,
+        "virtualShopItemType": "accessory",
+        "seq": 99972,
+        "resourceBoxId": 110,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1659420000000,
+        "endAt": 1659765599000
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "seq": 52,
+    "name": "네네 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 112,
+        "virtualShopId": 52,
+        "virtualShopItemType": "coordinate",
+        "seq": 99971,
+        "resourceBoxId": 112,
+        "costPaidJewel": 1000,
+        "startAt": 1658124000000,
+        "endAt": 1658383199000
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "seq": 54,
+    "name": "안 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 114,
+        "virtualShopId": 54,
+        "virtualShopItemType": "coordinate",
+        "seq": 99970,
+        "resourceBoxId": 114,
+        "costPaidJewel": 1000,
+        "startAt": 1658642400000,
+        "endAt": 1658901599000
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "seq": 56,
+    "name": "이치카 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 117,
+        "virtualShopId": 56,
+        "virtualShopItemType": "coordinate",
+        "seq": 99969,
+        "resourceBoxId": 117,
+        "costPaidJewel": 1000,
+        "startAt": 1660024800000,
+        "endAt": 1660283999000
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "seq": 59,
+    "name": "미즈키 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 120,
+        "virtualShopId": 59,
+        "virtualShopItemType": "coordinate",
+        "seq": 99968,
+        "resourceBoxId": 120,
+        "costPaidJewel": 1000,
+        "startAt": 1661407200000,
+        "endAt": 1661666399000
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "seq": 60,
+    "name": "미쿠 ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 121,
+        "virtualShopId": 60,
+        "virtualShopItemType": "coordinate",
+        "seq": 99968,
+        "resourceBoxId": 121,
+        "costPaidJewel": 1000,
+        "startAt": 1661752800000,
+        "endAt": 1662011999000
       }
     ]
   }

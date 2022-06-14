@@ -136,5 +136,166 @@
         "transitionDestinationId": "6"
       }
     ]
+  },
+  {
+    "id": 11,
+    "assetbundleName": "event_show_obt7_banner",
+    "showType": "ONCE",
+    "startAt": 1657260000000,
+    "endAt": 1657799999000,
+    "behaviors": [
+      {
+        "id": 21,
+        "eventShowDialogueId": 11,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "20"
+      },
+      {
+        "id": 27,
+        "eventShowDialogueId": 11,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "7"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "assetbundleName": "event_show_obt8_banner",
+    "showType": "ONCE",
+    "startAt": 1657951200000,
+    "endAt": 1658491199000,
+    "behaviors": [
+      {
+        "id": 22,
+        "eventShowDialogueId": 12,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "23"
+      },
+      {
+        "id": 28,
+        "eventShowDialogueId": 12,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "8"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "assetbundleName": "event_show_obt9_banner",
+    "showType": "ONCE",
+    "startAt": 1658642400000,
+    "endAt": 1659182399000,
+    "behaviors": [
+      {
+        "id": 30,
+        "eventShowDialogueId": 14,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "28"
+      },
+      {
+        "id": 31,
+        "eventShowDialogueId": 14,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "9"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "assetbundleName": "event_show_obt10_banner",
+    "showType": "ONCE",
+    "startAt": 1659333600000,
+    "endAt": 1659873599000,
+    "behaviors": [
+      {
+        "id": 32,
+        "eventShowDialogueId": 15,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "39"
+      },
+      {
+        "id": 35,
+        "eventShowDialogueId": 15,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "10"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "assetbundleName": "event_show_obt12_banner",
+    "showType": "ONCE",
+    "startAt": 1660024800000,
+    "endAt": 1660564799000,
+    "behaviors": [
+      {
+        "id": 34,
+        "eventShowDialogueId": 17,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "45"
+      },
+      {
+        "id": 37,
+        "eventShowDialogueId": 17,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "12"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "assetbundleName": "event_show_obt13_banner",
+    "showType": "ONCE",
+    "startAt": 1660716000000,
+    "endAt": 1661255999000,
+    "behaviors": [
+      {
+        "id": 38,
+        "eventShowDialogueId": 18,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "48"
+      },
+      {
+        "id": 41,
+        "eventShowDialogueId": 18,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "13"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "assetbundleName": "event_show_obt14_banner",
+    "showType": "ONCE",
+    "startAt": 1661407200000,
+    "endAt": 1661947199000,
+    "behaviors": [
+      {
+        "id": 39,
+        "eventShowDialogueId": 19,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "gacha",
+        "transitionDestinationId": "52"
+      },
+      {
+        "id": 42,
+        "eventShowDialogueId": 19,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "14"
+      }
+    ]
   }
 ]
