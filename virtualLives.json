@@ -13,7 +13,6 @@
     "virtualLiveSetlists": [
       {
         "id": 1,
-        "virtualLiveId": 1,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_1",
@@ -21,7 +20,6 @@
       },
       {
         "id": 2,
-        "virtualLiveId": 1,
         "seq": 2,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_2",
@@ -29,12 +27,10 @@
       },
       {
         "id": 3,
-        "virtualLiveId": 1,
         "seq": 3,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "1005_meikohapisin",
         "virtualLiveStageId": 5,
-        "musicId": 10,
         "musicVocalId": 87,
         "character3dId1": 21,
         "character3dId2": 29,
@@ -43,7 +39,6 @@
       },
       {
         "id": 4,
-        "virtualLiveId": 1,
         "seq": 4,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_3",
@@ -51,7 +46,6 @@
       },
       {
         "id": 5,
-        "virtualLiveId": 1,
         "seq": 5,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_4",
@@ -59,19 +53,16 @@
       },
       {
         "id": 6,
-        "virtualLiveId": 1,
         "seq": 6,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0021_furajiru",
         "virtualLiveStageId": 3,
-        "musicId": 69,
         "musicVocalId": 110,
         "character3dId1": 28,
         "character3dId2": 31
       },
       {
         "id": 7,
-        "virtualLiveId": 1,
         "seq": 7,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_5",
@@ -79,7 +70,6 @@
       },
       {
         "id": 8,
-        "virtualLiveId": 1,
         "seq": 8,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_6",
@@ -87,12 +77,10 @@
       },
       {
         "id": 9,
-        "virtualLiveId": 1,
         "seq": 9,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "1010_suimaji",
         "virtualLiveStageId": 4,
-        "musicId": 41,
         "musicVocalId": 112,
         "character3dId1": 27,
         "character3dId2": 28,
@@ -102,7 +90,6 @@
       },
       {
         "id": 10,
-        "virtualLiveId": 1,
         "seq": 10,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_7",
@@ -110,7 +97,6 @@
       },
       {
         "id": 11,
-        "virtualLiveId": 1,
         "seq": 11,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_8",
@@ -192,61 +178,31 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 163,
-        "virtualLiveId": 1,
-        "gameCharacterUnitId": 21,
-        "seq": 1
+        "gameCharacterUnitId": 21
       },
       {
-        "id": 164,
-        "virtualLiveId": 1,
-        "gameCharacterUnitId": 22,
-        "seq": 2
+        "gameCharacterUnitId": 22
       },
       {
-        "id": 165,
-        "virtualLiveId": 1,
-        "gameCharacterUnitId": 23,
-        "seq": 3
+        "gameCharacterUnitId": 23
       },
       {
-        "id": 166,
-        "virtualLiveId": 1,
-        "gameCharacterUnitId": 24,
-        "seq": 4
+        "gameCharacterUnitId": 24
       },
       {
-        "id": 167,
-        "virtualLiveId": 1,
-        "gameCharacterUnitId": 25,
-        "seq": 5
+        "gameCharacterUnitId": 25
       },
       {
-        "id": 168,
-        "virtualLiveId": 1,
-        "gameCharacterUnitId": 26,
-        "seq": 6
+        "gameCharacterUnitId": 26
       }
     ],
-    "virtualLiveReward": {
-      "id": 1,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 1,
-      "resourceBoxId": 1
-    },
     "virtualLiveRewards": [
       {
-        "id": 1,
         "virtualLiveType": "normal",
-        "virtualLiveId": 1,
         "resourceBoxId": 1
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 1,
-      "virtualLiveId": 1,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1649296800000,
       "endAt": 1649397599000
     },
@@ -788,7 +744,6 @@
     "virtualLiveSetlists": [
       {
         "id": 47,
-        "virtualLiveId": 9,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_band_01_1",
@@ -796,12 +751,10 @@
       },
       {
         "id": 48,
-        "virtualLiveId": 9,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0018_sutera",
         "virtualLiveStageId": 2,
-        "musicId": 64,
         "musicVocalId": 56,
         "character3dId1": 43,
         "character3dId2": 42,
@@ -811,7 +764,6 @@
       },
       {
         "id": 49,
-        "virtualLiveId": 9,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_band_01_2",
@@ -893,67 +845,35 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 213,
-        "virtualLiveId": 9,
-        "gameCharacterUnitId": 1,
-        "seq": 1
+        "gameCharacterUnitId": 1
       },
       {
-        "id": 214,
-        "virtualLiveId": 9,
-        "gameCharacterUnitId": 2,
-        "seq": 2
+        "gameCharacterUnitId": 2
       },
       {
-        "id": 215,
-        "virtualLiveId": 9,
-        "gameCharacterUnitId": 3,
-        "seq": 3
+        "gameCharacterUnitId": 3
       },
       {
-        "id": 216,
-        "virtualLiveId": 9,
-        "gameCharacterUnitId": 4,
-        "seq": 4
+        "gameCharacterUnitId": 4
       },
       {
-        "id": 217,
-        "virtualLiveId": 9,
-        "gameCharacterUnitId": 27,
-        "seq": 5
+        "gameCharacterUnitId": 27
       },
       {
-        "id": 218,
-        "virtualLiveId": 9,
-        "gameCharacterUnitId": 24,
-        "seq": 6
+        "gameCharacterUnitId": 24
       }
     ],
-    "virtualLiveReward": {
-      "id": 9,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 9,
-      "resourceBoxId": 9
-    },
     "virtualLiveRewards": [
       {
-        "id": 9,
         "virtualLiveType": "normal",
-        "virtualLiveId": 9,
         "resourceBoxId": 9
       },
       {
-        "id": 40,
         "virtualLiveType": "archive",
-        "virtualLiveId": 9,
         "resourceBoxId": 20
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 9,
-      "virtualLiveId": 9,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1653112800000,
       "endAt": 1653803999000
     },
@@ -1509,7 +1429,6 @@
     "virtualLiveSetlists": [
       {
         "id": 50,
-        "virtualLiveId": 10,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_night_01_1",
@@ -1517,12 +1436,10 @@
       },
       {
         "id": 51,
-        "virtualLiveId": 10,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0016_kuyamumirai",
         "virtualLiveStageId": 6,
-        "musicId": 60,
         "musicVocalId": 52,
         "character3dId1": 53,
         "character3dId2": 52,
@@ -1532,7 +1449,6 @@
       },
       {
         "id": 52,
-        "virtualLiveId": 10,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_night_01_2",
@@ -1614,61 +1530,32 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 219,
-        "virtualLiveId": 10,
-        "gameCharacterUnitId": 17,
-        "seq": 1
+        "gameCharacterUnitId": 17
       },
       {
-        "id": 220,
-        "virtualLiveId": 10,
-        "gameCharacterUnitId": 18,
-        "seq": 2
+        "gameCharacterUnitId": 18
       },
       {
-        "id": 221,
-        "virtualLiveId": 10,
-        "gameCharacterUnitId": 31,
-        "seq": 3
+        "gameCharacterUnitId": 31
       },
       {
-        "id": 222,
-        "virtualLiveId": 10,
-        "gameCharacterUnitId": 19,
-        "seq": 4
+        "gameCharacterUnitId": 19
       },
       {
-        "id": 223,
-        "virtualLiveId": 10,
-        "gameCharacterUnitId": 20,
-        "seq": 5
+        "gameCharacterUnitId": 20
       }
     ],
-    "virtualLiveReward": {
-      "id": 10,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 10,
-      "resourceBoxId": 10
-    },
     "virtualLiveRewards": [
       {
-        "id": 10,
         "virtualLiveType": "normal",
-        "virtualLiveId": 10,
         "resourceBoxId": 10
       },
       {
-        "id": 41,
         "virtualLiveType": "archive",
-        "virtualLiveId": 10,
         "resourceBoxId": 21
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 10,
-      "virtualLiveId": 10,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1653804000000,
       "endAt": 1654495199000
     },
@@ -2224,7 +2111,6 @@
     "virtualLiveSetlists": [
       {
         "id": 64,
-        "virtualLiveId": 13,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_wonder_01_1",
@@ -2232,12 +2118,10 @@
       },
       {
         "id": 65,
-        "virtualLiveId": 13,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0012_potato",
         "virtualLiveStageId": 4,
-        "musicId": 52,
         "musicVocalId": 48,
         "character3dId1": 58,
         "character3dId2": 55,
@@ -2247,7 +2131,6 @@
       },
       {
         "id": 66,
-        "virtualLiveId": 13,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_wonder_01_2",
@@ -2329,67 +2212,35 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 240,
-        "virtualLiveId": 13,
-        "gameCharacterUnitId": 13,
-        "seq": 1
+        "gameCharacterUnitId": 13
       },
       {
-        "id": 241,
-        "virtualLiveId": 13,
-        "gameCharacterUnitId": 14,
-        "seq": 2
+        "gameCharacterUnitId": 14
       },
       {
-        "id": 242,
-        "virtualLiveId": 13,
-        "gameCharacterUnitId": 15,
-        "seq": 3
+        "gameCharacterUnitId": 15
       },
       {
-        "id": 243,
-        "virtualLiveId": 13,
-        "gameCharacterUnitId": 16,
-        "seq": 4
+        "gameCharacterUnitId": 16
       },
       {
-        "id": 244,
-        "virtualLiveId": 13,
-        "gameCharacterUnitId": 30,
-        "seq": 5
+        "gameCharacterUnitId": 30
       },
       {
-        "id": 245,
-        "virtualLiveId": 13,
-        "gameCharacterUnitId": 26,
-        "seq": 6
+        "gameCharacterUnitId": 26
       }
     ],
-    "virtualLiveReward": {
-      "id": 13,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 13,
-      "resourceBoxId": 13
-    },
     "virtualLiveRewards": [
       {
-        "id": 13,
         "virtualLiveType": "normal",
-        "virtualLiveId": 13,
         "resourceBoxId": 13
       },
       {
-        "id": 42,
         "virtualLiveType": "archive",
-        "virtualLiveId": 13,
         "resourceBoxId": 22
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 13,
-      "virtualLiveId": 13,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1654495200000,
       "endAt": 1655186399000
     },
@@ -2945,7 +2796,6 @@
     "virtualLiveSetlists": [
       {
         "id": 203,
-        "virtualLiveId": 37,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_idol_01_1",
@@ -2953,12 +2803,10 @@
       },
       {
         "id": 204,
-        "virtualLiveId": 37,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "1005_event01hapisin",
         "virtualLiveStageId": 5,
-        "musicId": 10,
         "musicVocalId": 12,
         "character3dId1": 59,
         "character3dId2": 60,
@@ -2967,12 +2815,10 @@
       },
       {
         "id": 205,
-        "virtualLiveId": 37,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_idol_01_2",
         "virtualLiveStageId": 5,
-        "musicId": 10,
         "musicVocalId": 12
       }
     ],
@@ -3051,61 +2897,32 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 390,
-        "virtualLiveId": 37,
-        "gameCharacterUnitId": 5,
-        "seq": 1
+        "gameCharacterUnitId": 5
       },
       {
-        "id": 391,
-        "virtualLiveId": 37,
-        "gameCharacterUnitId": 6,
-        "seq": 2
+        "gameCharacterUnitId": 6
       },
       {
-        "id": 392,
-        "virtualLiveId": 37,
-        "gameCharacterUnitId": 7,
-        "seq": 3
+        "gameCharacterUnitId": 7
       },
       {
-        "id": 393,
-        "virtualLiveId": 37,
-        "gameCharacterUnitId": 8,
-        "seq": 4
+        "gameCharacterUnitId": 8
       },
       {
-        "id": 394,
-        "virtualLiveId": 37,
-        "gameCharacterUnitId": 22,
-        "seq": 5
+        "gameCharacterUnitId": 22
       }
     ],
-    "virtualLiveReward": {
-      "id": 37,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 37,
-      "resourceBoxId": 17
-    },
     "virtualLiveRewards": [
       {
-        "id": 37,
         "virtualLiveType": "normal",
-        "virtualLiveId": 37,
         "resourceBoxId": 17
       },
       {
-        "id": 43,
         "virtualLiveType": "archive",
-        "virtualLiveId": 37,
         "resourceBoxId": 23
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 37,
-      "virtualLiveId": 37,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1656568800000,
       "endAt": 1657259999000
     },
@@ -3661,7 +3478,6 @@
     "virtualLiveSetlists": [
       {
         "id": 593,
-        "virtualLiveId": 38,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_street_01_1",
@@ -3669,12 +3485,10 @@
       },
       {
         "id": 594,
-        "virtualLiveId": 38,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0014_forward",
         "virtualLiveStageId": 3,
-        "musicId": 55,
         "musicVocalId": 50,
         "character3dId1": 67,
         "character3dId2": 64,
@@ -3684,12 +3498,10 @@
       },
       {
         "id": 595,
-        "virtualLiveId": 38,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_street_01_2",
         "virtualLiveStageId": 3,
-        "musicId": 55,
         "musicVocalId": 50
       }
     ],
@@ -3768,67 +3580,35 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 439,
-        "virtualLiveId": 38,
-        "gameCharacterUnitId": 9,
-        "seq": 1
+        "gameCharacterUnitId": 9
       },
       {
-        "id": 440,
-        "virtualLiveId": 38,
-        "gameCharacterUnitId": 10,
-        "seq": 2
+        "gameCharacterUnitId": 10
       },
       {
-        "id": 441,
-        "virtualLiveId": 38,
-        "gameCharacterUnitId": 11,
-        "seq": 3
+        "gameCharacterUnitId": 11
       },
       {
-        "id": 442,
-        "virtualLiveId": 38,
-        "gameCharacterUnitId": 12,
-        "seq": 4
+        "gameCharacterUnitId": 12
       },
       {
-        "id": 443,
-        "virtualLiveId": 38,
-        "gameCharacterUnitId": 29,
-        "seq": 5
+        "gameCharacterUnitId": 29
       },
       {
-        "id": 444,
-        "virtualLiveId": 38,
-        "gameCharacterUnitId": 25,
-        "seq": 6
+        "gameCharacterUnitId": 25
       }
     ],
-    "virtualLiveReward": {
-      "id": 38,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 38,
-      "resourceBoxId": 18
-    },
     "virtualLiveRewards": [
       {
-        "id": 38,
         "virtualLiveType": "normal",
-        "virtualLiveId": 38,
         "resourceBoxId": 18
       },
       {
-        "id": 44,
         "virtualLiveType": "archive",
-        "virtualLiveId": 38,
         "resourceBoxId": 24
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 38,
-      "virtualLiveId": 38,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1655877600000,
       "endAt": 1656568799000
     },
@@ -4457,67 +4237,35 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 451,
-        "virtualLiveId": 40,
-        "gameCharacterUnitId": 13,
-        "seq": 1
+        "gameCharacterUnitId": 13
       },
       {
-        "id": 452,
-        "virtualLiveId": 40,
-        "gameCharacterUnitId": 14,
-        "seq": 2
+        "gameCharacterUnitId": 14
       },
       {
-        "id": 453,
-        "virtualLiveId": 40,
-        "gameCharacterUnitId": 15,
-        "seq": 3
+        "gameCharacterUnitId": 15
       },
       {
-        "id": 454,
-        "virtualLiveId": 40,
-        "gameCharacterUnitId": 16,
-        "seq": 4
+        "gameCharacterUnitId": 16
       },
       {
-        "id": 455,
-        "virtualLiveId": 40,
-        "gameCharacterUnitId": 30,
-        "seq": 5
+        "gameCharacterUnitId": 30
       },
       {
-        "id": 456,
-        "virtualLiveId": 40,
-        "gameCharacterUnitId": 25,
-        "seq": 6
+        "gameCharacterUnitId": 25
       }
     ],
-    "virtualLiveReward": {
-      "id": 45,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 40,
-      "resourceBoxId": 25
-    },
     "virtualLiveRewards": [
       {
-        "id": 45,
         "virtualLiveType": "normal",
-        "virtualLiveId": 40,
         "resourceBoxId": 25
       },
       {
-        "id": 46,
         "virtualLiveType": "archive",
-        "virtualLiveId": 40,
         "resourceBoxId": 26
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 40,
-      "virtualLiveId": 40,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1657951200000,
       "endAt": 1658642399000
     },
@@ -5153,67 +4901,35 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 526,
-        "virtualLiveId": 51,
-        "gameCharacterUnitId": 1,
-        "seq": 1
+        "gameCharacterUnitId": 1
       },
       {
-        "id": 527,
-        "virtualLiveId": 51,
-        "gameCharacterUnitId": 2,
-        "seq": 2
+        "gameCharacterUnitId": 2
       },
       {
-        "id": 528,
-        "virtualLiveId": 51,
-        "gameCharacterUnitId": 3,
-        "seq": 3
+        "gameCharacterUnitId": 3
       },
       {
-        "id": 529,
-        "virtualLiveId": 51,
-        "gameCharacterUnitId": 4,
-        "seq": 4
+        "gameCharacterUnitId": 4
       },
       {
-        "id": 530,
-        "virtualLiveId": 51,
-        "gameCharacterUnitId": 27,
-        "seq": 5
+        "gameCharacterUnitId": 27
       },
       {
-        "id": 531,
-        "virtualLiveId": 51,
-        "gameCharacterUnitId": 25,
-        "seq": 6
+        "gameCharacterUnitId": 25
       }
     ],
-    "virtualLiveReward": {
-      "id": 57,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 51,
-      "resourceBoxId": 37
-    },
     "virtualLiveRewards": [
       {
-        "id": 57,
         "virtualLiveType": "normal",
-        "virtualLiveId": 51,
         "resourceBoxId": 37
       },
       {
-        "id": 58,
         "virtualLiveType": "archive",
-        "virtualLiveId": 51,
         "resourceBoxId": 38
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 51,
-      "virtualLiveId": 51,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1659333600000,
       "endAt": 1660024799000
     },
@@ -5849,61 +5565,32 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 555,
-        "virtualLiveId": 55,
-        "gameCharacterUnitId": 9,
-        "seq": 1
+        "gameCharacterUnitId": 9
       },
       {
-        "id": 556,
-        "virtualLiveId": 55,
-        "gameCharacterUnitId": 10,
-        "seq": 2
+        "gameCharacterUnitId": 10
       },
       {
-        "id": 557,
-        "virtualLiveId": 55,
-        "gameCharacterUnitId": 11,
-        "seq": 3
+        "gameCharacterUnitId": 11
       },
       {
-        "id": 558,
-        "virtualLiveId": 55,
-        "gameCharacterUnitId": 12,
-        "seq": 4
+        "gameCharacterUnitId": 12
       },
       {
-        "id": 559,
-        "virtualLiveId": 55,
-        "gameCharacterUnitId": 29,
-        "seq": 5
+        "gameCharacterUnitId": 29
       }
     ],
-    "virtualLiveReward": {
-      "id": 63,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 55,
-      "resourceBoxId": 43
-    },
     "virtualLiveRewards": [
       {
-        "id": 63,
         "virtualLiveType": "normal",
-        "virtualLiveId": 55,
         "resourceBoxId": 43
       },
       {
-        "id": 64,
         "virtualLiveType": "archive",
-        "virtualLiveId": 55,
         "resourceBoxId": 44
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 55,
-      "virtualLiveId": 55,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1660024800000,
       "endAt": 1660715999000
     },
@@ -6539,67 +6226,35 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 582,
-        "virtualLiveId": 59,
-        "gameCharacterUnitId": 17,
-        "seq": 1
+        "gameCharacterUnitId": 17
       },
       {
-        "id": 583,
-        "virtualLiveId": 59,
-        "gameCharacterUnitId": 18,
-        "seq": 2
+        "gameCharacterUnitId": 18
       },
       {
-        "id": 584,
-        "virtualLiveId": 59,
-        "gameCharacterUnitId": 19,
-        "seq": 3
+        "gameCharacterUnitId": 19
       },
       {
-        "id": 585,
-        "virtualLiveId": 59,
-        "gameCharacterUnitId": 20,
-        "seq": 4
+        "gameCharacterUnitId": 20
       },
       {
-        "id": 586,
-        "virtualLiveId": 59,
-        "gameCharacterUnitId": 31,
-        "seq": 5
+        "gameCharacterUnitId": 31
       },
       {
-        "id": 587,
-        "virtualLiveId": 59,
-        "gameCharacterUnitId": 22,
-        "seq": 6
+        "gameCharacterUnitId": 22
       }
     ],
-    "virtualLiveReward": {
-      "id": 68,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 59,
-      "resourceBoxId": 48
-    },
     "virtualLiveRewards": [
       {
-        "id": 68,
         "virtualLiveType": "normal",
-        "virtualLiveId": 59,
         "resourceBoxId": 48
       },
       {
-        "id": 69,
         "virtualLiveType": "archive",
-        "virtualLiveId": 59,
         "resourceBoxId": 49
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 59,
-      "virtualLiveId": 59,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1661407200000,
       "endAt": 1662098399000
     },
@@ -7154,7 +6809,6 @@
     "virtualLiveSetlists": [
       {
         "id": 759,
-        "virtualLiveId": 76,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_bd_2021toya_1",
@@ -7162,12 +6816,10 @@
       },
       {
         "id": 760,
-        "virtualLiveId": 76,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0013_readysteady",
         "virtualLiveStageId": 3,
-        "musicId": 54,
         "musicVocalId": 49,
         "character3dId1": 24,
         "character3dId2": 9,
@@ -7177,7 +6829,6 @@
       },
       {
         "id": 761,
-        "virtualLiveId": 76,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_bd_2021toya_2",
@@ -7266,61 +6917,31 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 694,
-        "virtualLiveId": 76,
-        "gameCharacterUnitId": 9,
-        "seq": 1
+        "gameCharacterUnitId": 9
       },
       {
-        "id": 695,
-        "virtualLiveId": 76,
-        "gameCharacterUnitId": 10,
-        "seq": 2
+        "gameCharacterUnitId": 10
       },
       {
-        "id": 696,
-        "virtualLiveId": 76,
-        "gameCharacterUnitId": 11,
-        "seq": 3
+        "gameCharacterUnitId": 11
       },
       {
-        "id": 697,
-        "virtualLiveId": 76,
-        "gameCharacterUnitId": 12,
-        "seq": 4
+        "gameCharacterUnitId": 12
       },
       {
-        "id": 698,
-        "virtualLiveId": 76,
-        "gameCharacterUnitId": 29,
-        "seq": 5
+        "gameCharacterUnitId": 29
       },
       {
-        "id": 699,
-        "virtualLiveId": 76,
-        "gameCharacterUnitId": 26,
-        "seq": 6
+        "gameCharacterUnitId": 26
       }
     ],
-    "virtualLiveReward": {
-      "id": 95,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 76,
-      "resourceBoxId": 75
-    },
     "virtualLiveRewards": [
       {
-        "id": 95,
         "virtualLiveType": "normal",
-        "virtualLiveId": 76,
         "resourceBoxId": 75
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 76,
-      "virtualLiveId": 76,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1653285600000,
       "endAt": 1653544799000
     },
@@ -7875,7 +7496,6 @@
     "virtualLiveSetlists": [
       {
         "id": 773,
-        "virtualLiveId": 80,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_bd_2021rui_1",
@@ -7883,12 +7503,10 @@
       },
       {
         "id": 774,
-        "virtualLiveId": 80,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0012_potato",
         "virtualLiveStageId": 4,
-        "musicId": 52,
         "musicVocalId": 48,
         "character3dId1": 25,
         "character3dId2": 14,
@@ -7898,17 +7516,14 @@
       },
       {
         "id": 775,
-        "virtualLiveId": 80,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_bd_2021rui_2",
         "virtualLiveStageId": 4,
-        "musicId": 52,
         "musicVocalId": 48
       },
       {
         "id": 776,
-        "virtualLiveId": 80,
         "seq": 4,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_bd_2021rui_3",
@@ -7997,55 +7612,28 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 725,
-        "virtualLiveId": 80,
-        "gameCharacterUnitId": 13,
-        "seq": 1
+        "gameCharacterUnitId": 13
       },
       {
-        "id": 726,
-        "virtualLiveId": 80,
-        "gameCharacterUnitId": 14,
-        "seq": 2
+        "gameCharacterUnitId": 14
       },
       {
-        "id": 727,
-        "virtualLiveId": 80,
-        "gameCharacterUnitId": 15,
-        "seq": 3
+        "gameCharacterUnitId": 15
       },
       {
-        "id": 728,
-        "virtualLiveId": 80,
-        "gameCharacterUnitId": 16,
-        "seq": 4
+        "gameCharacterUnitId": 16
       },
       {
-        "id": 729,
-        "virtualLiveId": 80,
-        "gameCharacterUnitId": 30,
-        "seq": 5
+        "gameCharacterUnitId": 30
       }
     ],
-    "virtualLiveReward": {
-      "id": 102,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 80,
-      "resourceBoxId": 82
-    },
     "virtualLiveRewards": [
       {
-        "id": 102,
         "virtualLiveType": "normal",
-        "virtualLiveId": 80,
         "resourceBoxId": 82
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 80,
-      "virtualLiveId": 80,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1655877600000,
       "endAt": 1656136799000
     },
@@ -8757,79 +8345,40 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 736,
-        "virtualLiveId": 82,
-        "gameCharacterUnitId": 5,
-        "seq": 1
+        "gameCharacterUnitId": 5
       },
       {
-        "id": 737,
-        "virtualLiveId": 82,
-        "gameCharacterUnitId": 6,
-        "seq": 2
+        "gameCharacterUnitId": 6
       },
       {
-        "id": 738,
-        "virtualLiveId": 82,
-        "gameCharacterUnitId": 7,
-        "seq": 3
+        "gameCharacterUnitId": 7
       },
       {
-        "id": 739,
-        "virtualLiveId": 82,
-        "gameCharacterUnitId": 8,
-        "seq": 4
+        "gameCharacterUnitId": 8
       },
       {
-        "id": 740,
-        "virtualLiveId": 82,
-        "gameCharacterUnitId": 21,
-        "seq": 5
+        "gameCharacterUnitId": 21
       },
       {
-        "id": 741,
-        "virtualLiveId": 82,
-        "gameCharacterUnitId": 28,
-        "seq": 6
+        "gameCharacterUnitId": 28
       },
       {
-        "id": 742,
-        "virtualLiveId": 82,
-        "gameCharacterUnitId": 22,
-        "seq": 7
+        "gameCharacterUnitId": 22
       },
       {
-        "id": 743,
-        "virtualLiveId": 82,
-        "gameCharacterUnitId": 24,
-        "seq": 8
+        "gameCharacterUnitId": 24
       },
       {
-        "id": 744,
-        "virtualLiveId": 82,
-        "gameCharacterUnitId": 25,
-        "seq": 9
+        "gameCharacterUnitId": 25
       }
     ],
-    "virtualLiveReward": {
-      "id": 105,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 82,
-      "resourceBoxId": 85
-    },
     "virtualLiveRewards": [
       {
-        "id": 105,
         "virtualLiveType": "normal",
-        "virtualLiveId": 82,
         "resourceBoxId": 85
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 82,
-      "virtualLiveId": 82,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1659420000000,
       "endAt": 1659765599000
     },
@@ -9464,61 +9013,31 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 751,
-        "virtualLiveId": 84,
-        "gameCharacterUnitId": 13,
-        "seq": 1
+        "gameCharacterUnitId": 13
       },
       {
-        "id": 752,
-        "virtualLiveId": 84,
-        "gameCharacterUnitId": 14,
-        "seq": 2
+        "gameCharacterUnitId": 14
       },
       {
-        "id": 753,
-        "virtualLiveId": 84,
-        "gameCharacterUnitId": 15,
-        "seq": 3
+        "gameCharacterUnitId": 15
       },
       {
-        "id": 754,
-        "virtualLiveId": 84,
-        "gameCharacterUnitId": 16,
-        "seq": 4
+        "gameCharacterUnitId": 16
       },
       {
-        "id": 755,
-        "virtualLiveId": 84,
-        "gameCharacterUnitId": 22,
-        "seq": 5
+        "gameCharacterUnitId": 22
       },
       {
-        "id": 756,
-        "virtualLiveId": 84,
-        "gameCharacterUnitId": 26,
-        "seq": 6
+        "gameCharacterUnitId": 26
       }
     ],
-    "virtualLiveReward": {
-      "id": 108,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 84,
-      "resourceBoxId": 88
-    },
     "virtualLiveRewards": [
       {
-        "id": 108,
         "virtualLiveType": "normal",
-        "virtualLiveId": 84,
         "resourceBoxId": 88
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 84,
-      "virtualLiveId": 84,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1658124000000,
       "endAt": 1658383199000
     },
@@ -10153,73 +9672,37 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 765,
-        "virtualLiveId": 86,
-        "gameCharacterUnitId": 9,
-        "seq": 1
+        "gameCharacterUnitId": 9
       },
       {
-        "id": 766,
-        "virtualLiveId": 86,
-        "gameCharacterUnitId": 10,
-        "seq": 2
+        "gameCharacterUnitId": 10
       },
       {
-        "id": 767,
-        "virtualLiveId": 86,
-        "gameCharacterUnitId": 11,
-        "seq": 3
+        "gameCharacterUnitId": 11
       },
       {
-        "id": 768,
-        "virtualLiveId": 86,
-        "gameCharacterUnitId": 12,
-        "seq": 4
+        "gameCharacterUnitId": 12
       },
       {
-        "id": 769,
-        "virtualLiveId": 86,
-        "gameCharacterUnitId": 29,
-        "seq": 5
+        "gameCharacterUnitId": 29
       },
       {
-        "id": 770,
-        "virtualLiveId": 86,
-        "gameCharacterUnitId": 22,
-        "seq": 6
+        "gameCharacterUnitId": 22
       },
       {
-        "id": 771,
-        "virtualLiveId": 86,
-        "gameCharacterUnitId": 24,
-        "seq": 7
+        "gameCharacterUnitId": 24
       },
       {
-        "id": 772,
-        "virtualLiveId": 86,
-        "gameCharacterUnitId": 25,
-        "seq": 8
+        "gameCharacterUnitId": 25
       }
     ],
-    "virtualLiveReward": {
-      "id": 111,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 86,
-      "resourceBoxId": 91
-    },
     "virtualLiveRewards": [
       {
-        "id": 111,
         "virtualLiveType": "normal",
-        "virtualLiveId": 86,
         "resourceBoxId": 91
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 86,
-      "virtualLiveId": 86,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1658642400000,
       "endAt": 1658901599000
     },
@@ -10854,73 +10337,37 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 781,
-        "virtualLiveId": 88,
-        "gameCharacterUnitId": 1,
-        "seq": 1
+        "gameCharacterUnitId": 1
       },
       {
-        "id": 782,
-        "virtualLiveId": 88,
-        "gameCharacterUnitId": 2,
-        "seq": 2
+        "gameCharacterUnitId": 2
       },
       {
-        "id": 783,
-        "virtualLiveId": 88,
-        "gameCharacterUnitId": 3,
-        "seq": 3
+        "gameCharacterUnitId": 3
       },
       {
-        "id": 784,
-        "virtualLiveId": 88,
-        "gameCharacterUnitId": 4,
-        "seq": 4
+        "gameCharacterUnitId": 4
       },
       {
-        "id": 785,
-        "virtualLiveId": 88,
-        "gameCharacterUnitId": 27,
-        "seq": 5
+        "gameCharacterUnitId": 27
       },
       {
-        "id": 786,
-        "virtualLiveId": 88,
-        "gameCharacterUnitId": 22,
-        "seq": 6
+        "gameCharacterUnitId": 22
       },
       {
-        "id": 787,
-        "virtualLiveId": 88,
-        "gameCharacterUnitId": 24,
-        "seq": 7
+        "gameCharacterUnitId": 24
       },
       {
-        "id": 788,
-        "virtualLiveId": 88,
-        "gameCharacterUnitId": 25,
-        "seq": 8
+        "gameCharacterUnitId": 25
       }
     ],
-    "virtualLiveReward": {
-      "id": 114,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 88,
-      "resourceBoxId": 94
-    },
     "virtualLiveRewards": [
       {
-        "id": 114,
         "virtualLiveType": "normal",
-        "virtualLiveId": 88,
         "resourceBoxId": 94
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 88,
-      "virtualLiveId": 88,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1660024800000,
       "endAt": 1660283999000
     },
@@ -11555,55 +11002,28 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 801,
-        "virtualLiveId": 91,
-        "gameCharacterUnitId": 17,
-        "seq": 1
+        "gameCharacterUnitId": 17
       },
       {
-        "id": 802,
-        "virtualLiveId": 91,
-        "gameCharacterUnitId": 18,
-        "seq": 2
+        "gameCharacterUnitId": 18
       },
       {
-        "id": 803,
-        "virtualLiveId": 91,
-        "gameCharacterUnitId": 19,
-        "seq": 3
+        "gameCharacterUnitId": 19
       },
       {
-        "id": 804,
-        "virtualLiveId": 91,
-        "gameCharacterUnitId": 20,
-        "seq": 4
+        "gameCharacterUnitId": 20
       },
       {
-        "id": 805,
-        "virtualLiveId": 91,
-        "gameCharacterUnitId": 25,
-        "seq": 5
+        "gameCharacterUnitId": 25
       }
     ],
-    "virtualLiveReward": {
-      "id": 119,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 91,
-      "resourceBoxId": 99
-    },
     "virtualLiveRewards": [
       {
-        "id": 119,
         "virtualLiveType": "normal",
-        "virtualLiveId": 91,
         "resourceBoxId": 99
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 91,
-      "virtualLiveId": 91,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1661407200000,
       "endAt": 1661666399000
     },
@@ -12238,67 +11658,34 @@
     ],
     "virtualLiveCharacters": [
       {
-        "id": 806,
-        "virtualLiveId": 92,
-        "gameCharacterUnitId": 1,
-        "seq": 1
+        "gameCharacterUnitId": 1
       },
       {
-        "id": 807,
-        "virtualLiveId": 92,
-        "gameCharacterUnitId": 21,
-        "seq": 2
+        "gameCharacterUnitId": 21
       },
       {
-        "id": 808,
-        "virtualLiveId": 92,
-        "gameCharacterUnitId": 22,
-        "seq": 3
+        "gameCharacterUnitId": 22
       },
       {
-        "id": 809,
-        "virtualLiveId": 92,
-        "gameCharacterUnitId": 23,
-        "seq": 4
+        "gameCharacterUnitId": 23
       },
       {
-        "id": 810,
-        "virtualLiveId": 92,
-        "gameCharacterUnitId": 24,
-        "seq": 5
+        "gameCharacterUnitId": 24
       },
       {
-        "id": 811,
-        "virtualLiveId": 92,
-        "gameCharacterUnitId": 25,
-        "seq": 6
+        "gameCharacterUnitId": 25
       },
       {
-        "id": 812,
-        "virtualLiveId": 92,
-        "gameCharacterUnitId": 26,
-        "seq": 7
+        "gameCharacterUnitId": 26
       }
     ],
-    "virtualLiveReward": {
-      "id": 120,
-      "virtualLiveType": "normal",
-      "virtualLiveId": 92,
-      "resourceBoxId": 100
-    },
     "virtualLiveRewards": [
       {
-        "id": 120,
         "virtualLiveType": "normal",
-        "virtualLiveId": 92,
         "resourceBoxId": 100
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 92,
-      "virtualLiveId": 92,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1661752800000,
       "endAt": 1662011999000
     },
@@ -12853,7 +12240,6 @@
     "virtualLiveSetlists": [
       {
         "id": 550,
-        "virtualLiveId": 20001,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_1",
@@ -12861,7 +12247,6 @@
       },
       {
         "id": 551,
-        "virtualLiveId": 20001,
         "seq": 2,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_2",
@@ -12869,12 +12254,10 @@
       },
       {
         "id": 552,
-        "virtualLiveId": 20001,
         "seq": 3,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "1005_meikohapisin",
         "virtualLiveStageId": 5,
-        "musicId": 10,
         "musicVocalId": 87,
         "character3dId1": 21,
         "character3dId2": 29,
@@ -12883,7 +12266,6 @@
       },
       {
         "id": 553,
-        "virtualLiveId": 20001,
         "seq": 4,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_3",
@@ -12891,7 +12273,6 @@
       },
       {
         "id": 554,
-        "virtualLiveId": 20001,
         "seq": 5,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_4",
@@ -12899,19 +12280,16 @@
       },
       {
         "id": 555,
-        "virtualLiveId": 20001,
         "seq": 6,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0021_furajiru",
         "virtualLiveStageId": 3,
-        "musicId": 69,
         "musicVocalId": 110,
         "character3dId1": 28,
         "character3dId2": 31
       },
       {
         "id": 556,
-        "virtualLiveId": 20001,
         "seq": 7,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_5",
@@ -12919,7 +12297,6 @@
       },
       {
         "id": 557,
-        "virtualLiveId": 20001,
         "seq": 8,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_6",
@@ -12927,12 +12304,10 @@
       },
       {
         "id": 558,
-        "virtualLiveId": 20001,
         "seq": 9,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "1010_suimaji",
         "virtualLiveStageId": 4,
-        "musicId": 41,
         "musicVocalId": 112,
         "character3dId1": 27,
         "character3dId2": 28,
@@ -12942,7 +12317,6 @@
       },
       {
         "id": 559,
-        "virtualLiveId": 20001,
         "seq": 10,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_7",
@@ -12950,7 +12324,6 @@
       },
       {
         "id": 560,
-        "virtualLiveId": 20001,
         "seq": 11,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_01_8",
@@ -13025,61 +12398,31 @@
     "virtualLiveSchedules": [],
     "virtualLiveCharacters": [
       {
-        "id": 395,
-        "virtualLiveId": 20001,
-        "gameCharacterUnitId": 21,
-        "seq": 1
+        "gameCharacterUnitId": 21
       },
       {
-        "id": 396,
-        "virtualLiveId": 20001,
-        "gameCharacterUnitId": 22,
-        "seq": 2
+        "gameCharacterUnitId": 22
       },
       {
-        "id": 397,
-        "virtualLiveId": 20001,
-        "gameCharacterUnitId": 23,
-        "seq": 3
+        "gameCharacterUnitId": 23
       },
       {
-        "id": 398,
-        "virtualLiveId": 20001,
-        "gameCharacterUnitId": 24,
-        "seq": 4
+        "gameCharacterUnitId": 24
       },
       {
-        "id": 399,
-        "virtualLiveId": 20001,
-        "gameCharacterUnitId": 25,
-        "seq": 5
+        "gameCharacterUnitId": 25
       },
       {
-        "id": 400,
-        "virtualLiveId": 20001,
-        "gameCharacterUnitId": 26,
-        "seq": 6
+        "gameCharacterUnitId": 26
       }
     ],
-    "virtualLiveReward": {
-      "id": 20001,
-      "virtualLiveType": "beginner",
-      "virtualLiveId": 20001,
-      "resourceBoxId": 1
-    },
     "virtualLiveRewards": [
       {
-        "id": 20001,
         "virtualLiveType": "beginner",
-        "virtualLiveId": 20001,
         "resourceBoxId": 1
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 20001,
-      "virtualLiveId": 20001,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1635400800000,
       "endAt": 4102379999000
     },
@@ -13620,7 +12963,6 @@
     "virtualLiveSetlists": [
       {
         "id": 561,
-        "virtualLiveId": 20002,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_02_1",
@@ -13628,12 +12970,10 @@
       },
       {
         "id": 562,
-        "virtualLiveId": 20002,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0002_roki",
         "virtualLiveStageId": 2,
-        "musicId": 2,
         "musicVocalId": 3,
         "character3dId1": 1,
         "character3dId2": 2,
@@ -13643,7 +12983,6 @@
       },
       {
         "id": 563,
-        "virtualLiveId": 20002,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_02_2",
@@ -13651,12 +12990,10 @@
       },
       {
         "id": 564,
-        "virtualLiveId": 20002,
         "seq": 4,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0017_needle",
         "virtualLiveStageId": 2,
-        "musicId": 63,
         "musicVocalId": 55,
         "character3dId1": 1,
         "character3dId2": 2,
@@ -13666,7 +13003,6 @@
       },
       {
         "id": 565,
-        "virtualLiveId": 20002,
         "seq": 5,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_02_3",
@@ -13741,61 +13077,31 @@
     "virtualLiveSchedules": [],
     "virtualLiveCharacters": [
       {
-        "id": 401,
-        "virtualLiveId": 20002,
-        "gameCharacterUnitId": 1,
-        "seq": 1
+        "gameCharacterUnitId": 1
       },
       {
-        "id": 402,
-        "virtualLiveId": 20002,
-        "gameCharacterUnitId": 2,
-        "seq": 2
+        "gameCharacterUnitId": 2
       },
       {
-        "id": 403,
-        "virtualLiveId": 20002,
-        "gameCharacterUnitId": 3,
-        "seq": 3
+        "gameCharacterUnitId": 3
       },
       {
-        "id": 404,
-        "virtualLiveId": 20002,
-        "gameCharacterUnitId": 4,
-        "seq": 4
+        "gameCharacterUnitId": 4
       },
       {
-        "id": 405,
-        "virtualLiveId": 20002,
-        "gameCharacterUnitId": 27,
-        "seq": 5
+        "gameCharacterUnitId": 27
       },
       {
-        "id": 406,
-        "virtualLiveId": 20002,
-        "gameCharacterUnitId": 24,
-        "seq": 6
+        "gameCharacterUnitId": 24
       }
     ],
-    "virtualLiveReward": {
-      "id": 20002,
-      "virtualLiveType": "beginner",
-      "virtualLiveId": 20002,
-      "resourceBoxId": 1
-    },
     "virtualLiveRewards": [
       {
-        "id": 20002,
         "virtualLiveType": "beginner",
-        "virtualLiveId": 20002,
         "resourceBoxId": 1
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 20002,
-      "virtualLiveId": 20002,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1635400800000,
       "endAt": 4102379999000
     },
@@ -14336,7 +13642,6 @@
     "virtualLiveSetlists": [
       {
         "id": 566,
-        "virtualLiveId": 20003,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_03_1",
@@ -14344,12 +13649,10 @@
       },
       {
         "id": 567,
-        "virtualLiveId": 20003,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0005_hapisin",
         "virtualLiveStageId": 5,
-        "musicId": 10,
         "musicVocalId": 12,
         "character3dId1": 5,
         "character3dId2": 6,
@@ -14358,7 +13661,6 @@
       },
       {
         "id": 568,
-        "virtualLiveId": 20003,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_03_2",
@@ -14366,12 +13668,10 @@
       },
       {
         "id": 569,
-        "virtualLiveId": 20003,
         "seq": 4,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0015_idol",
         "virtualLiveStageId": 5,
-        "musicId": 57,
         "musicVocalId": 51,
         "character3dId1": 22,
         "character3dId2": 7,
@@ -14381,7 +13681,6 @@
       },
       {
         "id": 570,
-        "virtualLiveId": 20003,
         "seq": 5,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_03_3",
@@ -14456,61 +13755,31 @@
     "virtualLiveSchedules": [],
     "virtualLiveCharacters": [
       {
-        "id": 407,
-        "virtualLiveId": 20003,
-        "gameCharacterUnitId": 5,
-        "seq": 1
+        "gameCharacterUnitId": 5
       },
       {
-        "id": 408,
-        "virtualLiveId": 20003,
-        "gameCharacterUnitId": 6,
-        "seq": 2
+        "gameCharacterUnitId": 6
       },
       {
-        "id": 409,
-        "virtualLiveId": 20003,
-        "gameCharacterUnitId": 7,
-        "seq": 3
+        "gameCharacterUnitId": 7
       },
       {
-        "id": 410,
-        "virtualLiveId": 20003,
-        "gameCharacterUnitId": 8,
-        "seq": 4
+        "gameCharacterUnitId": 8
       },
       {
-        "id": 411,
-        "virtualLiveId": 20003,
-        "gameCharacterUnitId": 28,
-        "seq": 5
+        "gameCharacterUnitId": 28
       },
       {
-        "id": 412,
-        "virtualLiveId": 20003,
-        "gameCharacterUnitId": 22,
-        "seq": 6
+        "gameCharacterUnitId": 22
       }
     ],
-    "virtualLiveReward": {
-      "id": 20003,
-      "virtualLiveType": "beginner",
-      "virtualLiveId": 20003,
-      "resourceBoxId": 1
-    },
     "virtualLiveRewards": [
       {
-        "id": 20003,
         "virtualLiveType": "beginner",
-        "virtualLiveId": 20003,
         "resourceBoxId": 1
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 20003,
-      "virtualLiveId": 20003,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1635400800000,
       "endAt": 4102379999000
     },
@@ -15051,7 +14320,6 @@
     "virtualLiveSetlists": [
       {
         "id": 571,
-        "virtualLiveId": 20004,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_04_1",
@@ -15059,12 +14327,10 @@
       },
       {
         "id": 572,
-        "virtualLiveId": 20004,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0008_rettou",
         "virtualLiveStageId": 3,
-        "musicId": 26,
         "musicVocalId": 28,
         "character3dId1": 9,
         "character3dId2": 10,
@@ -15073,7 +14339,6 @@
       },
       {
         "id": 573,
-        "virtualLiveId": 20004,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_04_2",
@@ -15081,12 +14346,10 @@
       },
       {
         "id": 574,
-        "virtualLiveId": 20004,
         "seq": 4,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0013_readysteady",
         "virtualLiveStageId": 3,
-        "musicId": 54,
         "musicVocalId": 49,
         "character3dId1": 24,
         "character3dId2": 9,
@@ -15096,7 +14359,6 @@
       },
       {
         "id": 575,
-        "virtualLiveId": 20004,
         "seq": 5,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_04_3",
@@ -15171,73 +14433,37 @@
     "virtualLiveSchedules": [],
     "virtualLiveCharacters": [
       {
-        "id": 413,
-        "virtualLiveId": 20004,
-        "gameCharacterUnitId": 9,
-        "seq": 1
+        "gameCharacterUnitId": 9
       },
       {
-        "id": 414,
-        "virtualLiveId": 20004,
-        "gameCharacterUnitId": 10,
-        "seq": 2
+        "gameCharacterUnitId": 10
       },
       {
-        "id": 415,
-        "virtualLiveId": 20004,
-        "gameCharacterUnitId": 11,
-        "seq": 3
+        "gameCharacterUnitId": 11
       },
       {
-        "id": 416,
-        "virtualLiveId": 20004,
-        "gameCharacterUnitId": 12,
-        "seq": 4
+        "gameCharacterUnitId": 12
       },
       {
-        "id": 417,
-        "virtualLiveId": 20004,
-        "gameCharacterUnitId": 29,
-        "seq": 5
+        "gameCharacterUnitId": 29
       },
       {
-        "id": 418,
-        "virtualLiveId": 20004,
-        "gameCharacterUnitId": 22,
-        "seq": 6
+        "gameCharacterUnitId": 22
       },
       {
-        "id": 419,
-        "virtualLiveId": 20004,
-        "gameCharacterUnitId": 23,
-        "seq": 7
+        "gameCharacterUnitId": 23
       },
       {
-        "id": 420,
-        "virtualLiveId": 20004,
-        "gameCharacterUnitId": 25,
-        "seq": 8
+        "gameCharacterUnitId": 25
       }
     ],
-    "virtualLiveReward": {
-      "id": 20004,
-      "virtualLiveType": "beginner",
-      "virtualLiveId": 20004,
-      "resourceBoxId": 1
-    },
     "virtualLiveRewards": [
       {
-        "id": 20004,
         "virtualLiveType": "beginner",
-        "virtualLiveId": 20004,
         "resourceBoxId": 1
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 20004,
-      "virtualLiveId": 20004,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1635400800000,
       "endAt": 4102379999000
     },
@@ -15778,7 +15004,6 @@
     "virtualLiveSetlists": [
       {
         "id": 576,
-        "virtualLiveId": 20005,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_05_1",
@@ -15786,12 +15011,10 @@
       },
       {
         "id": 577,
-        "virtualLiveId": 20005,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0029_smh",
         "virtualLiveStageId": 4,
-        "musicId": 51,
         "musicVocalId": 47,
         "character3dId1": 25,
         "character3dId2": 13,
@@ -15801,7 +15024,6 @@
       },
       {
         "id": 578,
-        "virtualLiveId": 20005,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_05_2",
@@ -15809,12 +15031,10 @@
       },
       {
         "id": 579,
-        "virtualLiveId": 20005,
         "seq": 4,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0010_suimaji",
         "virtualLiveStageId": 4,
-        "musicId": 41,
         "musicVocalId": 38,
         "character3dId1": 35,
         "character3dId2": 13,
@@ -15824,7 +15044,6 @@
       },
       {
         "id": 580,
-        "virtualLiveId": 20005,
         "seq": 5,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_05_3",
@@ -15899,67 +15118,34 @@
     "virtualLiveSchedules": [],
     "virtualLiveCharacters": [
       {
-        "id": 421,
-        "virtualLiveId": 20005,
-        "gameCharacterUnitId": 13,
-        "seq": 1
+        "gameCharacterUnitId": 13
       },
       {
-        "id": 422,
-        "virtualLiveId": 20005,
-        "gameCharacterUnitId": 14,
-        "seq": 2
+        "gameCharacterUnitId": 14
       },
       {
-        "id": 423,
-        "virtualLiveId": 20005,
-        "gameCharacterUnitId": 15,
-        "seq": 3
+        "gameCharacterUnitId": 15
       },
       {
-        "id": 424,
-        "virtualLiveId": 20005,
-        "gameCharacterUnitId": 16,
-        "seq": 4
+        "gameCharacterUnitId": 16
       },
       {
-        "id": 425,
-        "virtualLiveId": 20005,
-        "gameCharacterUnitId": 30,
-        "seq": 5
+        "gameCharacterUnitId": 30
       },
       {
-        "id": 426,
-        "virtualLiveId": 20005,
-        "gameCharacterUnitId": 22,
-        "seq": 6
+        "gameCharacterUnitId": 22
       },
       {
-        "id": 427,
-        "virtualLiveId": 20005,
-        "gameCharacterUnitId": 26,
-        "seq": 7
+        "gameCharacterUnitId": 26
       }
     ],
-    "virtualLiveReward": {
-      "id": 20005,
-      "virtualLiveType": "beginner",
-      "virtualLiveId": 20005,
-      "resourceBoxId": 1
-    },
     "virtualLiveRewards": [
       {
-        "id": 20005,
         "virtualLiveType": "beginner",
-        "virtualLiveId": 20005,
         "resourceBoxId": 1
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 20005,
-      "virtualLiveId": 20005,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1635400800000,
       "endAt": 4102379999000
     },
@@ -16500,7 +15686,6 @@
     "virtualLiveSetlists": [
       {
         "id": 581,
-        "virtualLiveId": 20006,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_06_1",
@@ -16508,12 +15693,10 @@
       },
       {
         "id": 582,
-        "virtualLiveId": 20006,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0019_jishou",
         "virtualLiveStageId": 6,
-        "musicId": 67,
         "musicVocalId": 60,
         "character3dId1": 26,
         "character3dId2": 17,
@@ -16521,7 +15704,6 @@
       },
       {
         "id": 583,
-        "virtualLiveId": 20006,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_06_2",
@@ -16529,12 +15711,10 @@
       },
       {
         "id": 584,
-        "virtualLiveId": 20006,
         "seq": 4,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0016_kuyamumirai",
         "virtualLiveStageId": 6,
-        "musicId": 60,
         "musicVocalId": 52,
         "character3dId1": 26,
         "character3dId2": 20,
@@ -16544,7 +15724,6 @@
       },
       {
         "id": 585,
-        "virtualLiveId": 20006,
         "seq": 5,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_06_3",
@@ -16619,55 +15798,28 @@
     "virtualLiveSchedules": [],
     "virtualLiveCharacters": [
       {
-        "id": 428,
-        "virtualLiveId": 20006,
-        "gameCharacterUnitId": 17,
-        "seq": 1
+        "gameCharacterUnitId": 17
       },
       {
-        "id": 429,
-        "virtualLiveId": 20006,
-        "gameCharacterUnitId": 18,
-        "seq": 2
+        "gameCharacterUnitId": 18
       },
       {
-        "id": 430,
-        "virtualLiveId": 20006,
-        "gameCharacterUnitId": 19,
-        "seq": 3
+        "gameCharacterUnitId": 19
       },
       {
-        "id": 431,
-        "virtualLiveId": 20006,
-        "gameCharacterUnitId": 20,
-        "seq": 4
+        "gameCharacterUnitId": 20
       },
       {
-        "id": 432,
-        "virtualLiveId": 20006,
-        "gameCharacterUnitId": 31,
-        "seq": 5
+        "gameCharacterUnitId": 31
       }
     ],
-    "virtualLiveReward": {
-      "id": 20006,
-      "virtualLiveType": "beginner",
-      "virtualLiveId": 20006,
-      "resourceBoxId": 1
-    },
     "virtualLiveRewards": [
       {
-        "id": 20006,
         "virtualLiveType": "beginner",
-        "virtualLiveId": 20006,
         "resourceBoxId": 1
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 20006,
-      "virtualLiveId": 20006,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1635400800000,
       "endAt": 4102379999000
     },
@@ -17208,7 +16360,6 @@
     "virtualLiveSetlists": [
       {
         "id": 586,
-        "virtualLiveId": 20007,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_07_1",
@@ -17216,18 +16367,15 @@
       },
       {
         "id": 587,
-        "virtualLiveId": 20007,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0001_tyw",
         "virtualLiveStageId": 1,
-        "musicId": 1,
         "musicVocalId": 1,
         "character3dId1": 21
       },
       {
         "id": 588,
-        "virtualLiveId": 20007,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_07_2",
@@ -17235,12 +16383,10 @@
       },
       {
         "id": 589,
-        "virtualLiveId": 20007,
         "seq": 4,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0028_wawaworld",
         "virtualLiveStageId": 1,
-        "musicId": 77,
         "musicVocalId": 108,
         "character3dId1": 21,
         "character3dId2": 9,
@@ -17248,7 +16394,6 @@
       },
       {
         "id": 590,
-        "virtualLiveId": 20007,
         "seq": 5,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_07_3",
@@ -17256,12 +16401,10 @@
       },
       {
         "id": 591,
-        "virtualLiveId": 20007,
         "seq": 6,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0027_sekai",
         "virtualLiveStageId": 1,
-        "musicId": 76,
         "musicVocalId": 107,
         "character3dId1": 1,
         "character3dId2": 13,
@@ -17270,7 +16413,6 @@
       },
       {
         "id": 592,
-        "virtualLiveId": 20007,
         "seq": 7,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_release_07_4",
@@ -17345,61 +16487,31 @@
     "virtualLiveSchedules": [],
     "virtualLiveCharacters": [
       {
-        "id": 433,
-        "virtualLiveId": 20007,
-        "gameCharacterUnitId": 21,
-        "seq": 1
+        "gameCharacterUnitId": 21
       },
       {
-        "id": 434,
-        "virtualLiveId": 20007,
-        "gameCharacterUnitId": 1,
-        "seq": 2
+        "gameCharacterUnitId": 1
       },
       {
-        "id": 435,
-        "virtualLiveId": 20007,
-        "gameCharacterUnitId": 5,
-        "seq": 3
+        "gameCharacterUnitId": 5
       },
       {
-        "id": 436,
-        "virtualLiveId": 20007,
-        "gameCharacterUnitId": 9,
-        "seq": 4
+        "gameCharacterUnitId": 9
       },
       {
-        "id": 437,
-        "virtualLiveId": 20007,
-        "gameCharacterUnitId": 13,
-        "seq": 5
+        "gameCharacterUnitId": 13
       },
       {
-        "id": 438,
-        "virtualLiveId": 20007,
-        "gameCharacterUnitId": 17,
-        "seq": 6
+        "gameCharacterUnitId": 17
       }
     ],
-    "virtualLiveReward": {
-      "id": 20007,
-      "virtualLiveType": "beginner",
-      "virtualLiveId": 20007,
-      "resourceBoxId": 1
-    },
     "virtualLiveRewards": [
       {
-        "id": 20007,
         "virtualLiveType": "beginner",
-        "virtualLiveId": 20007,
         "resourceBoxId": 1
       }
     ],
-    "virtualLiveCheerPointRewards": [],
     "virtualLiveWaitingRoom": {
-      "id": 20007,
-      "virtualLiveId": 20007,
-      "assetbundleName": "banner_specialLive_sample_01",
       "startAt": 1635400800000,
       "endAt": 4102379999000
     },

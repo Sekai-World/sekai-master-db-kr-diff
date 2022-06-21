@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "shortDescription": " 스코어 {{1;v}}% UP",
     "description": " {{1;d}}초 동안 스코어가 {{1;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -44,7 +43,6 @@
   },
   {
     "id": 2,
-    "shortDescription": " 스코어 {{2;v}}% UP",
     "description": " {{2;d}}초 동안 스코어가 {{2;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -87,7 +85,6 @@
   },
   {
     "id": 3,
-    "shortDescription": " 스코어 {{3;v}}% UP",
     "description": " {{3;d}}초 동안 스코어가 {{3;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -130,7 +127,6 @@
   },
   {
     "id": 4,
-    "shortDescription": " 스코어 {{4;v}}% UP",
     "description": " {{4;d}}초 동안 스코어가 {{4;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -173,7 +169,6 @@
   },
   {
     "id": 5,
-    "shortDescription": " 판정 강화(소)\\n＆스코어 {{5;v}}% UP",
     "description": " {{8;d}}초 동안 GREAT가 PERFECT가 되며, {{5;d}}초 동안 스코어가 {{5;v}}％ 상승한다.",
     "descriptionSpriteName": "judgment_up",
     "skillEffects": [
@@ -251,7 +246,6 @@
   },
   {
     "id": 6,
-    "shortDescription": " 판정 강화(중)\\n＆스코어 {{6;v}}% UP",
     "description": " {{9;d}}초 동안 GOOD 이상이 PERFECT가 되며, {{6;d}}초 동안 스코어가 {{6;v}}％ 상승한다.",
     "descriptionSpriteName": "judgment_up",
     "skillEffects": [
@@ -329,7 +323,6 @@
   },
   {
     "id": 7,
-    "shortDescription": " 판정 강화(대)\\n＆스코어 {{7;v}}% UP",
     "description": " {{10;d}}초 동안 BAD 이상이 PERFECT가 되며, {{7;d}}초 동안 스코어가 {{7;v}}％ 상승한다.",
     "descriptionSpriteName": "judgment_up",
     "skillEffects": [
@@ -407,7 +400,6 @@
   },
   {
     "id": 8,
-    "shortDescription": " 라이프 {{14;v}} 회복\\n＆스코어 {{11;v}}% UP",
     "description": " 라이프를 {{14;v}} 회복하고, {{11;d}}초 동안 스코어가 {{11;v}}% 상승한다.",
     "descriptionSpriteName": "life_recovery",
     "skillEffects": [
@@ -484,7 +476,6 @@
   },
   {
     "id": 9,
-    "shortDescription": " 라이프 {{15;v}} 회복\\n＆스코어 {{12;v}}% UP",
     "description": " 라이프를 {{15;v}} 회복하고, {{12;d}}초 동안 스코어가 {{12;v}}% 상승한다.",
     "descriptionSpriteName": "life_recovery",
     "skillEffects": [
@@ -561,7 +552,6 @@
   },
   {
     "id": 10,
-    "shortDescription": " 라이프 {{16;v}} 회복\\n＆스코어 {{13;v}}% UP",
     "description": " 라이프를 {{16;v}} 회복하고, {{13;d}}초 동안 스코어가 {{13;v}}% 상승한다.",
     "descriptionSpriteName": "life_recovery",
     "skillEffects": [
@@ -638,7 +628,6 @@
   },
   {
     "id": 11,
-    "shortDescription": " PERFECT일 때 한정\\n스코어 {{17;v}}% UP",
     "description": " {{17;d}}초 동안 PERFECT일 때 한하여 스코어가 {{17;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -681,7 +670,6 @@
   },
   {
     "id": 12,
-    "shortDescription": " 발동 시 라이프가 800 미만이면 스코어 {{39;v}}% UP,\\n800 이상이면 스코어 {{38;v}}% UP, 추가로 라이프가 10 증가할 때마다 +1% UP(최대 {{18;v}}%)",
     "description": " 발동 시 라이프가 800 미만이면 {{38;d}}초 동안 스코어가 {{39;v}}% 상승, 800 이상이면 스코어가 {{38;v}}% 상승하며, 추가로 라이프가 10 증가할 때마다 +1% 상승한다(최대 {{18;v}}%).",
     "descriptionSpriteName": "score_up",
     "skillEffects": [
@@ -1481,7 +1469,6 @@
   },
   {
     "id": 13,
-    "shortDescription": " 스코어 {{41;v}}％ UP, GREAT 이하가 나오기 전까지 스코어 {{40;v}}％ UP",
     "description": " {{40;d}}초 동안 스코어가 {{41;v}}％ 상승하며, GREAT 이하가 나오기 전까지 스코어가 {{40;v}}％ 상승한다.",
     "descriptionSpriteName": "score_up",
     "skillEffects": [

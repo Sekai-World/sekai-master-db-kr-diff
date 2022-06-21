@@ -1,14 +1,11 @@
 [
   {
     "id": 1,
-    "name": "新人应援任务！",
     "turn": 3,
     "startAt": 1644505199000,
     "endAt": 4102412399000,
-    "assetbundleName": "Newcomer_Mission",
     "sudokuMissionTurns": [
       {
-        "sudokuMissionGroupId": 1,
         "missionTurn": 1,
         "resourceBoxId": 300001,
         "sudokuMissions": [
@@ -96,7 +93,6 @@
         ]
       },
       {
-        "sudokuMissionGroupId": 1,
         "missionTurn": 2,
         "resourceBoxId": 300002,
         "sudokuMissions": [
@@ -184,7 +180,6 @@
         ]
       },
       {
-        "sudokuMissionGroupId": 1,
         "missionTurn": 3,
         "resourceBoxId": 300003,
         "sudokuMissions": [

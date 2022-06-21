@@ -1,18 +1,13 @@
 [
   {
     "id": 1,
-    "seq": 1,
     "cardId": 1,
     "title": "사이드 스토리(전편)",
     "scenarioId": "001001_ichika01",
-    "assetbundleName": "res001_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -24,18 +19,13 @@
   },
   {
     "id": 2,
-    "seq": 2,
     "cardId": 1,
     "title": "사이드 스토리(후편)",
     "scenarioId": "001001_ichika02",
-    "assetbundleName": "res001_no001",
     "releaseConditionId": 30001,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -47,18 +37,13 @@
   },
   {
     "id": 3,
-    "seq": 1,
     "cardId": 2,
     "title": "사이드 스토리(전편)",
     "scenarioId": "001002_ichika01",
-    "assetbundleName": "res001_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -70,18 +55,13 @@
   },
   {
     "id": 4,
-    "seq": 2,
     "cardId": 2,
     "title": "사이드 스토리(후편)",
     "scenarioId": "001002_ichika02",
-    "assetbundleName": "res001_no002",
     "releaseConditionId": 30002,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -93,18 +73,13 @@
   },
   {
     "id": 5,
-    "seq": 1,
     "cardId": 3,
     "title": "사이드 스토리(전편)",
     "scenarioId": "001003_ichika01",
-    "assetbundleName": "res001_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -116,18 +91,13 @@
   },
   {
     "id": 6,
-    "seq": 2,
     "cardId": 3,
     "title": "사이드 스토리(후편)",
     "scenarioId": "001003_ichika02",
-    "assetbundleName": "res001_no003",
     "releaseConditionId": 30003,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -149,18 +119,13 @@
   },
   {
     "id": 7,
-    "seq": 1,
     "cardId": 4,
     "title": "사이드 스토리(전편)",
     "scenarioId": "001004_ichika01",
-    "assetbundleName": "res001_no004",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -172,18 +137,13 @@
   },
   {
     "id": 8,
-    "seq": 2,
     "cardId": 4,
     "title": "사이드 스토리(후편)",
     "scenarioId": "001004_ichika02",
-    "assetbundleName": "res001_no004",
     "releaseConditionId": 30004,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -205,18 +165,13 @@
   },
   {
     "id": 9,
-    "seq": 1,
     "cardId": 5,
     "title": "사이드 스토리(전편)",
     "scenarioId": "002001_saki01",
-    "assetbundleName": "res002_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -228,18 +183,13 @@
   },
   {
     "id": 10,
-    "seq": 2,
     "cardId": 5,
     "title": "사이드 스토리(후편)",
     "scenarioId": "002001_saki02",
-    "assetbundleName": "res002_no001",
     "releaseConditionId": 30005,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -251,18 +201,13 @@
   },
   {
     "id": 11,
-    "seq": 1,
     "cardId": 6,
     "title": "사이드 스토리(전편)",
     "scenarioId": "002002_saki01",
-    "assetbundleName": "res002_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -274,18 +219,13 @@
   },
   {
     "id": 12,
-    "seq": 2,
     "cardId": 6,
     "title": "사이드 스토리(후편)",
     "scenarioId": "002002_saki02",
-    "assetbundleName": "res002_no002",
     "releaseConditionId": 30006,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -297,18 +237,13 @@
   },
   {
     "id": 13,
-    "seq": 1,
     "cardId": 7,
     "title": "사이드 스토리(전편)",
     "scenarioId": "002003_saki01",
-    "assetbundleName": "res002_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -320,18 +255,13 @@
   },
   {
     "id": 14,
-    "seq": 2,
     "cardId": 7,
     "title": "사이드 스토리(후편)",
     "scenarioId": "002003_saki02",
-    "assetbundleName": "res002_no003",
     "releaseConditionId": 30007,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -353,18 +283,13 @@
   },
   {
     "id": 17,
-    "seq": 1,
     "cardId": 9,
     "title": "사이드 스토리(전편)",
     "scenarioId": "003001_honami01",
-    "assetbundleName": "res003_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -376,18 +301,13 @@
   },
   {
     "id": 18,
-    "seq": 2,
     "cardId": 9,
     "title": "사이드 스토리(후편)",
     "scenarioId": "003001_honami02",
-    "assetbundleName": "res003_no001",
     "releaseConditionId": 30009,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -399,18 +319,13 @@
   },
   {
     "id": 19,
-    "seq": 1,
     "cardId": 10,
     "title": "사이드 스토리(전편)",
     "scenarioId": "003002_honami01",
-    "assetbundleName": "res003_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -422,18 +337,13 @@
   },
   {
     "id": 20,
-    "seq": 2,
     "cardId": 10,
     "title": "사이드 스토리(후편)",
     "scenarioId": "003002_honami02",
-    "assetbundleName": "res003_no002",
     "releaseConditionId": 30010,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -445,18 +355,13 @@
   },
   {
     "id": 21,
-    "seq": 1,
     "cardId": 11,
     "title": "사이드 스토리(전편)",
     "scenarioId": "003003_honami01",
-    "assetbundleName": "res003_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -468,18 +373,13 @@
   },
   {
     "id": 22,
-    "seq": 2,
     "cardId": 11,
     "title": "사이드 스토리(후편)",
     "scenarioId": "003003_honami02",
-    "assetbundleName": "res003_no003",
     "releaseConditionId": 30011,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -501,18 +401,13 @@
   },
   {
     "id": 25,
-    "seq": 1,
     "cardId": 13,
     "title": "사이드 스토리(전편)",
     "scenarioId": "004001_shiho01",
-    "assetbundleName": "res004_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -524,18 +419,13 @@
   },
   {
     "id": 26,
-    "seq": 2,
     "cardId": 13,
     "title": "사이드 스토리(후편)",
     "scenarioId": "004001_shiho02",
-    "assetbundleName": "res004_no001",
     "releaseConditionId": 30013,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -547,18 +437,13 @@
   },
   {
     "id": 27,
-    "seq": 1,
     "cardId": 14,
     "title": "사이드 스토리(전편)",
     "scenarioId": "004002_shiho01",
-    "assetbundleName": "res004_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -570,18 +455,13 @@
   },
   {
     "id": 28,
-    "seq": 2,
     "cardId": 14,
     "title": "사이드 스토리(후편)",
     "scenarioId": "004002_shiho02",
-    "assetbundleName": "res004_no002",
     "releaseConditionId": 30014,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -593,18 +473,13 @@
   },
   {
     "id": 29,
-    "seq": 1,
     "cardId": 15,
     "title": "사이드 스토리(전편)",
     "scenarioId": "004003_shiho01",
-    "assetbundleName": "res004_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -616,18 +491,13 @@
   },
   {
     "id": 30,
-    "seq": 2,
     "cardId": 15,
     "title": "사이드 스토리(후편)",
     "scenarioId": "004003_shiho02",
-    "assetbundleName": "res004_no003",
     "releaseConditionId": 30015,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -649,18 +519,13 @@
   },
   {
     "id": 33,
-    "seq": 1,
     "cardId": 17,
     "title": "사이드 스토리(전편)",
     "scenarioId": "005001_minori01",
-    "assetbundleName": "res005_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -672,18 +537,13 @@
   },
   {
     "id": 34,
-    "seq": 2,
     "cardId": 17,
     "title": "사이드 스토리(후편)",
     "scenarioId": "005001_minori02",
-    "assetbundleName": "res005_no001",
     "releaseConditionId": 30017,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -695,18 +555,13 @@
   },
   {
     "id": 35,
-    "seq": 1,
     "cardId": 18,
     "title": "사이드 스토리(전편)",
     "scenarioId": "005002_minori01",
-    "assetbundleName": "res005_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -718,18 +573,13 @@
   },
   {
     "id": 36,
-    "seq": 2,
     "cardId": 18,
     "title": "사이드 스토리(후편)",
     "scenarioId": "005002_minori02",
-    "assetbundleName": "res005_no002",
     "releaseConditionId": 30018,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -741,18 +591,13 @@
   },
   {
     "id": 37,
-    "seq": 1,
     "cardId": 19,
     "title": "사이드 스토리(전편)",
     "scenarioId": "005003_minori01",
-    "assetbundleName": "res005_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -764,18 +609,13 @@
   },
   {
     "id": 38,
-    "seq": 2,
     "cardId": 19,
     "title": "사이드 스토리(후편)",
     "scenarioId": "005003_minori02",
-    "assetbundleName": "res005_no003",
     "releaseConditionId": 30019,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -797,18 +637,13 @@
   },
   {
     "id": 41,
-    "seq": 1,
     "cardId": 21,
     "title": "사이드 스토리(전편)",
     "scenarioId": "006001_haruka01",
-    "assetbundleName": "res006_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -820,18 +655,13 @@
   },
   {
     "id": 42,
-    "seq": 2,
     "cardId": 21,
     "title": "사이드 스토리(후편)",
     "scenarioId": "006001_haruka02",
-    "assetbundleName": "res006_no001",
     "releaseConditionId": 30021,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -843,18 +673,13 @@
   },
   {
     "id": 43,
-    "seq": 1,
     "cardId": 22,
     "title": "사이드 스토리(전편)",
     "scenarioId": "006002_haruka01",
-    "assetbundleName": "res006_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -866,18 +691,13 @@
   },
   {
     "id": 44,
-    "seq": 2,
     "cardId": 22,
     "title": "사이드 스토리(후편)",
     "scenarioId": "006002_haruka02",
-    "assetbundleName": "res006_no002",
     "releaseConditionId": 30022,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -889,18 +709,13 @@
   },
   {
     "id": 45,
-    "seq": 1,
     "cardId": 23,
     "title": "사이드 스토리(전편)",
     "scenarioId": "006003_haruka01",
-    "assetbundleName": "res006_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -912,18 +727,13 @@
   },
   {
     "id": 46,
-    "seq": 2,
     "cardId": 23,
     "title": "사이드 스토리(후편)",
     "scenarioId": "006003_haruka02",
-    "assetbundleName": "res006_no003",
     "releaseConditionId": 30023,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -945,18 +755,13 @@
   },
   {
     "id": 49,
-    "seq": 1,
     "cardId": 25,
     "title": "사이드 스토리(전편)",
     "scenarioId": "007001_airi01",
-    "assetbundleName": "res007_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -968,18 +773,13 @@
   },
   {
     "id": 50,
-    "seq": 2,
     "cardId": 25,
     "title": "사이드 스토리(후편)",
     "scenarioId": "007001_airi02",
-    "assetbundleName": "res007_no001",
     "releaseConditionId": 30025,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -991,18 +791,13 @@
   },
   {
     "id": 51,
-    "seq": 1,
     "cardId": 26,
     "title": "사이드 스토리(전편)",
     "scenarioId": "007002_airi01",
-    "assetbundleName": "res007_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1014,18 +809,13 @@
   },
   {
     "id": 52,
-    "seq": 2,
     "cardId": 26,
     "title": "사이드 스토리(후편)",
     "scenarioId": "007002_airi02",
-    "assetbundleName": "res007_no002",
     "releaseConditionId": 30026,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1037,18 +827,13 @@
   },
   {
     "id": 53,
-    "seq": 1,
     "cardId": 27,
     "title": "사이드 스토리(전편)",
     "scenarioId": "007003_airi01",
-    "assetbundleName": "res007_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -1060,18 +845,13 @@
   },
   {
     "id": 54,
-    "seq": 2,
     "cardId": 27,
     "title": "사이드 스토리(후편)",
     "scenarioId": "007003_airi02",
-    "assetbundleName": "res007_no003",
     "releaseConditionId": 30027,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -1093,18 +873,13 @@
   },
   {
     "id": 57,
-    "seq": 1,
     "cardId": 29,
     "title": "사이드 스토리(전편)",
     "scenarioId": "008001_shizuku01",
-    "assetbundleName": "res008_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1116,18 +891,13 @@
   },
   {
     "id": 58,
-    "seq": 2,
     "cardId": 29,
     "title": "사이드 스토리(후편)",
     "scenarioId": "008001_shizuku02",
-    "assetbundleName": "res008_no001",
     "releaseConditionId": 30029,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1139,18 +909,13 @@
   },
   {
     "id": 59,
-    "seq": 1,
     "cardId": 30,
     "title": "사이드 스토리(전편)",
     "scenarioId": "008002_shizuku01",
-    "assetbundleName": "res008_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -1162,18 +927,13 @@
   },
   {
     "id": 60,
-    "seq": 2,
     "cardId": 30,
     "title": "사이드 스토리(후편)",
     "scenarioId": "008002_shizuku02",
-    "assetbundleName": "res008_no002",
     "releaseConditionId": 30030,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -1185,18 +945,13 @@
   },
   {
     "id": 61,
-    "seq": 1,
     "cardId": 31,
     "title": "사이드 스토리(전편)",
     "scenarioId": "008003_shizuku01",
-    "assetbundleName": "res008_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1208,18 +963,13 @@
   },
   {
     "id": 62,
-    "seq": 2,
     "cardId": 31,
     "title": "사이드 스토리(후편)",
     "scenarioId": "008003_shizuku02",
-    "assetbundleName": "res008_no003",
     "releaseConditionId": 30031,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1241,18 +991,13 @@
   },
   {
     "id": 65,
-    "seq": 1,
     "cardId": 33,
     "title": "사이드 스토리(전편)",
     "scenarioId": "009001_kohane01",
-    "assetbundleName": "res009_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -1264,18 +1009,13 @@
   },
   {
     "id": 66,
-    "seq": 2,
     "cardId": 33,
     "title": "사이드 스토리(후편)",
     "scenarioId": "009001_kohane02",
-    "assetbundleName": "res009_no001",
     "releaseConditionId": 30033,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -1287,18 +1027,13 @@
   },
   {
     "id": 67,
-    "seq": 1,
     "cardId": 34,
     "title": "사이드 스토리(전편)",
     "scenarioId": "009002_kohane01",
-    "assetbundleName": "res009_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -1310,18 +1045,13 @@
   },
   {
     "id": 68,
-    "seq": 2,
     "cardId": 34,
     "title": "사이드 스토리(후편)",
     "scenarioId": "009002_kohane02",
-    "assetbundleName": "res009_no002",
     "releaseConditionId": 30034,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -1333,18 +1063,13 @@
   },
   {
     "id": 69,
-    "seq": 1,
     "cardId": 35,
     "title": "사이드 스토리(전편)",
     "scenarioId": "009003_kohane01",
-    "assetbundleName": "res009_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -1356,18 +1081,13 @@
   },
   {
     "id": 70,
-    "seq": 2,
     "cardId": 35,
     "title": "사이드 스토리(후편)",
     "scenarioId": "009003_kohane02",
-    "assetbundleName": "res009_no003",
     "releaseConditionId": 30035,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -1389,18 +1109,13 @@
   },
   {
     "id": 73,
-    "seq": 1,
     "cardId": 37,
     "title": "사이드 스토리(전편)",
     "scenarioId": "010001_an01",
-    "assetbundleName": "res010_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1412,18 +1127,13 @@
   },
   {
     "id": 74,
-    "seq": 2,
     "cardId": 37,
     "title": "사이드 스토리(후편)",
     "scenarioId": "010001_an02",
-    "assetbundleName": "res010_no001",
     "releaseConditionId": 30037,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1435,18 +1145,13 @@
   },
   {
     "id": 75,
-    "seq": 1,
     "cardId": 38,
     "title": "사이드 스토리(전편)",
     "scenarioId": "010002_an01",
-    "assetbundleName": "res010_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -1458,18 +1163,13 @@
   },
   {
     "id": 76,
-    "seq": 2,
     "cardId": 38,
     "title": "사이드 스토리(후편)",
     "scenarioId": "010002_an02",
-    "assetbundleName": "res010_no002",
     "releaseConditionId": 30038,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -1481,18 +1181,13 @@
   },
   {
     "id": 77,
-    "seq": 1,
     "cardId": 39,
     "title": "사이드 스토리(전편)",
     "scenarioId": "010003_an01",
-    "assetbundleName": "res010_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -1504,18 +1199,13 @@
   },
   {
     "id": 78,
-    "seq": 2,
     "cardId": 39,
     "title": "사이드 스토리(후편)",
     "scenarioId": "010003_an02",
-    "assetbundleName": "res010_no003",
     "releaseConditionId": 30039,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -1537,18 +1227,13 @@
   },
   {
     "id": 81,
-    "seq": 1,
     "cardId": 41,
     "title": "사이드 스토리(전편)",
     "scenarioId": "011001_akito01",
-    "assetbundleName": "res011_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1560,18 +1245,13 @@
   },
   {
     "id": 82,
-    "seq": 2,
     "cardId": 41,
     "title": "사이드 스토리(후편)",
     "scenarioId": "011001_akito02",
-    "assetbundleName": "res011_no001",
     "releaseConditionId": 30041,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1583,18 +1263,13 @@
   },
   {
     "id": 83,
-    "seq": 1,
     "cardId": 42,
     "title": "사이드 스토리(전편)",
     "scenarioId": "011002_akito01",
-    "assetbundleName": "res011_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1606,18 +1281,13 @@
   },
   {
     "id": 84,
-    "seq": 2,
     "cardId": 42,
     "title": "사이드 스토리(후편)",
     "scenarioId": "011002_akito02",
-    "assetbundleName": "res011_no002",
     "releaseConditionId": 30042,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1629,18 +1299,13 @@
   },
   {
     "id": 85,
-    "seq": 1,
     "cardId": 43,
     "title": "사이드 스토리(전편)",
     "scenarioId": "011003_akito01",
-    "assetbundleName": "res011_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1652,18 +1317,13 @@
   },
   {
     "id": 86,
-    "seq": 2,
     "cardId": 43,
     "title": "사이드 스토리(후편)",
     "scenarioId": "011003_akito02",
-    "assetbundleName": "res011_no003",
     "releaseConditionId": 30043,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1685,18 +1345,13 @@
   },
   {
     "id": 89,
-    "seq": 1,
     "cardId": 45,
     "title": "사이드 스토리(전편)",
     "scenarioId": "012001_touya01",
-    "assetbundleName": "res012_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -1708,18 +1363,13 @@
   },
   {
     "id": 90,
-    "seq": 2,
     "cardId": 45,
     "title": "사이드 스토리(후편)",
     "scenarioId": "012001_touya02",
-    "assetbundleName": "res012_no001",
     "releaseConditionId": 30045,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -1731,18 +1381,13 @@
   },
   {
     "id": 91,
-    "seq": 1,
     "cardId": 46,
     "title": "사이드 스토리(전편)",
     "scenarioId": "012002_touya01",
-    "assetbundleName": "res012_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1754,18 +1399,13 @@
   },
   {
     "id": 92,
-    "seq": 2,
     "cardId": 46,
     "title": "사이드 스토리(후편)",
     "scenarioId": "012002_touya02",
-    "assetbundleName": "res012_no002",
     "releaseConditionId": 30046,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1777,18 +1417,13 @@
   },
   {
     "id": 93,
-    "seq": 1,
     "cardId": 47,
     "title": "사이드 스토리(전편)",
     "scenarioId": "012003_touya01",
-    "assetbundleName": "res012_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1800,18 +1435,13 @@
   },
   {
     "id": 94,
-    "seq": 2,
     "cardId": 47,
     "title": "사이드 스토리(후편)",
     "scenarioId": "012003_touya02",
-    "assetbundleName": "res012_no003",
     "releaseConditionId": 30047,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1833,18 +1463,13 @@
   },
   {
     "id": 97,
-    "seq": 1,
     "cardId": 49,
     "title": "사이드 스토리(전편)",
     "scenarioId": "013001_tsukasa01",
-    "assetbundleName": "res013_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1856,18 +1481,13 @@
   },
   {
     "id": 98,
-    "seq": 2,
     "cardId": 49,
     "title": "사이드 스토리(후편)",
     "scenarioId": "013001_tsukasa02",
-    "assetbundleName": "res013_no001",
     "releaseConditionId": 30049,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -1879,18 +1499,13 @@
   },
   {
     "id": 99,
-    "seq": 1,
     "cardId": 50,
     "title": "사이드 스토리(전편)",
     "scenarioId": "013002_tsukasa01",
-    "assetbundleName": "res013_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1902,18 +1517,13 @@
   },
   {
     "id": 100,
-    "seq": 2,
     "cardId": 50,
     "title": "사이드 스토리(후편)",
     "scenarioId": "013002_tsukasa02",
-    "assetbundleName": "res013_no002",
     "releaseConditionId": 30050,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -1925,18 +1535,13 @@
   },
   {
     "id": 101,
-    "seq": 1,
     "cardId": 51,
     "title": "사이드 스토리(전편)",
     "scenarioId": "013003_tsukasa01",
-    "assetbundleName": "res013_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -1948,18 +1553,13 @@
   },
   {
     "id": 102,
-    "seq": 2,
     "cardId": 51,
     "title": "사이드 스토리(후편)",
     "scenarioId": "013003_tsukasa02",
-    "assetbundleName": "res013_no003",
     "releaseConditionId": 30051,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -1981,18 +1581,13 @@
   },
   {
     "id": 105,
-    "seq": 1,
     "cardId": 53,
     "title": "사이드 스토리(전편)",
     "scenarioId": "014001_emu01",
-    "assetbundleName": "res014_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -2004,18 +1599,13 @@
   },
   {
     "id": 106,
-    "seq": 2,
     "cardId": 53,
     "title": "사이드 스토리(후편)",
     "scenarioId": "014001_emu02",
-    "assetbundleName": "res014_no001",
     "releaseConditionId": 30053,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -2027,18 +1617,13 @@
   },
   {
     "id": 107,
-    "seq": 1,
     "cardId": 54,
     "title": "사이드 스토리(전편)",
     "scenarioId": "014002_emu01",
-    "assetbundleName": "res014_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -2050,18 +1635,13 @@
   },
   {
     "id": 108,
-    "seq": 2,
     "cardId": 54,
     "title": "사이드 스토리(후편)",
     "scenarioId": "014002_emu02",
-    "assetbundleName": "res014_no002",
     "releaseConditionId": 30054,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -2073,18 +1653,13 @@
   },
   {
     "id": 109,
-    "seq": 1,
     "cardId": 55,
     "title": "사이드 스토리(전편)",
     "scenarioId": "014003_emu01",
-    "assetbundleName": "res014_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -2096,18 +1671,13 @@
   },
   {
     "id": 110,
-    "seq": 2,
     "cardId": 55,
     "title": "사이드 스토리(후편)",
     "scenarioId": "014003_emu02",
-    "assetbundleName": "res014_no003",
     "releaseConditionId": 30055,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -2129,18 +1699,13 @@
   },
   {
     "id": 113,
-    "seq": 1,
     "cardId": 57,
     "title": "사이드 스토리(전편)",
     "scenarioId": "015001_nene01",
-    "assetbundleName": "res015_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2152,18 +1717,13 @@
   },
   {
     "id": 114,
-    "seq": 2,
     "cardId": 57,
     "title": "사이드 스토리(후편)",
     "scenarioId": "015001_nene02",
-    "assetbundleName": "res015_no001",
     "releaseConditionId": 30057,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2175,18 +1735,13 @@
   },
   {
     "id": 115,
-    "seq": 1,
     "cardId": 58,
     "title": "사이드 스토리(전편)",
     "scenarioId": "015002_nene01",
-    "assetbundleName": "res015_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2198,18 +1753,13 @@
   },
   {
     "id": 116,
-    "seq": 2,
     "cardId": 58,
     "title": "사이드 스토리(후편)",
     "scenarioId": "015002_nene02",
-    "assetbundleName": "res015_no002",
     "releaseConditionId": 30058,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2221,18 +1771,13 @@
   },
   {
     "id": 117,
-    "seq": 1,
     "cardId": 59,
     "title": "사이드 스토리(전편)",
     "scenarioId": "015003_nene01",
-    "assetbundleName": "res015_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -2244,18 +1789,13 @@
   },
   {
     "id": 118,
-    "seq": 2,
     "cardId": 59,
     "title": "사이드 스토리(후편)",
     "scenarioId": "015003_nene02",
-    "assetbundleName": "res015_no003",
     "releaseConditionId": 30059,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -2277,18 +1817,13 @@
   },
   {
     "id": 121,
-    "seq": 1,
     "cardId": 61,
     "title": "사이드 스토리(전편)",
     "scenarioId": "016001_rui01",
-    "assetbundleName": "res016_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -2300,18 +1835,13 @@
   },
   {
     "id": 122,
-    "seq": 2,
     "cardId": 61,
     "title": "사이드 스토리(후편)",
     "scenarioId": "016001_rui02",
-    "assetbundleName": "res016_no001",
     "releaseConditionId": 30061,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -2323,18 +1853,13 @@
   },
   {
     "id": 123,
-    "seq": 1,
     "cardId": 62,
     "title": "사이드 스토리(전편)",
     "scenarioId": "016002_rui01",
-    "assetbundleName": "res016_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -2346,18 +1871,13 @@
   },
   {
     "id": 124,
-    "seq": 2,
     "cardId": 62,
     "title": "사이드 스토리(후편)",
     "scenarioId": "016002_rui02",
-    "assetbundleName": "res016_no002",
     "releaseConditionId": 30062,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -2369,18 +1889,13 @@
   },
   {
     "id": 125,
-    "seq": 1,
     "cardId": 63,
     "title": "사이드 스토리(전편)",
     "scenarioId": "016003_rui01",
-    "assetbundleName": "res016_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -2392,18 +1907,13 @@
   },
   {
     "id": 126,
-    "seq": 2,
     "cardId": 63,
     "title": "사이드 스토리(후편)",
     "scenarioId": "016003_rui02",
-    "assetbundleName": "res016_no003",
     "releaseConditionId": 30063,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -2425,18 +1935,13 @@
   },
   {
     "id": 129,
-    "seq": 1,
     "cardId": 65,
     "title": "사이드 스토리(전편)",
     "scenarioId": "017001_kanade01",
-    "assetbundleName": "res017_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -2448,18 +1953,13 @@
   },
   {
     "id": 130,
-    "seq": 2,
     "cardId": 65,
     "title": "사이드 스토리(후편)",
     "scenarioId": "017001_kanade02",
-    "assetbundleName": "res017_no001",
     "releaseConditionId": 30065,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -2471,18 +1971,13 @@
   },
   {
     "id": 131,
-    "seq": 1,
     "cardId": 66,
     "title": "사이드 스토리(전편)",
     "scenarioId": "017002_kanade01",
-    "assetbundleName": "res017_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -2494,18 +1989,13 @@
   },
   {
     "id": 132,
-    "seq": 2,
     "cardId": 66,
     "title": "사이드 스토리(후편)",
     "scenarioId": "017002_kanade02",
-    "assetbundleName": "res017_no002",
     "releaseConditionId": 30066,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -2517,18 +2007,13 @@
   },
   {
     "id": 133,
-    "seq": 1,
     "cardId": 67,
     "title": "사이드 스토리(전편)",
     "scenarioId": "017003_kanade01",
-    "assetbundleName": "res017_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -2540,18 +2025,13 @@
   },
   {
     "id": 134,
-    "seq": 2,
     "cardId": 67,
     "title": "사이드 스토리(후편)",
     "scenarioId": "017003_kanade02",
-    "assetbundleName": "res017_no003",
     "releaseConditionId": 30067,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -2573,18 +2053,13 @@
   },
   {
     "id": 137,
-    "seq": 1,
     "cardId": 69,
     "title": "사이드 스토리(전편)",
     "scenarioId": "018001_mafuyu01",
-    "assetbundleName": "res018_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2596,18 +2071,13 @@
   },
   {
     "id": 138,
-    "seq": 2,
     "cardId": 69,
     "title": "사이드 스토리(후편)",
     "scenarioId": "018001_mafuyu02",
-    "assetbundleName": "res018_no001",
     "releaseConditionId": 30069,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2619,18 +2089,13 @@
   },
   {
     "id": 139,
-    "seq": 1,
     "cardId": 70,
     "title": "사이드 스토리(전편)",
     "scenarioId": "018002_mafuyu01",
-    "assetbundleName": "res018_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -2642,18 +2107,13 @@
   },
   {
     "id": 140,
-    "seq": 2,
     "cardId": 70,
     "title": "사이드 스토리(후편)",
     "scenarioId": "018002_mafuyu02",
-    "assetbundleName": "res018_no002",
     "releaseConditionId": 30070,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -2665,18 +2125,13 @@
   },
   {
     "id": 141,
-    "seq": 1,
     "cardId": 71,
     "title": "사이드 스토리(전편)",
     "scenarioId": "018003_mafuyu01",
-    "assetbundleName": "res018_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -2688,18 +2143,13 @@
   },
   {
     "id": 142,
-    "seq": 2,
     "cardId": 71,
     "title": "사이드 스토리(후편)",
     "scenarioId": "018003_mafuyu02",
-    "assetbundleName": "res018_no003",
     "releaseConditionId": 30071,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -2721,18 +2171,13 @@
   },
   {
     "id": 145,
-    "seq": 1,
     "cardId": 73,
     "title": "사이드 스토리(전편)",
     "scenarioId": "019001_ena01",
-    "assetbundleName": "res019_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -2744,18 +2189,13 @@
   },
   {
     "id": 146,
-    "seq": 2,
     "cardId": 73,
     "title": "사이드 스토리(후편)",
     "scenarioId": "019001_ena02",
-    "assetbundleName": "res019_no001",
     "releaseConditionId": 30073,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -2767,18 +2207,13 @@
   },
   {
     "id": 147,
-    "seq": 1,
     "cardId": 74,
     "title": "사이드 스토리(전편)",
     "scenarioId": "019002_ena01",
-    "assetbundleName": "res019_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -2790,18 +2225,13 @@
   },
   {
     "id": 148,
-    "seq": 2,
     "cardId": 74,
     "title": "사이드 스토리(후편)",
     "scenarioId": "019002_ena02",
-    "assetbundleName": "res019_no002",
     "releaseConditionId": 30074,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -2813,18 +2243,13 @@
   },
   {
     "id": 149,
-    "seq": 1,
     "cardId": 75,
     "title": "사이드 스토리(전편)",
     "scenarioId": "019003_ena01",
-    "assetbundleName": "res019_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2836,18 +2261,13 @@
   },
   {
     "id": 150,
-    "seq": 2,
     "cardId": 75,
     "title": "사이드 스토리(후편)",
     "scenarioId": "019003_ena02",
-    "assetbundleName": "res019_no003",
     "releaseConditionId": 30075,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2869,18 +2289,13 @@
   },
   {
     "id": 153,
-    "seq": 1,
     "cardId": 77,
     "title": "사이드 스토리(전편)",
     "scenarioId": "020001_mizuki01",
-    "assetbundleName": "res020_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -2892,18 +2307,13 @@
   },
   {
     "id": 154,
-    "seq": 2,
     "cardId": 77,
     "title": "사이드 스토리(후편)",
     "scenarioId": "020001_mizuki02",
-    "assetbundleName": "res020_no001",
     "releaseConditionId": 30077,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -2915,18 +2325,13 @@
   },
   {
     "id": 155,
-    "seq": 1,
     "cardId": 78,
     "title": "사이드 스토리(전편)",
     "scenarioId": "020002_mizuki01",
-    "assetbundleName": "res020_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2938,18 +2343,13 @@
   },
   {
     "id": 156,
-    "seq": 2,
     "cardId": 78,
     "title": "사이드 스토리(후편)",
     "scenarioId": "020002_mizuki02",
-    "assetbundleName": "res020_no002",
     "releaseConditionId": 30078,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -2961,18 +2361,13 @@
   },
   {
     "id": 157,
-    "seq": 1,
     "cardId": 79,
     "title": "사이드 스토리(전편)",
     "scenarioId": "020003_mizuki01",
-    "assetbundleName": "res020_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -2984,18 +2379,13 @@
   },
   {
     "id": 158,
-    "seq": 2,
     "cardId": 79,
     "title": "사이드 스토리(후편)",
     "scenarioId": "020003_mizuki02",
-    "assetbundleName": "res020_no003",
     "releaseConditionId": 30079,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -3017,18 +2407,13 @@
   },
   {
     "id": 161,
-    "seq": 1,
     "cardId": 81,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021001_miku01",
-    "assetbundleName": "res021_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -3040,18 +2425,13 @@
   },
   {
     "id": 162,
-    "seq": 2,
     "cardId": 81,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021001_miku02",
-    "assetbundleName": "res021_no001",
     "releaseConditionId": 30081,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -3063,18 +2443,13 @@
   },
   {
     "id": 163,
-    "seq": 1,
     "cardId": 82,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021002_miku01",
-    "assetbundleName": "res021_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -3086,18 +2461,13 @@
   },
   {
     "id": 164,
-    "seq": 2,
     "cardId": 82,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021002_miku02",
-    "assetbundleName": "res021_no002",
     "releaseConditionId": 30082,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -3109,18 +2479,13 @@
   },
   {
     "id": 165,
-    "seq": 1,
     "cardId": 83,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021003_miku01",
-    "assetbundleName": "res021_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -3132,18 +2497,13 @@
   },
   {
     "id": 166,
-    "seq": 2,
     "cardId": 83,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021003_miku02",
-    "assetbundleName": "res021_no003",
     "releaseConditionId": 30083,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -3155,18 +2515,13 @@
   },
   {
     "id": 167,
-    "seq": 1,
     "cardId": 84,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021004_miku01",
-    "assetbundleName": "res021_no004",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3178,18 +2533,13 @@
   },
   {
     "id": 168,
-    "seq": 2,
     "cardId": 84,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021004_miku02",
-    "assetbundleName": "res021_no004",
     "releaseConditionId": 30084,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3201,18 +2551,13 @@
   },
   {
     "id": 169,
-    "seq": 1,
     "cardId": 85,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021005_miku01",
-    "assetbundleName": "res021_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3224,18 +2569,13 @@
   },
   {
     "id": 170,
-    "seq": 2,
     "cardId": 85,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021005_miku02",
-    "assetbundleName": "res021_no005",
     "releaseConditionId": 30085,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3247,18 +2587,13 @@
   },
   {
     "id": 171,
-    "seq": 1,
     "cardId": 86,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021006_miku01",
-    "assetbundleName": "res021_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -3270,18 +2605,13 @@
   },
   {
     "id": 172,
-    "seq": 2,
     "cardId": 86,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021006_miku02",
-    "assetbundleName": "res021_no006",
     "releaseConditionId": 30086,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -3293,18 +2623,13 @@
   },
   {
     "id": 173,
-    "seq": 1,
     "cardId": 87,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021007_miku01",
-    "assetbundleName": "res021_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3316,18 +2641,13 @@
   },
   {
     "id": 174,
-    "seq": 2,
     "cardId": 87,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021007_miku02",
-    "assetbundleName": "res021_no007",
     "releaseConditionId": 30087,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3349,18 +2669,13 @@
   },
   {
     "id": 175,
-    "seq": 1,
     "cardId": 88,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021008_miku01",
-    "assetbundleName": "res021_no008",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -3372,18 +2687,13 @@
   },
   {
     "id": 176,
-    "seq": 2,
     "cardId": 88,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021008_miku02",
-    "assetbundleName": "res021_no008",
     "releaseConditionId": 30088,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -3405,18 +2715,13 @@
   },
   {
     "id": 177,
-    "seq": 1,
     "cardId": 89,
     "title": "사이드 스토리(전편)",
     "scenarioId": "022001_rin01",
-    "assetbundleName": "res022_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -3428,18 +2733,13 @@
   },
   {
     "id": 178,
-    "seq": 2,
     "cardId": 89,
     "title": "사이드 스토리(후편)",
     "scenarioId": "022001_rin02",
-    "assetbundleName": "res022_no001",
     "releaseConditionId": 30089,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -3451,18 +2751,13 @@
   },
   {
     "id": 179,
-    "seq": 1,
     "cardId": 90,
     "title": "사이드 스토리(전편)",
     "scenarioId": "022002_rin01",
-    "assetbundleName": "res022_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3474,18 +2769,13 @@
   },
   {
     "id": 180,
-    "seq": 2,
     "cardId": 90,
     "title": "사이드 스토리(후편)",
     "scenarioId": "022002_rin02",
-    "assetbundleName": "res022_no002",
     "releaseConditionId": 30090,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3497,18 +2787,13 @@
   },
   {
     "id": 181,
-    "seq": 1,
     "cardId": 91,
     "title": "사이드 스토리(전편)",
     "scenarioId": "022003_rin01",
-    "assetbundleName": "res022_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -3520,18 +2805,13 @@
   },
   {
     "id": 182,
-    "seq": 2,
     "cardId": 91,
     "title": "사이드 스토리(후편)",
     "scenarioId": "022003_rin02",
-    "assetbundleName": "res022_no003",
     "releaseConditionId": 30091,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -3553,18 +2833,13 @@
   },
   {
     "id": 183,
-    "seq": 1,
     "cardId": 92,
     "title": "사이드 스토리(전편)",
     "scenarioId": "022004_rin01",
-    "assetbundleName": "res022_no004",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3576,18 +2851,13 @@
   },
   {
     "id": 184,
-    "seq": 2,
     "cardId": 92,
     "title": "사이드 스토리(후편)",
     "scenarioId": "022004_rin02",
-    "assetbundleName": "res022_no004",
     "releaseConditionId": 30092,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3609,18 +2879,13 @@
   },
   {
     "id": 185,
-    "seq": 1,
     "cardId": 93,
     "title": "사이드 스토리(전편)",
     "scenarioId": "023001_len01",
-    "assetbundleName": "res023_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3632,18 +2897,13 @@
   },
   {
     "id": 186,
-    "seq": 2,
     "cardId": 93,
     "title": "사이드 스토리(후편)",
     "scenarioId": "023001_len02",
-    "assetbundleName": "res023_no001",
     "releaseConditionId": 30093,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3655,18 +2915,13 @@
   },
   {
     "id": 187,
-    "seq": 1,
     "cardId": 94,
     "title": "사이드 스토리(전편)",
     "scenarioId": "023002_len01",
-    "assetbundleName": "res023_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -3678,18 +2933,13 @@
   },
   {
     "id": 188,
-    "seq": 2,
     "cardId": 94,
     "title": "사이드 스토리(후편)",
     "scenarioId": "023002_len02",
-    "assetbundleName": "res023_no002",
     "releaseConditionId": 30094,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -3701,18 +2951,13 @@
   },
   {
     "id": 189,
-    "seq": 1,
     "cardId": 95,
     "title": "사이드 스토리(전편)",
     "scenarioId": "023003_len01",
-    "assetbundleName": "res023_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3724,18 +2969,13 @@
   },
   {
     "id": 190,
-    "seq": 2,
     "cardId": 95,
     "title": "사이드 스토리(후편)",
     "scenarioId": "023003_len02",
-    "assetbundleName": "res023_no003",
     "releaseConditionId": 30095,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3757,18 +2997,13 @@
   },
   {
     "id": 191,
-    "seq": 1,
     "cardId": 96,
     "title": "사이드 스토리(전편)",
     "scenarioId": "023004_len01",
-    "assetbundleName": "res023_no004",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -3780,18 +3015,13 @@
   },
   {
     "id": 192,
-    "seq": 2,
     "cardId": 96,
     "title": "사이드 스토리(후편)",
     "scenarioId": "023004_len02",
-    "assetbundleName": "res023_no004",
     "releaseConditionId": 30096,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -3813,18 +3043,13 @@
   },
   {
     "id": 193,
-    "seq": 1,
     "cardId": 97,
     "title": "사이드 스토리(전편)",
     "scenarioId": "024001_luka01",
-    "assetbundleName": "res024_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3836,18 +3061,13 @@
   },
   {
     "id": 194,
-    "seq": 2,
     "cardId": 97,
     "title": "사이드 스토리(후편)",
     "scenarioId": "024001_luka02",
-    "assetbundleName": "res024_no001",
     "releaseConditionId": 30097,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3859,18 +3079,13 @@
   },
   {
     "id": 195,
-    "seq": 1,
     "cardId": 98,
     "title": "사이드 스토리(전편)",
     "scenarioId": "024002_luka01",
-    "assetbundleName": "res024_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3882,18 +3097,13 @@
   },
   {
     "id": 196,
-    "seq": 2,
     "cardId": 98,
     "title": "사이드 스토리(후편)",
     "scenarioId": "024002_luka02",
-    "assetbundleName": "res024_no002",
     "releaseConditionId": 30098,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -3905,18 +3115,13 @@
   },
   {
     "id": 197,
-    "seq": 1,
     "cardId": 99,
     "title": "사이드 스토리(전편)",
     "scenarioId": "024003_luka01",
-    "assetbundleName": "res024_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3928,18 +3133,13 @@
   },
   {
     "id": 198,
-    "seq": 2,
     "cardId": 99,
     "title": "사이드 스토리(후편)",
     "scenarioId": "024003_luka02",
-    "assetbundleName": "res024_no003",
     "releaseConditionId": 30099,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -3961,18 +3161,13 @@
   },
   {
     "id": 201,
-    "seq": 1,
     "cardId": 101,
     "title": "사이드 스토리(전편)",
     "scenarioId": "025001_meiko01",
-    "assetbundleName": "res025_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -3984,18 +3179,13 @@
   },
   {
     "id": 202,
-    "seq": 2,
     "cardId": 101,
     "title": "사이드 스토리(후편)",
     "scenarioId": "025001_meiko02",
-    "assetbundleName": "res025_no001",
     "releaseConditionId": 30101,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -4007,18 +3197,13 @@
   },
   {
     "id": 203,
-    "seq": 1,
     "cardId": 102,
     "title": "사이드 스토리(전편)",
     "scenarioId": "025002_meiko01",
-    "assetbundleName": "res025_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -4030,18 +3215,13 @@
   },
   {
     "id": 204,
-    "seq": 2,
     "cardId": 102,
     "title": "사이드 스토리(후편)",
     "scenarioId": "025002_meiko02",
-    "assetbundleName": "res025_no002",
     "releaseConditionId": 30102,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -4053,18 +3233,13 @@
   },
   {
     "id": 205,
-    "seq": 1,
     "cardId": 103,
     "title": "사이드 스토리(전편)",
     "scenarioId": "025003_meiko01",
-    "assetbundleName": "res025_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -4076,18 +3251,13 @@
   },
   {
     "id": 206,
-    "seq": 2,
     "cardId": 103,
     "title": "사이드 스토리(후편)",
     "scenarioId": "025003_meiko02",
-    "assetbundleName": "res025_no003",
     "releaseConditionId": 30103,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -4109,18 +3279,13 @@
   },
   {
     "id": 209,
-    "seq": 1,
     "cardId": 105,
     "title": "사이드 스토리(전편)",
     "scenarioId": "026001_kaito01",
-    "assetbundleName": "res026_no001",
     "releaseConditionId": 1,
     "power1BonusFixed": 100,
     "power2BonusFixed": 100,
     "power3BonusFixed": 100,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -4132,18 +3297,13 @@
   },
   {
     "id": 210,
-    "seq": 2,
     "cardId": 105,
     "title": "사이드 스토리(후편)",
     "scenarioId": "026001_kaito02",
-    "assetbundleName": "res026_no001",
     "releaseConditionId": 30105,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -4155,18 +3315,13 @@
   },
   {
     "id": 211,
-    "seq": 1,
     "cardId": 106,
     "title": "사이드 스토리(전편)",
     "scenarioId": "026002_kaito01",
-    "assetbundleName": "res026_no002",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -4178,18 +3333,13 @@
   },
   {
     "id": 212,
-    "seq": 2,
     "cardId": 106,
     "title": "사이드 스토리(후편)",
     "scenarioId": "026002_kaito02",
-    "assetbundleName": "res026_no002",
     "releaseConditionId": 30106,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -4201,18 +3351,13 @@
   },
   {
     "id": 213,
-    "seq": 1,
     "cardId": 107,
     "title": "사이드 스토리(전편)",
     "scenarioId": "026003_kaito01",
-    "assetbundleName": "res026_no003",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -4224,18 +3369,13 @@
   },
   {
     "id": 214,
-    "seq": 2,
     "cardId": 107,
     "title": "사이드 스토리(후편)",
     "scenarioId": "026003_kaito02",
-    "assetbundleName": "res026_no003",
     "releaseConditionId": 30107,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -4257,18 +3397,13 @@
   },
   {
     "id": 217,
-    "seq": 1,
     "cardId": 109,
     "title": "사이드 스토리(전편)",
     "scenarioId": "002005_saki01",
-    "assetbundleName": "res002_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -4280,18 +3415,13 @@
   },
   {
     "id": 218,
-    "seq": 2,
     "cardId": 109,
     "title": "사이드 스토리(후편)",
     "scenarioId": "002005_saki02",
-    "assetbundleName": "res002_no005",
     "releaseConditionId": 30109,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -4313,18 +3443,13 @@
   },
   {
     "id": 219,
-    "seq": 1,
     "cardId": 110,
     "title": "사이드 스토리(전편)",
     "scenarioId": "024005_luka01",
-    "assetbundleName": "res024_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -4336,18 +3461,13 @@
   },
   {
     "id": 220,
-    "seq": 2,
     "cardId": 110,
     "title": "사이드 스토리(후편)",
     "scenarioId": "024005_luka02",
-    "assetbundleName": "res024_no005",
     "releaseConditionId": 30110,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -4369,18 +3489,13 @@
   },
   {
     "id": 221,
-    "seq": 1,
     "cardId": 111,
     "title": "사이드 스토리(전편)",
     "scenarioId": "004005_shiho01",
-    "assetbundleName": "res004_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -4392,18 +3507,13 @@
   },
   {
     "id": 222,
-    "seq": 2,
     "cardId": 111,
     "title": "사이드 스토리(후편)",
     "scenarioId": "004005_shiho02",
-    "assetbundleName": "res004_no005",
     "releaseConditionId": 30111,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -4425,18 +3535,13 @@
   },
   {
     "id": 223,
-    "seq": 1,
     "cardId": 112,
     "title": "사이드 스토리(전편)",
     "scenarioId": "003005_honami01",
-    "assetbundleName": "res003_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -4448,18 +3553,13 @@
   },
   {
     "id": 224,
-    "seq": 2,
     "cardId": 112,
     "title": "사이드 스토리(후편)",
     "scenarioId": "003005_honami02",
-    "assetbundleName": "res003_no005",
     "releaseConditionId": 30112,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -4481,18 +3581,13 @@
   },
   {
     "id": 225,
-    "seq": 1,
     "cardId": 113,
     "title": "사이드 스토리(전편)",
     "scenarioId": "001005_ichika01",
-    "assetbundleName": "res001_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -4504,18 +3599,13 @@
   },
   {
     "id": 226,
-    "seq": 2,
     "cardId": 113,
     "title": "사이드 스토리(후편)",
     "scenarioId": "001005_ichika02",
-    "assetbundleName": "res001_no005",
     "releaseConditionId": 30113,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -4527,18 +3617,13 @@
   },
   {
     "id": 227,
-    "seq": 1,
     "cardId": 114,
     "title": "사이드 스토리(전편)",
     "scenarioId": "018005_mafuyu01",
-    "assetbundleName": "res018_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -4550,18 +3635,13 @@
   },
   {
     "id": 228,
-    "seq": 2,
     "cardId": 114,
     "title": "사이드 스토리(후편)",
     "scenarioId": "018005_mafuyu02",
-    "assetbundleName": "res018_no005",
     "releaseConditionId": 30114,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -4583,18 +3663,13 @@
   },
   {
     "id": 229,
-    "seq": 1,
     "cardId": 115,
     "title": "사이드 스토리(전편)",
     "scenarioId": "017005_kanade01",
-    "assetbundleName": "res017_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -4606,18 +3681,13 @@
   },
   {
     "id": 230,
-    "seq": 2,
     "cardId": 115,
     "title": "사이드 스토리(후편)",
     "scenarioId": "017005_kanade02",
-    "assetbundleName": "res017_no005",
     "releaseConditionId": 30115,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -4639,18 +3709,13 @@
   },
   {
     "id": 231,
-    "seq": 1,
     "cardId": 116,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021009_miku01",
-    "assetbundleName": "res021_no009",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -4662,18 +3727,13 @@
   },
   {
     "id": 232,
-    "seq": 2,
     "cardId": 116,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021009_miku02",
-    "assetbundleName": "res021_no009",
     "releaseConditionId": 30116,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -4695,18 +3755,13 @@
   },
   {
     "id": 233,
-    "seq": 1,
     "cardId": 117,
     "title": "사이드 스토리(전편)",
     "scenarioId": "020005_mizuki01",
-    "assetbundleName": "res020_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -4718,18 +3773,13 @@
   },
   {
     "id": 234,
-    "seq": 2,
     "cardId": 117,
     "title": "사이드 스토리(후편)",
     "scenarioId": "020005_mizuki02",
-    "assetbundleName": "res020_no005",
     "releaseConditionId": 30117,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -4751,18 +3801,13 @@
   },
   {
     "id": 235,
-    "seq": 1,
     "cardId": 118,
     "title": "사이드 스토리(전편)",
     "scenarioId": "019005_ena01",
-    "assetbundleName": "res019_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -4774,18 +3819,13 @@
   },
   {
     "id": 236,
-    "seq": 2,
     "cardId": 118,
     "title": "사이드 스토리(후편)",
     "scenarioId": "019005_ena02",
-    "assetbundleName": "res019_no005",
     "releaseConditionId": 30118,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -4797,18 +3837,13 @@
   },
   {
     "id": 237,
-    "seq": 1,
     "cardId": 119,
     "title": "사이드 스토리(전편)",
     "scenarioId": "016005_rui01",
-    "assetbundleName": "res016_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -4820,18 +3855,13 @@
   },
   {
     "id": 238,
-    "seq": 2,
     "cardId": 119,
     "title": "사이드 스토리(후편)",
     "scenarioId": "016005_rui02",
-    "assetbundleName": "res016_no005",
     "releaseConditionId": 30119,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -4853,18 +3883,13 @@
   },
   {
     "id": 239,
-    "seq": 1,
     "cardId": 120,
     "title": "사이드 스토리(전편)",
     "scenarioId": "013005_tsukasa01",
-    "assetbundleName": "res013_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -4876,18 +3901,13 @@
   },
   {
     "id": 240,
-    "seq": 2,
     "cardId": 120,
     "title": "사이드 스토리(후편)",
     "scenarioId": "013005_tsukasa02",
-    "assetbundleName": "res013_no005",
     "releaseConditionId": 30120,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -4909,18 +3929,13 @@
   },
   {
     "id": 241,
-    "seq": 1,
     "cardId": 121,
     "title": "사이드 스토리(전편)",
     "scenarioId": "026006_kaito01",
-    "assetbundleName": "res026_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -4932,18 +3947,13 @@
   },
   {
     "id": 242,
-    "seq": 2,
     "cardId": 121,
     "title": "사이드 스토리(후편)",
     "scenarioId": "026006_kaito02",
-    "assetbundleName": "res026_no006",
     "releaseConditionId": 30121,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -4965,18 +3975,13 @@
   },
   {
     "id": 243,
-    "seq": 1,
     "cardId": 122,
     "title": "사이드 스토리(전편)",
     "scenarioId": "014006_emu01",
-    "assetbundleName": "res014_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -4988,18 +3993,13 @@
   },
   {
     "id": 244,
-    "seq": 2,
     "cardId": 122,
     "title": "사이드 스토리(후편)",
     "scenarioId": "014006_emu02",
-    "assetbundleName": "res014_no006",
     "releaseConditionId": 30122,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -5021,18 +4021,13 @@
   },
   {
     "id": 245,
-    "seq": 1,
     "cardId": 123,
     "title": "사이드 스토리(전편)",
     "scenarioId": "015005_nene01",
-    "assetbundleName": "res015_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -5044,18 +4039,13 @@
   },
   {
     "id": 246,
-    "seq": 2,
     "cardId": 123,
     "title": "사이드 스토리(후편)",
     "scenarioId": "015005_nene02",
-    "assetbundleName": "res015_no005",
     "releaseConditionId": 30123,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -5067,18 +4057,13 @@
   },
   {
     "id": 247,
-    "seq": 1,
     "cardId": 124,
     "title": "사이드 스토리(전편)",
     "scenarioId": "014007_emu01",
-    "assetbundleName": "res014_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -5090,18 +4075,13 @@
   },
   {
     "id": 248,
-    "seq": 2,
     "cardId": 124,
     "title": "사이드 스토리(후편)",
     "scenarioId": "014007_emu02",
-    "assetbundleName": "res014_no007",
     "releaseConditionId": 30124,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -5123,18 +4103,13 @@
   },
   {
     "id": 249,
-    "seq": 1,
     "cardId": 125,
     "title": "사이드 스토리(전편)",
     "scenarioId": "006005_haruka01",
-    "assetbundleName": "res006_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -5146,18 +4121,13 @@
   },
   {
     "id": 250,
-    "seq": 2,
     "cardId": 125,
     "title": "사이드 스토리(후편)",
     "scenarioId": "006005_haruka02",
-    "assetbundleName": "res006_no005",
     "releaseConditionId": 30125,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -5179,18 +4149,13 @@
   },
   {
     "id": 251,
-    "seq": 1,
     "cardId": 126,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021010_miku01",
-    "assetbundleName": "res021_no010",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -5202,18 +4167,13 @@
   },
   {
     "id": 252,
-    "seq": 2,
     "cardId": 126,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021010_miku02",
-    "assetbundleName": "res021_no010",
     "releaseConditionId": 30126,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -5235,18 +4195,13 @@
   },
   {
     "id": 253,
-    "seq": 1,
     "cardId": 127,
     "title": "사이드 스토리(전편)",
     "scenarioId": "018006_mafuyu01",
-    "assetbundleName": "res018_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -5258,18 +4213,13 @@
   },
   {
     "id": 254,
-    "seq": 2,
     "cardId": 127,
     "title": "사이드 스토리(후편)",
     "scenarioId": "018006_mafuyu02",
-    "assetbundleName": "res018_no006",
     "releaseConditionId": 30127,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -5291,18 +4241,13 @@
   },
   {
     "id": 255,
-    "seq": 1,
     "cardId": 128,
     "title": "사이드 스토리(전편)",
     "scenarioId": "002006_saki01",
-    "assetbundleName": "res002_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5314,18 +4259,13 @@
   },
   {
     "id": 256,
-    "seq": 2,
     "cardId": 128,
     "title": "사이드 스토리(후편)",
     "scenarioId": "002006_saki02",
-    "assetbundleName": "res002_no006",
     "releaseConditionId": 30128,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5337,18 +4277,13 @@
   },
   {
     "id": 257,
-    "seq": 1,
     "cardId": 129,
     "title": "사이드 스토리(전편)",
     "scenarioId": "007005_airi01",
-    "assetbundleName": "res007_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -5360,18 +4295,13 @@
   },
   {
     "id": 258,
-    "seq": 2,
     "cardId": 129,
     "title": "사이드 스토리(후편)",
     "scenarioId": "007005_airi02",
-    "assetbundleName": "res007_no005",
     "releaseConditionId": 30129,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -5393,18 +4323,13 @@
   },
   {
     "id": 259,
-    "seq": 1,
     "cardId": 130,
     "title": "사이드 스토리(전편)",
     "scenarioId": "005005_minori01",
-    "assetbundleName": "res005_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -5416,18 +4341,13 @@
   },
   {
     "id": 260,
-    "seq": 2,
     "cardId": 130,
     "title": "사이드 스토리(후편)",
     "scenarioId": "005005_minori02",
-    "assetbundleName": "res005_no005",
     "releaseConditionId": 30130,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -5449,18 +4369,13 @@
   },
   {
     "id": 261,
-    "seq": 1,
     "cardId": 131,
     "title": "사이드 스토리(전편)",
     "scenarioId": "022005_rin01",
-    "assetbundleName": "res022_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -5472,18 +4387,13 @@
   },
   {
     "id": 262,
-    "seq": 2,
     "cardId": 131,
     "title": "사이드 스토리(후편)",
     "scenarioId": "022005_rin02",
-    "assetbundleName": "res022_no005",
     "releaseConditionId": 30131,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -5505,18 +4415,13 @@
   },
   {
     "id": 263,
-    "seq": 1,
     "cardId": 132,
     "title": "사이드 스토리(전편)",
     "scenarioId": "008005_shizuku01",
-    "assetbundleName": "res008_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5528,18 +4433,13 @@
   },
   {
     "id": 264,
-    "seq": 2,
     "cardId": 132,
     "title": "사이드 스토리(후편)",
     "scenarioId": "008005_shizuku02",
-    "assetbundleName": "res008_no005",
     "releaseConditionId": 30132,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5561,18 +4461,13 @@
   },
   {
     "id": 265,
-    "seq": 1,
     "cardId": 133,
     "title": "사이드 스토리(전편)",
     "scenarioId": "006006_haruka01",
-    "assetbundleName": "res006_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -5584,18 +4479,13 @@
   },
   {
     "id": 266,
-    "seq": 2,
     "cardId": 133,
     "title": "사이드 스토리(후편)",
     "scenarioId": "006006_haruka02",
-    "assetbundleName": "res006_no006",
     "releaseConditionId": 30133,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -5607,18 +4497,13 @@
   },
   {
     "id": 267,
-    "seq": 1,
     "cardId": 134,
     "title": "사이드 스토리(전편)",
     "scenarioId": "010005_an01",
-    "assetbundleName": "res010_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5630,18 +4515,13 @@
   },
   {
     "id": 268,
-    "seq": 2,
     "cardId": 134,
     "title": "사이드 스토리(후편)",
     "scenarioId": "010005_an02",
-    "assetbundleName": "res010_no005",
     "releaseConditionId": 30134,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5663,18 +4543,13 @@
   },
   {
     "id": 269,
-    "seq": 1,
     "cardId": 135,
     "title": "사이드 스토리(전편)",
     "scenarioId": "009005_kohane01",
-    "assetbundleName": "res009_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5686,18 +4561,13 @@
   },
   {
     "id": 270,
-    "seq": 2,
     "cardId": 135,
     "title": "사이드 스토리(후편)",
     "scenarioId": "009005_kohane02",
-    "assetbundleName": "res009_no005",
     "releaseConditionId": 30135,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5719,18 +4589,13 @@
   },
   {
     "id": 271,
-    "seq": 1,
     "cardId": 136,
     "title": "사이드 스토리(전편)",
     "scenarioId": "011005_akito01",
-    "assetbundleName": "res011_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5742,18 +4607,13 @@
   },
   {
     "id": 272,
-    "seq": 2,
     "cardId": 136,
     "title": "사이드 스토리(후편)",
     "scenarioId": "011005_akito02",
-    "assetbundleName": "res011_no005",
     "releaseConditionId": 30136,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -5775,18 +4635,13 @@
   },
   {
     "id": 273,
-    "seq": 1,
     "cardId": 137,
     "title": "사이드 스토리(전편)",
     "scenarioId": "012005_touya01",
-    "assetbundleName": "res012_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -5798,18 +4653,13 @@
   },
   {
     "id": 274,
-    "seq": 2,
     "cardId": 137,
     "title": "사이드 스토리(후편)",
     "scenarioId": "012005_touya02",
-    "assetbundleName": "res012_no005",
     "releaseConditionId": 30137,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -5831,18 +4681,13 @@
   },
   {
     "id": 275,
-    "seq": 1,
     "cardId": 138,
     "title": "사이드 스토리(전편)",
     "scenarioId": "025005_meiko01",
-    "assetbundleName": "res025_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -5854,18 +4699,13 @@
   },
   {
     "id": 276,
-    "seq": 2,
     "cardId": 138,
     "title": "사이드 스토리(후편)",
     "scenarioId": "025005_meiko02",
-    "assetbundleName": "res025_no005",
     "releaseConditionId": 30138,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -5877,18 +4717,13 @@
   },
   {
     "id": 277,
-    "seq": 1,
     "cardId": 139,
     "title": "사이드 스토리(전편)",
     "scenarioId": "020006_mizuki01",
-    "assetbundleName": "res020_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -5900,18 +4735,13 @@
   },
   {
     "id": 278,
-    "seq": 2,
     "cardId": 139,
     "title": "사이드 스토리(후편)",
     "scenarioId": "020006_mizuki02",
-    "assetbundleName": "res020_no006",
     "releaseConditionId": 30139,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -5933,18 +4763,13 @@
   },
   {
     "id": 279,
-    "seq": 1,
     "cardId": 140,
     "title": "사이드 스토리(전편)",
     "scenarioId": "026007_kaito01",
-    "assetbundleName": "res026_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -5956,18 +4781,13 @@
   },
   {
     "id": 280,
-    "seq": 2,
     "cardId": 140,
     "title": "사이드 스토리(후편)",
     "scenarioId": "026007_kaito02",
-    "assetbundleName": "res026_no007",
     "releaseConditionId": 30140,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -5989,18 +4809,13 @@
   },
   {
     "id": 281,
-    "seq": 1,
     "cardId": 141,
     "title": "사이드 스토리(전편)",
     "scenarioId": "013006_tsukasa01",
-    "assetbundleName": "res013_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -6012,18 +4827,13 @@
   },
   {
     "id": 282,
-    "seq": 2,
     "cardId": 141,
     "title": "사이드 스토리(후편)",
     "scenarioId": "013006_tsukasa02",
-    "assetbundleName": "res013_no006",
     "releaseConditionId": 30141,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -6045,18 +4855,13 @@
   },
   {
     "id": 283,
-    "seq": 1,
     "cardId": 142,
     "title": "사이드 스토리(전편)",
     "scenarioId": "015006_nene01",
-    "assetbundleName": "res015_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -6068,18 +4873,13 @@
   },
   {
     "id": 284,
-    "seq": 2,
     "cardId": 142,
     "title": "사이드 스토리(후편)",
     "scenarioId": "015006_nene02",
-    "assetbundleName": "res015_no006",
     "releaseConditionId": 30142,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -6101,18 +4901,13 @@
   },
   {
     "id": 285,
-    "seq": 1,
     "cardId": 143,
     "title": "사이드 스토리(전편)",
     "scenarioId": "012006_touya01",
-    "assetbundleName": "res012_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -6124,18 +4919,13 @@
   },
   {
     "id": 286,
-    "seq": 2,
     "cardId": 143,
     "title": "사이드 스토리(후편)",
     "scenarioId": "012006_touya02",
-    "assetbundleName": "res012_no006",
     "releaseConditionId": 30143,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -6147,18 +4937,13 @@
   },
   {
     "id": 287,
-    "seq": 1,
     "cardId": 144,
     "title": "사이드 스토리(전편)",
     "scenarioId": "015007_nene01",
-    "assetbundleName": "res015_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6170,18 +4955,13 @@
   },
   {
     "id": 288,
-    "seq": 2,
     "cardId": 144,
     "title": "사이드 스토리(후편)",
     "scenarioId": "015007_nene02",
-    "assetbundleName": "res015_no007",
     "releaseConditionId": 30144,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6203,18 +4983,13 @@
   },
   {
     "id": 289,
-    "seq": 1,
     "cardId": 145,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021011_miku01",
-    "assetbundleName": "res021_no011",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6226,18 +5001,13 @@
   },
   {
     "id": 290,
-    "seq": 2,
     "cardId": 145,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021011_miku02",
-    "assetbundleName": "res021_no011",
     "releaseConditionId": 30145,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6259,18 +5029,13 @@
   },
   {
     "id": 291,
-    "seq": 1,
     "cardId": 146,
     "title": "사이드 스토리(전편)",
     "scenarioId": "025006_meiko01",
-    "assetbundleName": "res025_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6282,18 +5047,13 @@
   },
   {
     "id": 292,
-    "seq": 2,
     "cardId": 146,
     "title": "사이드 스토리(후편)",
     "scenarioId": "025006_meiko02",
-    "assetbundleName": "res025_no006",
     "releaseConditionId": 30146,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6315,18 +5075,13 @@
   },
   {
     "id": 293,
-    "seq": 1,
     "cardId": 147,
     "title": "사이드 스토리(전편)",
     "scenarioId": "016006_rui01",
-    "assetbundleName": "res016_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6338,18 +5093,13 @@
   },
   {
     "id": 294,
-    "seq": 2,
     "cardId": 147,
     "title": "사이드 스토리(후편)",
     "scenarioId": "016006_rui02",
-    "assetbundleName": "res016_no006",
     "releaseConditionId": 30147,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6371,18 +5121,13 @@
   },
   {
     "id": 295,
-    "seq": 1,
     "cardId": 148,
     "title": "사이드 스토리(전편)",
     "scenarioId": "014008_emu01",
-    "assetbundleName": "res014_no008",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6394,18 +5139,13 @@
   },
   {
     "id": 296,
-    "seq": 2,
     "cardId": 148,
     "title": "사이드 스토리(후편)",
     "scenarioId": "014008_emu02",
-    "assetbundleName": "res014_no008",
     "releaseConditionId": 30148,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6417,18 +5157,13 @@
   },
   {
     "id": 297,
-    "seq": 1,
     "cardId": 149,
     "title": "사이드 스토리(전편)",
     "scenarioId": "021012_miku01",
-    "assetbundleName": "res021_no012",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6440,18 +5175,13 @@
   },
   {
     "id": 298,
-    "seq": 2,
     "cardId": 149,
     "title": "사이드 스토리(후편)",
     "scenarioId": "021012_miku02",
-    "assetbundleName": "res021_no012",
     "releaseConditionId": 30149,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6473,18 +5203,13 @@
   },
   {
     "id": 299,
-    "seq": 1,
     "cardId": 150,
     "title": "사이드 스토리(전편)",
     "scenarioId": "023005_len01",
-    "assetbundleName": "res023_no005",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6496,18 +5221,13 @@
   },
   {
     "id": 300,
-    "seq": 2,
     "cardId": 150,
     "title": "사이드 스토리(후편)",
     "scenarioId": "023005_len02",
-    "assetbundleName": "res023_no005",
     "releaseConditionId": 30150,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6529,18 +5249,13 @@
   },
   {
     "id": 301,
-    "seq": 1,
     "cardId": 151,
     "title": "사이드 스토리(전편)",
     "scenarioId": "024006_luka01",
-    "assetbundleName": "res024_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6552,18 +5267,13 @@
   },
   {
     "id": 302,
-    "seq": 2,
     "cardId": 151,
     "title": "사이드 스토리(후편)",
     "scenarioId": "024006_luka02",
-    "assetbundleName": "res024_no006",
     "releaseConditionId": 30151,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6585,18 +5295,13 @@
   },
   {
     "id": 303,
-    "seq": 1,
     "cardId": 152,
     "title": "사이드 스토리(전편)",
     "scenarioId": "019006_ena01",
-    "assetbundleName": "res019_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6608,18 +5313,13 @@
   },
   {
     "id": 304,
-    "seq": 2,
     "cardId": 152,
     "title": "사이드 스토리(후편)",
     "scenarioId": "019006_ena02",
-    "assetbundleName": "res019_no006",
     "releaseConditionId": 30152,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6641,18 +5341,13 @@
   },
   {
     "id": 305,
-    "seq": 1,
     "cardId": 153,
     "title": "사이드 스토리(전편)",
     "scenarioId": "002007_saki01",
-    "assetbundleName": "res002_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6664,18 +5359,13 @@
   },
   {
     "id": 306,
-    "seq": 2,
     "cardId": 153,
     "title": "사이드 스토리(후편)",
     "scenarioId": "002007_saki02",
-    "assetbundleName": "res002_no007",
     "releaseConditionId": 30153,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6697,18 +5387,13 @@
   },
   {
     "id": 307,
-    "seq": 1,
     "cardId": 154,
     "title": "사이드 스토리(전편)",
     "scenarioId": "013007_tsukasa01",
-    "assetbundleName": "res013_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6720,18 +5405,13 @@
   },
   {
     "id": 308,
-    "seq": 2,
     "cardId": 154,
     "title": "사이드 스토리(후편)",
     "scenarioId": "013007_tsukasa02",
-    "assetbundleName": "res013_no007",
     "releaseConditionId": 30154,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -6743,18 +5423,13 @@
   },
   {
     "id": 309,
-    "seq": 1,
     "cardId": 155,
     "title": "사이드 스토리(전편)",
     "scenarioId": "003006_honami01",
-    "assetbundleName": "res003_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -6766,18 +5441,13 @@
   },
   {
     "id": 310,
-    "seq": 2,
     "cardId": 155,
     "title": "사이드 스토리(후편)",
     "scenarioId": "003006_honami02",
-    "assetbundleName": "res003_no006",
     "releaseConditionId": 30155,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -6799,18 +5469,13 @@
   },
   {
     "id": 311,
-    "seq": 1,
     "cardId": 156,
     "title": "사이드 스토리(전편)",
     "scenarioId": "025007_meiko01",
-    "assetbundleName": "res025_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -6822,18 +5487,13 @@
   },
   {
     "id": 312,
-    "seq": 2,
     "cardId": 156,
     "title": "사이드 스토리(후편)",
     "scenarioId": "025007_meiko02",
-    "assetbundleName": "res025_no007",
     "releaseConditionId": 30156,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -6855,18 +5515,13 @@
   },
   {
     "id": 313,
-    "seq": 1,
     "cardId": 157,
     "title": "사이드 스토리(전편)",
     "scenarioId": "001006_ichika01",
-    "assetbundleName": "res001_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -6878,18 +5533,13 @@
   },
   {
     "id": 314,
-    "seq": 2,
     "cardId": 157,
     "title": "사이드 스토리(후편)",
     "scenarioId": "001006_ichika02",
-    "assetbundleName": "res001_no006",
     "releaseConditionId": 30157,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -6911,18 +5561,13 @@
   },
   {
     "id": 315,
-    "seq": 1,
     "cardId": 158,
     "title": "사이드 스토리(전편)",
     "scenarioId": "002008_saki01",
-    "assetbundleName": "res002_no008",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -6934,18 +5579,13 @@
   },
   {
     "id": 316,
-    "seq": 2,
     "cardId": 158,
     "title": "사이드 스토리(후편)",
     "scenarioId": "002008_saki02",
-    "assetbundleName": "res002_no008",
     "releaseConditionId": 30158,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -6967,18 +5607,13 @@
   },
   {
     "id": 317,
-    "seq": 1,
     "cardId": 159,
     "title": "사이드 스토리(전편)",
     "scenarioId": "004006_shiho01",
-    "assetbundleName": "res004_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -6990,18 +5625,13 @@
   },
   {
     "id": 318,
-    "seq": 2,
     "cardId": 159,
     "title": "사이드 스토리(후편)",
     "scenarioId": "004006_shiho02",
-    "assetbundleName": "res004_no006",
     "releaseConditionId": 30159,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7013,18 +5643,13 @@
   },
   {
     "id": 319,
-    "seq": 1,
     "cardId": 160,
     "title": "사이드 스토리(전편)",
     "scenarioId": "008006_shizuku01",
-    "assetbundleName": "res008_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7036,18 +5661,13 @@
   },
   {
     "id": 320,
-    "seq": 2,
     "cardId": 160,
     "title": "사이드 스토리(후편)",
     "scenarioId": "008006_shizuku02",
-    "assetbundleName": "res008_no006",
     "releaseConditionId": 30160,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7069,18 +5689,13 @@
   },
   {
     "id": 321,
-    "seq": 1,
     "cardId": 161,
     "title": "사이드 스토리(전편)",
     "scenarioId": "024007_luka01",
-    "assetbundleName": "res024_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7092,18 +5707,13 @@
   },
   {
     "id": 322,
-    "seq": 2,
     "cardId": 161,
     "title": "사이드 스토리(후편)",
     "scenarioId": "024007_luka02",
-    "assetbundleName": "res024_no007",
     "releaseConditionId": 30161,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7125,18 +5735,13 @@
   },
   {
     "id": 323,
-    "seq": 1,
     "cardId": 162,
     "title": "사이드 스토리(전편)",
     "scenarioId": "007006_airi01",
-    "assetbundleName": "res007_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7148,18 +5753,13 @@
   },
   {
     "id": 324,
-    "seq": 2,
     "cardId": 162,
     "title": "사이드 스토리(후편)",
     "scenarioId": "007006_airi02",
-    "assetbundleName": "res007_no006",
     "releaseConditionId": 30162,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7181,18 +5781,13 @@
   },
   {
     "id": 325,
-    "seq": 1,
     "cardId": 163,
     "title": "사이드 스토리(전편)",
     "scenarioId": "006007_haruka01",
-    "assetbundleName": "res006_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7204,18 +5799,13 @@
   },
   {
     "id": 326,
-    "seq": 2,
     "cardId": 163,
     "title": "사이드 스토리(후편)",
     "scenarioId": "006007_haruka02",
-    "assetbundleName": "res006_no007",
     "releaseConditionId": 30163,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7237,18 +5827,13 @@
   },
   {
     "id": 327,
-    "seq": 1,
     "cardId": 164,
     "title": "사이드 스토리(전편)",
     "scenarioId": "005006_minori01",
-    "assetbundleName": "res005_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -7260,18 +5845,13 @@
   },
   {
     "id": 328,
-    "seq": 2,
     "cardId": 164,
     "title": "사이드 스토리(후편)",
     "scenarioId": "005006_minori02",
-    "assetbundleName": "res005_no006",
     "releaseConditionId": 30164,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -7283,18 +5863,13 @@
   },
   {
     "id": 329,
-    "seq": 1,
     "cardId": 165,
     "title": "사이드 스토리(전편)",
     "scenarioId": "012007_touya01",
-    "assetbundleName": "res012_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -7306,18 +5881,13 @@
   },
   {
     "id": 330,
-    "seq": 2,
     "cardId": 165,
     "title": "사이드 스토리(후편)",
     "scenarioId": "012007_touya02",
-    "assetbundleName": "res012_no007",
     "releaseConditionId": 30165,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -7339,18 +5909,13 @@
   },
   {
     "id": 331,
-    "seq": 1,
     "cardId": 166,
     "title": "사이드 스토리(전편)",
     "scenarioId": "011006_akito01",
-    "assetbundleName": "res011_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -7362,18 +5927,13 @@
   },
   {
     "id": 332,
-    "seq": 2,
     "cardId": 166,
     "title": "사이드 스토리(후편)",
     "scenarioId": "011006_akito02",
-    "assetbundleName": "res011_no006",
     "releaseConditionId": 30166,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -7395,18 +5955,13 @@
   },
   {
     "id": 333,
-    "seq": 1,
     "cardId": 167,
     "title": "사이드 스토리(전편)",
     "scenarioId": "010006_an01",
-    "assetbundleName": "res010_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -7418,18 +5973,13 @@
   },
   {
     "id": 334,
-    "seq": 2,
     "cardId": 167,
     "title": "사이드 스토리(후편)",
     "scenarioId": "010006_an02",
-    "assetbundleName": "res010_no006",
     "releaseConditionId": 30167,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -7451,18 +6001,13 @@
   },
   {
     "id": 335,
-    "seq": 1,
     "cardId": 168,
     "title": "사이드 스토리(전편)",
     "scenarioId": "009006_kohane01",
-    "assetbundleName": "res009_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -7474,18 +6019,13 @@
   },
   {
     "id": 336,
-    "seq": 2,
     "cardId": 168,
     "title": "사이드 스토리(후편)",
     "scenarioId": "009006_kohane02",
-    "assetbundleName": "res009_no006",
     "releaseConditionId": 30168,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 3,
@@ -7507,18 +6047,13 @@
   },
   {
     "id": 337,
-    "seq": 1,
     "cardId": 169,
     "title": "사이드 스토리(전편)",
     "scenarioId": "023006_len01",
-    "assetbundleName": "res023_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7530,18 +6065,13 @@
   },
   {
     "id": 338,
-    "seq": 2,
     "cardId": 169,
     "title": "사이드 스토리(후편)",
     "scenarioId": "023006_len02",
-    "assetbundleName": "res023_no006",
     "releaseConditionId": 30169,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7553,18 +6083,13 @@
   },
   {
     "id": 339,
-    "seq": 1,
     "cardId": 170,
     "title": "사이드 스토리(전편)",
     "scenarioId": "004007_shiho01",
-    "assetbundleName": "res004_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7576,18 +6101,13 @@
   },
   {
     "id": 340,
-    "seq": 2,
     "cardId": 170,
     "title": "사이드 스토리(후편)",
     "scenarioId": "004007_shiho02",
-    "assetbundleName": "res004_no007",
     "releaseConditionId": 30170,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7609,18 +6129,13 @@
   },
   {
     "id": 341,
-    "seq": 1,
     "cardId": 171,
     "title": "사이드 스토리(전편)",
     "scenarioId": "022006_rin01",
-    "assetbundleName": "res022_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7632,18 +6147,13 @@
   },
   {
     "id": 342,
-    "seq": 2,
     "cardId": 171,
     "title": "사이드 스토리(후편)",
     "scenarioId": "022006_rin02",
-    "assetbundleName": "res022_no006",
     "releaseConditionId": 30171,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7665,18 +6175,13 @@
   },
   {
     "id": 343,
-    "seq": 1,
     "cardId": 172,
     "title": "사이드 스토리(전편)",
     "scenarioId": "003007_honami01",
-    "assetbundleName": "res003_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7688,18 +6193,13 @@
   },
   {
     "id": 344,
-    "seq": 2,
     "cardId": 172,
     "title": "사이드 스토리(후편)",
     "scenarioId": "003007_honami02",
-    "assetbundleName": "res003_no007",
     "releaseConditionId": 30172,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 1,
@@ -7721,18 +6221,13 @@
   },
   {
     "id": 345,
-    "seq": 1,
     "cardId": 173,
     "title": "사이드 스토리(전편)",
     "scenarioId": "013008_tsukasa01",
-    "assetbundleName": "res013_no008",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7744,18 +6239,13 @@
   },
   {
     "id": 346,
-    "seq": 2,
     "cardId": 173,
     "title": "사이드 스토리(후편)",
     "scenarioId": "013008_tsukasa02",
-    "assetbundleName": "res013_no008",
     "releaseConditionId": 30173,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7777,18 +6267,13 @@
   },
   {
     "id": 347,
-    "seq": 1,
     "cardId": 174,
     "title": "사이드 스토리(전편)",
     "scenarioId": "016007_rui01",
-    "assetbundleName": "res016_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7800,18 +6285,13 @@
   },
   {
     "id": 348,
-    "seq": 2,
     "cardId": 174,
     "title": "사이드 스토리(후편)",
     "scenarioId": "016007_rui02",
-    "assetbundleName": "res016_no007",
     "releaseConditionId": 30174,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 2,
@@ -7823,18 +6303,13 @@
   },
   {
     "id": 349,
-    "seq": 1,
     "cardId": 175,
     "title": "사이드 스토리(전편)",
     "scenarioId": "019007_ena01",
-    "assetbundleName": "res019_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -7846,18 +6321,13 @@
   },
   {
     "id": 350,
-    "seq": 2,
     "cardId": 175,
     "title": "사이드 스토리(후편)",
     "scenarioId": "019007_ena02",
-    "assetbundleName": "res019_no007",
     "releaseConditionId": 30175,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -7879,18 +6349,13 @@
   },
   {
     "id": 351,
-    "seq": 1,
     "cardId": 176,
     "title": "사이드 스토리(전편)",
     "scenarioId": "018007_mafuyu01",
-    "assetbundleName": "res018_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -7902,18 +6367,13 @@
   },
   {
     "id": 352,
-    "seq": 2,
     "cardId": 176,
     "title": "사이드 스토리(후편)",
     "scenarioId": "018007_mafuyu02",
-    "assetbundleName": "res018_no007",
     "releaseConditionId": 30176,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -7935,18 +6395,13 @@
   },
   {
     "id": 353,
-    "seq": 1,
     "cardId": 177,
     "title": "사이드 스토리(전편)",
     "scenarioId": "017006_kanade01",
-    "assetbundleName": "res017_no006",
     "releaseConditionId": 1,
     "power1BonusFixed": 250,
     "power2BonusFixed": 250,
     "power3BonusFixed": 250,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -7958,18 +6413,13 @@
   },
   {
     "id": 354,
-    "seq": 2,
     "cardId": 177,
     "title": "사이드 스토리(후편)",
     "scenarioId": "017006_kanade02",
-    "assetbundleName": "res017_no006",
     "releaseConditionId": 30177,
     "power1BonusFixed": 600,
     "power2BonusFixed": 600,
     "power3BonusFixed": 600,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 4,
@@ -7991,18 +6441,13 @@
   },
   {
     "id": 355,
-    "seq": 1,
     "cardId": 178,
     "title": "사이드 스토리(전편)",
     "scenarioId": "022007_rin01",
-    "assetbundleName": "res022_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 200,
     "power2BonusFixed": 200,
     "power3BonusFixed": 200,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -8014,18 +6459,13 @@
   },
   {
     "id": 356,
-    "seq": 2,
     "cardId": 178,
     "title": "사이드 스토리(후편)",
     "scenarioId": "022007_rin02",
-    "assetbundleName": "res022_no007",
     "releaseConditionId": 30178,
     "power1BonusFixed": 500,
     "power2BonusFixed": 500,
     "power3BonusFixed": 500,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -8047,18 +6487,13 @@
   },
   {
     "id": 357,
-    "seq": 1,
     "cardId": 179,
     "title": "사이드 스토리(전편)",
     "scenarioId": "020007_mizuki01",
-    "assetbundleName": "res020_no007",
     "releaseConditionId": 1,
     "power1BonusFixed": 150,
     "power2BonusFixed": 150,
     "power3BonusFixed": 150,
-    "rewardResourceBoxIds": [
-      3
-    ],
     "costs": [
       {
         "resourceId": 5,
@@ -8070,18 +6505,13 @@
   },
   {
     "id": 358,
-    "seq": 2,
     "cardId": 179,
     "title": "사이드 스토리(후편)",
     "scenarioId": "020007_mizuki02",
-    "assetbundleName": "res020_no007",
     "releaseConditionId": 30179,
     "power1BonusFixed": 300,
     "power2BonusFixed": 300,
     "power3BonusFixed": 300,
-    "rewardResourceBoxIds": [
-      4
-    ],
     "costs": [
       {
         "resourceId": 5,
