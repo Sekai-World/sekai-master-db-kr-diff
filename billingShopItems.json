@@ -193,6 +193,38 @@
     "endAt": 4097141999000
   },
   {
+    "id": 25,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 25,
+    "name": "2022 크리스마스 의상 세트 A",
+    "description": "水晶×1800\n演出服裝「聖誕服裝☆2020（女性）」20套×4種顏色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_25",
+    "resourceBoxId": 25,
+    "bonusResourceBoxId": 14,
+    "startAt": 1657951200000,
+    "endAt": 1658501999000
+  },
+  {
+    "id": 26,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 26,
+    "name": "2022 크리스마스 의상 세트 B",
+    "description": "水晶×1800\n演出服裝「聖誕服裝☆2020（男性）」6套×4種顏色",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_26",
+    "resourceBoxId": 26,
+    "bonusResourceBoxId": 15,
+    "startAt": 1657951200000,
+    "endAt": 1658501999000
+  },
+  {
     "id": 33,
     "seq": 20,
     "billingShopItemType": "value_set",
