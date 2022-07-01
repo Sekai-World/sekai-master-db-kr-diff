@@ -104,6 +104,22 @@
     "value": "HZ"
   },
   {
+    "wordingKey": "KAKAO_BIND_BUTTON",
+    "value": "연동하기"
+  },
+  {
+    "wordingKey": "KAKAO_BIND_CONTENT",
+    "value": "더 이상 카카오톡 계정을 통한 로그인 방식이 지원되지 않습니다.\\n\n계정이 유실되지 않도록 다른 제3자 플랫폼 계정과\\n\n연동하시길 바랍니다.\\n\n연동 후 크리스탈x100, 라이브 보너스 드링크(대)x1을\\n\n보상으로 드립니다."
+  },
+  {
+    "wordingKey": "KAKAO_BIND_REWARD",
+    "value": "제3자 플랫폼 변경에 대한 보상입니다."
+  },
+  {
+    "wordingKey": "KAKAO_BIND_TITLE",
+    "value": "중요 안내 사항"
+  },
+  {
     "wordingKey": "KB",
     "value": "KB"
   },
@@ -6315,6 +6331,22 @@
     "value": "·'<color=#3FD5C8>{0}</color>'(은)는 일부 액세서리와 동시에 설정할 수 없습니다."
   },
   {
+    "wordingKey": "WORD_HASUERLOGOUT_BUTTON_CLOSE",
+    "value": "취소"
+  },
+  {
+    "wordingKey": "WORD_HASUERLOGOUT_BUTTON_UNDO",
+    "value": "복구"
+  },
+  {
+    "wordingKey": "WORD_HASUERLOGOUT_CONTENT",
+    "value": "계정이 성공적으로 삭제되었습니다. 타이틀 화면으로 돌아갑니다."
+  },
+  {
+    "wordingKey": "WORD_HASUERLOGOUT_UNDO",
+    "value": "[%s] 계정이 삭제되었습니다. %s전까지 해당 계정을 복구할 수 있습니다. 삭제한 계정을 복구하시겠습니까?"
+  },
+  {
     "wordingKey": "WORD_HATED_FOOD",
     "value": "싫어하는 음식"
   },
@@ -6773,6 +6805,10 @@
   {
     "wordingKey": "Word_Login_Faile",
     "value": "로그인에 실패하였습니다. 다시 시도해 주세요."
+  },
+  {
+    "wordingKey": "WORD_LOGPOUT",
+    "value": "계정 삭제"
   },
   {
     "wordingKey": "WORD_LV",
@@ -8293,6 +8329,30 @@
     "value": "룸 타입"
   },
   {
+    "wordingKey": "WORD_RUFUND_DESCRIPTION",
+    "value": "최근 신청하신 환불 상품에 대한 차감이 완료되었습니다.\n궁금한 사항이 있으시다면 게임 내 고객 센터로 문의해 주세요."
+  },
+  {
+    "wordingKey": "WORD_RUFUND_RESTRICTION_DESCRIPTION",
+    "value": "최근 주민님의 계정에 규정 위반 환불 기록이 수차례 확인되어\\n\n결제 기능이 15일 제한되었습니다.\\n\n이후 규정 위반 환불 기록이 추가로 발생할 경우\\n\n계정이 정지될 수 있으니 유의해 주세요.\\n\n궁금한 사항이 있으시면 게임 내 고객 센터로 문의해 주세요."
+  },
+  {
+    "wordingKey": "WORD_RUFUND_RESTRICTION_TITLE",
+    "value": "규정 위반 환불 안내"
+  },
+  {
+    "wordingKey": "WORD_RUFUND_TITLE",
+    "value": "환불 알림"
+  },
+  {
+    "wordingKey": "WORD_RUFUND_WARNING_DESCRIPTION",
+    "value": "조사 결과, 최근 신청하신 환불이\\n\n규정에 위반되는 것으로 확인되었습니다.\\n\n규정 위반 사안이 추가로 발생할 경우 운영 정책에 따라\\n\n결제 기능이 제한되거나 최대 계정이 정지될 수 있으니 유의해 주세요.\\n\n궁금한 사항이 있으시면 게임 내 고객 센터로 문의해 주세요."
+  },
+  {
+    "wordingKey": "WORD_RUFUND_WARNING_TITLE",
+    "value": "규정 위반 환불 안내"
+  },
+  {
     "wordingKey": "WORD_SATISFIED",
     "value": "만족"
   },
@@ -8985,6 +9045,10 @@
     "value": "Twitter로 이동"
   },
   {
+    "wordingKey": "WORD_UERLOGOUT_TITLE",
+    "value": "계정 삭제"
+  },
+  {
     "wordingKey": "WORD_UNIT",
     "value": "유닛"
   },
@@ -9043,6 +9107,10 @@
   {
     "wordingKey": "WORD_UNLOCK_STORY",
     "value": "스토리 오픈"
+  },
+  {
+    "wordingKey": "WORD_UNSUBSCRIBE",
+    "value": "계정이 삭제되었습니다"
   },
   {
     "wordingKey": "WORD_UNTIL_LIVE",
@@ -9371,6 +9439,10 @@
   {
     "wordingKey": "WORD_WAITING_ROOM",
     "value": "대기실"
+  },
+  {
+    "wordingKey": "WORD_WAITLOGOFF_CONTENT",
+    "value": "계정을 삭제하는 중입니다. 잠시만 기다려 주세요..."
   },
   {
     "wordingKey": "WORD_WAIT_APPROVAL_LIST",
