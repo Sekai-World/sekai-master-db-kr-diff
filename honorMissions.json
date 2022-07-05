@@ -48,6 +48,18 @@
     ]
   },
   {
+    "id": 203,
+    "seq": 3,
+    "honorMissionType": "player_rank",
+    "requirement": 200,
+    "sentence": "플레이어 랭크 200 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1131
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -204,6 +216,30 @@
     ]
   },
   {
+    "id": 907,
+    "seq": 7,
+    "honorMissionType": "clear_live_difficulty_all",
+    "requirement": 60,
+    "sentence": "60곡을 모든 난이도별로 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1159
+      }
+    ]
+  },
+  {
+    "id": 908,
+    "seq": 8,
+    "honorMissionType": "clear_live_difficulty_all",
+    "requirement": 70,
+    "sentence": "70곡을 모든 난이도별로 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
     "id": 1004,
     "seq": 4,
     "honorMissionType": "master_full_combo",
@@ -240,6 +276,30 @@
     ]
   },
   {
+    "id": 1007,
+    "seq": 7,
+    "honorMissionType": "master_full_combo",
+    "requirement": 60,
+    "sentence": "난이도 MASTER에서 60곡 풀 콤보로 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1155
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "seq": 8,
+    "honorMissionType": "master_full_combo",
+    "requirement": 70,
+    "sentence": "난이도 MASTER에서 70곡 풀 콤보로 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1156
+      }
+    ]
+  },
+  {
     "id": 1104,
     "seq": 4,
     "honorMissionType": "master_full_perfect",
@@ -272,6 +332,30 @@
     "rewards": [
       {
         "resourceBoxId": 1066
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "seq": 7,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 60,
+    "sentence": "난이도 MASTER에서 60곡 ALL PERFECT로 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1157
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "seq": 8,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 70,
+    "sentence": "난이도 MASTER에서 70곡 ALL PERFECT로 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1158
       }
     ]
   },
