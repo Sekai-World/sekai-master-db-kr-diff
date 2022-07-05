@@ -2308,6 +2308,18 @@
         "level": 3,
         "bonus": 0,
         "description": "50곡을 모든 난이도별로 클리어하기"
+      },
+      {
+        "honorId": 119,
+        "level": 4,
+        "bonus": 0,
+        "description": "60곡을 모든 난이도별로 클리어하기"
+      },
+      {
+        "honorId": 119,
+        "level": 5,
+        "bonus": 0,
+        "description": "70곡을 모든 난이도별로 클리어하기"
       }
     ]
   },
@@ -2336,6 +2348,18 @@
         "level": 3,
         "bonus": 0,
         "description": "난이도 MASTER에서 50곡 풀 콤보로 클리어하기"
+      },
+      {
+        "honorId": 123,
+        "level": 4,
+        "bonus": 0,
+        "description": "난이도 MASTER에서 60곡 풀 콤보로 클리어하기"
+      },
+      {
+        "honorId": 123,
+        "level": 5,
+        "bonus": 0,
+        "description": "난이도 MASTER에서 70곡 풀 콤보로 클리어하기"
       }
     ]
   },
@@ -2364,6 +2388,18 @@
         "level": 3,
         "bonus": 0,
         "description": "난이도 MASTER에서 50곡 ALL PERFECT로 클리어하기"
+      },
+      {
+        "honorId": 126,
+        "level": 4,
+        "bonus": 0,
+        "description": "난이도 MASTER에서 60곡 ALL PERFECT로 클리어하기"
+      },
+      {
+        "honorId": 126,
+        "level": 5,
+        "bonus": 0,
+        "description": "난이도 MASTER에서 70곡 ALL PERFECT로 클리어하기"
       }
     ]
   },
@@ -5436,6 +5472,22 @@
         "level": 1,
         "bonus": 0,
         "description": "이벤트 '지금부터 RE:START!'에서 \n50000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "seq": 1081,
+    "groupId": 110,
+    "honorRarity": "middle",
+    "name": "플라티나",
+    "assetbundleName": "honor_0357",
+    "levels": [
+      {
+        "honorId": 357,
+        "level": 1,
+        "bonus": 10,
+        "description": "랭크 200 달성하기"
       }
     ]
   },
