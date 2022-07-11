@@ -32,58 +32,15 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 16,
-    "seq": 40,
-    "homeBannerType": "event",
-    "name": "배너",
-    "assetbundleName": "event_sportsfestival_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 4,
-    "startAt": 1655186400000,
-    "endAt": 1655877599000
-  },
-  {
-    "homeBannerId": 17,
-    "seq": 50,
+    "homeBannerId": 25,
+    "seq": 30,
     "homeBannerType": "general",
     "name": "배너",
-    "assetbundleName": "banner_gacha9",
+    "assetbundleName": "banner_gacha15",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 9,
-    "startAt": 1655186400000,
-    "endAt": 1655963999000
-  },
-  {
-    "homeBannerId": 18,
-    "seq": 60,
-    "homeBannerType": "general",
-    "name": "배너",
-    "assetbundleName": "banner_gacha11",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 11,
-    "startAt": 1655359200000,
-    "endAt": 1655726399000
-  },
-  {
-    "homeBannerId": 27,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "배너",
-    "assetbundleName": "banner_cp2",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 8,
-    "startAt": 1651384800000,
-    "endAt": 1656428399000
-  },
-  {
-    "homeBannerId": 30,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "배너",
-    "assetbundleName": "banner_bp02",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1654009200000,
-    "endAt": 1656568799000
+    "transitionDestinationId": 15,
+    "startAt": 1656655200000,
+    "endAt": 1657605599000
   },
   {
     "homeBannerId": 35,
@@ -94,5 +51,48 @@
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1654009200000,
     "endAt": 4083890399000
+  },
+  {
+    "homeBannerId": 39,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_bp04",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1656946800000,
+    "endAt": 1659279599000
+  },
+  {
+    "homeBannerId": 40,
+    "seq": 40,
+    "homeBannerType": "event",
+    "name": "배너",
+    "assetbundleName": "event_culturalfestival_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 7,
+    "startAt": 1657260000000,
+    "endAt": 1657951199000
+  },
+  {
+    "homeBannerId": 41,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha20",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 20,
+    "startAt": 1657260000000,
+    "endAt": 1657951199000
+  },
+  {
+    "homeBannerId": 42,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha22",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 22,
+    "startAt": 1657432800000,
+    "endAt": 1657799999000
   }
 ]
