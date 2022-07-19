@@ -924,7 +924,7 @@
   },
   {
     "wordingKey": "MSG_LIVE_MISSION_NOT_HELD",
-    "value": "CBT 기간엔 라이브 미션이 오픈되지 않으며, 정식 런칭 후 오픈될 예정입니다. 양해 부탁드립니다."
+    "value": "현재 라이브 미션 개최 중이 아닙니다."
   },
   {
     "wordingKey": "MSG_LIVE_SKIP_BODY",
@@ -1316,6 +1316,10 @@
   },
   {
     "wordingKey": "MSG_NOT_SPRING_EVENT_INSESSION",
+    "value": "개최 중인 이벤트가 없습니다."
+  },
+  {
+    "wordingKey": "MSG_NOT_SUPPORT_EVENT_INSESSION",
     "value": "개최 중인 이벤트가 없습니다."
   },
   {
@@ -6468,7 +6472,7 @@
   },
   {
     "wordingKey": "WORD_HONOR_GET_HOLDER",
-    "value": "칭호 '{0}'"
+    "value": "칭호 '{0}' "
   },
   {
     "wordingKey": "WORD_HONOR_NO_SETTING",
@@ -6476,7 +6480,7 @@
   },
   {
     "wordingKey": "WORD_HONOR_RANK",
-    "value": " 랭크 {0}"
+    "value": "랭크 {0}"
   },
   {
     "wordingKey": "WORD_HONOR_SETTING",
@@ -8865,6 +8869,14 @@
     "value": "SUPER\nSTAR"
   },
   {
+    "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
+    "value": "유닛 응원 P {0}만 달성 보상"
+  },
+  {
+    "wordingKey": "WORD_SUPPORT_EVENT_UNIT_SCORE_REWARD",
+    "value": "유닛 응원 P 보상"
+  },
+  {
     "wordingKey": "WORD_SUPPORT_MEMBR",
     "value": "서포트 멤버"
   },
@@ -9163,6 +9175,22 @@
   {
     "wordingKey": "Word_VirtualLiveMCSub",
     "value": "버추얼 라이브 캐릭터 대화 자막"
+  },
+  {
+    "wordingKey": "Word_VirtualLiveMCSubFont",
+    "value": "버추얼 라이브 대화 자막 크기"
+  },
+  {
+    "wordingKey": "Word_VirtualLiveMCSubFontLarge",
+    "value": "크게"
+  },
+  {
+    "wordingKey": "Word_VirtualLiveMCSubFontMedium",
+    "value": "보통"
+  },
+  {
+    "wordingKey": "Word_VirtualLiveMCSubFontSmall",
+    "value": "작게"
   },
   {
     "wordingKey": "WORD_VIRTUAL_COIN",
