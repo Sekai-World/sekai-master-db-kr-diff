@@ -80080,6 +80080,88 @@
   },
   {
     "resourceBoxPurpose": "mission_reward",
+    "id": 100021,
+    "resourceBoxType": "expand",
+    "name": "뮤직 카드",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 13,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100022,
+    "resourceBoxType": "expand",
+    "name": "JEWEL",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 390
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100023,
+    "resourceBoxType": "expand",
+    "name": "마음의 조각",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 39
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100024,
+    "resourceBoxType": "expand",
+    "name": "葱（體力道具）",
+    "details": [
+      {
+        "resourceType": "boost_item",
+        "resourceId": 1002,
+        "resourceQuantity": 3
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100025,
+    "resourceBoxType": "expand",
+    "name": "虚拟硬币",
+    "details": [
+      {
+        "resourceType": "virtual_coin",
+        "resourceQuantity": 1500
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 100026,
+    "resourceBoxType": "costume_3d",
+    "name": "宇宙",
+    "assetbundleName": "live_mission_001",
+    "details": [
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 11129,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "costume_3d",
+        "resourceId": 11130,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
     "id": 200001,
     "resourceBoxType": "expand",
     "name": "主唱卡交换券",
@@ -91530,6 +91612,18 @@
   },
   {
     "resourceBoxPurpose": "shop_item",
+    "id": 10169,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 296,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
     "id": 10170,
     "resourceBoxType": "expand",
     "details": [
@@ -91548,6 +91642,18 @@
       {
         "resourceType": "music_vocal",
         "resourceId": 298,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10172,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 299,
         "resourceQuantity": 1
       }
     ]
@@ -91716,6 +91822,18 @@
       {
         "resourceType": "music_vocal",
         "resourceId": 349,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10193,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 350,
         "resourceQuantity": 1
       }
     ]
@@ -92004,6 +92122,30 @@
       {
         "resourceType": "music_vocal",
         "resourceId": 392,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10218,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 389,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10219,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 390,
         "resourceQuantity": 1
       }
     ]
@@ -100604,19 +100746,6 @@
       {
         "resourceType": "penlight",
         "resourceId": 23,
-        "resourceQuantity": 1
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "virtual_shop_item",
-    "id": 10001,
-    "resourceBoxType": "expand",
-    "name": "[套裝]虎玩偶裝",
-    "details": [
-      {
-        "resourceType": "avatar_accessory",
-        "resourceId": 48,
         "resourceQuantity": 1
       }
     ]
