@@ -52,25 +52,46 @@
     "endAt": 1659279599000
   },
   {
-    "homeBannerId": 40,
+    "homeBannerId": 43,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_shop_christmas_costume_2020",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1657951200000,
+    "endAt": 1658642399000
+  },
+  {
+    "homeBannerId": 44,
     "seq": 40,
     "homeBannerType": "event",
     "name": "배너",
-    "assetbundleName": "event_culturalfestival_2020",
+    "assetbundleName": "event_nijiiro_2020",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 7,
-    "startAt": 1657260000000,
-    "endAt": 1657951199000
+    "transitionDestinationId": 8,
+    "startAt": 1657951200000,
+    "endAt": 1658642399000
   },
   {
-    "homeBannerId": 41,
+    "homeBannerId": 45,
     "seq": 50,
     "homeBannerType": "general",
     "name": "배너",
-    "assetbundleName": "banner_gacha20",
+    "assetbundleName": "banner_gacha23",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 20,
-    "startAt": 1657260000000,
-    "endAt": 1657951199000
+    "transitionDestinationId": 23,
+    "startAt": 1657951200000,
+    "endAt": 1658642399000
+  },
+  {
+    "homeBannerId": 46,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha25",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 25,
+    "startAt": 1658124000000,
+    "endAt": 1658491199000
   }
 ]
