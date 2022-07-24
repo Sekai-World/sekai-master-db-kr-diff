@@ -52,35 +52,68 @@
     "endAt": 1659279599000
   },
   {
-    "homeBannerId": 43,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "배너",
-    "assetbundleName": "banner_shop_christmas_costume_2020",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1657951200000,
-    "endAt": 1658642399000
-  },
-  {
-    "homeBannerId": 44,
+    "homeBannerId": 47,
     "seq": 40,
     "homeBannerType": "event",
     "name": "배너",
-    "assetbundleName": "event_nijiiro_2020",
+    "assetbundleName": "event_newyear_2020",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 8,
-    "startAt": 1657951200000,
-    "endAt": 1658642399000
+    "transitionDestinationId": 9,
+    "startAt": 1658642400000,
+    "endAt": 1659333599000
   },
   {
-    "homeBannerId": 45,
+    "homeBannerId": 48,
     "seq": 50,
     "homeBannerType": "general",
     "name": "배너",
-    "assetbundleName": "banner_gacha23",
+    "assetbundleName": "banner_gacha26",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 23,
-    "startAt": 1657951200000,
-    "endAt": 1658642399000
+    "transitionDestinationId": 26,
+    "startAt": 1658642400000,
+    "endAt": 1659333599000
+  },
+  {
+    "homeBannerId": 49,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha28",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 30,
+    "startAt": 1658642400000,
+    "endAt": 1659333599000
+  },
+  {
+    "homeBannerId": 50,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha30",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 30,
+    "startAt": 1658674800000,
+    "endAt": 1658761199000
+  },
+  {
+    "homeBannerId": 74,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_virtuallive86",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 86,
+    "startAt": 1658642400000,
+    "endAt": 1658901599000
+  },
+  {
+    "homeBannerId": 78,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_shop_newyear2021",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1658642400000,
+    "endAt": 1659365999000
   }
 ]
