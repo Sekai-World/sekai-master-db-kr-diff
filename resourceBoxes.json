@@ -56644,6 +56644,24 @@
     ]
   },
   {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1024,
+    "resourceBoxType": "list",
+    "name": "칠석 로그인 캠페인 보상입니다.",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      },
+      {
+        "resourceType": "boost_item",
+        "resourceId": 3,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "master_lesson_reward",
     "id": 1,
     "resourceBoxType": "expand",
