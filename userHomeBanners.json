@@ -32,6 +32,17 @@
     "endAt": 4102412399000
   },
   {
+    "homeBannerId": 34,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha16",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 16,
+    "startAt": 1632970800000,
+    "endAt": 1969595999000
+  },
+  {
     "homeBannerId": 35,
     "seq": 20,
     "homeBannerType": "general",
@@ -85,26 +96,15 @@
     "endAt": 1659333599000
   },
   {
-    "homeBannerId": 51,
+    "homeBannerId": 53,
     "seq": 50,
     "homeBannerType": "general",
     "name": "배너",
     "assetbundleName": "banner_gacha30",
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 30,
-    "startAt": 1658761200000,
-    "endAt": 1658847599000
-  },
-  {
-    "homeBannerId": 74,
-    "seq": 60,
-    "homeBannerType": "general",
-    "name": "배너",
-    "assetbundleName": "banner_virtuallive86",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 86,
-    "startAt": 1658642400000,
-    "endAt": 1658901599000
+    "startAt": 1658934000000,
+    "endAt": 1659020399000
   },
   {
     "homeBannerId": 78,
