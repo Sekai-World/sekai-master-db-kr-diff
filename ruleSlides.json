@@ -264,6 +264,12 @@
     "tutorialpanel": "CustomProfileSelect"
   },
   {
+    "id": 1000,
+    "ruleSlideType": "EVENT_PERSONAL",
+    "assetbundleName": "event/{0}/slide/personal",
+    "redisplay": "once"
+  },
+  {
     "id": 1001,
     "ruleSlideType": "SUDOKU_START",
     "assetbundleName": "tutorial/slide/sudoku_start"
