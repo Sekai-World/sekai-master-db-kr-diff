@@ -63,25 +63,36 @@
     "endAt": 1661957999000
   },
   {
-    "homeBannerId": 60,
+    "homeBannerId": 63,
     "seq": 40,
     "homeBannerType": "event",
     "name": "배너",
-    "assetbundleName": "event_hareomatsu_2021",
+    "assetbundleName": "event_nocturne_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 10,
-    "startAt": 1659333600000,
-    "endAt": 1660024799000
+    "transitionDestinationId": 12,
+    "startAt": 1660024800000,
+    "endAt": 1660715999000
   },
   {
-    "homeBannerId": 61,
+    "homeBannerId": 64,
     "seq": 50,
     "homeBannerType": "general",
     "name": "배너",
-    "assetbundleName": "banner_gacha39",
+    "assetbundleName": "banner_gacha45",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 39,
-    "startAt": 1659333600000,
-    "endAt": 1660024799000
+    "transitionDestinationId": 45,
+    "startAt": 1660024800000,
+    "endAt": 1660715999000
+  },
+  {
+    "homeBannerId": 75,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_virtuallive88",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 88,
+    "startAt": 1660024800000,
+    "endAt": 1660283999000
   }
 ]
