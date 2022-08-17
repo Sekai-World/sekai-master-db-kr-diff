@@ -40566,6 +40566,22 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 10039,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 200
+      },
+      {
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 9999999,
     "resourceBoxType": "expand",
     "details": [
@@ -77325,9 +77341,9 @@
     "resourceBoxType": "expand",
     "details": [
       {
-        "resourceType": "gacha_ticket",
-        "resourceId": 2,
-        "resourceQuantity": 1
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 100
       }
     ]
   },
@@ -77337,8 +77353,9 @@
     "resourceBoxType": "expand",
     "details": [
       {
-        "resourceType": "jewel",
-        "resourceQuantity": 900
+        "resourceType": "gacha_ticket",
+        "resourceId": 1,
+        "resourceQuantity": 5
       },
       {
         "resourceType": "honor",

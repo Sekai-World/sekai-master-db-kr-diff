@@ -481,5 +481,21 @@
         "transitionDestinationId": "21"
       }
     ]
+  },
+  {
+    "id": 1012,
+    "assetbundleName": "limitmission_show_miku2022",
+    "showType": "ONCE",
+    "startAt": 1661839200000,
+    "endAt": 1662638399000,
+    "behaviors": [
+      {
+        "id": 70,
+        "eventShowDialogueId": 1012,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "148"
+      }
+    ]
   }
 ]
