@@ -44325,6 +44325,30 @@
     ]
   },
   {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1032,
+    "resourceBoxType": "expand",
+    "name": "추석 로그인 이벤트",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
+    "id": 1033,
+    "resourceBoxType": "expand",
+    "name": "추석 로그인 이벤트",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "master_lesson_reward",
     "id": 1,
     "resourceBoxType": "expand",
@@ -70905,6 +70929,18 @@
       {
         "resourceType": "music_vocal",
         "resourceId": 471,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10301,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 155,
         "resourceQuantity": 1
       }
     ]
