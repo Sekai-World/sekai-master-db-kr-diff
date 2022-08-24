@@ -394,8 +394,8 @@
     "id": 23,
     "assetbundleName": "event_show_obt18_banner",
     "showType": "ONCE",
-    "startAt": 1664863200000,
-    "endAt": 1665403199000,
+    "startAt": 1664776800000,
+    "endAt": 1665316799000,
     "behaviors": [
       {
         "id": 46,
@@ -417,8 +417,8 @@
     "id": 24,
     "assetbundleName": "event_show_obt19_banner",
     "showType": "ONCE",
-    "startAt": 1665554400000,
-    "endAt": 1666094399000,
+    "startAt": 1665381600000,
+    "endAt": 1665921599000,
     "behaviors": [
       {
         "id": 50,
@@ -440,8 +440,8 @@
     "id": 25,
     "assetbundleName": "event_show_obt20_banner",
     "showType": "ONCE",
-    "startAt": 1666245600000,
-    "endAt": 1666785599000,
+    "startAt": 1665986400000,
+    "endAt": 1666526399000,
     "behaviors": [
       {
         "id": 51,
@@ -463,8 +463,8 @@
     "id": 26,
     "assetbundleName": "event_show_obt21_banner",
     "showType": "ONCE",
-    "startAt": 1666936800000,
-    "endAt": 1667476799000,
+    "startAt": 1666591200000,
+    "endAt": 1667131199000,
     "behaviors": [
       {
         "id": 52,
@@ -494,7 +494,38 @@
         "eventShowDialogueId": 1012,
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "information",
-        "transitionDestinationId": "148"
+        "transitionDestinationId": "156"
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "assetbundleName": "release_100days",
+    "showType": "ONCE",
+    "startAt": 1661320800000,
+    "endAt": 1661752799000,
+    "behaviors": [
+      {
+        "id": 71,
+        "eventShowDialogueId": 1013,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "152"
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "assetbundleName": "event_show_livemissionpass_06",
+    "showType": "ONCE",
+    "startAt": 1661958000000,
+    "endAt": 1664549999000,
+    "behaviors": [
+      {
+        "id": 72,
+        "eventShowDialogueId": 1014,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_live_mission_pass"
       }
     ]
   }
