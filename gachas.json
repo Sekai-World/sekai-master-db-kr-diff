@@ -17864,6 +17864,17 @@
         "id": 115,
         "gachaId": 42,
         "groupId": 3,
+        "priority": 1,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1
+      },
+      {
+        "id": 116,
+        "gachaId": 42,
+        "groupId": 3,
         "priority": 2,
         "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
@@ -17871,7 +17882,18 @@
         "spinCount": 1
       },
       {
-        "id": 116,
+        "id": 117,
+        "gachaId": 42,
+        "groupId": 4,
+        "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 118,
         "gachaId": 42,
         "groupId": 4,
         "priority": 2,
@@ -17881,7 +17903,7 @@
         "spinCount": 10
       },
       {
-        "id": 365,
+        "id": 386,
         "gachaId": 42,
         "groupId": 3,
         "priority": 1,
@@ -17892,7 +17914,7 @@
         "spinCount": 1
       },
       {
-        "id": 366,
+        "id": 387,
         "gachaId": 42,
         "groupId": 4,
         "priority": 1,
@@ -17921,7 +17943,7 @@
     "gachaInformation": {
       "gachaId": 42,
       "summary": "'비 온 뒤 반짝이는 무지개 뽑기' 등장!\n\n신규 멤버 3명이 등장하며, 희귀도가 같은 다른 멤버보다 출현 확률이 높은 뽑기입니다.\n\n★2 이상 멤버만 출현합니다.\n'10회 뽑기'에서는 ★3 이상 멤버 1명이 반드시 출현합니다.\n\n또한, 1인 1회 한정으로 유료 크리스탈 1500개를 사용하여 '10회 뽑기'를 저렴하게 이용할 수 있습니다.\n\n[신규 멤버]\n★4[그 누구도 아닌 \"나 자신\"을] 히노모리 시즈쿠\n★4[새로운 멤버 등장♪] 메구리네 루카\n★4[달콤한 한때] 모모이 아이리\n\n처음 획득하는 일부 ★4 멤버는 '라이브 의상'이 포함되어 있습니다.\n'라이브 의상'을 획득하면 다른 캐릭터가 착용 가능한 의상을 '의상 상점'에서 만들 수 있습니다.\n다른 캐릭터가 착용하는 '라이브 의상'은 일부 디자인과 액세서리 유무가 다를 수 있습니다.\n자세한 내용은 [멤버]→[라이브 의상] 화면에서 확인할 수 있습니다.\n\n■뽑기 스티커에 관하여\n'비 온 뒤 반짝이는 무지개 뽑기'에서 멤버를 1명 획득할 때마다 '비 온 뒤 반짝이는 무지개 뽑기 스티커'를 1장 획득할 수 있습니다.\n'비 온 뒤 반짝이는 무지개 뽑기 스티커'를 300장 사용하면 '비 온 뒤 반짝이는 무지개 뽑기' 스티커 교환소 내의 멤버로 교환할 수 있습니다.\n또한, '비 온 뒤 반짝이는 무지개 뽑기 스티커'를 10장 사용하면 '비 온 뒤 반짝이는 무지개 뽑기' 스티커 교환소 내의 '뽑기 스티커 티켓'으로 교환할 수 있습니다.\n\n■뽑기 보너스에 관하여\n'비 온 뒤 반짝이는 무지개 뽑기'를 1회 이용할 때마다 뽑기 보너스가 쌓입니다.\n쌓이는 뽑기 보너스는 뽑기 1회에 사용하는 크리스탈의 종류에 따라 달라집니다.\n\n무료 크리스탈: ＋0.5\n유료 크리스탈: ＋1\n※뽑기 1회에 유료 크리스탈과 무료 크리스탈을 합쳐서 사용하는 경우에는 ＋0.5가 됩니다.\n※뽑기 티켓 사용 시 쌓이는 뽑기 보너스는 무료 크리스탈과 마찬가지로 ＋0.5입니다.\n\n뽑기 보너스가 50 쌓이면 ★4 멤버 1명이 반드시 출현합니다.\n뽑기 보너스가 100 쌓이면 신규 등장 멤버인 ★4[그 누구도 아닌 \"나 자신\"을] 히노모리 시즈쿠, ★4[새로운 멤버 등장♪] 메구리네 루카, ★4[달콤한 한때] 모모이 아이리 중 1명이 반드시 출현합니다.\n\n※뽑기 보너스 50으로 획득 가능한 ★4 멤버의 제공 확률, 뽑기 보너스 100으로 획득 가능한 픽업 대상 ★4 멤버의 제공 확률은 각각 균일합니다.\n※이 뽑기의 뽑기 보너스는 이 뽑기가 아닌 다른 뽑기로는 획득할 수 없습니다.\n※이 뽑기에서 획득한 뽑기 보너스는 다음번 뽑기로 이어지지 않습니다.\n",
-      "description": "-1일 1회 한정 뽑기 및 1회 한정 뽑기는 유료 크리스탈로만 이용할 수 있습니다.\n-1일 1회 한정 뽑기는 매일 4시에 초기화됩니다.\n-컬러풀 패스의 유효 기간 동안에는 1일 1회 한정 뽑기를 1일 2회 이용할 수 있습니다.\n-무료 크리스탈로 이용 가능한 뽑기는 뽑기 티켓으로도 이용할 수 있습니다.\n-뽑기 티켓은 무료 크리스탈 대신 우선 사용됩니다.\n-크리스탈 사용 시에는 무료 크리스탈이 우선 사용됩니다. 단, '유료 크리스탈 우선 사용'으로 설정한 경우 유료 크리스탈이 우선 사용됩니다.\n-출현하는 멤버는 모두 특훈 전 상태입니다.\n-뽑기에서 출현하는 멤버는 중복될 수 있습니다.\n-중복으로 획득한 멤버는 대기실로 자동 이동 됩니다.\n-뽑기는 제공 확률에 기반하여 1회마다 개별 추첨을 진행합니다. 예를 들어 제공 확률이 1%인 멤버라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n-[10회 뽑기]를 이용해 추첨한 결과 ★3 이상 멤버가 한 명도 출현하지 않은 경우에는 10번째 슬롯을 확정 뽑기 제공 확률로 다시 추첨합니다.\n-뽑기 보너스에 의해 반드시 출현하는 멤버와 '10회 뽑기'에서 반드시 출현하는 ★3 이상 멤버는 각각 별개로 추첨되어 획득합니다.\n-뽑기 보너스가 100에 도달하면 0으로 돌아갑니다. 100을 초과해 획득한 뽑기 보너스는 다음으로 넘어갑니다.\n-제공 확률은 제공 확률 탭에서 확인할 수 있습니다.\n-신규 멤버의 능력치와 스킬은 뽑기 페이지의 멤버 상세 보기에서 확인할 수 있습니다.\n-라이브 의상 포함 멤버는 제공 확률 탭에서 확인할 수 있습니다.\n-뽑기 실행 후 게임을 강제 종료 하거나 통신이 끊겨 뽑기 결과 화면이 정상적으로 표시되지 않더라도 멤버는 획득됩니다. 멤버 목록이나 대기실을 확인해 주세요.\n-'비 온 뒤 반짝이는 무지개 뽑기 스티커'의 교환 기한은 2022년 9월 10일 14:59까지입니다. 교환 기한이 지나면 같은 수의 '마음의 조각'으로 변환됩니다.\n-이 뽑기에서 등장한 신규 멤버는 이후 뽑기에도 출현하지만 제공 확률은 다를 수 있습니다.\n-진행 일정은 예고 없이 변경될 수 있습니다."
+      "description": "-1일 1회 한정 뽑기 및 1회 한정 뽑기는 유료 크리스탈로만 이용할 수 있습니다.\n-1일 1회 한정 뽑기는 매일 4시에 초기화됩니다.\n-컬러풀 패스의 유효 기간 동안에는 1일 1회 한정 뽑기를 1일 2회 이용할 수 있습니다.\n-무료 크리스탈로 이용 가능한 뽑기는 뽑기 티켓으로도 이용할 수 있습니다.\n-뽑기 티켓은 무료 크리스탈 대신 우선 사용됩니다.\n-크리스탈 사용 시에는 무료 크리스탈이 우선 사용됩니다. 단, '유료 크리스탈 우선 사용'으로 설정한 경우 유료 크리스탈이 우선 사용됩니다.\n-출현하는 멤버는 모두 특훈 전 상태입니다.\n-뽑기에서 출현하는 멤버는 중복될 수 있습니다.\n-중복으로 획득한 멤버는 대기실로 자동 이동 됩니다.\n-뽑기는 제공 확률에 기반하여 1회마다 개별 추첨을 진행합니다. 예를 들어 제공 확률이 1%인 멤버라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n-[10회 뽑기]를 이용해 추첨한 결과 ★3 이상 멤버가 한 명도 출현하지 않은 경우에는 10번째 슬롯을 확정 뽑기 제공 확률로 다시 추첨합니다.\n-뽑기 보너스에 의해 반드시 출현하는 멤버와 '10회 뽑기'에서 반드시 출현하는 ★3 이상 멤버는 각각 별개로 추첨되어 획득합니다.\n-뽑기 보너스가 100에 도달하면 0으로 돌아갑니다. 100을 초과해 획득한 뽑기 보너스는 다음으로 넘어갑니다.\n-제공 확률은 제공 확률 탭에서 확인할 수 있습니다.\n-신규 멤버의 능력치와 스킬은 뽑기 페이지의 멤버 상세 보기에서 확인할 수 있습니다.\n-라이브 의상 포함 멤버는 제공 확률 탭에서 확인할 수 있습니다.\n-뽑기 실행 후 게임을 강제 종료 하거나 통신이 끊겨 뽑기 결과 화면이 정상적으로 표시되지 않더라도 멤버는 획득됩니다. 멤버 목록이나 대기실을 확인해 주세요.\n-'비 온 뒤 반짝이는 무지개 뽑기 스티커'의 교환 기한은 2022년 10월 10일 14:59까지입니다. 교환 기한이 지나면 같은 수의 '마음의 조각'으로 변환됩니다.\n-이 뽑기에서 등장한 신규 멤버는 이후 뽑기에도 출현하지만 제공 확률은 다를 수 있습니다.\n-진행 일정은 예고 없이 변경될 수 있습니다."
     }
   },
   {
@@ -18320,7 +18342,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 117,
+        "id": 119,
         "gachaId": 44,
         "groupId": 1,
         "priority": 2,
@@ -18330,7 +18352,7 @@
         "spinCount": 1
       },
       {
-        "id": 118,
+        "id": 120,
         "gachaId": 44,
         "groupId": 2,
         "priority": 2,
@@ -18340,7 +18362,7 @@
         "spinCount": 10
       },
       {
-        "id": 367,
+        "id": 388,
         "gachaId": 44,
         "groupId": 1,
         "priority": 1,
@@ -18351,7 +18373,7 @@
         "spinCount": 1
       },
       {
-        "id": 368,
+        "id": 389,
         "gachaId": 44,
         "groupId": 2,
         "priority": 1,
@@ -18388,7 +18410,7 @@
     "gachaInformation": {
       "gachaId": 44,
       "summary": "'이벤트 멤버 출현 확률 UP 뽑기' 등장!\n이벤트 'Color of Myself!'의 보너스 캐릭터와 보너스 타입 멤버는 희귀도가 같은 다른 멤버보다 출현 확률이 높습니다.\n\n★2 이상 멤버만 출현하는 뽑기입니다.\n'10회 뽑기'에서는 ★3 이상 멤버 1명이 반드시 출현합니다.\n\n처음 획득하는 일부 ★4 멤버는 '라이브 의상'이 포함되어 있습니다.\n'라이브 의상'을 획득하면 다른 캐릭터가 착용 가능한 의상을 '의상 상점'에서 만들 수 있습니다.\n다른 캐릭터가 착용하는 '라이브 의상'은 일부 디자인과 액세서리 유무가 다를 수 있습니다.\n자세한 내용은 [멤버]→[라이브 의상] 화면에서 확인할 수 있습니다.\n\n'이벤트 멤버 출현 확률 UP 뽑기'에서 멤버를 1명 획득할 때마다 '비 온 뒤 반짝이는 무지개 뽑기 스티커'를 1장 획득할 수 있습니다.\n'비 온 뒤 반짝이는 무지개 뽑기 스티커'를 300장 사용하면 '비 온 뒤 반짝이는 무지개 뽑기' 스티커 교환소 내의 멤버로 교환할 수 있습니다.\n또한, '비 온 뒤 반짝이는 무지개 뽑기 스티커'를 10장 사용하면 '비 온 뒤 반짝이는 무지개 뽑기' 스티커 교환소 내의 '뽑기 스티커 티켓'으로 교환할 수 있습니다.\n",
-      "description": "-이 뽑기에는 뽑기 보너스가 적용되지 않습니다.\n-무료 크리스탈로 이용 가능한 뽑기는 뽑기 티켓으로도 이용할 수 있습니다.\n-뽑기 티켓은 무료 크리스탈 대신 우선 사용됩니다.\n-크리스탈 사용 시에는 무료 크리스탈이 우선 사용됩니다.\n-출현하는 멤버는 모두 특훈 전 상태입니다.\n-뽑기에서 출현하는 멤버는 중복될 수 있습니다.\n-중복으로 획득한 멤버는 대기실로 자동 이동 됩니다.\n-뽑기는 제공 확률에 기반하여 1회마다 개별 추첨을 진행합니다. 예를 들어 제공 확률이 1%인 멤버라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n-[10회 뽑기]를 이용해 추첨한 결과 ★3 이상 멤버가 한 명도 출현하지 않은 경우에는 10번째 슬롯을 확정 뽑기 제공 확률로 다시 추첨합니다.\n-제공 확률은 제공 확률 탭에서 확인할 수 있습니다.\n-신규 멤버의 능력치와 스킬은 뽑기 페이지의 멤버 상세 보기에서 확인할 수 있습니다.\n-라이브 의상 포함 멤버는 제공 확률 탭에서 확인할 수 있습니다.\n-뽑기 실행 후 게임을 강제 종료 하거나 통신이 끊겨 뽑기 결과 화면이 정상적으로 표시되지 않더라도 멤버는 획득됩니다. 멤버 목록이나 대기실을 확인해 주세요.\n-'비 온 뒤 반짝이는 무지개 뽑기 스티커'의 교환 기한은 2022년 9월 10일 14:59까지입니다. 교환 기한이 지나면 같은 수의 '마음의 조각'으로 변환됩니다.\n-진행 일정은 예고 없이 변경될 수 있습니다."
+      "description": "-이 뽑기에는 뽑기 보너스가 적용되지 않습니다.\n-무료 크리스탈로 이용 가능한 뽑기는 뽑기 티켓으로도 이용할 수 있습니다.\n-뽑기 티켓은 무료 크리스탈 대신 우선 사용됩니다.\n-크리스탈 사용 시에는 무료 크리스탈이 우선 사용됩니다.\n-출현하는 멤버는 모두 특훈 전 상태입니다.\n-뽑기에서 출현하는 멤버는 중복될 수 있습니다.\n-중복으로 획득한 멤버는 대기실로 자동 이동 됩니다.\n-뽑기는 제공 확률에 기반하여 1회마다 개별 추첨을 진행합니다. 예를 들어 제공 확률이 1%인 멤버라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n-[10회 뽑기]를 이용해 추첨한 결과 ★3 이상 멤버가 한 명도 출현하지 않은 경우에는 10번째 슬롯을 확정 뽑기 제공 확률로 다시 추첨합니다.\n-제공 확률은 제공 확률 탭에서 확인할 수 있습니다.\n-신규 멤버의 능력치와 스킬은 뽑기 페이지의 멤버 상세 보기에서 확인할 수 있습니다.\n-라이브 의상 포함 멤버는 제공 확률 탭에서 확인할 수 있습니다.\n-뽑기 실행 후 게임을 강제 종료 하거나 통신이 끊겨 뽑기 결과 화면이 정상적으로 표시되지 않더라도 멤버는 획득됩니다. 멤버 목록이나 대기실을 확인해 주세요.\n-'비 온 뒤 반짝이는 무지개 뽑기 스티커'의 교환 기한은 2022년 10월 10일 14:59까지입니다. 교환 기한이 지나면 같은 수의 '마음의 조각'으로 변환됩니다.\n-진행 일정은 예고 없이 변경될 수 있습니다."
     }
   },
   {
@@ -18998,7 +19020,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 119,
+        "id": 121,
         "gachaId": 45,
         "groupId": 1,
         "priority": 1,
@@ -19009,7 +19031,7 @@
         "spinLimit": 1
       },
       {
-        "id": 120,
+        "id": 122,
         "gachaId": 45,
         "groupId": 2,
         "priority": 1,
@@ -19020,7 +19042,7 @@
         "spinLimit": 1
       },
       {
-        "id": 121,
+        "id": 123,
         "gachaId": 45,
         "groupId": 3,
         "priority": 1,
@@ -19031,7 +19053,7 @@
         "spinCount": 1
       },
       {
-        "id": 122,
+        "id": 124,
         "gachaId": 45,
         "groupId": 3,
         "priority": 2,
@@ -19041,7 +19063,7 @@
         "spinCount": 1
       },
       {
-        "id": 123,
+        "id": 125,
         "gachaId": 45,
         "groupId": 4,
         "priority": 1,
@@ -19052,7 +19074,7 @@
         "spinCount": 10
       },
       {
-        "id": 124,
+        "id": 126,
         "gachaId": 45,
         "groupId": 4,
         "priority": 2,
@@ -19493,7 +19515,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 125,
+        "id": 127,
         "gachaId": 47,
         "groupId": 1,
         "priority": 2,
@@ -19503,7 +19525,7 @@
         "spinCount": 1
       },
       {
-        "id": 126,
+        "id": 128,
         "gachaId": 47,
         "groupId": 2,
         "priority": 2,
@@ -20170,7 +20192,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 127,
+        "id": 129,
         "gachaId": 48,
         "groupId": 1,
         "priority": 1,
@@ -20181,7 +20203,7 @@
         "spinLimit": 1
       },
       {
-        "id": 128,
+        "id": 130,
         "gachaId": 48,
         "groupId": 2,
         "priority": 1,
@@ -20192,7 +20214,7 @@
         "spinLimit": 1
       },
       {
-        "id": 129,
+        "id": 131,
         "gachaId": 48,
         "groupId": 3,
         "priority": 1,
@@ -20203,7 +20225,7 @@
         "spinCount": 1
       },
       {
-        "id": 130,
+        "id": 132,
         "gachaId": 48,
         "groupId": 3,
         "priority": 2,
@@ -20213,7 +20235,7 @@
         "spinCount": 1
       },
       {
-        "id": 131,
+        "id": 133,
         "gachaId": 48,
         "groupId": 4,
         "priority": 1,
@@ -20224,7 +20246,7 @@
         "spinCount": 10
       },
       {
-        "id": 132,
+        "id": 134,
         "gachaId": 48,
         "groupId": 4,
         "priority": 2,
@@ -20665,7 +20687,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 133,
+        "id": 135,
         "gachaId": 50,
         "groupId": 1,
         "priority": 2,
@@ -20675,7 +20697,7 @@
         "spinCount": 1
       },
       {
-        "id": 134,
+        "id": 136,
         "gachaId": 50,
         "groupId": 2,
         "priority": 2,
@@ -21067,7 +21089,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 135,
+        "id": 137,
         "gachaId": 51,
         "groupId": 1,
         "priority": 1,
@@ -21756,7 +21778,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 136,
+        "id": 138,
         "gachaId": 52,
         "groupId": 1,
         "priority": 1,
@@ -21767,7 +21789,7 @@
         "spinLimit": 1
       },
       {
-        "id": 137,
+        "id": 139,
         "gachaId": 52,
         "groupId": 2,
         "priority": 1,
@@ -21778,7 +21800,7 @@
         "spinLimit": 1
       },
       {
-        "id": 138,
+        "id": 140,
         "gachaId": 52,
         "groupId": 3,
         "priority": 1,
@@ -21789,7 +21811,7 @@
         "spinCount": 1
       },
       {
-        "id": 139,
+        "id": 141,
         "gachaId": 52,
         "groupId": 3,
         "priority": 2,
@@ -21799,7 +21821,7 @@
         "spinCount": 1
       },
       {
-        "id": 140,
+        "id": 142,
         "gachaId": 52,
         "groupId": 4,
         "priority": 1,
@@ -21810,7 +21832,7 @@
         "spinCount": 10
       },
       {
-        "id": 141,
+        "id": 143,
         "gachaId": 52,
         "groupId": 4,
         "priority": 2,
@@ -22272,7 +22294,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 142,
+        "id": 144,
         "gachaId": 54,
         "groupId": 1,
         "priority": 1,
@@ -22282,7 +22304,7 @@
         "spinCount": 1
       },
       {
-        "id": 143,
+        "id": 145,
         "gachaId": 54,
         "groupId": 2,
         "priority": 1,
@@ -22943,7 +22965,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 144,
+        "id": 146,
         "gachaId": 55,
         "groupId": 1,
         "priority": 1,
@@ -23677,7 +23699,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 145,
+        "id": 147,
         "gachaId": 56,
         "groupId": 1,
         "priority": 1,
@@ -23688,20 +23710,53 @@
         "spinLimit": 1
       },
       {
-        "id": 146,
+        "id": 148,
         "gachaId": 56,
         "groupId": 2,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 1500,
+        "spinCount": 10,
+        "spinLimit": 1
+      },
+      {
+        "id": 149,
+        "gachaId": 56,
+        "groupId": 3,
+        "priority": 1,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1
+      },
+      {
+        "id": 150,
+        "gachaId": 56,
+        "groupId": 3,
+        "priority": 2,
         "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
         "spinCount": 1
       },
       {
-        "id": 147,
+        "id": 151,
         "gachaId": 56,
-        "groupId": 3,
+        "groupId": 4,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 152,
+        "gachaId": 56,
+        "groupId": 4,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -24209,7 +24264,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 149,
+        "id": 154,
         "gachaId": 58,
         "groupId": 1,
         "priority": 1,
@@ -24219,7 +24274,7 @@
         "spinCount": 1
       },
       {
-        "id": 150,
+        "id": 155,
         "gachaId": 58,
         "groupId": 2,
         "priority": 1,
@@ -24681,7 +24736,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 151,
+        "id": 156,
         "gachaId": 59,
         "groupId": 1,
         "priority": 1,
@@ -25419,7 +25474,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 152,
+        "id": 157,
         "gachaId": 60,
         "groupId": 1,
         "priority": 1,
@@ -25430,7 +25485,7 @@
         "spinLimit": 1
       },
       {
-        "id": 153,
+        "id": 158,
         "gachaId": 60,
         "groupId": 2,
         "priority": 1,
@@ -25441,20 +25496,42 @@
         "spinLimit": 1
       },
       {
-        "id": 154,
+        "id": 159,
         "gachaId": 60,
         "groupId": 3,
         "priority": 1,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1
+      },
+      {
+        "id": 160,
+        "gachaId": 60,
+        "groupId": 3,
+        "priority": 2,
         "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
         "spinCount": 1
       },
       {
-        "id": 155,
+        "id": 161,
         "gachaId": 60,
         "groupId": 4,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 162,
+        "gachaId": 60,
+        "groupId": 4,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -25962,7 +26039,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 156,
+        "id": 163,
         "gachaId": 62,
         "groupId": 1,
         "priority": 1,
@@ -25972,7 +26049,7 @@
         "spinCount": 1
       },
       {
-        "id": 157,
+        "id": 164,
         "gachaId": 62,
         "groupId": 2,
         "priority": 1,
@@ -26726,7 +26803,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 158,
+        "id": 165,
         "gachaId": 63,
         "groupId": 1,
         "priority": 1,
@@ -26737,7 +26814,7 @@
         "spinLimit": 1
       },
       {
-        "id": 159,
+        "id": 166,
         "gachaId": 63,
         "groupId": 2,
         "priority": 1,
@@ -26748,20 +26825,42 @@
         "spinLimit": 1
       },
       {
-        "id": 160,
+        "id": 167,
         "gachaId": 63,
         "groupId": 3,
         "priority": 1,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1
+      },
+      {
+        "id": 168,
+        "gachaId": 63,
+        "groupId": 3,
+        "priority": 2,
         "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
         "spinCount": 1
       },
       {
-        "id": 161,
+        "id": 169,
         "gachaId": 63,
         "groupId": 4,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 170,
+        "gachaId": 63,
+        "groupId": 4,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -27297,7 +27396,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 162,
+        "id": 171,
         "gachaId": 65,
         "groupId": 1,
         "priority": 1,
@@ -27307,7 +27406,7 @@
         "spinCount": 1
       },
       {
-        "id": 163,
+        "id": 172,
         "gachaId": 65,
         "groupId": 2,
         "priority": 1,
@@ -28148,7 +28247,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 164,
+        "id": 173,
         "gachaId": 66,
         "groupId": 1,
         "priority": 1,
@@ -28159,20 +28258,53 @@
         "spinLimit": 1
       },
       {
-        "id": 165,
+        "id": 174,
         "gachaId": 66,
         "groupId": 2,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 1500,
+        "spinCount": 10,
+        "spinLimit": 1
+      },
+      {
+        "id": 175,
+        "gachaId": 66,
+        "groupId": 3,
+        "priority": 1,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1
+      },
+      {
+        "id": 176,
+        "gachaId": 66,
+        "groupId": 3,
+        "priority": 2,
         "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
         "spinCount": 1
       },
       {
-        "id": 166,
+        "id": 177,
         "gachaId": 66,
-        "groupId": 3,
+        "groupId": 4,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 178,
+        "gachaId": 66,
+        "groupId": 4,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -29006,7 +29138,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 168,
+        "id": 180,
         "gachaId": 68,
         "groupId": 1,
         "priority": 1,
@@ -29017,7 +29149,7 @@
         "spinLimit": 1
       },
       {
-        "id": 169,
+        "id": 181,
         "gachaId": 68,
         "groupId": 2,
         "priority": 1,
@@ -29028,20 +29160,42 @@
         "spinLimit": 1
       },
       {
-        "id": 170,
+        "id": 182,
         "gachaId": 68,
         "groupId": 3,
         "priority": 1,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1
+      },
+      {
+        "id": 183,
+        "gachaId": 68,
+        "groupId": 3,
+        "priority": 2,
         "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
         "spinCount": 1
       },
       {
-        "id": 171,
+        "id": 184,
         "gachaId": 68,
         "groupId": 4,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 185,
+        "gachaId": 68,
+        "groupId": 4,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -29619,7 +29773,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 172,
+        "id": 186,
         "gachaId": 70,
         "groupId": 1,
         "priority": 1,
@@ -29629,7 +29783,7 @@
         "spinCount": 1
       },
       {
-        "id": 173,
+        "id": 187,
         "gachaId": 70,
         "groupId": 2,
         "priority": 1,
@@ -30154,7 +30308,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 174,
+        "id": 188,
         "gachaId": 71,
         "groupId": 1,
         "priority": 1,
@@ -31025,7 +31179,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 175,
+        "id": 189,
         "gachaId": 72,
         "groupId": 1,
         "priority": 1,
@@ -31036,7 +31190,7 @@
         "spinLimit": 1
       },
       {
-        "id": 176,
+        "id": 190,
         "gachaId": 72,
         "groupId": 2,
         "priority": 1,
@@ -31047,20 +31201,42 @@
         "spinLimit": 1
       },
       {
-        "id": 177,
+        "id": 191,
         "gachaId": 72,
         "groupId": 3,
         "priority": 1,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1
+      },
+      {
+        "id": 192,
+        "gachaId": 72,
+        "groupId": 3,
+        "priority": 2,
         "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
         "spinCount": 1
       },
       {
-        "id": 178,
+        "id": 193,
         "gachaId": 72,
         "groupId": 4,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 194,
+        "gachaId": 72,
+        "groupId": 4,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -31645,7 +31821,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 179,
+        "id": 195,
         "gachaId": 74,
         "groupId": 1,
         "priority": 1,
@@ -31655,7 +31831,7 @@
         "spinCount": 1
       },
       {
-        "id": 180,
+        "id": 196,
         "gachaId": 74,
         "groupId": 2,
         "priority": 1,
@@ -32546,7 +32722,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 181,
+        "id": 197,
         "gachaId": 75,
         "groupId": 1,
         "priority": 1,
@@ -32557,7 +32733,7 @@
         "spinLimit": 1
       },
       {
-        "id": 182,
+        "id": 198,
         "gachaId": 75,
         "groupId": 2,
         "priority": 1,
@@ -32568,20 +32744,42 @@
         "spinLimit": 1
       },
       {
-        "id": 183,
+        "id": 199,
         "gachaId": 75,
         "groupId": 3,
         "priority": 1,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1
+      },
+      {
+        "id": 200,
+        "gachaId": 75,
+        "groupId": 3,
+        "priority": 2,
         "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
         "spinCount": 1
       },
       {
-        "id": 184,
+        "id": 201,
         "gachaId": 75,
         "groupId": 4,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 202,
+        "gachaId": 75,
+        "groupId": 4,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -33187,7 +33385,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 185,
+        "id": 203,
         "gachaId": 77,
         "groupId": 1,
         "priority": 1,
@@ -33197,7 +33395,7 @@
         "spinCount": 1
       },
       {
-        "id": 186,
+        "id": 204,
         "gachaId": 77,
         "groupId": 2,
         "priority": 1,
@@ -34108,7 +34306,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 187,
+        "id": 205,
         "gachaId": 78,
         "groupId": 1,
         "priority": 1,
@@ -34119,20 +34317,53 @@
         "spinLimit": 1
       },
       {
-        "id": 188,
+        "id": 206,
         "gachaId": 78,
         "groupId": 2,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 1500,
+        "spinCount": 10,
+        "spinLimit": 1
+      },
+      {
+        "id": 207,
+        "gachaId": 78,
+        "groupId": 3,
+        "priority": 1,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
+        "spinCount": 1
+      },
+      {
+        "id": 208,
+        "gachaId": 78,
+        "groupId": 3,
+        "priority": 2,
         "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
         "costResourceQuantity": 300,
         "spinCount": 1
       },
       {
-        "id": 189,
+        "id": 209,
         "gachaId": 78,
-        "groupId": 3,
+        "groupId": 4,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 210,
+        "gachaId": 78,
+        "groupId": 4,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -34766,7 +34997,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 191,
+        "id": 212,
         "gachaId": 80,
         "groupId": 1,
         "priority": 1,
@@ -34776,7 +35007,7 @@
         "spinCount": 1
       },
       {
-        "id": 192,
+        "id": 213,
         "gachaId": 80,
         "groupId": 2,
         "priority": 1,
@@ -35350,7 +35581,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 193,
+        "id": 214,
         "gachaId": 81,
         "groupId": 1,
         "priority": 1,
@@ -35904,7 +36135,7 @@
     ],
     "gachaBehaviors": [
       {
-        "id": 652,
+        "id": 673,
         "gachaId": 2000,
         "groupId": 1,
         "priority": 1,
