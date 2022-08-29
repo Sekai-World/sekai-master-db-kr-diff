@@ -63,25 +63,47 @@
     "endAt": 1661957999000
   },
   {
-    "homeBannerId": 66,
+    "homeBannerId": 69,
     "seq": 40,
     "homeBannerType": "event",
     "name": "배너",
-    "assetbundleName": "event_parade_2021",
+    "assetbundleName": "event_infinitelygray_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 13,
-    "startAt": 1660716000000,
-    "endAt": 1661407199000
+    "transitionDestinationId": 14,
+    "startAt": 1661407200000,
+    "endAt": 1662098399000
   },
   {
-    "homeBannerId": 67,
+    "homeBannerId": 70,
     "seq": 50,
     "homeBannerType": "general",
     "name": "배너",
-    "assetbundleName": "banner_gacha48",
+    "assetbundleName": "banner_gacha52",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 48,
-    "startAt": 1660716000000,
-    "endAt": 1661407199000
+    "transitionDestinationId": 52,
+    "startAt": 1661407200000,
+    "endAt": 1662098399000
+  },
+  {
+    "homeBannerId": 71,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha54",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 54,
+    "startAt": 1661580000000,
+    "endAt": 1661947199000
+  },
+  {
+    "homeBannerId": 77,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_virtuallive92",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 92,
+    "startAt": 1661752800000,
+    "endAt": 1662011999000
   }
 ]

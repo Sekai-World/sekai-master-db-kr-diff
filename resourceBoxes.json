@@ -59846,12 +59846,12 @@
     "resourceBoxPurpose": "mission_reward",
     "id": 200001,
     "resourceBoxType": "expand",
-    "name": "主唱卡交换券",
+    "name": "퓨어 젬",
     "details": [
       {
         "resourceType": "material",
-        "resourceId": 49,
-        "resourceQuantity": 1
+        "resourceId": 8,
+        "resourceQuantity": 50
       }
     ]
   },
@@ -59859,59 +59859,7 @@
     "resourceBoxPurpose": "mission_reward",
     "id": 200002,
     "resourceBoxType": "expand",
-    "name": "帅气宝石",
-    "details": [
-      {
-        "resourceType": "material",
-        "resourceId": 7,
-        "resourceQuantity": 100
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 200003,
-    "resourceBoxType": "expand",
-    "name": "可爱宝石",
-    "details": [
-      {
-        "resourceType": "material",
-        "resourceId": 6,
-        "resourceQuantity": 100
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 200004,
-    "resourceBoxType": "expand",
-    "name": "纯真宝石",
-    "details": [
-      {
-        "resourceType": "material",
-        "resourceId": 8,
-        "resourceQuantity": 100
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 200005,
-    "resourceBoxType": "expand",
-    "name": "快乐宝石",
-    "details": [
-      {
-        "resourceType": "material",
-        "resourceId": 9,
-        "resourceQuantity": 100
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 200006,
-    "resourceBoxType": "expand",
-    "name": "神秘宝石",
+    "name": "미스테리어스 젬",
     "details": [
       {
         "resourceType": "material",
@@ -59922,22 +59870,22 @@
   },
   {
     "resourceBoxPurpose": "mission_reward",
-    "id": 200007,
+    "id": 200003,
     "resourceBoxType": "expand",
-    "name": "技能练习谱（中）",
+    "name": "퓨어 젬",
     "details": [
       {
-        "resourceType": "skill_practice_ticket",
-        "resourceId": 2,
-        "resourceQuantity": 2
+        "resourceType": "material",
+        "resourceId": 8,
+        "resourceQuantity": 50
       }
     ]
   },
   {
     "resourceBoxPurpose": "mission_reward",
-    "id": 200008,
+    "id": 200004,
     "resourceBoxType": "expand",
-    "name": "奇迹宝石",
+    "name": "미라클 젬",
     "details": [
       {
         "resourceType": "material",
@@ -59948,14 +59896,104 @@
   },
   {
     "resourceBoxPurpose": "mission_reward",
-    "id": 200009,
+    "id": 200005,
     "resourceBoxType": "expand",
-    "name": "三星必得券",
+    "name": "스킬 업용 스코어(중급)",
     "details": [
       {
-        "resourceType": "gacha_ticket",
+        "resourceType": "skill_practice_ticket",
         "resourceId": 2,
-        "resourceQuantity": 1
+        "resourceQuantity": 2
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200006,
+    "resourceBoxType": "expand",
+    "name": "연습용 스코어(중급)",
+    "details": [
+      {
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 10
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200007,
+    "resourceBoxType": "expand",
+    "name": "쿨 젬",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 7,
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200008,
+    "resourceBoxType": "expand",
+    "name": "해피 젬",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 9,
+        "resourceQuantity": 50
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200009,
+    "resourceBoxType": "expand",
+    "name": "쿨 젬",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 7,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200010,
+    "resourceBoxType": "expand",
+    "name": "큐트 젬",
+    "details": [
+      {
+        "resourceType": "material",
+        "resourceId": 6,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200011,
+    "resourceBoxType": "expand",
+    "name": "연습용 스코어(중급)",
+    "details": [
+      {
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 20
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "mission_reward",
+    "id": 200012,
+    "resourceBoxType": "expand",
+    "name": "JEWEL",
+    "details": [
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
       }
     ]
   },
