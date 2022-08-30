@@ -5,8 +5,8 @@
     "requirement": 2,
     "sentence": "라이브 2회 클리어하기 (모든 유형)",
     "resourceBoxId": 200001,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_live"
+    "returnMissionType": "clear_live",
+    "returnMissionGroupId": 1
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "requirement": 4,
     "sentence": "음악 4회 구매하기",
     "resourceBoxId": 200002,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "buy_music"
+    "returnMissionType": "buy_music",
+    "returnMissionGroupId": 1
   },
   {
     "id": 3,
@@ -23,8 +23,8 @@
     "requirement": 2,
     "sentence": "멀티 라이브 2회 클리어하기",
     "resourceBoxId": 200003,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_multi_live"
+    "returnMissionType": "clear_multi_live",
+    "returnMissionGroupId": 1
   },
   {
     "id": 4,
@@ -32,8 +32,8 @@
     "requirement": 4,
     "sentence": "복귀 미션 4회 완료하기",
     "resourceBoxId": 200004,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_all_return_mission"
+    "returnMissionType": "clear_all_return_mission",
+    "returnMissionGroupId": 1
   },
   {
     "id": 5,
@@ -41,8 +41,8 @@
     "requirement": 1,
     "sentence": "아무 멤버나 특훈 1회 완료하기",
     "resourceBoxId": 200005,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "special_training"
+    "returnMissionType": "special_training",
+    "returnMissionGroupId": 1
   },
   {
     "id": 6,
@@ -50,8 +50,8 @@
     "requirement": 10,
     "sentence": " 라이브 보너스 10개 사용하기 \n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
     "resourceBoxId": 200006,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_live_boost"
+    "returnMissionType": "clear_live_boost",
+    "returnMissionGroupId": 1
   },
   {
     "id": 7,
@@ -59,8 +59,8 @@
     "requirement": 1,
     "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
     "resourceBoxId": 200007,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "master_rank"
+    "returnMissionType": "master_rank",
+    "returnMissionGroupId": 1
   },
   {
     "id": 8,
@@ -68,8 +68,8 @@
     "requirement": 1,
     "sentence": "챌린지 라이브 1회 플레이하기",
     "resourceBoxId": 200008,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_solo_challenge_live"
+    "returnMissionType": "clear_solo_challenge_live",
+    "returnMissionGroupId": 1
   },
   {
     "id": 9,
@@ -77,8 +77,8 @@
     "requirement": 5,
     "sentence": "이전 이벤트 스토리 5회 보기",
     "resourceBoxId": 200009,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "read_story_past_event"
+    "returnMissionType": "read_story_past_event",
+    "returnMissionGroupId": 1
   },
   {
     "id": 10,
@@ -86,8 +86,8 @@
     "requirement": 1,
     "sentence": "아무 뽑기나 1회 진행하기",
     "resourceBoxId": 200010,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "character_gacha"
+    "returnMissionType": "character_gacha",
+    "returnMissionGroupId": 1
   },
   {
     "id": 11,
@@ -95,8 +95,8 @@
     "requirement": 2,
     "sentence": "이벤트 교환소에서 2회 교환하기",
     "resourceBoxId": 200011,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "buy_event_item"
+    "returnMissionType": "buy_event_item",
+    "returnMissionGroupId": 1
   },
   {
     "id": 12,
@@ -104,7 +104,7 @@
     "requirement": 11,
     "sentence": "복귀 미션을 모두 완료하면 크리스탈 300개를 획득할 수 있습니다!",
     "resourceBoxId": 200012,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_all_return_mission"
+    "returnMissionType": "clear_all_return_mission",
+    "returnMissionGroupId": 1
   }
 ]
