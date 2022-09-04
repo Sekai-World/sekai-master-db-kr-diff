@@ -75,13 +75,24 @@
     "endAt": 1662789599000
   },
   {
-    "homeBannerId": 112,
-    "seq": 1,
+    "homeBannerId": 92,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_gacha44",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 44,
+    "startAt": 1662271200000,
+    "endAt": 1662638399000
+  },
+  {
+    "homeBannerId": 113,
+    "seq": 110,
     "homeBannerType": "general",
     "name": "배너",
     "assetbundleName": "banner_bp06",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1661958000000,
-    "endAt": 1662303599000
+    "startAt": 1662303600000,
+    "endAt": 1664549999000
   }
 ]
