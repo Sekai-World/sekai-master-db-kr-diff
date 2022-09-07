@@ -86,6 +86,17 @@
     "endAt": 1662638399000
   },
   {
+    "homeBannerId": 109,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_virtuallive94",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 94,
+    "startAt": 1662530400000,
+    "endAt": 1662789599000
+  },
+  {
     "homeBannerId": 113,
     "seq": 110,
     "homeBannerType": "general",
@@ -94,5 +105,15 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1662303600000,
     "endAt": 1664549999000
+  },
+  {
+    "homeBannerId": 114,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_labor2022",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1662530400000,
+    "endAt": 1663340399000
   }
 ]
