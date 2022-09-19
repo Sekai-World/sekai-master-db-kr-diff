@@ -1621,6 +1621,7 @@
         "resourceBoxId": 60,
         "startAt": 1662789600000,
         "endAt": 1666072799000,
+        "gachaCeilExchangeLabelType": "limited",
         "substituteLimit": 10,
         "gachaCeilExchangeCost": {
           "quantity": 300,
@@ -1643,6 +1644,7 @@
         "resourceBoxId": 61,
         "startAt": 1662789600000,
         "endAt": 1666072799000,
+        "gachaCeilExchangeLabelType": "limited",
         "substituteLimit": 10,
         "gachaCeilExchangeCost": {
           "quantity": 300,
@@ -1676,6 +1678,12 @@
             "id": 10061,
             "resourceType": "material",
             "resourceId": 48,
+            "substituteQuantity": 10
+          },
+          {
+            "id": 10093,
+            "resourceType": "material",
+            "resourceId": 47,
             "substituteQuantity": 10
           }
         ]
