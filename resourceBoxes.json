@@ -71420,6 +71420,25 @@
   },
   {
     "resourceBoxPurpose": "login_bonus",
+    "id": 62,
+    "resourceBoxType": "list",
+    "name": "화이트데이 선물 상자",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceType": "boost_item",
+        "resourceId": 4,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
     "id": 1001,
     "resourceBoxType": "expand",
     "name": "此為回归玩家登入活動第1天的報酬。                                                        ",
@@ -77844,6 +77863,18 @@
   },
   {
     "resourceBoxPurpose": "material_exchange",
+    "id": 50060,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "card",
+        "resourceId": 263,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
     "id": 60001,
     "resourceBoxType": "expand",
     "details": [
@@ -78504,6 +78535,18 @@
   },
   {
     "resourceBoxPurpose": "material_exchange",
+    "id": 60056,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "card",
+        "resourceId": 262,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
     "id": 70001,
     "resourceBoxType": "expand",
     "details": [
@@ -79062,6 +79105,78 @@
       {
         "resourceType": "card",
         "resourceId": 177,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 70048,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "card",
+        "resourceId": 182,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 70049,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "card",
+        "resourceId": 185,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 70050,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "card",
+        "resourceId": 186,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 70051,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "card",
+        "resourceId": 187,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 70052,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "card",
+        "resourceId": 190,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "material_exchange",
+    "id": 70053,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "card",
+        "resourceId": 191,
         "resourceQuantity": 1
       }
     ]
@@ -106080,6 +106195,18 @@
   },
   {
     "resourceBoxPurpose": "shop_item",
+    "id": 10317,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 536,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
     "id": 10321,
     "resourceBoxType": "expand",
     "details": [
@@ -106122,6 +106249,102 @@
       {
         "resourceType": "music_vocal",
         "resourceId": 539,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10325,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 188,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10326,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 547,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10327,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 548,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10328,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 208,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10330,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 551,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10332,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 174,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10334,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music",
+        "resourceId": 210,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 10337,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "music_vocal",
+        "resourceId": 565,
         "resourceQuantity": 1
       }
     ]
@@ -115784,6 +116007,144 @@
     ]
   },
   {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 157,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 535,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 158,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 535,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 159,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "honor",
+        "resourceId": 1124,
+        "resourceLevel": 1,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 26,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 160,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 536,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 161,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 536,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 162,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "honor",
+        "resourceId": 1536,
+        "resourceLevel": 1,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 15,
+        "resourceQuantity": 100
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 163,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "honor",
+        "resourceId": 1122,
+        "resourceLevel": 1,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "material",
+        "resourceId": 24,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 164,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 537,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 165,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceType": "stamp",
+        "resourceId": 537,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "virtual_shop_item",
     "id": 1,
     "resourceBoxType": "expand",
@@ -117833,6 +118194,58 @@
       {
         "resourceType": "avatar_accessory",
         "resourceId": 39,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 159,
+    "resourceBoxType": "expand",
+    "name": "[풀 세트] 괴도 초콜릿 마니아",
+    "details": [
+      {
+        "resourceType": "avatar_coordinate",
+        "resourceId": 50,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 160,
+    "resourceBoxType": "expand",
+    "name": "[응원봉] 매지컬 스틱 응원봉",
+    "details": [
+      {
+        "resourceType": "penlight",
+        "resourceId": 37,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 161,
+    "resourceBoxType": "expand",
+    "name": "[액세서리] 마카롱 모자",
+    "details": [
+      {
+        "resourceType": "avatar_accessory",
+        "resourceId": 40,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 162,
+    "resourceBoxType": "expand",
+    "name": "[액세서리] 석고상 마스크",
+    "details": [
+      {
+        "resourceType": "avatar_accessory",
+        "resourceId": 41,
         "resourceQuantity": 1
       }
     ]
