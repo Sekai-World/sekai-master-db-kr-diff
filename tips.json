@@ -63,6 +63,13 @@
     "toUserRank": 30
   },
   {
+    "id": 19,
+    "title": "미라클 젬 사용 방법&획득 방법",
+    "description": "★3, ★4 멤버는 '특훈'이 가능하며\n능력치와 최대 Lv.이 상승합니다.",
+    "fromUserRank": 1,
+    "toUserRank": 20
+  },
+  {
     "id": 21,
     "title": "의상 재료 사용 방법&획득 방법",
     "description": "쇼핑몰의 '의상 상점'에서는\n캐릭터의 라이브 의상을 제작할 수 있습니다.",
@@ -227,6 +234,13 @@
     "id": 63,
     "title": "마음의 결정 사용 방법&획득 방법",
     "description": "'마음의 결정체'는 대기실에서\n★4 멤버와 교환하여 획득할 수 있습니다.",
+    "fromUserRank": 25,
+    "toUserRank": 50
+  },
+  {
+    "id": 64,
+    "title": "마음의 결정 사용 방법&획득 방법",
+    "description": "'마음의 조각'은 대기실에서\n★2, ★3, 생일 멤버를 교환하여 획득할 수 있습니다.",
     "fromUserRank": 25,
     "toUserRank": 50
   },
@@ -514,6 +528,55 @@
     "id": 115,
     "title": "프로필",
     "description": "'커스텀 프로필'에서는 다양한 꾸미기 기능으로\n나만의 프로필을 만들 수 있습니다.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 116,
+    "title": "생일 멤버",
+    "description": "생일 멤버는\n'생일' 희귀도를 가진 특별한 멤버입니다.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 117,
+    "title": "멤버 교환소",
+    "description": "'멤버 교환소'에서는\n과거에 등장했던 일반 멤버를 교환할 수 있습니다.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 118,
+    "title": "이벤트 보너스",
+    "description": "마스터 랭크가 오르면\n이벤트 보너스가 가산됩니다.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 119,
+    "title": "인연 랭크",
+    "description": "'인연 랭크'가 오르면\n캐릭터들 사이의 특별한 칭호와 보상을 획득할 수 있습니다.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 120,
+    "title": "인연 랭크",
+    "description": "'인연 EXP'는 라이브를 통해 유닛에 편성한\n리더와 다른 4명의 멤버 사이에서 획득할 수 있는 EXP입니다.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 121,
+    "title": "친구",
+    "description": "친구는 '멀티 라이브', '버추얼 라이브'의\n프라이빗 룸에 초대할 수 있습니다.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 122,
+    "title": "오토 라이브",
+    "description": "'오토 라이브 설정'에서 라이브 보너스를 자동으로 회복해\n연속으로 오토 라이브를 플레이하도록 설정할 수 있습니다.",
     "fromUserRank": 1,
     "toUserRank": 999
   },

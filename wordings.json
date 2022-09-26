@@ -68,12 +68,56 @@
     "value": "팀"
   },
   {
+    "wordingKey": "COLLECTION_BOX_PROVISION_TAB_TITLE",
+    "value": "컬렉션 BOX 설명"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_COUNT_OVERFLOW_WARN_MESSAGE",
+    "value": "공연 횟수보다 더 많은 티켓을\n구매하려 합니다.\n남은 티켓은 사용할 수 없으며\n다른 공연에서 사용하거나 환불할 수 없습니다.\n\n계속하시겠습니까?"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_BALLOON_LABEL_FORMAT",
+    "value": "{0}회 한정"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_RIBBON_LABEL_FORMAT",
+    "value": "앞으로 {0}회"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BUTTON_LABEL",
+    "value": "교환"
+  },
+  {
     "wordingKey": "DEFAULT_DECK_NAME",
     "value": "유닛 01"
   },
   {
     "wordingKey": "DEFAULT_NAME",
     "value": "'세카이' 주민"
+  },
+  {
+    "wordingKey": "DIALOG_MESSAGE_VIRTUAL_SHOP_TIME_OVER",
+    "value": "{0}의 개최 기간이 종료되었습니다."
+  },
+  {
+    "wordingKey": "DIALOG_OK_BUTTON_LABEL_VIRTUAL_SHOP_TIME_OVER",
+    "value": "닫기"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_COLLECTION_GACHA_CONTENTS",
+    "value": "컬렉션 상세 보기"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_COLLECTION_GACHA_DETAIL",
+    "value": "컬렉션 BOX 상세 보기"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_COLLECTION_GACHA_SEE_CONTENTS",
+    "value": "컬렉션 상세 보기"
+  },
+  {
+    "wordingKey": "DIALOG_TITLE_VIRTUAL_SHOP_TIME_OVER",
+    "value": "알림"
   },
   {
     "wordingKey": "EASY",
@@ -98,6 +142,10 @@
   {
     "wordingKey": "FMT_RANKING",
     "value": "{0}위"
+  },
+  {
+    "wordingKey": "FORMAT_CONNECT_LIVE_TICKET_SHOP_ITEM",
+    "value": "{0} x {1}"
   },
   {
     "wordingKey": "FRIEND_SHARE_PRESENT_SENTENCE",
@@ -196,6 +244,14 @@
     "value": "자동 조정 결과대로 설정하시겠습니까?"
   },
   {
+    "wordingKey": "MSG_ADMISSION_LIMIT_PAID",
+    "value": "무료 감상 기간이 종료되었습니다."
+  },
+  {
+    "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_CONNECT_LIVE",
+    "value": "'체험 입장'으로 시청할 수 있는 구간이 끝났습니다.\n공연을 계속 보려면 티켓을 교환해 주세요."
+  },
+  {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
     "value": "앨범 접근 권한이 없습니다.\n기기의 설정 화면을 열어 접근을 허용해 주세요."
   },
@@ -206,6 +262,10 @@
   {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED_WITH_REASON_ANDROID",
     "value": "스크린샷 기능을 이용하려면\n기기 내의 미디어와 파일에 접근할 권한을\n'프로젝트 세카이'에 허용해야 합니다."
+  },
+  {
+    "wordingKey": "MSG_ALERT_TIME_OVER_EXCHANGE_TICKET",
+    "value": "※교환 기한이 지난 티켓은 사용할 수 없습니다."
   },
   {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
@@ -296,6 +356,18 @@
     "value": "스토어에서 환불 요청이 승인되어 환불 처리를 진행합니다"
   },
   {
+    "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
+    "value": "인연 랭크를 확인할 캐릭터를 선택해 주세요."
+  },
+  {
+    "wordingKey": "MSG_BONDS_RANK_MAX",
+    "value": "인연 랭크가 최대치입니다."
+  },
+  {
+    "wordingKey": "MSG_BOND_LIMIT",
+    "value": "{0}의 캐릭터 랭크를 올리면\n인연 랭크 최대치가 상승합니다."
+  },
+  {
     "wordingKey": "MSG_BOOST_RECOVER_COMPLETE",
     "value": "라이브 보너스를 {0} 회복했습니다."
   },
@@ -305,11 +377,11 @@
   },
   {
     "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
-    "value": "크리스탈을 사용하여\n라이브 보너스를 {0} 회복하시겠습니까?"
+    "value": "크리스탈 {0}개를 사용하여\n라이브 보너스를 {1} 회복하시겠습니까?"
   },
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
-    "value": "의상 상점에서\n다른 캐릭터의 의상도 제작할 수 있습니다."
+    "value": "다른 캐릭터도 착용 가능한 의상은\n의상 상점에서 오픈됩니다."
   },
   {
     "wordingKey": "MSG_CHALLENGE_CHARACTER_SELECT_BODY",
@@ -408,6 +480,14 @@
     "value": " 각 에어리어 상점에서 다양한 아이템으로 교환할 수\n있는 코인. 라이브 등을 통해 획득 가능."
   },
   {
+    "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
+    "value": "{0} <color=#FF55AA>{1}개</color>를 사용하여\n'{2}'(을)를\n여시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
+    "value": "{0}회 <size=28>열기</size>"
+  },
+  {
     "wordingKey": "MSG_COLORFUL_PASS_ALERT",
     "value": "컬러풀 패스의 유효 기간이 지났습니다.\n새로 구매하시겠습니까?"
   },
@@ -426,6 +506,34 @@
   {
     "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_IOS",
     "value": "GameCenter에 연결 중인 게임 데이터가 있습니다.\n연결을 해제하고 현재 게임 데이터에 연결하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
+    "value": "라이브 티켓을 소지하지 않아\n'체험 입장'으로 진행합니다.\n계속하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_TO_RE_ENTER_STREAMING_LIVE",
+    "value": "재입장하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_CONNECT_LIVE_TICKET_EXCHANGE_CONFIRM_TOS",
+    "value": "커넥트 라이브 관람 이용약관에 동의한다."
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
+    "value": "지정된 횟수의 오토 라이브가 완료되었습니다."
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NOT_ENOUGH",
+    "value": "라이브 보너스가 부족하여\n오토 라이브가 중단되었습니다.\n\n<color=#FF55AA>※중단 전에 진행한 라이브 결과는 반영됩니다.</color>"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_PAUSE_AND_RESTART",
+    "value": "오토 라이브를 일시 정지했습니다.\n이어서 재생하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_UNTILE_NOT_ENOUGH",
+    "value": "라이브 보너스가 없어질 때까지"
   },
   {
     "wordingKey": "MSG_CONSTUME_FITTING",
@@ -486,6 +594,10 @@
   {
     "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
     "value": "표시 가능한 칭호가 없습니다."
+  },
+  {
+    "wordingKey": "MSG_CUSTOM_PROFILE_COLLECTION_ALERT",
+    "value": "선택한 컬렉션 소지 수가 0이 되면\n같은 세트 내에서 사용할 수 없게 됩니다.\n\n※컬렉션 레이어를 삭제하면\n삭제한 수에 따라 소지 수가 회복됩니다.\n※사용 수는 세트 내에서 합산하여 카운트됩니다."
   },
   {
     "wordingKey": "MSG_CUSTOM_PROFILE_SAVE_COUNT_ERROR",
@@ -596,8 +708,16 @@
     "value": "즐겨찾기에 추가한 스탬프가 없습니다."
   },
   {
+    "wordingKey": "MSG_EMPTY_STAMP_FAVORITE_FOR_NEW_UI",
+    "value": "즐겨찾기에 추가한\n스탬프가 없습니다."
+  },
+  {
     "wordingKey": "MSG_EMPTY_STAMP_HISTORY",
     "value": "스탬프 사용 내역이 없습니다."
+  },
+  {
+    "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
+    "value": "'{0}'(을)를\n<color=#ff5588>{1}장</color> 사용하여 입장합니다.\n계속하시겠습니까?"
   },
   {
     "wordingKey": "MSG_ENTRY_CONFIRMATION",
@@ -652,8 +772,12 @@
     "value": "이벤트 기간 중에는 <color=#ff55AA>최대 {0}</color>개까지 사용할 수 있습니다."
   },
   {
+    "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
+    "value": "{0}(으)로 교환했습니다."
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_ERROR",
-    "value": "교환 가능한 아이템이 없습니다.\n홈으로 돌아갑니다."
+    "value": "해당 기능은 준비 중이니 기대해 주세요.\n홈페이지로 돌아가기."
   },
   {
     "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_1",
@@ -727,6 +851,14 @@
     "wordingKey": "MSG_FRIEND_DEFAULT_REQUEST"
   },
   {
+    "wordingKey": "MSG_FRIEND_INVITE_APPROVE",
+    "value": "초대를 승인했습니다."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REJECT",
+    "value": "초대를 거절했습니다."
+  },
+  {
     "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
     "value": "상대의 친구 수가 최대치에 도달했습니다."
   },
@@ -775,6 +907,10 @@
     "value": "교환소 이용 기한이 지났습니다."
   },
   {
+    "wordingKey": "MSG_GACHA_LIMIT_SPIN_COUNT",
+    "value": "최대치에 도달했습니다"
+  },
+  {
     "wordingKey": "MSG_GACHA_PAID_JEWEL_PRIORITY_USE",
     "value": "유료 크리스탈 우선 사용\n(뽑기 보너스 2배는 유료 사용량에만 적용)"
   },
@@ -805,6 +941,10 @@
   {
     "wordingKey": "MSG_GACHA_SPIN_LIMIT",
     "value": "앞으로 {0}회"
+  },
+  {
+    "wordingKey": "MSG_GACHA_TICKET_SPIN",
+    "value": "{0} <color=#FF55AA>{1}개</color>를 사용하여\n'{2}' 뽑기를 진행하시겠습니까?"
   },
   {
     "wordingKey": "MSG_GACHA_TOP_SEAL_ON",
@@ -863,12 +1003,32 @@
     "value": "플레이어 ID를 입력해 주세요."
   },
   {
+    "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_INVALID_TEAM",
+    "value": "소속 팀이 달라 초대 룸에 입장하지 못했습니다."
+  },
+  {
+    "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_NOT_JOIN",
+    "value": "치어풀 카니발 그룹에 참가하지 않아 초대를 수락하지 못했습니다."
+  },
+  {
+    "wordingKey": "MSG_INVITE_FAILED_TOTAL_POWER",
+    "value": "종합 능력치가 부족하여 초대 룸에 입장하지 못했습니다."
+  },
+  {
     "wordingKey": "MSG_IN_SESSION",
     "value": "공연 중!"
   },
   {
     "wordingKey": "MSG_JOINED_GROUP_REWARD",
     "value": "그룹의 아바타 의상을 획득했습니다."
+  },
+  {
+    "wordingKey": "MSG_KICKOUT_TO_HOME",
+    "value": "현재 문제가 발생했습니다.\n잠시 후 다시 시도해 주세요."
+  },
+  {
+    "wordingKey": "MSG_KICKOUT_TO_WAITING_AREA",
+    "value": "현재 입장할 수 없습니다.\n잠시 후 다시 시도해 주세요."
   },
   {
     "wordingKey": "MSG_LANE_ALPHA",
@@ -1065,6 +1225,14 @@
   {
     "wordingKey": "MSG_MODULE_MAINTENANCE",
     "value": "현재 해당 기능은 점검 중이므로 이용할 수 없습니다.\n이용에 불편을 드려 죄송합니다.\n점검이 완료될 때까지 잠시만 기다려 주시기 바랍니다."
+  },
+  {
+    "wordingKey": "MSG_MOVE_STAGE_FAILED",
+    "value": "공연장 이동에 실패했습니다."
+  },
+  {
+    "wordingKey": "MSG_MOVE_TO_LIVESTAGE",
+    "value": "라이브 공연장으로 이동 중입니다."
   },
   {
     "wordingKey": "MSG_MOVIE_SKIP_BODY",
@@ -1295,12 +1463,20 @@
     "value": "크리스탈이 부족합니다.\n크리스탈 상점으로 이동하시겠습니까?"
   },
   {
+    "wordingKey": "MSG_NOT_ENOUGH_CURRENCY_FOR_VIRTUAL_LIVE_TICKET",
+    "value": "'{0}' 입장에 필요한 티켓을 교환하기 위한 크리스탈이 부족합니다."
+  },
+  {
     "wordingKey": "MSG_NOT_ENOUGH_JEWEL",
     "value": "크리스탈이 부족합니다."
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_PAID_JEWEL",
     "value": "유료 크리스탈이 부족합니다.\n크리스탈 상점으로 이동하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_NOT_ENOUGH_RESOURCE",
+    "value": "{0}(이)가 부족합니다."
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_TICKET",
@@ -1317,6 +1493,10 @@
   {
     "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
     "value": "이벤트 기간이 종료되었습니다."
+  },
+  {
+    "wordingKey": "MSG_NOT_PUBLISH_MUSIC_ERROR",
+    "value": "이 악곡은 아직 플레이할 수 없습니다."
   },
   {
     "wordingKey": "MSG_NOT_RESULT_CONFIRM_NOW",
@@ -1357,6 +1537,10 @@
   {
     "wordingKey": "MSG_NO_FILTERING_RESULT",
     "value": "필터링 결과가 없습니다."
+  },
+  {
+    "wordingKey": "MSG_NO_INVITE",
+    "value": "초대가 없습니다."
   },
   {
     "wordingKey": "MSG_NO_VIRTUAL_LIVE",
@@ -1427,6 +1611,10 @@
     "value": "         리더 고정하기"
   },
   {
+    "wordingKey": "MSG_PLACEHOLDER_LIMITED",
+    "value": "{0}회 한정"
+  },
+  {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
     "value": "{0}(을)를 사용하여 연습을 하시겠습니까?"
   },
@@ -1441,6 +1629,10 @@
   {
     "wordingKey": "MSG_PRACTICE_TICKET_ERROR",
     "value": "이전 연습 결과가 정상적으로 반영되지 않았습니다.\n데이터를 다시 가져오기 위해 연습을 취소합니다.\n \n멤버의 레벨과 사용할 연습용 스코어 수를 확인한 후\n연습을 다시 시도해 주세요."
+  },
+  {
+    "wordingKey": "MSG_PRELIMINARY_TOURNAMENT_ENDED",
+    "value": "예선 기간이 종료되어 홈으로 돌아갑니다."
   },
   {
     "wordingKey": "MSG_PREMIUM_BEFORE_SALE",
@@ -1636,7 +1828,7 @@
   },
   {
     "wordingKey": "MSG_SHOP_EXCHANGE_SUCCESS",
-    "value": "交換成功"
+    "value": "교환 완료"
   },
   {
     "wordingKey": "MSG_SHOP_EXPIRATION_DATE",
@@ -1759,6 +1951,30 @@
     "value": "플레이에 필요한 기기 저장 공간이 부족하여\n데이터를 다운로드할 수 없습니다.\n타이틀로 돌아갑니다."
   },
   {
+    "wordingKey": "MSG_STREAMING_LIVE_FINISH",
+    "value": "공연 종료"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_HOME_REWARD_DIALOG_BODY",
+    "value": "참가한 버추얼 라이브\n'{0}'의 {1} 보상을 획득했습니다."
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_OPEN",
+    "value": "입장 시작"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_PROMOTE_TO_BUY",
+    "value": "※라이브 티켓은 대기 에어리어에 있는\n'티켓 상점'에서 구매할 수 있습니다."
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_READY",
+    "value": "준비 중"
+  },
+  {
+    "wordingKey": "MSG_STREAMING_LIVE_SCHEDULE_WARNING",
+    "value": "※공연 시간은 예정 시간이며 다소 차이가 있을 수 있습니다."
+  },
+  {
     "wordingKey": "MSG_TICKET_EXCHANGE_EXPIRED",
     "value": "교환소 이용 기한이 지났습니다."
   },
@@ -1769,6 +1985,14 @@
   {
     "wordingKey": "MSG_TOTAL_LIVE_POINT",
     "value": "이달의 누적 라이브 P♪"
+  },
+  {
+    "wordingKey": "MSG_TOURNAMENT_LIVE_FAILED",
+    "value": "라이프를 모두 소진했습니다.\n대회 모드에서는 계속하기를 할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_TOURNAMENT_LIVE_NOTICE",
+    "value": "대회 모드에서는 공평한 스코어 기록을 위해\n편성 유닛의 종합 능력치와 스킬은 무효화됩니다.\n또한 라이브 보상을 획득할 수 없습니다."
   },
   {
     "wordingKey": "MSG_TO_BE_HELD_SOON",
@@ -1887,6 +2111,10 @@
     "value": "공연 시작까지 {0}분"
   },
   {
+    "wordingKey": "MSG_VL_MESSAGE_CURRENCY_NOT_ENOUGH",
+    "value": "입력 글자 수가 부족합니다"
+  },
+  {
     "wordingKey": "MSG_VOCAL_CHANGE",
     "value": "보컬 변경"
   },
@@ -1915,12 +2143,24 @@
     "value": "준비 완료 후 기다려 주세요."
   },
   {
+    "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
+    "value": "※'{0}'(을)를 이미 사용하여 소모되지 않습니다."
+  },
+  {
+    "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
+    "value": "※본 공연에 한해 자유롭게 재입장할 수 있습니다."
+  },
+  {
+    "wordingKey": "MSG_WARN_STREAMING_LIVE_WITHOUT_TICKET",
+    "value": "※관람은 라이브 초반까지 가능합니다."
+  },
+  {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
-    "value": "·'<color=#00CCBB>[{0}] {1}</color>' 획득 시\n <color=#00CCBB>{1}</color>에게 '<color=#00CCBB>{2}</color>'(을)를 착용시킬 수 있습니다."
+    "value": "·'<color=#00CCBB>[{0}] {1}</color>' 획득 시\n<color=#00CCBB>{1}</color>에게 '<color=#00CCBB>{2}</color>'(을)를 착용시킬 수 있습니다."
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-    "value": "·'<color=#00CCBB>[{0}] {1}</color>' 획득 시\n 의상 상점에 '<color=#00CCBB>{2}</color>'(이)가 추가됩니다.\n \n 의상 상점에서 '<color=#00CCBB>{2}</color>' 착용 가능 캐릭터를 지정하여 의상을 제작하면 "
+    "value": "·'<color=#00CCBB>[{0}] {1}</color>' 획득 시\n의상 상점에 '<color=#00CCBB>{2}</color>'(이)가 추가됩니다.\n\n의상 상점에서 '<color=#00CCBB>{2}</color>'(을)를 착용 가능한 캐릭터를 지정하여 의상을 제작하면"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -1973,6 +2213,10 @@
   {
     "wordingKey": "NORMAL",
     "value": "NORMAL"
+  },
+  {
+    "wordingKey": "OMIKUJI_PROVISION_TAB_TITLE",
+    "value": "신년 운세 뽑기 설명"
   },
   {
     "wordingKey": "PB",
@@ -2079,8 +2323,32 @@
     "value": "TB"
   },
   {
+    "wordingKey": "TITLE_CONNECT_LIVE_TICKET_EXCHANGE_COMPLETE_DIALOG",
+    "value": "교환 완료"
+  },
+  {
+    "wordingKey": "TITLE_CONNECT_LIVE_TICKET_OVERFLOW_WARN_DIALOG",
+    "value": "확인"
+  },
+  {
     "wordingKey": "TITLE_PERMISSION_NOT_GRANTED",
     "value": "권한이 없습니다."
+  },
+  {
+    "wordingKey": "TITLE_PRELIMINARY_TOURNAMENT_ENDED",
+    "value": "확인"
+  },
+  {
+    "wordingKey": "TITLE_TOURNAMENT_LIVE_NOTICE",
+    "value": "대회 모드에 관하여"
+  },
+  {
+    "wordingKey": "UPGRADE_1_13_CHALLENGE_STAGE_REWARD",
+    "value": "챌린지 스테이지 EXP 조정에 대한 보상입니다."
+  },
+  {
+    "wordingKey": "UPGRADE_1_13_CHARACTER_RANK_REWARD",
+    "value": "캐릭터 랭크 조정에 대한 보상입니다."
   },
   {
     "wordingKey": "USER_POLICY",
@@ -2089,6 +2357,18 @@
   {
     "wordingKey": "VirtualLiveLobbyLiveStatusView_Distance_To_Start",
     "value": "공연 시작까지"
+  },
+  {
+    "wordingKey": "WARD_BONDS_RANK_REWARD_ANOTHER_VOCAL",
+    "value": "어나더 보컬 상점 목록 추가"
+  },
+  {
+    "wordingKey": "WARD_BONDS_RANK_REWARD_AREA_TALK",
+    "value": "에어리어 대화 추가"
+  },
+  {
+    "wordingKey": "WARD_BONDS_RANK_REWARD_INGAME_VOICE",
+    "value": "리듬 게임 중 오리지널 대화 음성 오픈\n{0}×{1}"
   },
   {
     "wordingKey": "WORD_\bEXCHANGE_NUM",
@@ -2113,6 +2393,10 @@
   {
     "wordingKey": "WORD_3DMV_NL",
     "value": "3D\nMV"
+  },
+  {
+    "wordingKey": "WORD_3DMV_QUALITY",
+    "value": "3D MV 품질"
   },
   {
     "wordingKey": "WORD_3DMV_QUALITY_SETTING",
@@ -2191,6 +2475,10 @@
     "value": "친구 추가"
   },
   {
+    "wordingKey": "WORD_ADD_VALUE",
+    "value": "=+{0}"
+  },
+  {
     "wordingKey": "WORD_AFTER_LIVE",
     "value": "애프터 라이브"
   },
@@ -2263,6 +2551,10 @@
     "value": "등장 유닛"
   },
   {
+    "wordingKey": "WORD_AP_COMBO_EFFECT",
+    "value": "콤보 상태 연출"
+  },
+  {
     "wordingKey": "WORD_ARCHIVE_EVENT_STORY_ERROR_TITLE",
     "value": "이벤트 스토리 오류"
   },
@@ -2273,6 +2565,10 @@
   {
     "wordingKey": "WORD_ARCHIVE_EVESTO_CHARA_FILTER_TITLE",
     "value": "캐릭터 필터링"
+  },
+  {
+    "wordingKey": "WORD_ARCHIVE_PREMIUM_PASS_CLOTH_SHOP",
+    "value": "한정 라이브 의상"
   },
   {
     "wordingKey": "WORD_AREA_ITEM_EFFECT",
@@ -2319,12 +2615,20 @@
     "value": "자동"
   },
   {
+    "wordingKey": "WORD_AUTO_LIVE_COMPLETE",
+    "value": "오토 라이브 완료"
+  },
+  {
     "wordingKey": "WORD_AUTO_LIVE_LIMIT",
     "value": "오늘 분량 종료"
   },
   {
     "wordingKey": "WORD_AUTO_LIVE_NUMBER_OF_PLAY",
     "value": "앞으로 {0}회"
+  },
+  {
+    "wordingKey": "WORD_AUTO_LIVE_PAUSE",
+    "value": "오토 라이브 중단"
   },
   {
     "wordingKey": "WORD_AVATAR_COSTUME",
@@ -2397,6 +2701,70 @@
   {
     "wordingKey": "WORD_BODY",
     "value": "의상"
+  },
+  {
+    "wordingKey": "WORD_BOND",
+    "value": "인연"
+  },
+  {
+    "wordingKey": "WORD_BONDS",
+    "value": "인연"
+  },
+  {
+    "wordingKey": "WORD_BONDS_RANK_CONFIRM_REWARD_TITLE",
+    "value": "인연 랭크 보상 목록"
+  },
+  {
+    "wordingKey": "WORD_BOND_GET_EXP",
+    "value": "획득 인연 랭크 EXP"
+  },
+  {
+    "wordingKey": "WORD_BOND_GET_EXP_LIST_BUTTON",
+    "value": "상세 보기"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_CHARACHTER",
+    "value": "캐릭터 배치 선택"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_RANK",
+    "value": "랭크 선택"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_TITLE",
+    "value": "칭호 표시 확인"
+  },
+  {
+    "wordingKey": "WORD_BOND_HONOR_SETTING_WORD",
+    "value": "칭호 선택"
+  },
+  {
+    "wordingKey": "WORD_BOND_NO_PAIR_DESCRIPTION",
+    "value": "인연 랭크가 아직 오픈되지 않아\n인연 EXP를 획득할 수 없습니다."
+  },
+  {
+    "wordingKey": "WORD_BOND_OTHER_EXP_DESCRIPTION",
+    "value": "※인연 EXP를 획득한 멤버가 더 있습니다."
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK",
+    "value": "인연 랭크"
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK_FORMAT",
+    "value": "인연 랭크 {0}"
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK_UP",
+    "value": "인연 랭크 UP!"
+  },
+  {
+    "wordingKey": "WORD_BOND_REWARD",
+    "value": "인연 랭크 보상"
+  },
+  {
+    "wordingKey": "WORD_BOND_REWARD_LIST",
+    "value": "인연 랭크 보상 목록"
   },
   {
     "wordingKey": "WORD_BONUS",
@@ -2683,6 +3051,30 @@
     "value": "코인"
   },
   {
+    "wordingKey": "WORD_COLLABORATION_AREA",
+    "value": "콜라보 한정 세카이 등장"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA",
+    "value": "새해\n컬렉션"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_NOTICE",
+    "value": "주의사항"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_PROVISION_DETAIL_EXPLANATION",
+    "value": "컬렉션 설명"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_PROVISION_DETAIL_LIST",
+    "value": "컬렉션 목록"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GOODS",
+    "value": "감주"
+  },
+  {
     "wordingKey": "WORD_COLOR",
     "value": "컬러"
   },
@@ -2831,12 +3223,28 @@
     "value": "작곡 :"
   },
   {
+    "wordingKey": "WORD_CONDITION_CUSTOMIZED",
+    "value": "조건 커스텀"
+  },
+  {
     "wordingKey": "WORD_CONFIRM",
     "value": "확인"
   },
   {
     "wordingKey": "WORD_CONFIRM_EXCHANGE",
     "value": "교환 확인"
+  },
+  {
+    "wordingKey": "WORD_CONNECT_LIVE_GUIDE_LINE",
+    "value": "가이드라인"
+  },
+  {
+    "wordingKey": "WORD_CONNECT_LIVE_GUIDE_LINE_TITLE",
+    "value": "가이드라인"
+  },
+  {
+    "wordingKey": "WORD_CONSECUTIVE_AUTO_LIVE_NUMBER_OF_PLAY",
+    "value": "앞으로 {0}회"
   },
   {
     "wordingKey": "WORD_CONSUME_NUM",
@@ -3583,16 +3991,140 @@
     "value": "999COMBO"
   },
   {
+    "wordingKey": "Word_Custom_1269",
+    "value": "필요"
+  },
+  {
     "wordingKey": "Word_Custom_127",
     "value": "9999COMBO"
+  },
+  {
+    "wordingKey": "Word_Custom_1270",
+    "value": "소지"
+  },
+  {
+    "wordingKey": "Word_Custom_1271",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1272",
+    "value": "이름 최대 10자 입력 가능"
+  },
+  {
+    "wordingKey": "Word_Custom_1273",
+    "value": "메시지 최대 8자 입력"
+  },
+  {
+    "wordingKey": "Word_Custom_1274",
+    "value": "이름 최대 10자 입력 가능"
+  },
+  {
+    "wordingKey": "Word_Custom_1275",
+    "value": "1231231P"
+  },
+  {
+    "wordingKey": "Word_Custom_1276",
+    "value": "캐릭터"
+  },
+  {
+    "wordingKey": "Word_Custom_1277",
+    "value": "인연"
+  },
+  {
+    "wordingKey": "Word_Custom_1278",
+    "value": "업적"
+  },
+  {
+    "wordingKey": "Word_Custom_1279",
+    "value": "이벤트"
   },
   {
     "wordingKey": "Word_Custom_128",
     "value": "어렸을 때 별을 쫓으며 달린 기억은 누구에게나 있잖아요.\\n"
   },
   {
+    "wordingKey": "Word_Custom_1280",
+    "value": "100%"
+  },
+  {
+    "wordingKey": "Word_Custom_1281",
+    "value": "페이지 자동으로 넘기기"
+  },
+  {
+    "wordingKey": "Word_Custom_1282",
+    "value": "데이터 다운로드 중"
+  },
+  {
+    "wordingKey": "Word_Custom_1283",
+    "value": "0.00%"
+  },
+  {
+    "wordingKey": "Word_Custom_1284",
+    "value": "※네트워크 연결이 원활한 곳에서 다운로드 해 주세요. 연결 상태에 따라 다소 시간이 걸릴 수 있습니다."
+  },
+  {
+    "wordingKey": "Word_Custom_1285",
+    "value": "다른 플레이어를 기다리고 있습니다…(3/5)"
+  },
+  {
+    "wordingKey": "Word_Custom_1286",
+    "value": "EXP"
+  },
+  {
+    "wordingKey": "Word_Custom_1287",
+    "value": "EXP"
+  },
+  {
+    "wordingKey": "Word_Custom_1288",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1289",
+    "value": "?"
+  },
+  {
     "wordingKey": "Word_Custom_129",
     "value": "강아지강아지강아지"
+  },
+  {
+    "wordingKey": "Word_Custom_1290",
+    "value": "스테이지 세카이"
+  },
+  {
+    "wordingKey": "Word_Custom_1291",
+    "value": "스테이지 세카이"
+  },
+  {
+    "wordingKey": "Word_Custom_1292",
+    "value": "aaa/aa/aa/aa"
+  },
+  {
+    "wordingKey": "Word_Custom_1293",
+    "value": "세카이로"
+  },
+  {
+    "wordingKey": "Word_Custom_1294",
+    "value": "현실 세계로"
+  },
+  {
+    "wordingKey": "Word_Custom_1295",
+    "value": "버추얼 라이브"
+  },
+  {
+    "wordingKey": "Word_Custom_1296",
+    "value": "쇼핑몰"
+  },
+  {
+    "wordingKey": "Word_Custom_1297",
+    "value": "쇼핑몰"
+  },
+  {
+    "wordingKey": "Word_Custom_1298",
+    "value": "스타트 대시 미션"
+  },
+  {
+    "wordingKey": "Word_Custom_1299",
+    "value": "이벤트\\n스토리"
   },
   {
     "wordingKey": "Word_Custom_13",
@@ -3603,40 +4135,439 @@
     "value": "야옹이"
   },
   {
+    "wordingKey": "Word_Custom_1300",
+    "value": "메인\\n스토리"
+  },
+  {
+    "wordingKey": "Word_Custom_1301",
+    "value": "00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1302",
+    "value": "캐릭터"
+  },
+  {
+    "wordingKey": "Word_Custom_1303",
+    "value": "여기를 ON으로 설정해서\\n출연하는 캐릭터만\\n표시해 보자!"
+  },
+  {
+    "wordingKey": "Word_Custom_1304",
+    "value": "메시지"
+  },
+  {
+    "wordingKey": "Word_Custom_1305",
+    "value": "캐릭터"
+  },
+  {
+    "wordingKey": "Word_Custom_1306",
+    "value": "일반"
+  },
+  {
+    "wordingKey": "Word_Custom_1307",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1308",
+    "value": "100?999"
+  },
+  {
+    "wordingKey": "Word_Custom_1309",
+    "value": "이용할 수 없습니다"
+  },
+  {
     "wordingKey": "Word_Custom_131",
     "value": "----------\\n----------"
+  },
+  {
+    "wordingKey": "Word_Custom_1310",
+    "value": "1000?4999"
+  },
+  {
+    "wordingKey": "Word_Custom_1311",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1312",
+    "value": "5000?9999"
+  },
+  {
+    "wordingKey": "Word_Custom_1313",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1314",
+    "value": "10000?30000"
+  },
+  {
+    "wordingKey": "Word_Custom_1315",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1316",
+    "value": "무대 이외의 방향으로 아이템을 던질 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1317",
+    "value": "여기를 ON으로 설정해서\\n출연하는 캐릭터만\\n표시해 보자!"
+  },
+  {
+    "wordingKey": "Word_Custom_1318",
+    "value": "부적 호시노 이치카"
+  },
+  {
+    "wordingKey": "Word_Custom_1319",
+    "value": "0.05%"
   },
   {
     "wordingKey": "Word_Custom_132",
     "value": "----------\\n----------\\n----------"
   },
   {
+    "wordingKey": "Word_Custom_1320",
+    "value": "아이템"
+  },
+  {
+    "wordingKey": "Word_Custom_1321",
+    "value": "PlayerName10"
+  },
+  {
+    "wordingKey": "Word_Custom_1322",
+    "value": "아직 인연 랭크가\\n오픈되지 않았습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1323",
+    "value": "선택 완료"
+  },
+  {
+    "wordingKey": "Word_Custom_1324",
+    "value": "캐릭터"
+  },
+  {
+    "wordingKey": "Word_Custom_1325",
+    "value": "여기를 ON으로 설정해서\\n출연하는 캐릭터만\\n표시해 보자!"
+  },
+  {
+    "wordingKey": "Word_Custom_1326",
+    "value": "00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1327",
+    "value": "캐릭터"
+  },
+  {
+    "wordingKey": "Word_Custom_1328",
+    "value": "여기를 ON으로 설정해서\\n출연하는 캐릭터만\\n표시해 보자!"
+  },
+  {
+    "wordingKey": "Word_Custom_1329",
+    "value": "메시지"
+  },
+  {
     "wordingKey": "Word_Custom_133",
     "value": "센터 거리"
+  },
+  {
+    "wordingKey": "Word_Custom_1330",
+    "value": "캐릭터"
+  },
+  {
+    "wordingKey": "Word_Custom_1331",
+    "value": "일반"
+  },
+  {
+    "wordingKey": "Word_Custom_1332",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1333",
+    "value": "100?999"
+  },
+  {
+    "wordingKey": "Word_Custom_1334",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1335",
+    "value": "1000?4999"
+  },
+  {
+    "wordingKey": "Word_Custom_1336",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1337",
+    "value": "5000?9999"
+  },
+  {
+    "wordingKey": "Word_Custom_1338",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1339",
+    "value": "10000?30000"
   },
   {
     "wordingKey": "Word_Custom_134",
     "value": "미션 내용"
   },
   {
+    "wordingKey": "Word_Custom_1340",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1341",
+    "value": "무대 이외의 방향으로 아이템을 던질 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1342",
+    "value": "여기를 ON으로 설정해서\\n출연하는 캐릭터만\\n표시해 보자!"
+  },
+  {
+    "wordingKey": "Word_Custom_1343",
+    "value": "버추얼 라이브"
+  },
+  {
+    "wordingKey": "Word_Custom_1344",
+    "value": "쇼핑몰"
+  },
+  {
+    "wordingKey": "Word_Custom_1345",
+    "value": "쇼핑몰"
+  },
+  {
+    "wordingKey": "Word_Custom_1346",
+    "value": "스타트 대시 미션"
+  },
+  {
+    "wordingKey": "Word_Custom_1347",
+    "value": "프리미엄 미션 패스"
+  },
+  {
+    "wordingKey": "Word_Custom_1348",
+    "value": "교환 기한이 얼마 남지 않은 선택 티켓이 있습니다.\\n티켓 교환소로 이동하시겠습니까?"
+  },
+  {
+    "wordingKey": "Word_Custom_1349",
+    "value": "초보자 한정 ★4 멤버 교환 티켓"
+  },
+  {
     "wordingKey": "Word_Custom_135",
     "value": "--/--"
+  },
+  {
+    "wordingKey": "Word_Custom_1350",
+    "value": "yyyy/mm/dd hh:mm"
+  },
+  {
+    "wordingKey": "Word_Custom_1351",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1352",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1353",
+    "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1354",
+    "value": "'{0}'(을)를 <color=#ff5588>{1}장</color> 사용하여\\n입장하시겠습니까?"
+  },
+  {
+    "wordingKey": "Word_Custom_1355",
+    "value": "소지"
+  },
+  {
+    "wordingKey": "Word_Custom_1356",
+    "value": "필요"
+  },
+  {
+    "wordingKey": "Word_Custom_1357",
+    "value": "버추얼 싱어"
+  },
+  {
+    "wordingKey": "Word_Custom_1358",
+    "value": "대길"
+  },
+  {
+    "wordingKey": "Word_Custom_1359",
+    "value": "Lv.60"
   },
   {
     "wordingKey": "Word_Custom_136",
     "value": "칭호 ''"
   },
   {
+    "wordingKey": "Word_Custom_1360",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1361",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1362",
+    "value": "Lv ?/<size=28>?</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1363",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1364",
+    "value": "Lv ?/<size=28>?</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1365",
+    "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1366",
+    "value": "GET!"
+  },
+  {
+    "wordingKey": "Word_Custom_1367",
+    "value": "GET!"
+  },
+  {
+    "wordingKey": "Word_Custom_1368",
+    "value": "공연 시작까지\\n00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1369",
+    "value": "{0}"
+  },
+  {
     "wordingKey": "Word_Custom_137",
     "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1370",
+    "value": "크리스탈 <color=#FF55AA>1500개</color>를 사용하여\\n'BOX 이름' 뽑기를 진행하시겠습니까?"
+  },
+  {
+    "wordingKey": "Word_Custom_1371",
+    "value": "소지"
+  },
+  {
+    "wordingKey": "Word_Custom_1372",
+    "value": "필요"
+  },
+  {
+    "wordingKey": "Word_Custom_1373",
+    "value": "뽑기"
+  },
+  {
+    "wordingKey": "Word_Custom_1374",
+    "value": "2000/99/99 14:59까지"
+  },
+  {
+    "wordingKey": "Word_Custom_1375",
+    "value": "1회<size=28> 뽑기</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1376"
+  },
+  {
+    "wordingKey": "Word_Custom_1377",
+    "value": "멤버 선택"
+  },
+  {
+    "wordingKey": "Word_Custom_1378",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1379",
+    "value": "마음의 결정체"
   },
   {
     "wordingKey": "Word_Custom_138",
     "value": "×50"
   },
   {
+    "wordingKey": "Word_Custom_1380",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1381",
+    "value": "마음의 결정체"
+  },
+  {
+    "wordingKey": "Word_Custom_1382",
+    "value": "유닛 이름"
+  },
+  {
+    "wordingKey": "Word_Custom_1383",
+    "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1384",
+    "value": "스코어 획득 날짜"
+  },
+  {
+    "wordingKey": "Word_Custom_1385",
+    "value": "2022/2/1 00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1386",
+    "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1387",
+    "value": "MAX"
+  },
+  {
+    "wordingKey": "Word_Custom_1388",
+    "value": "MAX"
+  },
+  {
+    "wordingKey": "Word_Custom_1389",
+    "value": "크리스탈을 50개를 사용하여\\n라이브 보너스를 회복하시겠습니까?"
+  },
+  {
     "wordingKey": "Word_Custom_139",
     "value": "3회 탭하여 유저 삭제"
+  },
+  {
+    "wordingKey": "Word_Custom_1390",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1391",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1392",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1393",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1394",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1395",
+    "value": "3회 탭하여 유저 삭제"
+  },
+  {
+    "wordingKey": "Word_Custom_1396",
+    "value": "튜토리얼 완료 유저"
+  },
+  {
+    "wordingKey": "Word_Custom_1397",
+    "value": "0000-0000-0000-0000"
+  },
+  {
+    "wordingKey": "Word_Custom_1398",
+    "value": "<color=#444466>5</color>"
+  },
+  {
+    "wordingKey": "Word_Custom_1399",
+    "value": "<color=#444466>0</color>"
   },
   {
     "wordingKey": "Word_Custom_14",
@@ -3647,31 +4578,351 @@
     "value": "0000-0000-0000-0000"
   },
   {
+    "wordingKey": "Word_Custom_1400",
+    "value": "<color=#444466>5</color>"
+  },
+  {
+    "wordingKey": "Word_Custom_1401",
+    "value": "<color=#444466>0</color>"
+  },
+  {
+    "wordingKey": "Word_Custom_1402",
+    "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1403",
+    "value": "1회<size=28> 뽑기</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1404",
+    "value": "Player Name"
+  },
+  {
+    "wordingKey": "Word_Custom_1405",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1406",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1407",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1408",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1409",
+    "value": "Lv.60"
+  },
+  {
     "wordingKey": "Word_Custom_141",
     "value": "ーーーーーーーーーーーーーーーーー"
+  },
+  {
+    "wordingKey": "Word_Custom_1410",
+    "value": "200%"
+  },
+  {
+    "wordingKey": "Word_Custom_1411",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1412",
+    "value": "1231231P"
+  },
+  {
+    "wordingKey": "Word_Custom_1413",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1414",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1415",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1416",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1417",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1418",
+    "value": "500%"
+  },
+  {
+    "wordingKey": "Word_Custom_1419",
+    "value": "yyyy/mm/dd hh:mm까지"
   },
   {
     "wordingKey": "Word_Custom_142",
     "value": "ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー"
   },
   {
+    "wordingKey": "Word_Custom_1420",
+    "value": "감주"
+  },
+  {
+    "wordingKey": "Word_Custom_1421",
+    "value": "1회 남음"
+  },
+  {
+    "wordingKey": "Word_Custom_1422",
+    "value": "2000/99/99 14:59까지"
+  },
+  {
+    "wordingKey": "Word_Custom_1423",
+    "value": "1회<size=28> 뽑기</size>"
+  },
+  {
+    "wordingKey": "Word_Custom_1424",
+    "value": "1231231P"
+  },
+  {
+    "wordingKey": "Word_Custom_1425",
+    "value": "프리 B"
+  },
+  {
+    "wordingKey": "Word_Custom_1426",
+    "value": "프리 A"
+  },
+  {
+    "wordingKey": "Word_Custom_1427",
+    "value": "베테랑 B"
+  },
+  {
+    "wordingKey": "Word_Custom_1428",
+    "value": "베테랑 A"
+  },
+  {
+    "wordingKey": "Word_Custom_1429",
+    "value": "멀티\\n라이브"
+  },
+  {
     "wordingKey": "Word_Custom_143",
     "value": "유닛 이름"
+  },
+  {
+    "wordingKey": "Word_Custom_1430",
+    "value": "0"
+  },
+  {
+    "wordingKey": "Word_Custom_1431",
+    "value": "0"
+  },
+  {
+    "wordingKey": "Word_Custom_1432",
+    "value": "×999"
+  },
+  {
+    "wordingKey": "Word_Custom_1433",
+    "value": "※공연 시간은 예정 시간이며 다소 차이가 있을 수 있습니다."
+  },
+  {
+    "wordingKey": "Word_Custom_1434",
+    "value": "유닛 이름"
+  },
+  {
+    "wordingKey": "Word_Custom_1435",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1436",
+    "value": "이름. 최대 10자 이내"
+  },
+  {
+    "wordingKey": "Word_Custom_1437",
+    "value": "메시지. 최대 32자 이내 123456789012342567123"
+  },
+  {
+    "wordingKey": "Word_Custom_1438",
+    "value": "이름. 최대 10자 이내"
+  },
+  {
+    "wordingKey": "Word_Custom_1439",
+    "value": "2020/99/00 23:59:59"
   },
   {
     "wordingKey": "Word_Custom_144",
     "value": "Lv.60"
   },
   {
+    "wordingKey": "Word_Custom_1440",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1441",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1442",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1443",
+    "value": "앞"
+  },
+  {
+    "wordingKey": "Word_Custom_1444",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1445",
+    "value": "메시지"
+  },
+  {
+    "wordingKey": "Word_Custom_1446",
+    "value": "캐릭터"
+  },
+  {
+    "wordingKey": "Word_Custom_1447",
+    "value": "일반"
+  },
+  {
+    "wordingKey": "Word_Custom_1448",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1449",
+    "value": "100?999"
+  },
+  {
     "wordingKey": "Word_Custom_145",
     "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1450",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1451",
+    "value": "1000?4999"
+  },
+  {
+    "wordingKey": "Word_Custom_1452",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1453",
+    "value": "5000?9999"
+  },
+  {
+    "wordingKey": "Word_Custom_1454",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1455",
+    "value": "10000?30000"
+  },
+  {
+    "wordingKey": "Word_Custom_1456",
+    "value": "이용할 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1457",
+    "value": "무대 이외의 방향으로 아이템을 던질 수 없습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1458",
+    "value": "여기를 ON으로 설정해서\\n출연하는 캐릭터만\\n표시해 보자!"
+  },
+  {
+    "wordingKey": "Word_Custom_1459",
+    "value": "공연이 종료되었습니다."
   },
   {
     "wordingKey": "Word_Custom_146",
     "value": "Lv.60"
   },
   {
+    "wordingKey": "Word_Custom_1460",
+    "value": "자동 퇴장까지"
+  },
+  {
+    "wordingKey": "Word_Custom_1461",
+    "value": "00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1462",
+    "value": "공연 시작까지"
+  },
+  {
+    "wordingKey": "Word_Custom_1463",
+    "value": "00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1464",
+    "value": "Option A"
+  },
+  {
+    "wordingKey": "Word_Custom_1465",
+    "value": "Option A"
+  },
+  {
+    "wordingKey": "Word_Custom_1466",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1467",
+    "value": "아직 인연 랭크가\\n오픈되지 않았습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1468",
+    "value": "선택 완료"
+  },
+  {
+    "wordingKey": "Word_Custom_1469",
+    "value": "카드 이름 aaaaa32px 최대 15w"
+  },
+  {
     "wordingKey": "Word_Custom_147",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1470",
+    "value": "아즈사와 코하네 40px#446"
+  },
+  {
+    "wordingKey": "Word_Custom_1471",
+    "value": "카드 이름 aaaaaaa36px"
+  },
+  {
+    "wordingKey": "Word_Custom_1472",
+    "value": "아즈사와 코하네"
+  },
+  {
+    "wordingKey": "Word_Custom_1473",
+    "value": "의상 이름 36p#446 가운데 정렬"
+  },
+  {
+    "wordingKey": "Word_Custom_1474",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1475",
+    "value": "소지한 크리스탈"
+  },
+  {
+    "wordingKey": "Word_Custom_1476",
+    "value": "필요"
+  },
+  {
+    "wordingKey": "Word_Custom_1477",
+    "value": "소지"
+  },
+  {
+    "wordingKey": "Word_Custom_1478",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1479",
     "value": "Lv.60"
   },
   {
@@ -3679,8 +4930,88 @@
     "value": "Lv.60"
   },
   {
+    "wordingKey": "Word_Custom_1480",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1481",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1482",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1483",
+    "value": "크리스탈 <color=#FF55AA>1500개</color>를 사용하여\\n'BOX 이름' 뽑기를 진행하시겠습니까?"
+  },
+  {
+    "wordingKey": "Word_Custom_1484",
+    "value": "필요"
+  },
+  {
+    "wordingKey": "Word_Custom_1485",
+    "value": "소지"
+  },
+  {
+    "wordingKey": "Word_Custom_1486",
+    "value": "취소"
+  },
+  {
+    "wordingKey": "Word_Custom_1487",
+    "value": "뽑기"
+  },
+  {
+    "wordingKey": "Word_Custom_1488",
+    "value": "타이틀"
+  },
+  {
+    "wordingKey": "Word_Custom_1489",
+    "value": "모두 선택"
+  },
+  {
     "wordingKey": "Word_Custom_149",
     "value": "\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1490",
+    "value": "99"
+  },
+  {
+    "wordingKey": "Word_Custom_1491",
+    "value": "00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1492",
+    "value": "공연 시작까지\\n00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1493",
+    "value": "이름. 최대 10자 이내"
+  },
+  {
+    "wordingKey": "Word_Custom_1494",
+    "value": "메시지. 최대 16자 이내"
+  },
+  {
+    "wordingKey": "Word_Custom_1495",
+    "value": "이름. 최대 10자 이내"
+  },
+  {
+    "wordingKey": "Word_Custom_1496",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1497",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1498",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1499",
+    "value": "Lv.60"
   },
   {
     "wordingKey": "Word_Custom_15",
@@ -3691,40 +5022,440 @@
     "value": "EXPERT"
   },
   {
+    "wordingKey": "Word_Custom_1500",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1501",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1502",
+    "value": "3%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1503",
+    "value": "3%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1504",
+    "value": "27%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1505",
+    "value": "99%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1506",
+    "value": "3%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1507",
+    "value": "3%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1508",
+    "value": "27%\\n"
+  },
+  {
+    "wordingKey": "Word_Custom_1509",
+    "value": "99%\\n"
+  },
+  {
     "wordingKey": "Word_Custom_151",
     "value": "8888/9999"
+  },
+  {
+    "wordingKey": "Word_Custom_1510",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1511",
+    "value": "모두 선택"
+  },
+  {
+    "wordingKey": "Word_Custom_1512",
+    "value": "[Settings]"
+  },
+  {
+    "wordingKey": "Word_Custom_1513",
+    "value": "ScheduleId"
+  },
+  {
+    "wordingKey": "Word_Custom_1514",
+    "value": "Enter text..."
+  },
+  {
+    "wordingKey": "Word_Custom_1515",
+    "value": "Group 수"
+  },
+  {
+    "wordingKey": "Word_Custom_1516",
+    "value": "Enter text..."
+  },
+  {
+    "wordingKey": "Word_Custom_1517",
+    "value": "VirtualLiveType"
+  },
+  {
+    "wordingKey": "Word_Custom_1518",
+    "value": "Option A"
+  },
+  {
+    "wordingKey": "Word_Custom_1519",
+    "value": "크리스탈 상점 이용 유저 포함"
   },
   {
     "wordingKey": "Word_Custom_152",
     "value": "12/31 23:59까지"
   },
   {
+    "wordingKey": "Word_Custom_1520",
+    "value": "접속"
+  },
+  {
+    "wordingKey": "Word_Custom_1521",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1522",
+    "value": "감주"
+  },
+  {
+    "wordingKey": "Word_Custom_1523",
+    "value": "1회 남음"
+  },
+  {
+    "wordingKey": "Word_Custom_1524",
+    "value": "필요"
+  },
+  {
+    "wordingKey": "Word_Custom_1525",
+    "value": "소지"
+  },
+  {
+    "wordingKey": "Word_Custom_1526",
+    "value": "크리스탈이 부족합니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1527",
+    "value": "'신청서가 접수되는 상황! aaa'"
+  },
+  {
+    "wordingKey": "Word_Custom_1528",
+    "value": "커넥트 라이브 초대"
+  },
+  {
+    "wordingKey": "Word_Custom_1529",
+    "value": "따끈따끈한 팬케이크를 통해\\n라이브 보너스×10를 획득했습니다"
+  },
+  {
     "wordingKey": "Word_Custom_153",
     "value": "--/---"
+  },
+  {
+    "wordingKey": "Word_Custom_1530",
+    "value": "Large Star"
+  },
+  {
+    "wordingKey": "Word_Custom_1531",
+    "value": "1.23E+16"
+  },
+  {
+    "wordingKey": "Word_Custom_1532",
+    "value": "메시지. 최대 24자 이내 12346789012"
+  },
+  {
+    "wordingKey": "Word_Custom_1533",
+    "value": "1.23E+16"
+  },
+  {
+    "wordingKey": "Word_Custom_1534",
+    "value": "뒤"
+  },
+  {
+    "wordingKey": "Word_Custom_1535",
+    "value": "아즈사와 코하네의 캐릭터 랭크를 올리면\\n인연 랭크의 최대치가 올라갑니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1536",
+    "value": "스테이지 세카이"
+  },
+  {
+    "wordingKey": "Word_Custom_1537",
+    "value": "스테이지 세카이"
+  },
+  {
+    "wordingKey": "Word_Custom_1538",
+    "value": "aaa/aa/aa/aa"
+  },
+  {
+    "wordingKey": "Word_Custom_1539",
+    "value": "1회<size=28> 뽑기</size>"
   },
   {
     "wordingKey": "Word_Custom_154",
     "value": "1위 캐릭터명\\n1위 캐릭터명\\n1위 캐릭터명\\n1위 캐릭터명\\n1위 캐릭터명"
   },
   {
+    "wordingKey": "Word_Custom_1540",
+    "value": "공연 시작까지"
+  },
+  {
+    "wordingKey": "Word_Custom_1541",
+    "value": "소지한 젬"
+  },
+  {
+    "wordingKey": "Word_Custom_1542",
+    "value": "필요"
+  },
+  {
+    "wordingKey": "Word_Custom_1543",
+    "value": "소지"
+  },
+  {
+    "wordingKey": "Word_Custom_1544",
+    "value": "yyyy/mm/dd hh:mm"
+  },
+  {
+    "wordingKey": "Word_Custom_1545",
+    "value": "다음"
+  },
+  {
+    "wordingKey": "Word_Custom_1546",
+    "value": "앞"
+  },
+  {
+    "wordingKey": "Word_Custom_1547",
+    "value": "10/200"
+  },
+  {
+    "wordingKey": "Word_Custom_1548",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1549",
+    "value": "플레이어 이름 36px#446"
+  },
+  {
     "wordingKey": "Word_Custom_155",
     "value": "--/---"
+  },
+  {
+    "wordingKey": "Word_Custom_1550",
+    "value": "잘 부탁드립니다! 최대 30자 입력 가능. aaaa"
+  },
+  {
+    "wordingKey": "Word_Custom_1551",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1552",
+    "value": "플레이어 이름 36px#446"
+  },
+  {
+    "wordingKey": "Word_Custom_1553",
+    "value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+    "wordingKey": "Word_Custom_1554",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1555",
+    "value": "플레이어 이름 36px#446"
+  },
+  {
+    "wordingKey": "Word_Custom_1556",
+    "value": "멀티 라이브 초대"
+  },
+  {
+    "wordingKey": "Word_Custom_1557",
+    "value": "라이브 초대입니다."
+  },
+  {
+    "wordingKey": "Word_Custom_1558",
+    "value": "180초 남음"
+  },
+  {
+    "wordingKey": "Word_Custom_1559",
+    "value": "그룹\\n에어리어"
   },
   {
     "wordingKey": "Word_Custom_156",
     "value": "\\n"
   },
   {
+    "wordingKey": "Word_Custom_1560",
+    "value": "치어풀\\n라이브"
+  },
+  {
+    "wordingKey": "Word_Custom_1561",
+    "value": "12345678위"
+  },
+  {
+    "wordingKey": "Word_Custom_1562",
+    "value": "100000pt"
+  },
+  {
+    "wordingKey": "Word_Custom_1563",
+    "value": "모든 스토리를 오픈했습니다."
+  },
+  {
+    "wordingKey": "Word_Custom_1564",
+    "value": "2020/99/99 14:59까지"
+  },
+  {
+    "wordingKey": "Word_Custom_1565",
+    "value": "3일 남음"
+  },
+  {
+    "wordingKey": "Word_Custom_1566",
+    "value": "12/12\\n23시경"
+  },
+  {
+    "wordingKey": "Word_Custom_1567",
+    "value": "12/12\\n23시경"
+  },
+  {
+    "wordingKey": "Word_Custom_1568",
+    "value": "00:00:00"
+  },
+  {
+    "wordingKey": "Word_Custom_1569",
+    "value": "공연 시작까지\\n00:00:00"
+  },
+  {
     "wordingKey": "Word_Custom_157",
     "value": "1.23456789012346E+16"
+  },
+  {
+    "wordingKey": "Word_Custom_1570",
+    "value": "오토 라이브 설정"
+  },
+  {
+    "wordingKey": "Word_Custom_1571",
+    "value": "라이브 보너스를 소진할 때까지"
+  },
+  {
+    "wordingKey": "Word_Custom_1572",
+    "value": "횟수 설정"
+  },
+  {
+    "wordingKey": "Word_Custom_1573",
+    "value": "오토 라이브 횟수"
+  },
+  {
+    "wordingKey": "Word_Custom_1574",
+    "value": "사용 아이템"
+  },
+  {
+    "wordingKey": "Word_Custom_1575",
+    "value": "※라이브 보너스 드링크가 우선 사용됩니다."
+  },
+  {
+    "wordingKey": "Word_Custom_1576",
+    "value": "×50"
+  },
+  {
+    "wordingKey": "Word_Custom_1577",
+    "value": "'신청서가 접수되는 상황! aaa'"
+  },
+  {
+    "wordingKey": "Word_Custom_1578",
+    "value": "커넥트 라이브 초대"
+  },
+  {
+    "wordingKey": "Word_Custom_1579",
+    "value": "따끈따끈한 팬케이크를 통해\\n라이브 보너스×10를 획득했습니다"
   },
   {
     "wordingKey": "Word_Custom_158",
     "value": "정보. 최대 24자 이내１２３４６７８９０１２"
   },
   {
+    "wordingKey": "Word_Custom_1580",
+    "value": "'신청서가 접수되는 상황! aaa'"
+  },
+  {
+    "wordingKey": "Word_Custom_1581",
+    "value": "커넥트 라이브 초대"
+  },
+  {
+    "wordingKey": "Word_Custom_1582",
+    "value": "따끈따끈한 팬케이크를 통해\\n라이브 보너스×10를 획득했습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1583",
+    "value": "'신청서가 접수되는 상황! aaa'"
+  },
+  {
+    "wordingKey": "Word_Custom_1584",
+    "value": "커넥트 라이브 초대"
+  },
+  {
+    "wordingKey": "Word_Custom_1585",
+    "value": "따끈따끈한 팬케이크를 통해\\n라이브 보너스×10를 획득했습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1586",
+    "value": "'신청서가 접수되는 상황! aaa'"
+  },
+  {
+    "wordingKey": "Word_Custom_1587",
+    "value": "커넥트 라이브 초대"
+  },
+  {
+    "wordingKey": "Word_Custom_1588",
+    "value": "따끈따끈한 팬케이크를 통해\\n라이브 보너스×10를 획득했습니다"
+  },
+  {
+    "wordingKey": "Word_Custom_1589",
+    "value": "음반 상점에서 교환"
+  },
+  {
     "wordingKey": "Word_Custom_159",
     "value": "1.23456789012346E+16"
+  },
+  {
+    "wordingKey": "Word_Custom_1590",
+    "value": "유닛 이름"
+  },
+  {
+    "wordingKey": "Word_Custom_1591",
+    "value": "대길"
+  },
+  {
+    "wordingKey": "Word_Custom_1592",
+    "value": "0.05%"
+  },
+  {
+    "wordingKey": "Word_Custom_1593",
+    "value": "1회 한정"
+  },
+  {
+    "wordingKey": "Word_Custom_1594",
+    "value": "1231231P"
+  },
+  {
+    "wordingKey": "Word_Custom_1595",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1596",
+    "value": "플레이어 이름 36px#446"
+  },
+  {
+    "wordingKey": "Word_Custom_1597",
+    "value": "초대"
+  },
+  {
+    "wordingKey": "Word_Custom_1598",
+    "value": "\"제목 64px15w 이상 축소 필요\"라고 하면?"
+  },
+  {
+    "wordingKey": "Word_Custom_1599",
+    "value": "32px 중앙 정렬 #446"
   },
   {
     "wordingKey": "Word_Custom_16",
@@ -3733,6 +5464,30 @@
   {
     "wordingKey": "Word_Custom_160",
     "value": "P"
+  },
+  {
+    "wordingKey": "Word_Custom_1600",
+    "value": "32px 중앙 정렬 #446"
+  },
+  {
+    "wordingKey": "Word_Custom_1601",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1602",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1603",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1604",
+    "value": "Lv.60"
+  },
+  {
+    "wordingKey": "Word_Custom_1605",
+    "value": "Lv.60"
   },
   {
     "wordingKey": "Word_Custom_162",
@@ -3783,6 +5538,14 @@
     "value": "Lv.60"
   },
   {
+    "wordingKey": "Word_Custom_1720",
+    "value": "꿈의 실현에 가까워질 있는 해\\n오래된 인연을 소중히 해요\\n하나하나"
+  },
+  {
+    "wordingKey": "Word_Custom_1722",
+    "value": "글자 크기 36pt\\n14글자×2줄 들어갑니다."
+  },
+  {
     "wordingKey": "Word_Custom_173",
     "value": "Lv.60"
   },
@@ -3795,8 +5558,24 @@
     "value": "3회 탭하여 유저 삭제"
   },
   {
+    "wordingKey": "Word_Custom_1750",
+    "value": "버추얼 라이브"
+  },
+  {
+    "wordingKey": "Word_Custom_1758",
+    "value": "이벤트\\n스토리"
+  },
+  {
     "wordingKey": "Word_Custom_176",
     "value": "튜토리얼 완료 유저"
+  },
+  {
+    "wordingKey": "Word_Custom_1760",
+    "value": "메인\\n스토리"
+  },
+  {
+    "wordingKey": "Word_Custom_1764",
+    "value": "여기를 ON으로 설정해서\\n출연하는 캐릭터만\\n표시해 보자!"
   },
   {
     "wordingKey": "Word_Custom_177",
@@ -3807,8 +5586,20 @@
     "value": "개최 시간 12/12 03:59까지"
   },
   {
+    "wordingKey": "Word_Custom_1784",
+    "value": "부적 호시노 이치카"
+  },
+  {
+    "wordingKey": "Word_Custom_1788",
+    "value": "아직 인연 랭크가\\n오픈되지 않았습니다"
+  },
+  {
     "wordingKey": "Word_Custom_179",
     "value": "개최 시간 12/12 03:59까지"
+  },
+  {
+    "wordingKey": "Word_Custom_1796",
+    "value": "한 번 더 탭하여 결정!"
   },
   {
     "wordingKey": "Word_Custom_18",
@@ -3831,16 +5622,44 @@
     "value": "팀 명"
   },
   {
+    "wordingKey": "Word_Custom_1830",
+    "value": "교환 기한이 얼마 남지 않은 선택 티켓이 있습니다.\\n티켓 교환소로 이동하시겠습니까?"
+  },
+  {
+    "wordingKey": "Word_Custom_1834",
+    "value": "'{0}'(을)를 <color=#ff5588>{1}장</color> 사용하여\\n입장하시겠습니까?"
+  },
+  {
+    "wordingKey": "Word_Custom_1838",
+    "value": "공연 시작까지\\n00:00:00"
+  },
+  {
     "wordingKey": "Word_Custom_184",
     "value": "?"
+  },
+  {
+    "wordingKey": "Word_Custom_1840",
+    "value": "크리스탈 <color=#FF55AA>1500개</color>를 사용하여\\n'BOX 이름' 뽑기를 진행하시겠습니까?"
   },
   {
     "wordingKey": "Word_Custom_185",
     "value": "?"
   },
   {
+    "wordingKey": "Word_Custom_1856",
+    "value": "ーーーーーーーーーーーーーーーーー"
+  },
+  {
+    "wordingKey": "Word_Custom_1858",
+    "value": "ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー"
+  },
+  {
     "wordingKey": "Word_Custom_186",
     "value": "1/40"
+  },
+  {
+    "wordingKey": "Word_Custom_1864",
+    "value": "크리스탈을 50개를 사용하여\\n라이브 보너스를 회복하시겠습니까?"
   },
   {
     "wordingKey": "Word_Custom_187",
@@ -3849,6 +5668,10 @@
   {
     "wordingKey": "Word_Custom_188",
     "value": "piapro 캐릭터"
+  },
+  {
+    "wordingKey": "Word_Custom_1888",
+    "value": "멀티\\n라이브"
   },
   {
     "wordingKey": "Word_Custom_189",
@@ -3911,8 +5734,16 @@
     "value": "Large Star"
   },
   {
+    "wordingKey": "Word_Custom_2004",
+    "value": "따끈따끈한 팬케이크를 통해\\n라이브 보너스×10를 획득했습니다"
+  },
+  {
     "wordingKey": "Word_Custom_201",
     "value": "----------\\n----------"
+  },
+  {
+    "wordingKey": "Word_Custom_2018",
+    "value": "아즈사와 코하네의 캐릭터 랭크를 올리면\\n인연 랭크의 최대치가 올라갑니다"
   },
   {
     "wordingKey": "Word_Custom_202",
@@ -3923,6 +5754,10 @@
     "value": "전단지"
   },
   {
+    "wordingKey": "Word_Custom_2034",
+    "value": "선택한 카드를 삭제하시겠습니까?"
+  },
+  {
     "wordingKey": "Word_Custom_204",
     "value": "Player Name"
   },
@@ -3931,12 +5766,24 @@
     "value": "Lv.22"
   },
   {
+    "wordingKey": "Word_Custom_2052",
+    "value": "그룹\\n에어리어"
+  },
+  {
+    "wordingKey": "Word_Custom_2054",
+    "value": "치어풀\\n라이브"
+  },
+  {
     "wordingKey": "Word_Custom_206",
     "value": "MAX"
   },
   {
     "wordingKey": "Word_Custom_207",
     "value": "10%"
+  },
+  {
+    "wordingKey": "Word_Custom_2078",
+    "value": "Game Center에서\\n연결"
   },
   {
     "wordingKey": "Word_Custom_208",
@@ -3957,6 +5804,10 @@
   {
     "wordingKey": "Word_Custom_211",
     "value": "--/---"
+  },
+  {
+    "wordingKey": "Word_Custom_2112",
+    "value": "MVP・SUPERSTAR"
   },
   {
     "wordingKey": "Word_Custom_212",
@@ -5499,6 +7350,14 @@
     "value": "커스텀 프로필"
   },
   {
+    "wordingKey": "WORD_CUSTOM_PROFILE_COLLECTION_ALERT_TITLE",
+    "value": "컬렉션 사용 수에 관하여"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_COLLECTION_GACHA_OPEN",
+    "value": "열기"
+  },
+  {
     "wordingKey": "WORD_CUSTOM_PROFILE_EDIT_CARD",
     "value": "커스텀 프로필 편집"
   },
@@ -5663,6 +7522,10 @@
     "value": "공연 중!"
   },
   {
+    "wordingKey": "WORD_EASY_FILTER",
+    "value": "간단 필터링"
+  },
+  {
     "wordingKey": "WORD_EFFECT",
     "value": "효과"
   },
@@ -5689,6 +7552,10 @@
   {
     "wordingKey": "WORD_EMPTY_SHAPE",
     "value": "표시 가능한 도형이 없습니다."
+  },
+  {
+    "wordingKey": "WORD_END_AT_FORMAT",
+    "value": "2022/12/04 23:59:59까지"
   },
   {
     "wordingKey": "WORD_ENTER_LIMIT",
@@ -5903,6 +7770,14 @@
     "value": "교환 확인"
   },
   {
+    "wordingKey": "WORD_EXCHANGE_LIMIT",
+    "value": "교환 기한"
+  },
+  {
+    "wordingKey": "WORD_EXCHANGE_LIMIT_FORMAT",
+    "value": "{0}/{1:00}/{2:00} {3:00}:{4:00}"
+  },
+  {
     "wordingKey": "WORD_EXCHANGE_SELECT_ALL_MEMBER",
     "value": "전원 선택"
   },
@@ -5951,6 +7826,14 @@
     "value": "필터링"
   },
   {
+    "wordingKey": "WORD_FILTER_SKILL_SCORE",
+    "value": "스코어 UP"
+  },
+  {
+    "wordingKey": "WORD_FILTER_SKILL_SCORE_UP_SPECIAL",
+    "value": "스코어 UP(특수)"
+  },
+  {
     "wordingKey": "WORD_FINAL_CONFIRM",
     "value": "최종 확인"
   },
@@ -5975,6 +7858,14 @@
     "value": "예시"
   },
   {
+    "wordingKey": "WORD_FORTUNE",
+    "value": "길"
+  },
+  {
+    "wordingKey": "WORD_FORTUNE_GACHA",
+    "value": "신년 운세 뽑기"
+  },
+  {
     "wordingKey": "WORD_FREE",
     "value": "무료"
   },
@@ -5997,6 +7888,10 @@
   {
     "wordingKey": "WORD_FRIEND_COUNT",
     "value": "친구"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE",
+    "value": "<color=#ff5599>{0}</color>에게서 라이브 초대를 받았습니다."
   },
   {
     "wordingKey": "WORD_FRIEND_LIST",
@@ -6039,6 +7934,10 @@
     "value": "친구 신청 거절"
   },
   {
+    "wordingKey": "WORD_FRIENT_INVITE_TITLE",
+    "value": "친구 초대하기"
+  },
+  {
     "wordingKey": "WORD_FULLSET",
     "value": "풀 세트"
   },
@@ -6079,6 +7978,10 @@
     "value": "뽑기 설명"
   },
   {
+    "wordingKey": "WORD_GACHA_EXTRA_BONUS",
+    "value": "보너스 획득"
+  },
+  {
     "wordingKey": "WORD_GACHA_SELECT_LIST",
     "value": "셀렉트 리스트 뽑기"
   },
@@ -6105,6 +8008,14 @@
   {
     "wordingKey": "WORD_GET_CHARACTER_RANK_UP_REWARD",
     "value": "캐릭터 랭크 업 보상 획득"
+  },
+  {
+    "wordingKey": "WORD_GET_CONNECT_LIVE_REWARD",
+    "value": "커넥트 라이브 보상"
+  },
+  {
+    "wordingKey": "WORD_GET_COSTUME_DIALOG",
+    "value": "{0} {1}\\n\\n<color={2}>{3}</color>"
   },
   {
     "wordingKey": "WORD_GET_ORDER",
@@ -6251,6 +8162,14 @@
     "value": "스토리로 이동"
   },
   {
+    "wordingKey": "WORD_GO_TO_CRYSTAL_SHOP_FOR_STREAMING_LIVE_TICKET",
+    "value": "크리스탈\n상점"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
+    "value": "티켓 구매"
+  },
+  {
     "wordingKey": "WORD_GO_TRAINING",
     "value": "특훈으로"
   },
@@ -6265,6 +8184,14 @@
   {
     "wordingKey": "WORD_GO_WAITING_ROOM",
     "value": "대기실로"
+  },
+  {
+    "wordingKey": "WORD_GRATE_FORTUNE",
+    "value": "대길"
+  },
+  {
+    "wordingKey": "WORD_GRATE_MISFORTUNE",
+    "value": "대흉"
   },
   {
     "wordingKey": "WORD_GROUP_POINT_TOTAL",
@@ -6547,6 +8474,10 @@
     "value": "칭호 설정"
   },
   {
+    "wordingKey": "WORD_HONOR_WORD_GET_HOLDER",
+    "value": "칭호 '{0}'"
+  },
+  {
     "wordingKey": "Word_HoursTimeSpan",
     "value": "{0}시간 {1}분 남음"
   },
@@ -6575,8 +8506,48 @@
     "value": "이름 입력"
   },
   {
+    "wordingKey": "WORD_INSTRUMENTLE_VERSION",
+    "value": "Inst. ver."
+  },
+  {
+    "wordingKey": "WORD_INSTRUMENTLE_VERSION_NAMES",
+    "value": "-"
+  },
+  {
     "wordingKey": "WORD_INVENTORY",
     "value": "소지품"
+  },
+  {
+    "wordingKey": "WORD_INVITE",
+    "value": "초대"
+  },
+  {
+    "wordingKey": "WORD_INVITE_CHEERFUL_LIVE",
+    "value": "치어풀 라이브 초대"
+  },
+  {
+    "wordingKey": "WORD_INVITE_CONNECT_LIVE",
+    "value": "커넥트 라이브 초대"
+  },
+  {
+    "wordingKey": "WORD_INVITE_FAILED",
+    "value": "초대 실패"
+  },
+  {
+    "wordingKey": "WORD_INVITE_MULTI_LIVE",
+    "value": "멀티 라이브 초대"
+  },
+  {
+    "wordingKey": "WORD_INVITE_SUCCESS",
+    "value": "초대 완료"
+  },
+  {
+    "wordingKey": "WORD_INVITE_VIRTUAL_LIVE",
+    "value": "버추얼 라이브 초대"
+  },
+  {
+    "wordingKey": "WORD_INVITING",
+    "value": "초대 중"
   },
   {
     "wordingKey": "WORD_IP_INTERCEPT",
@@ -6657,6 +8628,10 @@
   {
     "wordingKey": "WORD_LEVEL_UP",
     "value": "레벨 업"
+  },
+  {
+    "wordingKey": "WORD_LIMITED_TIME_RELEASE",
+    "value": "기간 한정 오픈 중"
   },
   {
     "wordingKey": "WORD_LIMIT_MISSION_TIME",
@@ -6741,6 +8716,10 @@
   {
     "wordingKey": "WORD_LIVE_FAILED2",
     "value": "라이브 실패"
+  },
+  {
+    "wordingKey": "WORD_LIVE_INVITE",
+    "value": "라이브 초대"
   },
   {
     "wordingKey": "WORD_LIVE_MISSION_BALLOON_TIPS",
@@ -7003,6 +8982,14 @@
     "value": "멤버 교환 확인"
   },
   {
+    "wordingKey": "WORD_MEMBER_EXCHANGE_CONFIRM_SHOP",
+    "value": "이미 획득했습니다. 그래도 교환하시겠습니까?\n<color=#ff5588>※이미 획득한 멤버는 대기실로 이동합니다.</color>"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_EXCHANGE_SHOP",
+    "value": "멤버 교환소"
+  },
+  {
     "wordingKey": "WORD_MEMBER_INFO",
     "value": "멤버 정보"
   },
@@ -7039,6 +9026,10 @@
     "value": "메시지"
   },
   {
+    "wordingKey": "WORD_MIDDLE_FORTUNE",
+    "value": "중길"
+  },
+  {
     "wordingKey": "WORD_MIGRATION_NL",
     "value": "데이터 연동"
   },
@@ -7053,6 +9044,10 @@
   {
     "wordingKey": "Word_MinutesTimeSpan",
     "value": "{0}분 남음"
+  },
+  {
+    "wordingKey": "WORD_MISFORTUNE",
+    "value": "흉"
   },
   {
     "wordingKey": "WORD_MISSING_ADD_FRIEND",
@@ -7081,6 +9076,10 @@
   {
     "wordingKey": "WORD_MISSION_DETAIL",
     "value": "미션 상세 보기"
+  },
+  {
+    "wordingKey": "WORD_MODE",
+    "value": "모드"
   },
   {
     "wordingKey": "WORD_MODE_SETTING",
@@ -7665,6 +9664,10 @@
     "value": "MV 설정"
   },
   {
+    "wordingKey": "WORD_MV_SETTINGS",
+    "value": "MV 설정"
+  },
+  {
     "wordingKey": "WORD_MV_VIEWING",
     "value": "MV 시청"
   },
@@ -7741,8 +9744,16 @@
     "value": "풀 콤보 미달성"
   },
   {
+    "wordingKey": "WORD_NOT_INVITED",
+    "value": "초대 불가"
+  },
+  {
     "wordingKey": "WORD_NOT_JOIN",
     "value": "불참"
+  },
+  {
+    "wordingKey": "WORD_NOT_PUBLISH_MUSIC_ERROR_TITLE",
+    "value": "오류"
   },
   {
     "wordingKey": "WORD_NOT_PURCHASE",
@@ -7771,6 +9782,10 @@
   {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "무료"
+  },
+  {
+    "wordingKey": "WORD_NO_ENTER",
+    "value": "입장 금지"
   },
   {
     "wordingKey": "WORD_NO_MORE_SHOW",
@@ -7805,6 +9820,18 @@
     "value": "OK"
   },
   {
+    "wordingKey": "WORD_OMIKUJI_DETAIL",
+    "value": "신년 운세 뽑기 상세 보기"
+  },
+  {
+    "wordingKey": "WORD_OMIKUJI_LIST",
+    "value": "신년 운세 뽑기 목록"
+  },
+  {
+    "wordingKey": "WORD_OMIKUJI_SUMMURY_TITLE",
+    "value": "신년 운세 뽑기 개요"
+  },
+  {
     "wordingKey": "WORD_ON",
     "value": "ON"
   },
@@ -7835,6 +9862,10 @@
   {
     "wordingKey": "WORD_OPEN_WINDOW",
     "value": "열기"
+  },
+  {
+    "wordingKey": "WORD_OPERATION_MESSAGE_TITLE",
+    "value": "운영진으로부터"
   },
   {
     "wordingKey": "WORD_OPTION",
@@ -8037,6 +10068,10 @@
     "value": "연습용 스코어"
   },
   {
+    "wordingKey": "WORD_PREFIX_SPIN_COLLECTION_GACHA",
+    "value": "{0}회 <size=28>열기</size>"
+  },
+  {
     "wordingKey": "WORD_PREMIUM",
     "value": "프리미엄"
   },
@@ -8123,6 +10158,10 @@
   {
     "wordingKey": "WORD_PULL",
     "value": "뽑기"
+  },
+  {
+    "wordingKey": "WORD_PUNCTUATION",
+    "value": ","
   },
   {
     "wordingKey": "WORD_PURCHASE",
@@ -8265,6 +10304,10 @@
     "value": "회복"
   },
   {
+    "wordingKey": "WORD_RECOVER_BY_CRYSTAL",
+    "value": "크리스탈로 회복"
+  },
+  {
     "wordingKey": "Word_RecruitNotEnough1",
     "value": "오늘의 뽑기 횟수를 모두 사용하였습니다."
   },
@@ -8317,6 +10360,14 @@
     "value": "스킬 업 오픈"
   },
   {
+    "wordingKey": "WORD_RELEASING_ON_EVENT",
+    "value": "이벤트 진행 시 오픈!"
+  },
+  {
+    "wordingKey": "WORD_REMAIN_NUM",
+    "value": "남은 횟수"
+  },
+  {
     "wordingKey": "WORD_REQUEST",
     "value": "신청"
   },
@@ -8345,8 +10396,16 @@
     "value": "앞으로 {0}P"
   },
   {
+    "wordingKey": "WORD_REST_TIME",
+    "value": "앞으로 {0}초"
+  },
+  {
     "wordingKey": "WORD_REST_VALUE",
     "value": "앞으로 {0}"
+  },
+  {
+    "wordingKey": "WORD_RESUME",
+    "value": "이어서 재생"
   },
   {
     "wordingKey": "WORD_RETRY",
@@ -8379,6 +10438,10 @@
   {
     "wordingKey": "WORD_REWARD_AND_EXP",
     "value": "보상·EXP"
+  },
+  {
+    "wordingKey": "WORD_REWARD_COUNT_FORMAT",
+    "value": "×{0} 획득"
   },
   {
     "wordingKey": "WORD_RIGHT_NATATION",
@@ -8453,6 +10516,10 @@
     "value": "스코어 랭크"
   },
   {
+    "wordingKey": "WORD_SCORE_REGISTER_DATE",
+    "value": "스코어 획득 일시"
+  },
+  {
     "wordingKey": "WORD_SCREEN_FIXED",
     "value": "화면 고정"
   },
@@ -8471,6 +10538,10 @@
   {
     "wordingKey": "WORD_SEARCH_PLAYER_ID",
     "value": "플레이어 ID 검색"
+  },
+  {
+    "wordingKey": "WORD_SEE_CONTENT",
+    "value": "내용 확인"
   },
   {
     "wordingKey": "WORD_SEKAI_VERSION",
@@ -8507,6 +10578,10 @@
   {
     "wordingKey": "WORD_SELECT_CLEANUP_TITLE",
     "value": "초기화 확인"
+  },
+  {
+    "wordingKey": "WORD_SELECT_COLLECTION",
+    "value": "컬렉션 선택"
   },
   {
     "wordingKey": "WORD_SELECT_COLOR",
@@ -8725,8 +10800,16 @@
     "value": "표시"
   },
   {
+    "wordingKey": "WORD_SKILL",
+    "value": "스킬"
+  },
+  {
     "wordingKey": "WORD_SKILL_LEVEL",
     "value": "스킬 레벨"
+  },
+  {
+    "wordingKey": "WORD_SKILL_LV",
+    "value": "SLv."
   },
   {
     "wordingKey": "WORD_SKILL_NAME",
@@ -8757,8 +10840,40 @@
     "value": "스킵"
   },
   {
+    "wordingKey": "WORD_SL_SETTINGS_CAMERA_SHAKE",
+    "value": "이동 시 카메라 흔들림"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_ENABLE_SE",
+    "value": "공연장 함성"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN",
+    "value": "공연장 캐릭터 표시 수"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN_ALL",
+    "value": "표준"
+  },
+  {
+    "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN_REDUCED",
+    "value": "적음"
+  },
+  {
+    "wordingKey": "WORD_SMALL_FORTUNE",
+    "value": "소길"
+  },
+  {
+    "wordingKey": "WORD_SOHW_ONLINE",
+    "value": "온라인 표시"
+  },
+  {
     "wordingKey": "WORD_SOLO",
     "value": "솔로"
+  },
+  {
+    "wordingKey": "WORD_SOLO_LIVE_SHUFFLE_BUTTON",
+    "value": "랜덤"
   },
   {
     "wordingKey": "WORD_SORT",
@@ -8787,6 +10902,10 @@
   {
     "wordingKey": "WORD_SORT_REGISTRATION_LABEL",
     "value": "등록순"
+  },
+  {
+    "wordingKey": "WORD_SORT_SKILL_EFFECT_VALUE",
+    "value": "스킬 효과치"
   },
   {
     "wordingKey": "WORD_SPECIAL_SKILL",
@@ -8913,6 +11032,22 @@
     "value": "스토리 스킵"
   },
   {
+    "wordingKey": "WORD_STREAMING_LIVE_ENTER_CONFIRM",
+    "value": "입장 확인"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_EXIT_DIALOG_MESSAGE",
+    "value": "공연장에서 퇴장하여 대기 에어리어로 돌아가시겠습니까?\n티켓 사용 상황에 따라 다시 입장할 수 있는 기간이 달라집니다."
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_RE_ENTER_TITLE",
+    "value": "재입장 확인"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_TICKET_SHOP",
+    "value": "티켓 상점"
+  },
+  {
     "wordingKey": "WORD_SUB_UNIT",
     "value": "서브 유닛"
   },
@@ -8947,6 +11082,10 @@
   {
     "wordingKey": "WORD_SUPPORT_MEMBR",
     "value": "서포트 멤버"
+  },
+  {
+    "wordingKey": "WORD_SUSPENSION",
+    "value": "중단"
   },
   {
     "wordingKey": "WORD_SYSTEM_VOLUME",
@@ -9005,6 +11144,18 @@
     "value": "9"
   },
   {
+    "wordingKey": "WORD_TIME_LIMIT_COLLABORATION_AREA",
+    "value": "에어리어 출현 기간이 종료되었습니다.\n홈으로 돌아갑니다."
+  },
+  {
+    "wordingKey": "WORD_TIME_LIMIT_FROAMT",
+    "value": "{0}/{1:00}/{2:00} {3:00}:{4:00}까지"
+  },
+  {
+    "wordingKey": "WORD_TIME_LIMIT_RANGE_FORMAT",
+    "value": "{0}/{1:00}/{2:00} {3:00}:{4:00} ~ {5}/{6:00}/{7:00} {8:00}:{9:00}"
+  },
+  {
     "wordingKey": "WORD_TIMING_ADJUSTMENT",
     "value": "타이밍 조정"
   },
@@ -9023,6 +11174,10 @@
   {
     "wordingKey": "WORD_TITLE_COSTUME_CHANGE_TITLE",
     "value": "의상 설정 완료"
+  },
+  {
+    "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
+    "value": "교환 확인"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
@@ -9101,6 +11256,22 @@
     "value": "칭호 보너스"
   },
   {
+    "wordingKey": "WORD_TOURNAMENT_HIGH_SCORE",
+    "value": "대회 하이 스코어"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_MUSIC",
+    "value": "대회 대상 악곡"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_SCORE_DETAIL",
+    "value": "상세 보기"
+  },
+  {
+    "wordingKey": "WORD_TO_EXCHANGE_SHOP",
+    "value": "교환소로 이동"
+  },
+  {
     "wordingKey": "WORD_TranslateMusicName",
     "value": "번역 버전(영어)"
   },
@@ -9127,6 +11298,10 @@
   {
     "wordingKey": "WORD_UERLOGOUT_TITLE",
     "value": "계정 삭제"
+  },
+  {
+    "wordingKey": "WORD_UNCERTAIN_LUCK",
+    "value": "말길"
   },
   {
     "wordingKey": "WORD_UNIT",
@@ -9379,6 +11554,10 @@
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_ITEM_SE",
     "value": "버추얼 아이템 효과음"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_LIVE_ACTION_BUTTON",
+    "value": "라이브 중 액션 버튼"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_OTHER_PLAYER_ITEM",

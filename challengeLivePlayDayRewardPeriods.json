@@ -75,7 +75,7 @@
   {
     "id": 2,
     "startAt": 1617562800000,
-    "endAt": 4102426799000,
+    "endAt": 1633287599000,
     "priority": 1,
     "challengeLivePlayDayRewards": [
       {
@@ -225,6 +225,84 @@
         "id": 41,
         "playDays": 7,
         "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "startAt": 1633287600000,
+    "endAt": 4102426799000,
+    "priority": 4,
+    "challengeLivePlayDayRewards": [
+      {
+        "id": 42,
+        "playDays": 1,
+        "resourceBoxId": 1
+      },
+      {
+        "id": 43,
+        "playDays": 2,
+        "resourceBoxId": 2
+      },
+      {
+        "id": 44,
+        "playDays": 3,
+        "resourceBoxId": 3
+      },
+      {
+        "id": 45,
+        "playDays": 4,
+        "resourceBoxId": 4
+      },
+      {
+        "id": 46,
+        "playDays": 5,
+        "resourceBoxId": 5
+      },
+      {
+        "id": 47,
+        "playDays": 6,
+        "resourceBoxId": 6
+      },
+      {
+        "id": 48,
+        "playDays": 7,
+        "resourceBoxId": 7
+      },
+      {
+        "id": 49,
+        "playDays": 7,
+        "resourceBoxId": 15
+      },
+      {
+        "id": 50,
+        "playDays": 7,
+        "resourceBoxId": 16
+      },
+      {
+        "id": 51,
+        "playDays": 7,
+        "resourceBoxId": 17
+      },
+      {
+        "id": 52,
+        "playDays": 7,
+        "resourceBoxId": 18
+      },
+      {
+        "id": 53,
+        "playDays": 7,
+        "resourceBoxId": 19
+      },
+      {
+        "id": 54,
+        "playDays": 7,
+        "resourceBoxId": 20
+      },
+      {
+        "id": 55,
+        "playDays": 7,
+        "resourceBoxId": 21
       }
     ]
   }

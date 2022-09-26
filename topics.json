@@ -2685,6 +2685,11 @@
     "topicTypeId": 40
   },
   {
+    "id": 50040,
+    "topicType": "rule_slide",
+    "topicTypeId": 42
+  },
+  {
     "id": 60001,
     "topicType": "virtual_live_reward",
     "topicTypeId": 1
@@ -4125,184 +4130,1709 @@
     "topicTypeId": 1000243
   },
   {
-    "id": 103001,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000245
-  },
-  {
-    "id": 103002,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000246
-  },
-  {
-    "id": 103003,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000247
-  },
-  {
-    "id": 103004,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000248
-  },
-  {
-    "id": 103005,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000249
-  },
-  {
-    "id": 103006,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000250
-  },
-  {
-    "id": 103007,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000251
-  },
-  {
-    "id": 103101,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000253
-  },
-  {
-    "id": 103102,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000254
-  },
-  {
-    "id": 103103,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000255
-  },
-  {
-    "id": 103104,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000256
-  },
-  {
-    "id": 103105,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000257
-  },
-  {
-    "id": 103106,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000258
-  },
-  {
-    "id": 103107,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000259
-  },
-  {
-    "id": 103201,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000261
-  },
-  {
-    "id": 103202,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000262
-  },
-  {
-    "id": 103203,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000263
-  },
-  {
-    "id": 103204,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000264
-  },
-  {
-    "id": 103205,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000265
-  },
-  {
-    "id": 103206,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000266
-  },
-  {
-    "id": 103207,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000267
-  },
-  {
-    "id": 103301,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000269
-  },
-  {
-    "id": 103302,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000270
-  },
-  {
-    "id": 103303,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000271
-  },
-  {
-    "id": 103304,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000272
-  },
-  {
-    "id": 103305,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000273
-  },
-  {
-    "id": 103306,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000274
-  },
-  {
-    "id": 103307,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000275
-  },
-  {
-    "id": 103401,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000277
-  },
-  {
-    "id": 103402,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000278
-  },
-  {
-    "id": 103403,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000279
-  },
-  {
-    "id": 103404,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000280
-  },
-  {
-    "id": 103405,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000281
-  },
-  {
-    "id": 103406,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000282
-  },
-  {
-    "id": 103407,
-    "topicType": "event_story_episode",
-    "topicTypeId": 1000283
-  },
-  {
     "id": 110001,
     "topicType": "inherit_complete",
     "topicTypeId": 1
+  },
+  {
+    "id": 200001,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4124
+  },
+  {
+    "id": 200002,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4125
+  },
+  {
+    "id": 200004,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4127
+  },
+  {
+    "id": 200005,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4128
+  },
+  {
+    "id": 200007,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4130
+  },
+  {
+    "id": 200008,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4131
+  },
+  {
+    "id": 200010,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4133
+  },
+  {
+    "id": 200011,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4134
+  },
+  {
+    "id": 200013,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4136
+  },
+  {
+    "id": 200014,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4137
+  },
+  {
+    "id": 200016,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4139
+  },
+  {
+    "id": 200017,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4140
+  },
+  {
+    "id": 200019,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4142
+  },
+  {
+    "id": 200020,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4143
+  },
+  {
+    "id": 200022,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4145
+  },
+  {
+    "id": 200023,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4146
+  },
+  {
+    "id": 200025,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4148
+  },
+  {
+    "id": 200026,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4149
+  },
+  {
+    "id": 200028,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4151
+  },
+  {
+    "id": 200029,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4152
+  },
+  {
+    "id": 200031,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4154
+  },
+  {
+    "id": 200032,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4155
+  },
+  {
+    "id": 200034,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4157
+  },
+  {
+    "id": 200035,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4158
+  },
+  {
+    "id": 200037,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4160
+  },
+  {
+    "id": 200038,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4161
+  },
+  {
+    "id": 200040,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4163
+  },
+  {
+    "id": 200041,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4164
+  },
+  {
+    "id": 200043,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4166
+  },
+  {
+    "id": 200044,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4167
+  },
+  {
+    "id": 200046,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4169
+  },
+  {
+    "id": 200047,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4170
+  },
+  {
+    "id": 200049,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4172
+  },
+  {
+    "id": 200050,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4173
+  },
+  {
+    "id": 200052,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4175
+  },
+  {
+    "id": 200053,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4176
+  },
+  {
+    "id": 200055,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4178
+  },
+  {
+    "id": 200056,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4179
+  },
+  {
+    "id": 200058,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4181
+  },
+  {
+    "id": 200059,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4182
+  },
+  {
+    "id": 200061,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4184
+  },
+  {
+    "id": 200062,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4185
+  },
+  {
+    "id": 200064,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4187
+  },
+  {
+    "id": 200065,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4188
+  },
+  {
+    "id": 200067,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4190
+  },
+  {
+    "id": 200068,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4191
+  },
+  {
+    "id": 200070,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4193
+  },
+  {
+    "id": 200071,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4194
+  },
+  {
+    "id": 200073,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4196
+  },
+  {
+    "id": 200074,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4197
+  },
+  {
+    "id": 200076,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4199
+  },
+  {
+    "id": 200077,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4200
+  },
+  {
+    "id": 200079,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4202
+  },
+  {
+    "id": 200080,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4203
+  },
+  {
+    "id": 200082,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4205
+  },
+  {
+    "id": 200083,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4206
+  },
+  {
+    "id": 200085,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4208
+  },
+  {
+    "id": 200086,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4209
+  },
+  {
+    "id": 200088,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4211
+  },
+  {
+    "id": 200089,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4212
+  },
+  {
+    "id": 200091,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4214
+  },
+  {
+    "id": 200092,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4215
+  },
+  {
+    "id": 200094,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4217
+  },
+  {
+    "id": 200095,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4218
+  },
+  {
+    "id": 200097,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4220
+  },
+  {
+    "id": 200098,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4221
+  },
+  {
+    "id": 200100,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4223
+  },
+  {
+    "id": 200101,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4224
+  },
+  {
+    "id": 200103,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4226
+  },
+  {
+    "id": 200104,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4227
+  },
+  {
+    "id": 200106,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4229
+  },
+  {
+    "id": 200107,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4230
+  },
+  {
+    "id": 200109,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4232
+  },
+  {
+    "id": 200110,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4233
+  },
+  {
+    "id": 200112,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4235
+  },
+  {
+    "id": 200113,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4236
+  },
+  {
+    "id": 200115,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4238
+  },
+  {
+    "id": 200116,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4239
+  },
+  {
+    "id": 200118,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4241
+  },
+  {
+    "id": 200119,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4242
+  },
+  {
+    "id": 200121,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4244
+  },
+  {
+    "id": 200122,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4245
+  },
+  {
+    "id": 200124,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4247
+  },
+  {
+    "id": 200125,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4248
+  },
+  {
+    "id": 200127,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4250
+  },
+  {
+    "id": 200128,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4251
+  },
+  {
+    "id": 200130,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4253
+  },
+  {
+    "id": 200131,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4254
+  },
+  {
+    "id": 200133,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4256
+  },
+  {
+    "id": 200134,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4257
+  },
+  {
+    "id": 200136,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4259
+  },
+  {
+    "id": 200137,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4260
+  },
+  {
+    "id": 200139,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4262
+  },
+  {
+    "id": 200140,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4263
+  },
+  {
+    "id": 200142,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4265
+  },
+  {
+    "id": 200143,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4266
+  },
+  {
+    "id": 200145,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4268
+  },
+  {
+    "id": 200146,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4269
+  },
+  {
+    "id": 200148,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4271
+  },
+  {
+    "id": 200149,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4272
+  },
+  {
+    "id": 200151,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4274
+  },
+  {
+    "id": 200152,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4275
+  },
+  {
+    "id": 200154,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4277
+  },
+  {
+    "id": 200155,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4278
+  },
+  {
+    "id": 200157,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4280
+  },
+  {
+    "id": 200158,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4281
+  },
+  {
+    "id": 200160,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4283
+  },
+  {
+    "id": 200161,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4284
+  },
+  {
+    "id": 200163,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4286
+  },
+  {
+    "id": 200164,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4287
+  },
+  {
+    "id": 200166,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4289
+  },
+  {
+    "id": 200167,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4290
+  },
+  {
+    "id": 200169,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4292
+  },
+  {
+    "id": 200170,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4293
+  },
+  {
+    "id": 200172,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4295
+  },
+  {
+    "id": 200173,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4296
+  },
+  {
+    "id": 200175,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4298
+  },
+  {
+    "id": 200176,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4299
+  },
+  {
+    "id": 200178,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4301
+  },
+  {
+    "id": 200179,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4302
+  },
+  {
+    "id": 200181,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4304
+  },
+  {
+    "id": 200182,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4305
+  },
+  {
+    "id": 200184,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4307
+  },
+  {
+    "id": 200185,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4308
+  },
+  {
+    "id": 200187,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4310
+  },
+  {
+    "id": 200188,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4311
+  },
+  {
+    "id": 200190,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4313
+  },
+  {
+    "id": 200191,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4314
+  },
+  {
+    "id": 200193,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4316
+  },
+  {
+    "id": 200194,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4317
+  },
+  {
+    "id": 200196,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4319
+  },
+  {
+    "id": 200197,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4320
+  },
+  {
+    "id": 200199,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4322
+  },
+  {
+    "id": 200200,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4323
+  },
+  {
+    "id": 200202,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4325
+  },
+  {
+    "id": 200203,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4326
+  },
+  {
+    "id": 200205,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4328
+  },
+  {
+    "id": 200206,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4329
+  },
+  {
+    "id": 200208,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4331
+  },
+  {
+    "id": 200209,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4332
+  },
+  {
+    "id": 200211,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4334
+  },
+  {
+    "id": 200212,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4335
+  },
+  {
+    "id": 200214,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4337
+  },
+  {
+    "id": 200215,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4338
+  },
+  {
+    "id": 200217,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4340
+  },
+  {
+    "id": 200218,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4341
+  },
+  {
+    "id": 200220,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4343
+  },
+  {
+    "id": 200221,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4344
+  },
+  {
+    "id": 200223,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4346
+  },
+  {
+    "id": 200224,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4347
+  },
+  {
+    "id": 200226,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4349
+  },
+  {
+    "id": 200227,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4350
+  },
+  {
+    "id": 200229,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4352
+  },
+  {
+    "id": 200230,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4353
+  },
+  {
+    "id": 200232,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4355
+  },
+  {
+    "id": 200233,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4356
+  },
+  {
+    "id": 200235,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4358
+  },
+  {
+    "id": 200236,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4359
+  },
+  {
+    "id": 200238,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4361
+  },
+  {
+    "id": 200239,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4362
+  },
+  {
+    "id": 200241,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4364
+  },
+  {
+    "id": 200242,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4365
+  },
+  {
+    "id": 200244,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4367
+  },
+  {
+    "id": 200245,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4368
+  },
+  {
+    "id": 200247,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4370
+  },
+  {
+    "id": 200248,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4371
+  },
+  {
+    "id": 200250,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4373
+  },
+  {
+    "id": 200251,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4374
+  },
+  {
+    "id": 200253,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4376
+  },
+  {
+    "id": 200254,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4377
+  },
+  {
+    "id": 200256,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4379
+  },
+  {
+    "id": 200257,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4380
+  },
+  {
+    "id": 200259,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4382
+  },
+  {
+    "id": 200260,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4383
+  },
+  {
+    "id": 200262,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4385
+  },
+  {
+    "id": 200263,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4386
+  },
+  {
+    "id": 200265,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4388
+  },
+  {
+    "id": 200266,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4389
+  },
+  {
+    "id": 200268,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4391
+  },
+  {
+    "id": 200269,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4392
+  },
+  {
+    "id": 200271,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4394
+  },
+  {
+    "id": 200272,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4395
+  },
+  {
+    "id": 200274,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4397
+  },
+  {
+    "id": 200275,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4398
+  },
+  {
+    "id": 200277,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4400
+  },
+  {
+    "id": 200278,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4401
+  },
+  {
+    "id": 200280,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4403
+  },
+  {
+    "id": 200281,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4404
+  },
+  {
+    "id": 200283,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4406
+  },
+  {
+    "id": 200284,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4407
+  },
+  {
+    "id": 200286,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4409
+  },
+  {
+    "id": 200287,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4410
+  },
+  {
+    "id": 200289,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4412
+  },
+  {
+    "id": 200290,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4413
+  },
+  {
+    "id": 200292,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4415
+  },
+  {
+    "id": 200293,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4416
+  },
+  {
+    "id": 200295,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4418
+  },
+  {
+    "id": 200296,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4419
+  },
+  {
+    "id": 200298,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4421
+  },
+  {
+    "id": 200299,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4422
+  },
+  {
+    "id": 200301,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4424
+  },
+  {
+    "id": 200302,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4425
+  },
+  {
+    "id": 200304,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4427
+  },
+  {
+    "id": 200305,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4428
+  },
+  {
+    "id": 200307,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4430
+  },
+  {
+    "id": 200308,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4431
+  },
+  {
+    "id": 200310,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4433
+  },
+  {
+    "id": 200311,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4434
+  },
+  {
+    "id": 200313,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4436
+  },
+  {
+    "id": 200314,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4437
+  },
+  {
+    "id": 200316,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4439
+  },
+  {
+    "id": 200317,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4440
+  },
+  {
+    "id": 200319,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4442
+  },
+  {
+    "id": 200320,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4443
+  },
+  {
+    "id": 200322,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4445
+  },
+  {
+    "id": 200323,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4446
+  },
+  {
+    "id": 200325,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4448
+  },
+  {
+    "id": 200326,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4449
+  },
+  {
+    "id": 200328,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4451
+  },
+  {
+    "id": 200329,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4452
+  },
+  {
+    "id": 200331,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4454
+  },
+  {
+    "id": 200332,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4455
+  },
+  {
+    "id": 200334,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4457
+  },
+  {
+    "id": 200335,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4458
+  },
+  {
+    "id": 200337,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4460
+  },
+  {
+    "id": 200338,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4461
+  },
+  {
+    "id": 200340,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4463
+  },
+  {
+    "id": 200341,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4464
+  },
+  {
+    "id": 200343,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4466
+  },
+  {
+    "id": 200344,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4467
+  },
+  {
+    "id": 200346,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4469
+  },
+  {
+    "id": 200347,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4470
+  },
+  {
+    "id": 200349,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4472
+  },
+  {
+    "id": 200350,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4473
+  },
+  {
+    "id": 200352,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4475
+  },
+  {
+    "id": 200353,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4476
+  },
+  {
+    "id": 200355,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4478
+  },
+  {
+    "id": 200356,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4479
+  },
+  {
+    "id": 200358,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4481
+  },
+  {
+    "id": 200359,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4482
+  },
+  {
+    "id": 200361,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4484
+  },
+  {
+    "id": 200362,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4485
+  },
+  {
+    "id": 200364,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4487
+  },
+  {
+    "id": 200365,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4488
+  },
+  {
+    "id": 200367,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4490
+  },
+  {
+    "id": 200368,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4491
+  },
+  {
+    "id": 200370,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4493
+  },
+  {
+    "id": 200371,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4494
+  },
+  {
+    "id": 200373,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4496
+  },
+  {
+    "id": 200374,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4497
+  },
+  {
+    "id": 200376,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4499
+  },
+  {
+    "id": 200377,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4500
+  },
+  {
+    "id": 200379,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4502
+  },
+  {
+    "id": 200380,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4503
+  },
+  {
+    "id": 200382,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4505
+  },
+  {
+    "id": 200383,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4506
+  },
+  {
+    "id": 200385,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4508
+  },
+  {
+    "id": 200386,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4509
+  },
+  {
+    "id": 200388,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4511
+  },
+  {
+    "id": 200389,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4512
+  },
+  {
+    "id": 200391,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4514
+  },
+  {
+    "id": 200392,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4515
+  },
+  {
+    "id": 200394,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4517
+  },
+  {
+    "id": 200395,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4518
+  },
+  {
+    "id": 200397,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4520
+  },
+  {
+    "id": 200398,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4521
+  },
+  {
+    "id": 200400,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4523
+  },
+  {
+    "id": 200401,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4524
+  },
+  {
+    "id": 200403,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4526
+  },
+  {
+    "id": 200404,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4527
+  },
+  {
+    "id": 200406,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4529
+  },
+  {
+    "id": 200407,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4530
+  },
+  {
+    "id": 200409,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4532
+  },
+  {
+    "id": 200410,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4533
+  },
+  {
+    "id": 200412,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4535
+  },
+  {
+    "id": 200413,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4536
+  },
+  {
+    "id": 200415,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4538
+  },
+  {
+    "id": 200416,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4539
+  },
+  {
+    "id": 200418,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4541
+  },
+  {
+    "id": 200419,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4542
+  },
+  {
+    "id": 200421,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4544
+  },
+  {
+    "id": 200422,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4545
+  },
+  {
+    "id": 200424,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4547
+  },
+  {
+    "id": 200425,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4548
+  },
+  {
+    "id": 200427,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4550
+  },
+  {
+    "id": 200428,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4551
+  },
+  {
+    "id": 200430,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4553
+  },
+  {
+    "id": 200431,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4554
+  },
+  {
+    "id": 200433,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4556
+  },
+  {
+    "id": 200434,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4557
+  },
+  {
+    "id": 200436,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4559
+  },
+  {
+    "id": 200437,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4560
+  },
+  {
+    "id": 200439,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4562
+  },
+  {
+    "id": 200440,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4563
+  },
+  {
+    "id": 200442,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4565
+  },
+  {
+    "id": 200443,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4566
+  },
+  {
+    "id": 200445,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4568
+  },
+  {
+    "id": 200446,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4569
+  },
+  {
+    "id": 200448,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4571
+  },
+  {
+    "id": 200449,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4572
+  },
+  {
+    "id": 200451,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4574
+  },
+  {
+    "id": 200452,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4575
+  },
+  {
+    "id": 200454,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4577
+  },
+  {
+    "id": 200455,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4578
+  },
+  {
+    "id": 200457,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4580
+  },
+  {
+    "id": 200458,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4581
+  },
+  {
+    "id": 200460,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4583
+  },
+  {
+    "id": 200461,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4584
+  },
+  {
+    "id": 200463,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4586
+  },
+  {
+    "id": 200464,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4587
+  },
+  {
+    "id": 200466,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4589
+  },
+  {
+    "id": 200467,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4590
+  },
+  {
+    "id": 200469,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4592
+  },
+  {
+    "id": 200470,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4593
+  },
+  {
+    "id": 200472,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4595
+  },
+  {
+    "id": 200473,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4596
+  },
+  {
+    "id": 200475,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4598
+  },
+  {
+    "id": 200476,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4599
+  },
+  {
+    "id": 200478,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4601
+  },
+  {
+    "id": 200479,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4602
+  },
+  {
+    "id": 200481,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4604
+  },
+  {
+    "id": 200482,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4605
+  },
+  {
+    "id": 200484,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4607
+  },
+  {
+    "id": 200485,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4608
+  },
+  {
+    "id": 200487,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4610
+  },
+  {
+    "id": 200488,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4611
+  },
+  {
+    "id": 200490,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4613
+  },
+  {
+    "id": 200491,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4614
+  },
+  {
+    "id": 200493,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4616
+  },
+  {
+    "id": 200494,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4617
+  },
+  {
+    "id": 200496,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4619
+  },
+  {
+    "id": 200497,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4620
+  },
+  {
+    "id": 200499,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4622
+  },
+  {
+    "id": 200500,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4623
+  },
+  {
+    "id": 200502,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4625
+  },
+  {
+    "id": 200503,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4626
+  },
+  {
+    "id": 200505,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4628
+  },
+  {
+    "id": 200506,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4629
+  },
+  {
+    "id": 200508,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4631
+  },
+  {
+    "id": 200509,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4632
   },
   {
     "id": 5555555,
