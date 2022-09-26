@@ -53,37 +53,26 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 84,
+    "homeBannerId": 86,
     "seq": 40,
     "homeBannerType": "event",
     "name": "배너",
-    "assetbundleName": "event_dream_2021",
+    "assetbundleName": "event_angelclover_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 15,
-    "startAt": 1662789600000,
-    "endAt": 1663480799000
+    "transitionDestinationId": 17,
+    "startAt": 1664172000000,
+    "endAt": 1664776799000
   },
   {
-    "homeBannerId": 93,
+    "homeBannerId": 98,
     "seq": 50,
     "homeBannerType": "general",
     "name": "배너",
-    "assetbundleName": "banner_gacha55",
+    "assetbundleName": "banner_gacha63",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 55,
-    "startAt": 1662703200000,
-    "endAt": 1663221599000
-  },
-  {
-    "homeBannerId": 94,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "배너",
-    "assetbundleName": "banner_gacha56",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 56,
-    "startAt": 1662789600000,
-    "endAt": 1663480799000
+    "transitionDestinationId": 63,
+    "startAt": 1664172000000,
+    "endAt": 1664776799000
   },
   {
     "homeBannerId": 113,
@@ -94,15 +83,5 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1662303600000,
     "endAt": 1664549999000
-  },
-  {
-    "homeBannerId": 114,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "배너",
-    "assetbundleName": "banner_labor2022",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1662530400000,
-    "endAt": 1663340399000
   }
 ]
