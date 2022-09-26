@@ -10,6 +10,7 @@
         "specialStoryId": 2,
         "episodeNo": 1,
         "title": "오프닝 1",
+        "specialStoryEpisodeType": "none",
         "assetbundleName": "story_sp_ts_01_01",
         "scenarioId": "op_01",
         "releaseConditionId": 1,
@@ -23,6 +24,7 @@
         "specialStoryId": 2,
         "episodeNo": 2,
         "title": "오프닝 2",
+        "specialStoryEpisodeType": "none",
         "assetbundleName": "story_sp_ts_01_01",
         "scenarioId": "op_02",
         "releaseConditionId": 1,
@@ -36,6 +38,7 @@
         "specialStoryId": 2,
         "episodeNo": 3,
         "title": "에어리어 대화",
+        "specialStoryEpisodeType": "none",
         "assetbundleName": "story_sp_ts_01_01",
         "scenarioId": "op_02area",
         "releaseConditionId": 1,
@@ -49,8 +52,30 @@
         "specialStoryId": 2,
         "episodeNo": 4,
         "title": "오프닝 3",
+        "specialStoryEpisodeType": "none",
         "assetbundleName": "story_sp_ts_01_01",
         "scenarioId": "op_03",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "assetbundleName": "collaboration-akuno-story",
+    "startAt": 1668924000000,
+    "endAt": 1670133599000,
+    "episodes": [
+      {
+        "id": 14,
+        "specialStoryId": 9,
+        "episodeNo": 1,
+        "title": "이동 테스트용 스토리_콜라보 세카이",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "assetbundleName": "story_collaboration_akuno",
+        "scenarioId": "collaboration_akuno_op_01",
         "releaseConditionId": 1,
         "isAbleSkip": true,
         "rewardResourceBoxIds": []

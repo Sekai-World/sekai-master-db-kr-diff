@@ -99,7 +99,7 @@
   },
   {
     "id": 10007,
-    "sentence": "플레이어 랭크 7 달성",
+    "sentence": "플레이어 랭크 6 달성",
     "releaseConditionType": "user_rank",
     "releaseConditionTypeLevel": 7
   },
@@ -144,6 +144,12 @@
     "sentence": "플레이어 랭크 100 달성",
     "releaseConditionType": "user_rank",
     "releaseConditionTypeLevel": 100
+  },
+  {
+    "id": 19000,
+    "sentence": "플레이어 랭크 30 달성\n예선 대상 악곡의 MASTER 오픈",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 30
   },
   {
     "id": 20101,
@@ -2242,35 +2248,35 @@
     "id": 30180,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 180,
+    "releaseConditionTypeId": 185,
     "releaseConditionTypeLevel": 60
   },
   {
     "id": 30181,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 181,
+    "releaseConditionTypeId": 186,
     "releaseConditionTypeLevel": 60
   },
   {
     "id": 30182,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 182,
+    "releaseConditionTypeId": 187,
     "releaseConditionTypeLevel": 60
   },
   {
     "id": 30183,
     "sentence": "전편 읽기 & 레벨 50 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 183,
+    "releaseConditionTypeId": 188,
     "releaseConditionTypeLevel": 50
   },
   {
     "id": 30184,
     "sentence": "전편 읽기 & 레벨 30 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 184,
+    "releaseConditionTypeId": 189,
     "releaseConditionTypeLevel": 30
   },
   {
@@ -2827,179 +2833,81 @@
     "releaseConditionTypeLevel": 30
   },
   {
-    "id": 30264,
+    "id": 30295,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 264,
+    "releaseConditionTypeId": 295,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30265,
+    "id": 30306,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 265,
+    "releaseConditionTypeId": 306,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30266,
+    "id": 30318,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 266,
+    "releaseConditionTypeId": 318,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30267,
-    "sentence": "전편 읽기 & 레벨 50 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 267,
-    "releaseConditionTypeLevel": 50
-  },
-  {
-    "id": 30268,
-    "sentence": "전편 읽기 & 레벨 30 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 268,
-    "releaseConditionTypeLevel": 30
-  },
-  {
-    "id": 30269,
+    "id": 30329,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 269,
+    "releaseConditionTypeId": 329,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30270,
+    "id": 30335,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 270,
+    "releaseConditionTypeId": 335,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30271,
+    "id": 30336,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 271,
+    "releaseConditionTypeId": 336,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30272,
-    "sentence": "전편 읽기 & 레벨 50 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 272,
-    "releaseConditionTypeLevel": 50
-  },
-  {
-    "id": 30273,
-    "sentence": "전편 읽기 & 레벨 30 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 273,
-    "releaseConditionTypeLevel": 30
-  },
-  {
-    "id": 30274,
+    "id": 30337,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 274,
+    "releaseConditionTypeId": 337,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30275,
+    "id": 30338,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 275,
+    "releaseConditionTypeId": 338,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30276,
+    "id": 30339,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 276,
+    "releaseConditionTypeId": 339,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30277,
-    "sentence": "전편 읽기 & 레벨 50 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 277,
-    "releaseConditionTypeLevel": 50
-  },
-  {
-    "id": 30278,
-    "sentence": "전편 읽기 & 레벨 30 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 278,
-    "releaseConditionTypeLevel": 30
-  },
-  {
-    "id": 30279,
+    "id": 30346,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 279,
+    "releaseConditionTypeId": 346,
     "releaseConditionTypeLevel": 60
   },
   {
-    "id": 30280,
+    "id": 30347,
     "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 280,
+    "releaseConditionTypeId": 347,
     "releaseConditionTypeLevel": 60
-  },
-  {
-    "id": 30281,
-    "sentence": "전편 읽기 & 레벨 60 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 281,
-    "releaseConditionTypeLevel": 60
-  },
-  {
-    "id": 30282,
-    "sentence": "전편 읽기 & 레벨 50 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 282,
-    "releaseConditionTypeLevel": 50
-  },
-  {
-    "id": 30283,
-    "sentence": "전편 읽기 & 레벨 30 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 283,
-    "releaseConditionTypeLevel": 30
-  },
-  {
-    "id": 30284,
-    "sentence": "전편 읽기 & 레벨 60 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 284,
-    "releaseConditionTypeLevel": 60
-  },
-  {
-    "id": 30285,
-    "sentence": "전편 읽기 & 레벨 60 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 285,
-    "releaseConditionTypeLevel": 60
-  },
-  {
-    "id": 30286,
-    "sentence": "전편 읽기 & 레벨 60 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 286,
-    "releaseConditionTypeLevel": 60
-  },
-  {
-    "id": 30287,
-    "sentence": "전편 읽기 & 레벨 50 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 287,
-    "releaseConditionTypeLevel": 50
-  },
-  {
-    "id": 30288,
-    "sentence": "전편 읽기 & 레벨 30 달성",
-    "releaseConditionType": "card_level",
-    "releaseConditionTypeId": 288,
-    "releaseConditionTypeLevel": 30
   },
   {
     "id": 40001,
@@ -5802,12 +5710,6 @@
     "releaseConditionTypeQuantity": 7
   },
   {
-    "id": 50001,
-    "sentence": "에어리어 플레이리스트 오픈 테스트용 데이터",
-    "releaseConditionType": "unit_story",
-    "releaseConditionTypeId": 1
-  },
-  {
     "id": 50002,
     "sentence": "Leo/need 메인 스토리 제1화 읽기",
     "releaseConditionType": "unit_story",
@@ -6718,7 +6620,7 @@
   },
   {
     "id": 60283,
-    "sentence": "'[언젠가 올 그날을 기다리며] 시노노메 아키토' 마스터 랭크 5 달성",
+    "sentence": "전편 읽기 & 레벨 60 달성",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 166,
     "releaseConditionTypeLevel": 5
@@ -7383,28 +7285,28 @@
   },
   {
     "id": 60510,
-    "sentence": "'[\"좋아하는 것\"을 눈 앞에] 키리타니 하루카' 획득",
+    "sentence": "'[\"사랑하는 것\"을 마주하고] 키리타니 하루카' 획득",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 222,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 60511,
-    "sentence": "'[\"좋아하는 것\"을 눈 앞에] 키리타니 하루카' 마스터 랭크 1 달성",
+    "sentence": "'[\"사랑하는 것\"을 마주하고] 키리타니 하루카' 마스터 랭크 1 달성",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 222,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 60512,
-    "sentence": "'[\"좋아하는 것\"을 눈 앞에] 키리타니 하루카' 마스터 랭크 3 달성",
+    "sentence": "'[\"사랑하는 것\"을 마주하고] 키리타니 하루카' 마스터 랭크 3 달성",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 222,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 60513,
-    "sentence": "'[\"좋아하는 것\"을 눈 앞에] 키리타니 하루카' 마스터 랭크 5 달성",
+    "sentence": "'[\"사랑하는 것\"을 마주하고] 키리타니 하루카' 마스터 랭크 5 달성",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 222,
     "releaseConditionTypeLevel": 5
@@ -8219,6 +8121,1448 @@
     "sentence": "'[한때의 안식] 아키야마 미즈키' 마스터 랭크 5 달성",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 285,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60790,
+    "sentence": "'[마음이 포개지는 곳에서] 하츠네 미쿠' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 289,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60791,
+    "sentence": "'[마음이 포개지는 곳에서] 하츠네 미쿠' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 289,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60792,
+    "sentence": "'[마음이 포개지는 곳에서] 하츠네 미쿠' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 289,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60793,
+    "sentence": "'[마음이 포개지는 곳에서] 하츠네 미쿠' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 289,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60794,
+    "sentence": "'[마음이 포개지는 곳에서] 하츠네 미쿠' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 289,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60800,
+    "sentence": "'[예전에 본 밤하늘] 호시노 이치카' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 290,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60801,
+    "sentence": "'[예전에 본 밤하늘] 호시노 이치카' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 290,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60802,
+    "sentence": "'[예전에 본 밤하늘] 호시노 이치카' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 290,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60803,
+    "sentence": "'[예전에 본 밤하늘] 호시노 이치카' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 290,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60804,
+    "sentence": "'[예전에 본 밤하늘] 호시노 이치카' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 290,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60810,
+    "sentence": "'[동료들의 축복] 하나사토 미노리' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 291,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60811,
+    "sentence": "'[동료들의 축복] 하나사토 미노리' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 291,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60812,
+    "sentence": "'[동료들의 축복] 하나사토 미노리' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 291,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60813,
+    "sentence": "'[동료들의 축복] 하나사토 미노리' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 291,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60814,
+    "sentence": "'[동료들의 축복] 하나사토 미노리' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 291,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60820,
+    "sentence": "'[에무류? 춤의 노하우!] 아즈사와 코하네' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 292,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60821,
+    "sentence": "'[에무류? 춤의 노하우!] 아즈사와 코하네' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 292,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60822,
+    "sentence": "'[에무류? 춤의 노하우!] 아즈사와 코하네' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 292,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60823,
+    "sentence": "'[에무류? 춤의 노하우!] 아즈사와 코하네' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 292,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60824,
+    "sentence": "'[에무류? 춤의 노하우!] 아즈사와 코하네' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 292,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60830,
+    "sentence": "'[스테이지 뒤의 격려] 텐마 츠카사' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 293,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60831,
+    "sentence": "'[스테이지 뒤의 격려] 텐마 츠카사' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 293,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60832,
+    "sentence": "'[스테이지 뒤의 격려] 텐마 츠카사' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 293,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60833,
+    "sentence": "'[스테이지 뒤의 격려] 텐마 츠카사' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 293,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60834,
+    "sentence": "'[스테이지 뒤의 격려] 텐마 츠카사' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 293,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60840,
+    "sentence": "'[오버 더 펜스] 시라이시 안' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 296,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60841,
+    "sentence": "'[오버 더 펜스] 시라이시 안' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 296,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60842,
+    "sentence": "'[오버 더 펜스] 시라이시 안' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 296,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60843,
+    "sentence": "'[오버 더 펜스] 시라이시 안' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 296,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60850,
+    "sentence": "'[신뢰에 대한 신뢰] 아오야기 토우야' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 297,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60851,
+    "sentence": "'[신뢰에 대한 신뢰] 아오야기 토우야' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 297,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60852,
+    "sentence": "'[신뢰에 대한 신뢰] 아오야기 토우야' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 297,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60853,
+    "sentence": "'[신뢰에 대한 신뢰] 아오야기 토우야' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 297,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60860,
+    "sentence": "'[지난날의 동경] 카미시로 루이' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 301,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60861,
+    "sentence": "'[지난날의 동경] 카미시로 루이' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 301,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60862,
+    "sentence": "'[지난날의 동경] 카미시로 루이' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 301,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60863,
+    "sentence": "'[지난날의 동경] 카미시로 루이' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 301,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60870,
+    "sentence": "'[저저저점~프!] 오오토리 에무' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 302,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60871,
+    "sentence": "'[저저저점~프!] 오오토리 에무' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 302,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60872,
+    "sentence": "'[저저저점~프!] 오오토리 에무' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 302,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60873,
+    "sentence": "'[저저저점~프!] 오오토리 에무' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 302,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60880,
+    "sentence": "'[허밋 리버스] 아키야마 미즈키' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 307,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60881,
+    "sentence": "'[허밋 리버스] 아키야마 미즈키' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 307,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60882,
+    "sentence": "'[허밋 리버스] 아키야마 미즈키' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 307,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60883,
+    "sentence": "'[허밋 리버스] 아키야마 미즈키' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 307,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60884,
+    "sentence": "'[허밋 리버스] 아키야마 미즈키' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 307,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60890,
+    "sentence": "'[허밋 서처] 시노노메 에나' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 308,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60891,
+    "sentence": "'[허밋 서처] 시노노메 에나' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 308,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60892,
+    "sentence": "'[허밋 서처] 시노노메 에나' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 308,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60893,
+    "sentence": "'[허밋 서처] 시노노메 에나' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 308,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60894,
+    "sentence": "'[허밋 서처] 시노노메 에나' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 308,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60900,
+    "sentence": "'[소중한 친구니까] 모치즈키 호나미' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 313,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60901,
+    "sentence": "'[소중한 친구니까] 모치즈키 호나미' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 313,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60902,
+    "sentence": "'[소중한 친구니까] 모치즈키 호나미' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 313,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60903,
+    "sentence": "'[소중한 친구니까] 모치즈키 호나미' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 313,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60910,
+    "sentence": "'[아픈 말] 히노모리 시호' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 314,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60911,
+    "sentence": "'[아픈 말] 히노모리 시호' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 314,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60912,
+    "sentence": "'[아픈 말] 히노모리 시호' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 314,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60913,
+    "sentence": "'[아픈 말] 히노모리 시호' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 314,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60920,
+    "sentence": "'[둘만의 비밀] 아즈사와 코하네' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60921,
+    "sentence": "'[둘만의 비밀] 아즈사와 코하네' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60922,
+    "sentence": "'[둘만의 비밀] 아즈사와 코하네' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60923,
+    "sentence": "'[둘만의 비밀] 아즈사와 코하네' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 319,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60930,
+    "sentence": "'[든든한 말] 메구리네 루카' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 320,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60931,
+    "sentence": "'[든든한 말] 메구리네 루카' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 320,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60932,
+    "sentence": "'[든든한 말] 메구리네 루카' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 320,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60933,
+    "sentence": "'[든든한 말] 메구리네 루카' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 320,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60940,
+    "sentence": "'[첫눈 속에서] 아사히나 마후유' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 324,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60941,
+    "sentence": "'[첫눈 속에서] 아사히나 마후유' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 324,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60942,
+    "sentence": "'[첫눈 속에서] 아사히나 마후유' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 324,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60943,
+    "sentence": "'[첫눈 속에서] 아사히나 마후유' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 324,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60944,
+    "sentence": "'[첫눈 속에서] 아사히나 마후유' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 324,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60950,
+    "sentence": "'[CD가 이어준 만남] 호시노 이치카' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 325,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60951,
+    "sentence": "'[CD가 이어준 만남] 호시노 이치카' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 325,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60952,
+    "sentence": "'[CD가 이어준 만남] 호시노 이치카' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 325,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60953,
+    "sentence": "'[CD가 이어준 만남] 호시노 이치카' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 325,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60954,
+    "sentence": "'[CD가 이어준 만남] 호시노 이치카' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 325,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60960,
+    "sentence": "'[레츠 팬미팅!] 하나사토 미노리' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 330,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60961,
+    "sentence": "'[레츠 팬미팅!] 하나사토 미노리' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 330,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60962,
+    "sentence": "'[레츠 팬미팅!] 하나사토 미노리' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 330,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60963,
+    "sentence": "'[레츠 팬미팅!] 하나사토 미노리' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 330,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60970,
+    "sentence": "'[팬과 함께!] 모모이 아이리' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 331,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60971,
+    "sentence": "'[팬과 함께!] 모모이 아이리' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 331,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60972,
+    "sentence": "'[팬과 함께!] 모모이 아이리' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 331,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60973,
+    "sentence": "'[팬과 함께!] 모모이 아이리' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 331,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60980,
+    "sentence": "'[오만한 여왕] 카가미네 린' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 335,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60981,
+    "sentence": "'[오만한 여왕] 카가미네 린' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 335,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60982,
+    "sentence": "'[오만한 여왕] 카가미네 린' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 335,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60983,
+    "sentence": "'[오만한 여왕] 카가미네 린' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 335,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60984,
+    "sentence": "'[오만한 여왕] 카가미네 린' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 335,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 60990,
+    "sentence": "'[쌍둥이 하인] 카가미네 렌' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 336,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 60991,
+    "sentence": "'[쌍둥이 하인] 카가미네 렌' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 336,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 60992,
+    "sentence": "'[쌍둥이 하인] 카가미네 렌' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 336,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 60993,
+    "sentence": "'[쌍둥이 하인] 카가미네 렌' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 336,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 60994,
+    "sentence": "'[쌍둥이 하인] 카가미네 렌' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 336,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61000,
+    "sentence": "'[질투에 미친 재봉사] 메구리네 루카' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 337,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61001,
+    "sentence": "'[질투에 미친 재봉사] 메구리네 루카' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 337,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61002,
+    "sentence": "'[질투에 미친 재봉사] 메구리네 루카' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 337,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61003,
+    "sentence": "'[질투에 미친 재봉사] 메구리네 루카' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 337,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61004,
+    "sentence": "'[질투에 미친 재봉사] 메구리네 루카' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 337,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61010,
+    "sentence": "'[악식의 악마] MEIKO' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 338,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61011,
+    "sentence": "'[악식의 악마] MEIKO' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 338,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61012,
+    "sentence": "'[악식의 악마] MEIKO' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 338,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61013,
+    "sentence": "'[악식의 악마] MEIKO' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 338,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61014,
+    "sentence": "'[악식의 악마] MEIKO' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 338,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61020,
+    "sentence": "'[탐욕스러운 재판관] KAITO' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 339,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61021,
+    "sentence": "'[탐욕스러운 재판관] KAITO' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 339,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61022,
+    "sentence": "'[탐욕스러운 재판관] KAITO' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 339,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61023,
+    "sentence": "'[탐욕스러운 재판관] KAITO' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 339,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61024,
+    "sentence": "'[탐욕스러운 재판관] KAITO' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 339,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61030,
+    "sentence": "'[아웃도어 쿠킹!] 아오야기 토우야' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 341,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61031,
+    "sentence": "'[아웃도어 쿠킹!] 아오야기 토우야' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 341,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61032,
+    "sentence": "'[아웃도어 쿠킹!] 아오야기 토우야' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 341,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61033,
+    "sentence": "'[아웃도어 쿠킹!] 아오야기 토우야' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 341,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61040,
+    "sentence": "'[겨울밤의 대화] 시노노메 아키토' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 342,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61041,
+    "sentence": "'[겨울밤의 대화] 시노노메 아키토' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 342,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61042,
+    "sentence": "'[겨울밤의 대화] 시노노메 아키토' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 342,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61043,
+    "sentence": "'[겨울밤의 대화] 시노노메 아키토' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 342,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61050,
+    "sentence": "'[눈부신 꿈의 무대] 쿠사나기 네네' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 348,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61051,
+    "sentence": "'[눈부신 꿈의 무대] 쿠사나기 네네' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 348,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61052,
+    "sentence": "'[눈부신 꿈의 무대] 쿠사나기 네네' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 348,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61053,
+    "sentence": "'[눈부신 꿈의 무대] 쿠사나기 네네' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 348,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61054,
+    "sentence": "'[눈부신 꿈의 무대] 쿠사나기 네네' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 348,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61060,
+    "sentence": "'[끝없는 상상과 도전] 카미시로 루이' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 349,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61061,
+    "sentence": "'[끝없는 상상과 도전] 카미시로 루이' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 349,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61062,
+    "sentence": "'[끝없는 상상과 도전] 카미시로 루이' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 349,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61063,
+    "sentence": "'[끝없는 상상과 도전] 카미시로 루이' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 349,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61064,
+    "sentence": "'[끝없는 상상과 도전] 카미시로 루이' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 349,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61070,
+    "sentence": "'[함께 소망하는 미래] 키리타니 하루카' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 350,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61071,
+    "sentence": "'[함께 소망하는 미래] 키리타니 하루카' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 350,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61072,
+    "sentence": "'[함께 소망하는 미래] 키리타니 하루카' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 350,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61073,
+    "sentence": "'[함께 소망하는 미래] 키리타니 하루카' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 350,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61074,
+    "sentence": "'[함께 소망하는 미래] 키리타니 하루카' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 350,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61080,
+    "sentence": "'[한 해의 마지막 날을 보내는 법] 모치즈키 호나미' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 351,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61081,
+    "sentence": "'[한 해의 마지막 날을 보내는 법] 모치즈키 호나미' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 351,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61082,
+    "sentence": "'[한 해의 마지막 날을 보내는 법] 모치즈키 호나미' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 351,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61083,
+    "sentence": "'[한 해의 마지막 날을 보내는 법] 모치즈키 호나미' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 351,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61084,
+    "sentence": "'[한 해의 마지막 날을 보내는 법] 모치즈키 호나미' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 351,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61090,
+    "sentence": "'[새해 일출을 등에 지고] 아즈사와 코하네' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 352,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61091,
+    "sentence": "'[새해 일출을 등에 지고] 아즈사와 코하네' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 352,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61092,
+    "sentence": "'[새해 일출을 등에 지고] 아즈사와 코하네' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 352,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61093,
+    "sentence": "'[새해 일출을 등에 지고] 아즈사와 코하네' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 352,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61094,
+    "sentence": "'[새해 일출을 등에 지고] 아즈사와 코하네' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 352,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61100,
+    "sentence": "'[에무 대원은 조사 중!] 오오토리 에무' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 356,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61101,
+    "sentence": "'[에무 대원은 조사 중!] 오오토리 에무' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 356,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61102,
+    "sentence": "'[에무 대원은 조사 중!] 오오토리 에무' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 356,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61103,
+    "sentence": "'[에무 대원은 조사 중!] 오오토리 에무' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 356,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61110,
+    "sentence": "'[댄스! 앤드! 싱!] 텐마 츠카사' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 357,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61111,
+    "sentence": "'[댄스! 앤드! 싱!] 텐마 츠카사' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 357,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61112,
+    "sentence": "'[댄스! 앤드! 싱!] 텐마 츠카사' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 357,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61113,
+    "sentence": "'[댄스! 앤드! 싱!] 텐마 츠카사' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 357,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61120,
+    "sentence": "'[울음소리는 어디서?] MEIKO' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 358,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61121,
+    "sentence": "'[울음소리는 어디서?] MEIKO' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 358,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61122,
+    "sentence": "'[울음소리는 어디서?] MEIKO' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 358,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61123,
+    "sentence": "'[울음소리는 어디서?] MEIKO' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 358,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61130,
+    "sentence": "'[희미하게 반짝이는 엘피스] 요이사키 카나데' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 361,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61131,
+    "sentence": "'[희미하게 반짝이는 엘피스] 요이사키 카나데' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 361,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61132,
+    "sentence": "'[희미하게 반짝이는 엘피스] 요이사키 카나데' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 361,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61133,
+    "sentence": "'[희미하게 반짝이는 엘피스] 요이사키 카나데' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 361,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61140,
+    "sentence": "'[절망의 늪의 엘피스] 아사히나 마후유' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 362,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61141,
+    "sentence": "'[절망의 늪의 엘피스] 아사히나 마후유' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 362,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61142,
+    "sentence": "'[절망의 늪의 엘피스] 아사히나 마후유' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 362,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61143,
+    "sentence": "'[절망의 늪의 엘피스] 아사히나 마후유' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 362,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61150,
+    "sentence": "'[당연해진 뒤풀이] 아키야마 미즈키' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 363,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61151,
+    "sentence": "'[당연해진 뒤풀이] 아키야마 미즈키' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 363,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61152,
+    "sentence": "'[당연해진 뒤풀이] 아키야마 미즈키' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 363,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61153,
+    "sentence": "'[당연해진 뒤풀이] 아키야마 미즈키' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 363,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61160,
+    "sentence": "'[비밀스러운 과자 만들기] 모모이 아이리' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 368,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61161,
+    "sentence": "'[비밀스러운 과자 만들기] 모모이 아이리' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 368,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61162,
+    "sentence": "'[비밀스러운 과자 만들기] 모모이 아이리' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 368,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61163,
+    "sentence": "'[비밀스러운 과자 만들기] 모모이 아이리' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 368,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61164,
+    "sentence": "'[비밀스러운 과자 만들기] 모모이 아이리' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 368,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61170,
+    "sentence": "'[갑작스러운 전화] 텐마 사키' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 369,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61171,
+    "sentence": "'[갑작스러운 전화] 텐마 사키' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 369,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61172,
+    "sentence": "'[갑작스러운 전화] 텐마 사키' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 369,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61173,
+    "sentence": "'[갑작스러운 전화] 텐마 사키' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 369,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61174,
+    "sentence": "'[갑작스러운 전화] 텐마 사키' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 369,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61180,
+    "sentence": "'[서프라이즈☆투☆패밀리] 오오토리 에무' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 370,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61181,
+    "sentence": "'[서프라이즈☆투☆패밀리] 오오토리 에무' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 370,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61182,
+    "sentence": "'[서프라이즈☆투☆패밀리] 오오토리 에무' 마스터 랭크 2 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 370,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 61183,
+    "sentence": "'[서프라이즈☆투☆패밀리] 오오토리 에무' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 370,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61184,
+    "sentence": "'[서프라이즈☆투☆패밀리] 오오토리 에무' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 370,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61190,
+    "sentence": "'[그리하여 아는 \"전설\"] 아즈사와 코하네' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 373,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61191,
+    "sentence": "'[그리하여 아는 \"전설\"] 아즈사와 코하네' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 373,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61192,
+    "sentence": "'[그리하여 아는 \"전설\"] 아즈사와 코하네' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 373,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61193,
+    "sentence": "'[그리하여 아는 \"전설\"] 아즈사와 코하네' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 373,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61200,
+    "sentence": "'[가슴속 두근거림을 말로] 아오야기 토우야' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 374,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61201,
+    "sentence": "'[가슴속 두근거림을 말로] 아오야기 토우야' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 374,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61202,
+    "sentence": "'[가슴속 두근거림을 말로] 아오야기 토우야' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 374,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61203,
+    "sentence": "'[가슴속 두근거림을 말로] 아오야기 토우야' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 374,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61210,
+    "sentence": "'[억누르지 못한 흥미] 카가미네 렌' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 375,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61211,
+    "sentence": "'[억누르지 못한 흥미] 카가미네 렌' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 375,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61212,
+    "sentence": "'[억누르지 못한 흥미] 카가미네 렌' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 375,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61213,
+    "sentence": "'[억누르지 못한 흥미] 카가미네 렌' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 375,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61220,
+    "sentence": "'[예전에 품었던 소망] 히노모리 시호' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 380,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61221,
+    "sentence": "'[예전에 품었던 소망] 히노모리 시호' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 380,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61222,
+    "sentence": "'[예전에 품었던 소망] 히노모리 시호' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 380,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61223,
+    "sentence": "'[예전에 품었던 소망] 히노모리 시호' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 380,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61230,
+    "sentence": "'[방금 한 얘기 들었어?!] 호시노 이치카' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 381,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61231,
+    "sentence": "'[방금 한 얘기 들었어?!] 호시노 이치카' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 381,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61232,
+    "sentence": "'[방금 한 얘기 들었어?!] 호시노 이치카' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 381,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61233,
+    "sentence": "'[방금 한 얘기 들었어?!] 호시노 이치카' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 381,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 61240,
+    "sentence": "'[조금 어색한 떠들썩함] KAITO' 획득",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 382,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 61241,
+    "sentence": "'[조금 어색한 떠들썩함] KAITO' 마스터 랭크 1 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 382,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 61242,
+    "sentence": "'[조금 어색한 떠들썩함] KAITO' 마스터 랭크 3 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 382,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 61243,
+    "sentence": "'[조금 어색한 떠들썩함] KAITO' 마스터 랭크 5 달성",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 382,
     "releaseConditionTypeLevel": 5
   },
   {
@@ -9060,7 +10404,7 @@
   },
   {
     "id": 100108,
-    "sentence": "'사로잡힌 마리오네트' 제8화 읽기",
+    "sentence": "'사로잡힌 마리오네트' 엔딩 읽기",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000016
   },
@@ -9115,7 +10459,7 @@
   },
   {
     "id": 100208,
-    "sentence": "'전력! 원더 핼러윈!' 제8화 읽기",
+    "sentence": "'전력! 원더 핼러윈!' 엔딩 읽기",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000024
   },
@@ -9170,7 +10514,7 @@
   },
   {
     "id": 100308,
-    "sentence": "'달려라! 운동회! ~바쁜 실행 위원~' 제8화 읽기",
+    "sentence": "'달려라! 운동회! ~바쁜 실행 위원~' 엔딩 읽기",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000032
   },
@@ -9225,7 +10569,7 @@
   },
   {
     "id": 100408,
-    "sentence": "'지금부터 RE:START!' 제8화 읽기",
+    "sentence": "'지금부터 RE:START!' 엔딩 읽기",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000040
   },
@@ -9280,7 +10624,7 @@
   },
   {
     "id": 100508,
-    "sentence": "'언젠가 등을 맞댄 가사를' 제8화 읽기",
+    "sentence": "'언젠가 등을 맞댄 가사를' 엔딩 읽기",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000048
   },
@@ -9335,7 +10679,7 @@
   },
   {
     "id": 100608,
-    "sentence": "'KAMIHIGH FESTIVAL!' 제8화 읽기",
+    "sentence": "'KAMIHIGH FESTIVAL!' 엔딩 읽기",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000056
   },
@@ -9961,7 +11305,7 @@
   },
   {
     "id": 101708,
-    "sentence": "'너와 노래해, 벚꽃 흩날리는 세상에서' 제8화 읽기",
+    "sentence": "'너와 노래하는 벚꽃 흩날리는 세계' 제8화 읽기",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000147
   },
@@ -10621,284 +11965,9 @@
   },
   {
     "id": 102908,
-    "sentence": "'틀림없이 최고의 summer!' 제8화 읽기",
+    "sentence": "'틀림없는 최고의 summer!' 제8화 읽기",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000243
-  },
-  {
-    "id": 103001,
-    "sentence": "이벤트 P 6000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 31,
-    "releaseConditionTypeQuantity": 6000
-  },
-  {
-    "id": 103002,
-    "sentence": "이벤트 P 13000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 31,
-    "releaseConditionTypeQuantity": 13000
-  },
-  {
-    "id": 103003,
-    "sentence": "이벤트 P 30000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 31,
-    "releaseConditionTypeQuantity": 30000
-  },
-  {
-    "id": 103004,
-    "sentence": "이벤트 P 60000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 31,
-    "releaseConditionTypeQuantity": 60000
-  },
-  {
-    "id": 103005,
-    "sentence": "이벤트 P 90000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 31,
-    "releaseConditionTypeQuantity": 90000
-  },
-  {
-    "id": 103006,
-    "sentence": "이벤트 P 120000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 31,
-    "releaseConditionTypeQuantity": 120000
-  },
-  {
-    "id": 103007,
-    "sentence": "이벤트 P 150000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 31,
-    "releaseConditionTypeQuantity": 150000
-  },
-  {
-    "id": 103008,
-    "sentence": "'해피 러블리 에브리데이!' 제8화 읽기",
-    "releaseConditionType": "event_story",
-    "releaseConditionTypeId": 1000251
-  },
-  {
-    "id": 103101,
-    "sentence": "이벤트 P 6000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 32,
-    "releaseConditionTypeQuantity": 6000
-  },
-  {
-    "id": 103102,
-    "sentence": "이벤트 P 13000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 32,
-    "releaseConditionTypeQuantity": 13000
-  },
-  {
-    "id": 103103,
-    "sentence": "이벤트 P 30000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 32,
-    "releaseConditionTypeQuantity": 30000
-  },
-  {
-    "id": 103104,
-    "sentence": "이벤트 P 60000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 32,
-    "releaseConditionTypeQuantity": 60000
-  },
-  {
-    "id": 103105,
-    "sentence": "이벤트 P 90000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 32,
-    "releaseConditionTypeQuantity": 90000
-  },
-  {
-    "id": 103106,
-    "sentence": "이벤트 P 120000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 32,
-    "releaseConditionTypeQuantity": 120000
-  },
-  {
-    "id": 103107,
-    "sentence": "이벤트 P 150000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 32,
-    "releaseConditionTypeQuantity": 150000
-  },
-  {
-    "id": 103108,
-    "sentence": "'머메이드를 동경해서' 제8화 읽기",
-    "releaseConditionType": "event_story",
-    "releaseConditionTypeId": 1000259
-  },
-  {
-    "id": 103201,
-    "sentence": "이벤트 P 6000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 33,
-    "releaseConditionTypeQuantity": 6000
-  },
-  {
-    "id": 103202,
-    "sentence": "이벤트 P 13000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 33,
-    "releaseConditionTypeQuantity": 13000
-  },
-  {
-    "id": 103203,
-    "sentence": "이벤트 P 30000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 33,
-    "releaseConditionTypeQuantity": 30000
-  },
-  {
-    "id": 103204,
-    "sentence": "이벤트 P 60000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 33,
-    "releaseConditionTypeQuantity": 60000
-  },
-  {
-    "id": 103205,
-    "sentence": "이벤트 P 90000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 33,
-    "releaseConditionTypeQuantity": 90000
-  },
-  {
-    "id": 103206,
-    "sentence": "이벤트 P 120000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 33,
-    "releaseConditionTypeQuantity": 120000
-  },
-  {
-    "id": 103207,
-    "sentence": "이벤트 P 150000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 33,
-    "releaseConditionTypeQuantity": 150000
-  },
-  {
-    "id": 103208,
-    "sentence": "'두 사람, 달 토끼' 제8화 읽기",
-    "releaseConditionType": "event_story",
-    "releaseConditionTypeId": 1000267
-  },
-  {
-    "id": 103301,
-    "sentence": "이벤트 P 6000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 34,
-    "releaseConditionTypeQuantity": 6000
-  },
-  {
-    "id": 103302,
-    "sentence": "이벤트 P 13000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 34,
-    "releaseConditionTypeQuantity": 13000
-  },
-  {
-    "id": 103303,
-    "sentence": "이벤트 P 30000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 34,
-    "releaseConditionTypeQuantity": 30000
-  },
-  {
-    "id": 103304,
-    "sentence": "이벤트 P 60000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 34,
-    "releaseConditionTypeQuantity": 60000
-  },
-  {
-    "id": 103305,
-    "sentence": "이벤트 P 90000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 34,
-    "releaseConditionTypeQuantity": 90000
-  },
-  {
-    "id": 103306,
-    "sentence": "이벤트 P 120000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 34,
-    "releaseConditionTypeQuantity": 120000
-  },
-  {
-    "id": 103307,
-    "sentence": "이벤트 P 150000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 34,
-    "releaseConditionTypeQuantity": 150000
-  },
-  {
-    "id": 103308,
-    "sentence": "'Knock the Future!!' 제8화 읽기",
-    "releaseConditionType": "event_story",
-    "releaseConditionTypeId": 1000275
-  },
-  {
-    "id": 103401,
-    "sentence": "이벤트 P 6000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 35,
-    "releaseConditionTypeQuantity": 6000
-  },
-  {
-    "id": 103402,
-    "sentence": "이벤트 P 13000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 35,
-    "releaseConditionTypeQuantity": 13000
-  },
-  {
-    "id": 103403,
-    "sentence": "이벤트 P 30000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 35,
-    "releaseConditionTypeQuantity": 30000
-  },
-  {
-    "id": 103404,
-    "sentence": "이벤트 P 60000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 35,
-    "releaseConditionTypeQuantity": 60000
-  },
-  {
-    "id": 103405,
-    "sentence": "이벤트 P 90000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 35,
-    "releaseConditionTypeQuantity": 90000
-  },
-  {
-    "id": 103406,
-    "sentence": "이벤트 P 120000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 35,
-    "releaseConditionTypeQuantity": 120000
-  },
-  {
-    "id": 103407,
-    "sentence": "이벤트 P 150000 달성",
-    "releaseConditionType": "event_point",
-    "releaseConditionTypeId": 35,
-    "releaseConditionTypeQuantity": 150000
-  },
-  {
-    "id": 103408,
-    "sentence": "'등불의 미라주' 제8화 읽기",
-    "releaseConditionType": "event_story",
-    "releaseConditionTypeId": 1000283
   },
   {
     "id": 800001,
@@ -11319,6 +12388,1196 @@
     "sentence": "버추얼 라이브 참가",
     "releaseConditionType": "virtual_live_participation",
     "releaseConditionTypeId": 1006
+  },
+  {
+    "id": 1010201,
+    "sentence": "호시노 이치카와 텐마 사키의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10102,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1010202,
+    "sentence": "호시노 이치카와 텐마 사키의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10102,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1010301,
+    "sentence": "호시노 이치카와 모치즈키 호나미의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10103,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1010302,
+    "sentence": "호시노 이치카와 모치즈키 호나미의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10103,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1010401,
+    "sentence": "호시노 이치카와 히노모리 시호의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10104,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1010402,
+    "sentence": "호시노 이치카와 히노모리 시호의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10104,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1012101,
+    "sentence": "호시노 이치카와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10121,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1012102,
+    "sentence": "호시노 이치카와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10121,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1012401,
+    "sentence": "호시노 이치카와 메구리네 루카의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10124,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1012402,
+    "sentence": "호시노 이치카와 메구리네 루카의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10124,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1020301,
+    "sentence": "텐마 사키와 모치즈키 호나미의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10203,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1020302,
+    "sentence": "텐마 사키와 모치즈키 호나미의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10203,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1020401,
+    "sentence": "텐마 사키와 히노모리 시호의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10204,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1020402,
+    "sentence": "텐마 사키와 히노모리 시호의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10204,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1022101,
+    "sentence": "텐마 사키와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10221,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1022102,
+    "sentence": "텐마 사키와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10221,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1022401,
+    "sentence": "텐마 사키와 메구리네 루카의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10224,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1022402,
+    "sentence": "텐마 사키와 메구리네 루카의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10224,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1030401,
+    "sentence": "모치즈키 호나미와 히노모리 시호의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10304,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1030402,
+    "sentence": "모치즈키 호나미와 히노모리 시호의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10304,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1032101,
+    "sentence": "모치즈키 호나미와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10321,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1032102,
+    "sentence": "모치즈키 호나미와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10321,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1032401,
+    "sentence": "모치즈키 호나미와 메구리네 루카의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10324,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1032402,
+    "sentence": "모치즈키 호나미와 메구리네 루카의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10324,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1042101,
+    "sentence": "히노모리 시호와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10421,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1042102,
+    "sentence": "히노모리 시호와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10421,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1042401,
+    "sentence": "히노모리 시호와 메구리네 루카의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10424,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1042402,
+    "sentence": "히노모리 시호와 메구리네 루카의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10424,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1050601,
+    "sentence": "하나사토 미노리와 키리타니 하루카의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10506,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1050602,
+    "sentence": "하나사토 미노리와 키리타니 하루카의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10506,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1050701,
+    "sentence": "하나사토 미노리와 모모이 아이리의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10507,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1050702,
+    "sentence": "하나사토 미노리와 모모이 아이리의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10507,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1050801,
+    "sentence": "하나사토 미노리와 히노모리 시즈쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10508,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1050802,
+    "sentence": "하나사토 미노리와 히노모리 시즈쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10508,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1052101,
+    "sentence": "하나사토 미노리와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10521,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1052102,
+    "sentence": "하나사토 미노리와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10521,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1052201,
+    "sentence": "하나사토 미노리와 카가미네 린의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10522,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1052202,
+    "sentence": "하나사토 미노리와 카가미네 린의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10522,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1060701,
+    "sentence": "키리타니 하루카와 모모이 아이리의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10607,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1060702,
+    "sentence": "키리타니 하루카와 모모이 아이리의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10607,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1060801,
+    "sentence": "키리타니 하루카와 히노모리 시즈쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10608,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1060802,
+    "sentence": "키리타니 하루카와 히노모리 시즈쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10608,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1062101,
+    "sentence": "키리타니 하루카와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10621,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1062102,
+    "sentence": "키리타니 하루카와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10621,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1062201,
+    "sentence": "키리타니 하루카와 카가미네 린의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10622,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1062202,
+    "sentence": "키리타니 하루카와 카가미네 린의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10622,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1070801,
+    "sentence": "모모이 아이리와 히노모리 시즈쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10708,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1070802,
+    "sentence": "모모이 아이리와 히노모리 시즈쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10708,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1072101,
+    "sentence": "모모이 아이리와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10721,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1072102,
+    "sentence": "모모이 아이리와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10721,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1072201,
+    "sentence": "모모이 아이리와 카가미네 린의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10722,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1072202,
+    "sentence": "모모이 아이리와 카가미네 린의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10722,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1082101,
+    "sentence": "히노모리 시즈쿠와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10821,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1082102,
+    "sentence": "히노모리 시즈쿠와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10821,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1082201,
+    "sentence": "히노모리 시즈쿠와 카가미네 린의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10822,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1082202,
+    "sentence": "히노모리 시즈쿠와 카가미네 린의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10822,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1091001,
+    "sentence": "아즈사와 코하네와 시라이시 안의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10910,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1091002,
+    "sentence": "아즈사와 코하네와 시라이시 안의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10910,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1091101,
+    "sentence": "아즈사와 코하네와 시노노메 아키토의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10911,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1091102,
+    "sentence": "아즈사와 코하네와 시노노메 아키토의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10911,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1091201,
+    "sentence": "아즈사와 코하네와 아오야기 토우야의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10912,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1091202,
+    "sentence": "아즈사와 코하네와 아오야기 토우야의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10912,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1092101,
+    "sentence": "아즈사와 코하네와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10921,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1092102,
+    "sentence": "아즈사와 코하네와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10921,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1092301,
+    "sentence": "아즈사와 코하네와 카가미네 렌의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10923,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1092302,
+    "sentence": "아즈사와 코하네와 카가미네 렌의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10923,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1092501,
+    "sentence": "아즈사와 코하네와 MEIKO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10925,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1092502,
+    "sentence": "아즈사와 코하네와 MEIKO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 10925,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1101101,
+    "sentence": "시라이시 안과 시노노메 아키토의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11011,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1101102,
+    "sentence": "시라이시 안과 시노노메 아키토의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11011,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1101201,
+    "sentence": "시라이시 안과 아오야기 토우야의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11012,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1101202,
+    "sentence": "시라이시 안과 아오야기 토우야의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11012,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1102101,
+    "sentence": "시라이시 안과 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11021,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1102102,
+    "sentence": "시라이시 안과 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11021,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1102301,
+    "sentence": "시라이시 안과 카가미네 렌의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11023,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1102302,
+    "sentence": "시라이시 안과 카가미네 렌의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11023,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1102501,
+    "sentence": "시라이시 안과 MEIKO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11025,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1102502,
+    "sentence": "시라이시 안과 MEIKO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11025,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1111201,
+    "sentence": "시노노메 아키토와 아오야기 토우야의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11112,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1111202,
+    "sentence": "시노노메 아키토와 아오야기 토우야의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11112,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1112101,
+    "sentence": "시노노메 아키토와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11121,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1112102,
+    "sentence": "시노노메 아키토와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11121,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1112301,
+    "sentence": "시노노메 아키토와 카가미네 렌의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11123,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1112302,
+    "sentence": "시노노메 아키토와 카가미네 렌의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11123,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1112501,
+    "sentence": "시노노메 아키토와 MEIKO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11125,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1112502,
+    "sentence": "시노노메 아키토와 MEIKO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11125,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1122101,
+    "sentence": "아오야기 토우야와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11221,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1122102,
+    "sentence": "아오야기 토우야와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11221,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1122301,
+    "sentence": "아오야기 토우야와 카가미네 렌의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11223,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1122302,
+    "sentence": "아오야기 토우야와 카가미네 렌의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11223,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1122501,
+    "sentence": "아오야기 토우야와 MEIKO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11225,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1122502,
+    "sentence": "아오야기 토우야와 MEIKO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11225,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1131401,
+    "sentence": "텐마 츠카사와 오오토리 에무의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11314,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1131402,
+    "sentence": "텐마 츠카사와 오오토리 에무의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11314,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1131501,
+    "sentence": "텐마 츠카사와 쿠사나기 네네의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11315,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1131502,
+    "sentence": "텐마 츠카사와 쿠사나기 네네의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11315,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1131601,
+    "sentence": "텐마 츠카사와 카미시로 루이의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11316,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1131602,
+    "sentence": "텐마 츠카사와 카미시로 루이의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11316,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1132101,
+    "sentence": "텐마 츠카사와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11321,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1132102,
+    "sentence": "텐마 츠카사와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11321,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1132601,
+    "sentence": "텐마 츠카사와 KAITO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11326,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1132602,
+    "sentence": "텐마 츠카사와 KAITO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11326,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1141501,
+    "sentence": "오오토리 에무와 쿠사나기 네네의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11415,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1141502,
+    "sentence": "오오토리 에무와 쿠사나기 네네의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11415,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1141601,
+    "sentence": "오오토리 에무와 카미시로 루이의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11416,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1141602,
+    "sentence": "오오토리 에무와 카미시로 루이의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11416,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1142101,
+    "sentence": "오오토리 에무와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11421,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1142102,
+    "sentence": "오오토리 에무와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11421,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1142601,
+    "sentence": "오오토리 에무와 KAITO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11426,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1142602,
+    "sentence": "오오토리 에무와 KAITO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11426,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1151601,
+    "sentence": "쿠사나기 네네와 카미시로 루이의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11516,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1151602,
+    "sentence": "쿠사나기 네네와 카미시로 루이의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11516,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1152101,
+    "sentence": "쿠사나기 네네와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11521,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1152102,
+    "sentence": "쿠사나기 네네와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11521,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1152601,
+    "sentence": "쿠사나기 네네와 KAITO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11526,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1152602,
+    "sentence": "쿠사나기 네네와 KAITO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11526,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1162101,
+    "sentence": "카미시로 루이와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11621,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1162102,
+    "sentence": "카미시로 루이와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11621,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1162601,
+    "sentence": "카미시로 루이와 KAITO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11626,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1162602,
+    "sentence": "카미시로 루이와 KAITO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11626,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1171801,
+    "sentence": "요이사키 카나데와 아사히나 마후유의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11718,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1171802,
+    "sentence": "요이사키 카나데와 아사히나 마후유의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11718,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1171901,
+    "sentence": "요이사키 카나데와 시노노메 에나의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11719,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1171902,
+    "sentence": "요이사키 카나데와 시노노메 에나의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11719,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1172001,
+    "sentence": "요이사키 카나데와 아키야마 미즈키의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11720,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1172002,
+    "sentence": "요이사키 카나데와 아키야마 미즈키의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11720,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1172101,
+    "sentence": "요이사키 카나데와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11721,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1172102,
+    "sentence": "요이사키 카나데와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11721,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1181901,
+    "sentence": "아사히나 마후유와 시노노메 에나의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11819,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1181902,
+    "sentence": "아사히나 마후유와 시노노메 에나의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11819,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1182001,
+    "sentence": "아사히나 마후유와 아키야마 미즈키의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11820,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1182002,
+    "sentence": "아사히나 마후유와 아키야마 미즈키의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11820,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1182101,
+    "sentence": "아사히나 마후유와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11821,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1182102,
+    "sentence": "아사히나 마후유와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11821,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1192001,
+    "sentence": "시노노메 에나와 아키야마 미즈키의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11920,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1192002,
+    "sentence": "시노노메 에나와 아키야마 미즈키의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11920,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1192101,
+    "sentence": "시노노메 에나와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11921,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1192102,
+    "sentence": "시노노메 에나와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 11921,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1202101,
+    "sentence": "아키야마 미즈키와 하츠네 미쿠의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12021,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1202102,
+    "sentence": "아키야마 미즈키와 하츠네 미쿠의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12021,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1212201,
+    "sentence": "하츠네 미쿠와 카가미네 린의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12122,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1212202,
+    "sentence": "하츠네 미쿠와 카가미네 린의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12122,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1212301,
+    "sentence": "하츠네 미쿠와 카가미네 렌의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12123,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1212302,
+    "sentence": "하츠네 미쿠와 카가미네 렌의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12123,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1212401,
+    "sentence": "하츠네 미쿠와 메구리네 루카의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12124,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1212402,
+    "sentence": "하츠네 미쿠와 메구리네 루카의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12124,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1212501,
+    "sentence": "하츠네 미쿠와 MEIKO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12125,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1212502,
+    "sentence": "하츠네 미쿠와 MEIKO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12125,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1212601,
+    "sentence": "하츠네 미쿠와 KAITO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12126,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1212602,
+    "sentence": "하츠네 미쿠와 KAITO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12126,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1222301,
+    "sentence": "카가미네 린과 카가미네 렌의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12223,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1222302,
+    "sentence": "카가미네 린과 카가미네 렌의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12223,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1222401,
+    "sentence": "카가미네 린과 메구리네 루카의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12224,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1222402,
+    "sentence": "카가미네 린과 메구리네 루카의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12224,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1222501,
+    "sentence": "카가미네 린과 MEIKO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12225,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1222502,
+    "sentence": "카가미네 린과 MEIKO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12225,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1222601,
+    "sentence": "카가미네 린과 KAITO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12226,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1222602,
+    "sentence": "카가미네 린과 KAITO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12226,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1232401,
+    "sentence": "카가미네 렌과 메구리네 루카의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12324,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1232402,
+    "sentence": "카가미네 렌과 메구리네 루카의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12324,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1232501,
+    "sentence": "카가미네 렌과 MEIKO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12325,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1232502,
+    "sentence": "카가미네 렌과 MEIKO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12325,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1232601,
+    "sentence": "카가미네 렌과 KAITO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12326,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1232602,
+    "sentence": "카가미네 렌과 KAITO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12326,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1242501,
+    "sentence": "메구리네 루카와 MEIKO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12425,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1242502,
+    "sentence": "메구리네 루카와 MEIKO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12425,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1242601,
+    "sentence": "메구리네 루카와 KAITO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12426,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1242602,
+    "sentence": "메구리네 루카와 KAITO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12426,
+    "releaseConditionTypeLevel": 36
+  },
+  {
+    "id": 1252601,
+    "sentence": "MEIKO와 KAITO의 인연 랭크 16 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12526,
+    "releaseConditionTypeLevel": 16
+  },
+  {
+    "id": 1252602,
+    "sentence": "MEIKO와 KAITO의 인연 랭크 36 달성하기",
+    "releaseConditionType": "bonds_rank",
+    "releaseConditionTypeId": 12526,
+    "releaseConditionTypeLevel": 36
   },
   {
     "id": 9980001,

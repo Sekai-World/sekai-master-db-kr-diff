@@ -3,6 +3,7 @@
     "id": 1,
     "description": " {{1;d}}초 동안 스코어가 {{1;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 1,
@@ -45,6 +46,7 @@
     "id": 2,
     "description": " {{2;d}}초 동안 스코어가 {{2;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 2,
@@ -87,6 +89,7 @@
     "id": 3,
     "description": " {{3;d}}초 동안 스코어가 {{3;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 3,
@@ -129,6 +132,7 @@
     "id": 4,
     "description": " {{4;d}}초 동안 스코어가 {{4;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 4,
@@ -171,6 +175,7 @@
     "id": 5,
     "description": " {{8;d}}초 동안 GREAT가 PERFECT가 되며, {{5;d}}초 동안 스코어가 {{5;v}}％ 상승한다.",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 5,
@@ -248,6 +253,7 @@
     "id": 6,
     "description": " {{9;d}}초 동안 GOOD 이상이 PERFECT가 되며, {{6;d}}초 동안 스코어가 {{6;v}}％ 상승한다.",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 6,
@@ -325,6 +331,7 @@
     "id": 7,
     "description": " {{10;d}}초 동안 BAD 이상이 PERFECT가 되며, {{7;d}}초 동안 스코어가 {{7;v}}％ 상승한다.",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 7,
@@ -402,6 +409,7 @@
     "id": 8,
     "description": " 라이프를 {{14;v}} 회복하고, {{11;d}}초 동안 스코어가 {{11;v}}% 상승한다.",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 11,
@@ -478,6 +486,7 @@
     "id": 9,
     "description": " 라이프를 {{15;v}} 회복하고, {{12;d}}초 동안 스코어가 {{12;v}}% 상승한다.",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 12,
@@ -554,6 +563,7 @@
     "id": 10,
     "description": " 라이프를 {{16;v}} 회복하고, {{13;d}}초 동안 스코어가 {{13;v}}% 상승한다.",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 13,
@@ -630,6 +640,7 @@
     "id": 11,
     "description": " {{17;d}}초 동안 PERFECT일 때 한하여 스코어가 {{17;v}}% 상승한다.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 17,
@@ -672,6 +683,7 @@
     "id": 12,
     "description": " 발동 시 라이프가 800 미만이면 {{38;d}}초 동안 스코어가 {{39;v}}% 상승, 800 이상이면 스코어가 {{38;v}}% 상승하며, 추가로 라이프가 10 증가할 때마다 +1% 상승한다(최대 {{18;v}}%).",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 18,
@@ -1471,6 +1483,7 @@
     "id": 13,
     "description": " {{40;d}}초 동안 스코어가 {{41;v}}％ 상승하며, GREAT 이하가 나오기 전까지 스코어가 {{40;v}}％ 상승한다.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
@@ -1539,6 +1552,83 @@
             "activateEffectDuration": 5,
             "activateEffectValueType": "rate",
             "activateEffectValue": 90
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "description": "體力恢復{{42;v}}，\n{{43;d}}秒內僅PERFECT時分數提升{{43;v}}%",
+    "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
+    "skillEffects": [
+      {
+        "id": 42,
+        "skillEffectType": "life_recovery",
+        "skillEffectDetails": [
+          {
+            "id": 165,
+            "level": 1,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 700
+          },
+          {
+            "id": 166,
+            "level": 2,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 750
+          },
+          {
+            "id": 167,
+            "level": 3,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 800
+          },
+          {
+            "id": 168,
+            "level": 4,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 850
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "perfect",
+        "skillEffectDetails": [
+          {
+            "id": 169,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          },
+          {
+            "id": 170,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 65
+          },
+          {
+            "id": 171,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 70
+          },
+          {
+            "id": 172,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
           }
         ]
       }
