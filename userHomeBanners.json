@@ -86,13 +86,44 @@
     "endAt": 1664711999000
   },
   {
-    "homeBannerId": 113,
-    "seq": 110,
+    "homeBannerId": 100,
+    "seq": 50,
     "homeBannerType": "general",
     "name": "배너",
-    "assetbundleName": "banner_bp06",
+    "assetbundleName": "banner_gacha66",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 66,
+    "startAt": 1664517600000,
+    "endAt": 1664949599000
+  },
+  {
+    "homeBannerId": 115,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_shopset_150",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1664517600000,
+    "endAt": 1665327540000
+  },
+  {
+    "homeBannerId": 116,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_childrensday",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1664517600000,
+    "endAt": 1665327540000
+  },
+  {
+    "homeBannerId": 164,
+    "seq": 1,
+    "homeBannerType": "general",
+    "name": "배너",
+    "assetbundleName": "banner_bp07",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1662303600000,
-    "endAt": 1664549999000
+    "startAt": 1664550000000,
+    "endAt": 1664895599000
   }
 ]
