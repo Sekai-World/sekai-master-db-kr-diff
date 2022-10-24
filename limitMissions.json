@@ -214,5 +214,59 @@
     "requirement": 5,
     "sentence": " 200만 명 돌파 기념 기간 한정 미션 모두 클리어하기",
     "resourceBoxId": 100020
+  },
+  {
+    "limitMissionGroupId": 6,
+    "id": 33,
+    "seq": 1,
+    "limitMissionType": "clear_live_miku_leader",
+    "requirement": 15,
+    "sentence": "하츠네 미쿠'를 리더로 편성하여 \n라이브 15회 플레이하기",
+    "resourceBoxId": 100019
+  },
+  {
+    "limitMissionGroupId": 6,
+    "id": 34,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 100,
+    "sentence": "라이브 보너스 100개 사용하기\n('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
+    "resourceBoxId": 100015
+  },
+  {
+    "limitMissionGroupId": 6,
+    "id": 35,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100027
+  },
+  {
+    "limitMissionGroupId": 6,
+    "id": 36,
+    "seq": 1,
+    "limitMissionType": "character_rank_miku",
+    "requirement": 5,
+    "sentence": "하츠네 미쿠 캐릭터 랭크 5 달성하기",
+    "resourceBoxId": 100028
+  },
+  {
+    "limitMissionGroupId": 6,
+    "id": 37,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_miku",
+    "requirement": 3,
+    "sentence": "하츠네 미쿠로 챌린지 라이브 3회 플레이하기",
+    "resourceBoxId": 100029
+  },
+  {
+    "limitMissionGroupId": 6,
+    "id": 38,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "하츠네 미쿠의 모든 기념일 한정 미션 완료하기",
+    "resourceBoxId": 100030
   }
 ]
