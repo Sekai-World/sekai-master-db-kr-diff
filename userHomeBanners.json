@@ -3,7 +3,6 @@
     "homeBannerId": 3,
     "seq": 120,
     "homeBannerType": "general",
-    "name": "서비스 시작 기념 버추얼 라이브",
     "assetbundleName": "banner_welcomelive",
     "transitionDestinationType": "virtual_live",
     "transitionDestinationId": 20001,
@@ -14,7 +13,6 @@
     "homeBannerId": 5,
     "seq": 9999,
     "homeBannerType": "general",
-    "name": "뉴비 가이드",
     "assetbundleName": "banner_beginners_guide",
     "transitionDestinationType": "information",
     "transitionDestinationId": 2,
@@ -25,7 +23,6 @@
     "homeBannerId": 8,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "배너",
     "assetbundleName": "banner_sodokumission",
     "transitionDestinationType": "sudoku",
     "startAt": 1649257200000,
@@ -35,7 +32,6 @@
     "homeBannerId": 34,
     "seq": 40,
     "homeBannerType": "general",
-    "name": "배너",
     "assetbundleName": "banner_gacha16",
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 16,
@@ -46,42 +42,67 @@
     "homeBannerId": 35,
     "seq": 20,
     "homeBannerType": "general",
-    "name": "배너",
     "assetbundleName": "banner_cp4",
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1654009200000,
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 89,
+    "homeBannerId": 90,
     "seq": 40,
     "homeBannerType": "event",
-    "name": "배너",
-    "assetbundleName": "event_resonate_2021",
+    "assetbundleName": "event_stray_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 20,
-    "startAt": 1665986400000,
-    "endAt": 1666591199000
+    "transitionDestinationId": 21,
+    "startAt": 1666591200000,
+    "endAt": 1667195999000
   },
   {
-    "homeBannerId": 105,
+    "homeBannerId": 107,
     "seq": 50,
     "homeBannerType": "general",
-    "name": "배너",
-    "assetbundleName": "banner_gacha75",
+    "assetbundleName": "banner_gacha78",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 75,
-    "startAt": 1665986400000,
-    "endAt": 1666591199000
+    "transitionDestinationId": 78,
+    "startAt": 1666591200000,
+    "endAt": 1667195999000
+  },
+  {
+    "homeBannerId": 124,
+    "seq": 50,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha88",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 88,
+    "startAt": 1666245600000,
+    "endAt": 1666763999000
   },
   {
     "homeBannerId": 165,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "배너",
     "assetbundleName": "banner_bp07",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1664895600000,
     "endAt": 1667228399000
+  },
+  {
+    "homeBannerId": 167,
+    "seq": 10,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_firstrecharge",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1664550000000,
+    "endAt": 4094463600000
+  },
+  {
+    "homeBannerId": 168,
+    "seq": 10,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_autolive",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 227,
+    "startAt": 1666072800000,
+    "endAt": 1698213599000
   }
 ]
