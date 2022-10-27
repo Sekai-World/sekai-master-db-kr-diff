@@ -10318,6 +10318,42 @@
     "cardEpisodePartType": "second_part"
   },
   {
+    "id": 623,
+    "cardId": 312,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "025014_meiko01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 624,
+    "cardId": 312,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "025014_meiko02",
+    "releaseConditionId": 30312,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
     "id": 635,
     "cardId": 318,
     "title": "사이드 스토리(전편)",
