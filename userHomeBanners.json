@@ -68,16 +68,6 @@
     "endAt": 1667195999000
   },
   {
-    "homeBannerId": 108,
-    "seq": 50,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha80",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 80,
-    "startAt": 1666764000000,
-    "endAt": 1667131199000
-  },
-  {
     "homeBannerId": 118,
     "seq": 30,
     "homeBannerType": "general",
@@ -88,6 +78,26 @@
     "endAt": 1667401199000
   },
   {
+    "homeBannerId": 141,
+    "seq": 50,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive12",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 12,
+    "startAt": 1667142000000,
+    "endAt": 1667358600000
+  },
+  {
+    "homeBannerId": 142,
+    "seq": 50,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive103",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 103,
+    "startAt": 1667142000000,
+    "endAt": 1667358600000
+  },
+  {
     "homeBannerId": 165,
     "seq": 110,
     "homeBannerType": "general",
@@ -95,6 +105,16 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1664895600000,
     "endAt": 1667228399000
+  },
+  {
+    "homeBannerId": 166,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_happy_halloween_2020",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 239,
+    "startAt": 1667156400000,
+    "endAt": 1667761199000
   },
   {
     "homeBannerId": 167,
