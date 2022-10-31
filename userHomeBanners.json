@@ -48,26 +48,6 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 90,
-    "seq": 40,
-    "homeBannerType": "event",
-    "assetbundleName": "event_stray_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 21,
-    "startAt": 1666591200000,
-    "endAt": 1667195999000
-  },
-  {
-    "homeBannerId": 107,
-    "seq": 50,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha78",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 78,
-    "startAt": 1666591200000,
-    "endAt": 1667195999000
-  },
-  {
     "homeBannerId": 118,
     "seq": 30,
     "homeBannerType": "general",
@@ -76,6 +56,16 @@
     "transitionDestinationId": 141,
     "startAt": 1666796400000,
     "endAt": 1667401199000
+  },
+  {
+    "homeBannerId": 120,
+    "seq": 50,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha82",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 82,
+    "startAt": 1667196000000,
+    "endAt": 1667800799000
   },
   {
     "homeBannerId": 141,
@@ -98,13 +88,23 @@
     "endAt": 1667358600000
   },
   {
-    "homeBannerId": 165,
-    "seq": 110,
+    "homeBannerId": 150,
+    "seq": 60,
     "homeBannerType": "general",
-    "assetbundleName": "banner_bp07",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1664895600000,
-    "endAt": 1667228399000
+    "assetbundleName": "banner_shop_halloween_costume_2021",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1667196000000,
+    "endAt": 1667833199000
+  },
+  {
+    "homeBannerId": 151,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_picnic_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 22,
+    "startAt": 1667196000000,
+    "endAt": 1667735999000
   },
   {
     "homeBannerId": 166,
@@ -134,5 +134,14 @@
     "transitionDestinationId": 227,
     "startAt": 1666072800000,
     "endAt": 1698213599000
+  },
+  {
+    "homeBannerId": 170,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_bp08",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1667228400000,
+    "endAt": 1667573999000
   }
 ]
