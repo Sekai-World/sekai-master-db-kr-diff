@@ -726,5 +726,37 @@
         "transitionDestinationType": "billing_shop_for_live_mission_pass"
       }
     ]
+  },
+  {
+    "id": 1021,
+    "assetbundleName": "limitmission_show_meiko2022",
+    "showType": "ONCE",
+    "startAt": 1667541600000,
+    "endAt": 1668427199000,
+    "behaviors": [
+      {
+        "id": 97,
+        "eventShowDialogueId": 1021,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "249"
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "assetbundleName": "google_2022",
+    "showType": "ONCE",
+    "startAt": 1667282400000,
+    "endAt": 1667887200000,
+    "behaviors": [
+      {
+        "id": 98,
+        "eventShowDialogueId": 1022,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "256"
+      }
+    ]
   }
 ]
