@@ -77454,6 +77454,54 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 10042,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxId": 10042,
+        "resourceType": "jewel",
+        "resourceQuantity": 900
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 10043,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxId": 10043,
+        "resourceType": "jewel",
+        "resourceQuantity": 50
+      },
+      {
+        "resourceBoxId": 10043,
+        "resourceType": "boost_item",
+        "resourceId": 1,
+        "resourceQuantity": 2
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 10044,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxId": 10044,
+        "resourceType": "jewel",
+        "resourceQuantity": 100
+      },
+      {
+        "resourceBoxId": 10044,
+        "resourceType": "boost_item",
+        "resourceId": 2,
+        "resourceQuantity": 2
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 9999999,
     "resourceBoxType": "expand",
     "details": [
