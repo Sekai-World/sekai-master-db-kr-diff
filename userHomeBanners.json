@@ -48,63 +48,24 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 120,
+    "homeBannerId": 122,
     "seq": 50,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha82",
+    "assetbundleName": "banner_gacha85",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 82,
-    "startAt": 1667196000000,
-    "endAt": 1667800799000
+    "transitionDestinationId": 85,
+    "startAt": 1667800800000,
+    "endAt": 1668405599000
   },
   {
-    "homeBannerId": 121,
-    "seq": 50,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha84",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 84,
-    "startAt": 1667368800000,
-    "endAt": 1667735999000
-  },
-  {
-    "homeBannerId": 144,
-    "seq": 50,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive14",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 14,
-    "startAt": 1667455200000,
-    "endAt": 1667714399000
-  },
-  {
-    "homeBannerId": 150,
-    "seq": 60,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_shop_halloween_costume_2021",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1667196000000,
-    "endAt": 1667833199000
-  },
-  {
-    "homeBannerId": 151,
+    "homeBannerId": 152,
     "seq": 40,
     "homeBannerType": "general",
-    "assetbundleName": "event_picnic_2021",
+    "assetbundleName": "event_breaktime_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 22,
-    "startAt": 1667196000000,
-    "endAt": 1667800799000
-  },
-  {
-    "homeBannerId": 166,
-    "seq": 20,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_happy_halloween_2020",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 239,
-    "startAt": 1667156400000,
-    "endAt": 1667761199000
+    "transitionDestinationId": 23,
+    "startAt": 1667800800000,
+    "endAt": 1668405599000
   },
   {
     "homeBannerId": 167,
@@ -124,6 +85,16 @@
     "transitionDestinationId": 227,
     "startAt": 1666072800000,
     "endAt": 1698213599000
+  },
+  {
+    "homeBannerId": 169,
+    "seq": 5000,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_questionnaire_3",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20313466,
+    "startAt": 1667790000000,
+    "endAt": 1668913200000
   },
   {
     "homeBannerId": 171,
