@@ -8211,8 +8211,8 @@
     "voice": "partvoice_14_025",
     "motion": "w-cool-tilthead03",
     "expression": "face_smile_03",
-    "publishedAt": 1636038000000,
-    "closedAt": 1636124399000,
+    "publishedAt": 1667574000000,
+    "closedAt": 1667660399000,
     "weight": 1
   },
   {
@@ -8224,8 +8224,8 @@
     "voice": "partvoice_20_021_piapro",
     "motion": "w-normal-tilthead04",
     "expression": "face_closeeye_02",
-    "publishedAt": 1636038000000,
-    "closedAt": 1636124399000,
+    "publishedAt": 1667574000000,
+    "closedAt": 1667660399000,
     "weight": 1
   },
   {
@@ -8237,8 +8237,8 @@
     "voice": "partvoice_20_022",
     "motion": "w-cute-tilthead08",
     "expression": "face_closeeye_02",
-    "publishedAt": 1636038000000,
-    "closedAt": 1636124399000,
+    "publishedAt": 1667574000000,
+    "closedAt": 1667660399000,
     "weight": 1
   },
   {
@@ -8250,8 +8250,8 @@
     "voice": "partvoice_07_023",
     "motion": "n-len-nod04",
     "expression": "face_smile_03",
-    "publishedAt": 1636038000000,
-    "closedAt": 1636124399000,
+    "publishedAt": 1667574000000,
+    "closedAt": 1667660399000,
     "weight": 1
   },
   {
@@ -8263,8 +8263,8 @@
     "voice": "partvoice_20_024",
     "motion": "w-adult-tilthead02",
     "expression": "face_smile_02",
-    "publishedAt": 1636038000000,
-    "closedAt": 1636124399000,
+    "publishedAt": 1667574000000,
+    "closedAt": 1667660399000,
     "weight": 1
   },
   {
@@ -8276,8 +8276,8 @@
     "voice": "partvoice_01_026",
     "motion": "m-adult-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1636038000000,
-    "closedAt": 1636124399000,
+    "publishedAt": 1667574000000,
+    "closedAt": 1667660399000,
     "weight": 1
   },
   {
@@ -13793,6 +13793,551 @@
     "weight": 1
   },
   {
+    "id": 1155,
+    "characterId": 1,
+    "unit": "light_sound",
+    "serif": "핼러윈이구나. 이 기회에\n분장하고 라이브하자고\n미쿠랑 애들한테 말해 볼까?",
+    "assetbundleName": "voicepack_1",
+    "voice": "system_holiday_001_007_002",
+    "motion": "w-cute-tilthead08",
+    "expression": "face_smile_02",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1156,
+    "characterId": 2,
+    "unit": "light_sound",
+    "serif": "호박파이랑 푸딩! 에헤헷.\n핼러윈 디저트 너~무 좋아♪",
+    "assetbundleName": "voicepack_2",
+    "voice": "system_holiday_002_007_002",
+    "motion": "w-cute-delicious02",
+    "expression": "face_smile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1157,
+    "characterId": 3,
+    "unit": "light_sound",
+    "serif": "후훗. 다같이 먹을 핼러윈\n디저트를 잔뜩 만들어 왔어.\n나중에 세카이에서 먹자.",
+    "assetbundleName": "voicepack_3",
+    "voice": "system_holiday_003_007_002",
+    "motion": "w-adult-tilthead04",
+    "expression": "face_ncsmile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1158,
+    "characterId": 4,
+    "unit": "light_sound",
+    "serif": "\"트릭 오어 트리트 해 줘\"\n라고 적힌 부채를 언니가\n들고 있던데. 뭐야 그거?",
+    "assetbundleName": "voicepack_4",
+    "voice": "system_holiday_004_007_002",
+    "motion": "w-cute-tilthead05",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1159,
+    "characterId": 5,
+    "unit": "idol",
+    "serif": "오늘 방송에서는 하루카와 함께\n마녀 의상을 입고 춤출 거야.\n기대된다~!",
+    "assetbundleName": "voicepack_5",
+    "voice": "system_holiday_005_007_002",
+    "motion": "w-cute-glad05",
+    "expression": "face_smile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1160,
+    "characterId": 6,
+    "unit": "idol",
+    "serif": "후후. 미노리,\n의상 지퍼에 손 안 닿아?\n내가 해 줄까?",
+    "assetbundleName": "voicepack_6",
+    "voice": "system_holiday_006_007_002",
+    "motion": "w-cute-tilthead08",
+    "expression": "face_smile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1161,
+    "characterId": 7,
+    "unit": "idol",
+    "serif": "요즘엔 핼러윈을 \n모티브로 한 화과자도 있대.\n이 기회에 한번 먹어 볼까?",
+    "assetbundleName": "voicepack_7",
+    "voice": "system_holiday_007_007_002",
+    "motion": "w-cute-tilthead08",
+    "expression": "face_smile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1162,
+    "characterId": 8,
+    "unit": "idol",
+    "serif": "시이가 좋아하는 과자도\n준비했으니 이제 말을\n걸어 줄 때까지 기다리면 돼.",
+    "assetbundleName": "voicepack_8",
+    "voice": "system_holiday_008_007_002",
+    "motion": "w-adult-nod03",
+    "expression": "face_smile_02",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1163,
+    "characterId": 9,
+    "unit": "street",
+    "serif": "아, 안……!\n과…… 과자 안 주면\n장난칠 거야……!",
+    "assetbundleName": "voicepack_9",
+    "voice": "system_holiday_009_007_002",
+    "motion": "w-animal-shy01",
+    "expression": "face_shy_02",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1164,
+    "characterId": 10,
+    "unit": "street",
+    "serif": "과자는 있지만……\n코하네가 어떤 장난을 칠지\n좀 궁금하네~",
+    "assetbundleName": "voicepack_10",
+    "voice": "system_holiday_010_007_002",
+    "motion": "w-cool-sigh02",
+    "expression": "face_smile_06",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1165,
+    "characterId": 11,
+    "unit": "street",
+    "serif": "이 시기엔 호박이 들어간\n디저트가 엄청 많아.\n이참에 한번 먹어 볼까?",
+    "assetbundleName": "voicepack_11",
+    "voice": "system_holiday_011_007_002",
+    "motion": "m-cool-think02",
+    "expression": "face_smallmouth_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1166,
+    "characterId": 12,
+    "unit": "street",
+    "serif": "카이토 씨, 옷에 풍선 두 개가\n묶여 있던데 렌과 린이\n장난친 건가?",
+    "assetbundleName": "voicepack_12",
+    "voice": "system_holiday_012_007_002",
+    "motion": "m-adult-tilthead02",
+    "expression": "face_smallmouth_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1167,
+    "characterId": 13,
+    "unit": "theme_park",
+    "serif": "가자, 좀비 로봇들아!\n핼러윈 쇼를 같이\n뜨겁게 달구자꾸나!",
+    "assetbundleName": "voicepack_13",
+    "voice": "system_holiday_013_007_002",
+    "motion": "m-tsukasa-nod04",
+    "expression": "face_sharp_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1168,
+    "characterId": 14,
+    "unit": "theme_park",
+    "serif": "네네가 준 과자가\n엄청 맛있었어!\n하나 더 달라고 할까~?",
+    "assetbundleName": "voicepack_14",
+    "voice": "system_holiday_014_007_002",
+    "motion": "w-cute-delicious02",
+    "expression": "face_ncsmile_03",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1169,
+    "characterId": 15,
+    "unit": "theme_park",
+    "serif": "아, 잠깐만, 에무!\n트릭 오어 트리트는\n한 명한테 한 번만 하는 거야!",
+    "assetbundleName": "voicepack_15",
+    "voice": "system_holiday_015_007_002",
+    "motion": "w-pure-shakehead01",
+    "expression": "face_angry_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1170,
+    "characterId": 16,
+    "unit": "theme_park",
+    "serif": "특별한 하루를 즐겨 볼까?\n좀비 로봇들도 신나게\n사람들을 놀래고 있네.",
+    "assetbundleName": "voicepack_16",
+    "voice": "system_holiday_016_007_002",
+    "motion": "m-cool-nod02",
+    "expression": "face_smile_03",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1171,
+    "characterId": 17,
+    "unit": "school_refusal",
+    "serif": "세카이에 갔더니\n호박 램프가 놓여 있던데\n미즈키가 가져온 걸까?",
+    "assetbundleName": "voicepack_17",
+    "voice": "system_holiday_017_007_002",
+    "motion": "w-kanade-tilthead01",
+    "expression": "face_smallmouth_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1172,
+    "characterId": 18,
+    "unit": "school_refusal",
+    "serif": "트릭 오어 트리트.\n……왜 그래, 카나데?\n……뭐, 눈이 무섭다고?",
+    "assetbundleName": "voicepack_18",
+    "voice": "system_holiday_018_007_002",
+    "motion": "w-normal-tilthead05",
+    "expression": "face_darkness_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1173,
+    "characterId": 19,
+    "unit": "school_refusal",
+    "serif": "어디 보자, 카메라 각도는\n위에서…… 으음, 이러면\n마녀 모자가 얼굴을 가리네.",
+    "assetbundleName": "voicepack_19",
+    "voice": "system_holiday_019_007_002",
+    "motion": "w-cute-tilthead04",
+    "expression": "face_trouble_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1174,
+    "characterId": 20,
+    "unit": "school_refusal",
+    "serif": "어딜 봐도 핼러윈 일색이네♪\n이참에 장식을 사서\n세카이에 가져가야지!",
+    "assetbundleName": "voicepack_20",
+    "voice": "system_holiday_020_007_002",
+    "motion": "w-cute-nod04",
+    "expression": "face_smile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1175,
+    "characterId": 21,
+    "unit": "piapro",
+    "serif": "트릭 오어 트리트!\n후후. 다들 핼러윈을\n잘 즐기고 있어?",
+    "assetbundleName": "voicepack_21_piapro",
+    "voice": "partvoice_20_021_piapro",
+    "motion": "w-cute-nod04",
+    "expression": "face_smile_03",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1176,
+    "characterId": 22,
+    "unit": "piapro",
+    "serif": "에헤헷. 카이토가 준비한\n과자를 숨겼지롱♪\n무슨 장난을 할까~?",
+    "assetbundleName": "voicepack_22",
+    "voice": "partvoice_20_022",
+    "motion": "w-cute-glad05",
+    "expression": "face_smile_03",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1177,
+    "characterId": 23,
+    "unit": "piapro",
+    "serif": "린, 이따가 같이 분장하고\n라이브하기로 해 놓고\n어딜 간 거지?",
+    "assetbundleName": "voicepack_23",
+    "voice": "partvoice_10_023",
+    "motion": "n-len-tilthead03",
+    "expression": "face_smallmouth_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1178,
+    "characterId": 24,
+    "unit": "piapro",
+    "serif": "모두 핼러윈을 어떻게\n보내고 있을지 세카이를\n보러 가는 것도 재미있겠네.",
+    "assetbundleName": "voicepack_24",
+    "voice": "partvoice_14_024",
+    "motion": "w-normal-nod06",
+    "expression": "face_smile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1179,
+    "characterId": 25,
+    "unit": "piapro",
+    "serif": "잭 오 랜턴은 얼굴에\n장난기가 가득해 보여!\n……뭐, 그렇지도 않다고?",
+    "assetbundleName": "voicepack_25",
+    "voice": "partvoice_20_025",
+    "motion": "w-cool-tilthead02",
+    "expression": "face_smile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1180,
+    "characterId": 26,
+    "unit": "piapro",
+    "serif": "어라? 분명 과자 많이\n준비했을 텐데……\n깜빡하고 두고 왔나?",
+    "assetbundleName": "voicepack_26",
+    "voice": "partvoice_27_026",
+    "motion": "m-tsukasa-tilthead01",
+    "expression": "face_trouble_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1181,
+    "characterId": 21,
+    "unit": "light_sound",
+    "serif": "이치카네에게 핼러윈\n분장 라이브에 초대받았어.\n으~음, 뭘 입지?",
+    "assetbundleName": "voicepack_21_light_sound",
+    "voice": "partvoice_10_021_band",
+    "motion": "w-cool-tilthead02",
+    "expression": "face_band_smallmouth_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1182,
+    "characterId": 21,
+    "unit": "idol",
+    "serif": "늘 응원해 주는 모두에게\n달콤한 노래와\n과자를 선물할게♪",
+    "assetbundleName": "voicepack_21_idol",
+    "voice": "partvoice_02_021_idol",
+    "motion": "w-cute-forward02",
+    "expression": "face_idol_smile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1183,
+    "characterId": 21,
+    "unit": "street",
+    "serif": "메이코의 핼러윈 디저트 말인데\n나는 시식을 많이 했으니까\n린과 렌에게 줄게.",
+    "assetbundleName": "voicepack_21_street",
+    "voice": "partvoice_01_021_street",
+    "motion": "w-happy-tilthead01",
+    "expression": "face_street_smile_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1184,
+    "characterId": 21,
+    "unit": "theme_park",
+    "serif": "해피~~~ 핼러윈☆\n츠카사네는 어떤 분장을 하고\n쇼를 할지 기대돼!",
+    "assetbundleName": "voicepack_21_theme_park",
+    "voice": "partvoice_20_021_wonder",
+    "motion": "w-cute-glad06",
+    "expression": "face_wonder_kirakira_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1185,
+    "characterId": 21,
+    "unit": "school_refusal",
+    "serif": "……해피 핼러윈.\n과자…… \n나도 받을 수 있을까?",
+    "assetbundleName": "voicepack_21_school_refusal",
+    "voice": "partvoice_03_021_night",
+    "motion": "w-normal-shy01",
+    "expression": "face_night_smallmouth_01",
+    "publishedAt": 1667142000000,
+    "closedAt": 1667228399000,
+    "weight": 1
+  },
+  {
+    "id": 1217,
+    "characterId": 7,
+    "unit": "idol",
+    "serif": "오늘은 아키토의 생일이야.\n분명 팬케이크 같은\n단 음식을 좋아한댔지?",
+    "assetbundleName": "voicepack_7",
+    "voice": "system_birthday_011_add_007",
+    "motion": "w-cute-nod05",
+    "expression": "face_smile_01",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1218,
+    "characterId": 8,
+    "unit": "idol",
+    "serif": "아키토, 생일이구나.\n후후, 지금쯤 에나는\n축하 준비를 하고 있을까?",
+    "assetbundleName": "voicepack_8",
+    "voice": "system_birthday_011_add_008",
+    "motion": "w-adult-tilthead02",
+    "expression": "face_smile_01",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1219,
+    "characterId": 9,
+    "unit": "street",
+    "serif": "시노노메, 생일 축하해.\n모두 함께 꿈을 이룰 수 있도록\n앞으로도 힘내자!",
+    "assetbundleName": "voicepack_9",
+    "voice": "system_birthday_011_add_009",
+    "motion": "w-normal-nod06",
+    "expression": "face_smile_01",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1220,
+    "characterId": 10,
+    "unit": "street",
+    "serif": "아키토, 생일 축하해!\n가게에서 축하할 테니 와.\n아빠도 기다리시니까!",
+    "assetbundleName": "voicepack_10",
+    "voice": "system_birthday_011_add_010",
+    "motion": "w-cool-glad01",
+    "expression": "face_smile_01",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1221,
+    "characterId": 11,
+    "unit": "street",
+    "serif": "선물이라며 괴짜 원투에게\n이상한 상자를 받았는데\n못 본 셈 쳐도 될까?",
+    "assetbundleName": "voicepack_11",
+    "voice": "system_birthday_011_add_011",
+    "motion": "m-cool-think01",
+    "expression": "face_worry_01",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1222,
+    "characterId": 12,
+    "unit": "street",
+    "serif": "많은 사람이 아키토의\n생일을 축하해 줘서\n파트너로서 나도 기뻐.",
+    "assetbundleName": "voicepack_12",
+    "voice": "system_birthday_011_add_012",
+    "motion": "m-adult-nod01",
+    "expression": "face_smile_01",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1223,
+    "characterId": 13,
+    "unit": "theme_park",
+    "serif": "아키토, 생일 축하해!\n나랑 루이가 주는 선물이야.\n사양 말고 받아!",
+    "assetbundleName": "voicepack_13",
+    "voice": "system_birthday_011_add_013",
+    "motion": "m-tsukasa-nod04",
+    "expression": "face_smile_02",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1224,
+    "characterId": 16,
+    "unit": "theme_park",
+    "serif": "시노노메 군에게 준 그 상자에는\n소소한 장치가 있어.\n재미있어하면 좋겠네.",
+    "assetbundleName": "voicepack_16",
+    "voice": "system_birthday_011_add_016",
+    "motion": "m-cool-plan01",
+    "expression": "face_smile_02",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1225,
+    "characterId": 19,
+    "unit": "school_refusal",
+    "serif": "봐, 잘 어울리잖아!\n내 코디도 제법이지, 아키토?\n내일은 그거 입고 나가지 그래?",
+    "assetbundleName": "voicepack_19",
+    "voice": "system_birthday_011_add_019",
+    "motion": "w-cute-tilthead04",
+    "expression": "face_smile_01",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1226,
+    "characterId": 20,
+    "unit": "school_refusal",
+    "serif": "오늘 에나 동생 생일이야?!\n정말, 에나! 그런 건 좀\n일찍 알려 줬어야지!",
+    "assetbundleName": "voicepack_20",
+    "voice": "system_birthday_011_add_020",
+    "motion": "w-cute-tilthead03",
+    "expression": "face_surprise_01",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
+    "id": 1227,
+    "characterId": 21,
+    "unit": "street",
+    "serif": "아키토, 생일 축하해. 렌이랑 \n다 같이 열심히 축하 준비\n했으니 얼른 세카이에 와 줘.",
+    "assetbundleName": "voicepack_21_street",
+    "voice": "partvoice_20_021_street",
+    "motion": "w-cool-forward01",
+    "expression": "face_street_smile_01",
+    "publishedAt": 1668178800000,
+    "closedAt": 1668265199000,
+    "weight": 1
+  },
+  {
     "id": 1228,
     "characterId": 1,
     "unit": "light_sound",
@@ -13801,8 +14346,8 @@
     "voice": "system_winter_001_001",
     "motion": "w-cool-nod03",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13814,8 +14359,8 @@
     "voice": "system_winter_001_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13827,8 +14372,8 @@
     "voice": "system_winter_001_003",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13840,8 +14385,8 @@
     "voice": "system_winter_002_001",
     "motion": "w-cute-forward02",
     "expression": "face_sparkling_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13853,8 +14398,8 @@
     "voice": "system_winter_002_002",
     "motion": "w-cute-tilthead07",
     "expression": "face_ worry_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13866,8 +14411,8 @@
     "voice": "system_winter_002_003",
     "motion": "w-cute-forward03",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13879,8 +14424,8 @@
     "voice": "system_winter_003_001",
     "motion": "w-adult-tilthead01",
     "expression": "face_surprise_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13892,8 +14437,8 @@
     "voice": "system_winter_003_002",
     "motion": "w-adult-tilthead02",
     "expression": "face_smile_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13905,8 +14450,8 @@
     "voice": "system_winter_003_003",
     "motion": "w-adult-think02",
     "expression": "face_smile_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13918,8 +14463,8 @@
     "voice": "system_winter_004_001",
     "motion": "w-cool-angry01",
     "expression": "face_trouble_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13931,8 +14476,8 @@
     "voice": "system_winter_004_002",
     "motion": "w-cool-nod02",
     "expression": "face_sharp_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13944,8 +14489,8 @@
     "voice": "system_winter_004_003",
     "motion": "w-cool-tilthead03",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13957,8 +14502,8 @@
     "voice": "system_winter_005_001",
     "motion": "w-cute-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13970,8 +14515,8 @@
     "voice": "system_winter_005_002",
     "motion": "w-cute-tilthead05",
     "expression": "face_surprise_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13983,8 +14528,8 @@
     "voice": "system_winter_005_003",
     "motion": "w-cute-tilthead02",
     "expression": "face_hawawa_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -13996,8 +14541,8 @@
     "voice": "system_winter_006_001",
     "motion": "w-cool-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14009,8 +14554,8 @@
     "voice": "system_winter_006_002",
     "motion": "w-cool-tilthead03",
     "expression": "face_angry_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14022,8 +14567,8 @@
     "voice": "system_winter_006_003",
     "motion": "w-cool-glad01",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14035,8 +14580,8 @@
     "voice": "system_winter_007_001",
     "motion": "w-happy-nod02",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14048,8 +14593,8 @@
     "voice": "system_winter_007_002",
     "motion": "w-happy-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14061,8 +14606,8 @@
     "voice": "system_winter_007_003",
     "motion": "w-happy-shakehead01",
     "expression": "face_sad_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14074,8 +14619,8 @@
     "voice": "system_winter_008_001",
     "motion": "w-adult-tilthead05",
     "expression": "face_sad_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14087,8 +14632,8 @@
     "voice": "system_winter_008_002",
     "motion": "w-adult-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14100,8 +14645,8 @@
     "voice": "system_winter_008_003",
     "motion": "w-adult-tilthead04",
     "expression": "face_normal_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14113,8 +14658,8 @@
     "voice": "system_winter_009_001",
     "motion": "w-normal-angry01",
     "expression": "face_shy_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14126,8 +14671,8 @@
     "voice": "system_winter_009_002",
     "motion": "w-normal-tilthead01",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14139,8 +14684,8 @@
     "voice": "system_winter_009_003",
     "motion": "w-animal-tilthead01",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14152,8 +14697,8 @@
     "voice": "system_winter_010_001",
     "motion": "w-cool-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14165,8 +14710,8 @@
     "voice": "system_winter_010_002",
     "motion": "w-cool-tilthead03",
     "expression": "face_worry_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14178,8 +14723,8 @@
     "voice": "system_winter_010_003",
     "motion": "w-cool-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14191,8 +14736,8 @@
     "voice": "system_winter_011_001",
     "motion": "m-cool-think01",
     "expression": "face_trouble_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14204,8 +14749,8 @@
     "voice": "system_winter_011_002",
     "motion": "m-normal-angry01",
     "expression": "face_sad_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14217,8 +14762,8 @@
     "voice": "system_winter_011_003",
     "motion": "m-cool-tilthead01",
     "expression": "face_smile_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14230,8 +14775,8 @@
     "voice": "system_winter_012_001",
     "motion": "m-adult-shakehead01",
     "expression": "face_sad_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14243,8 +14788,8 @@
     "voice": "system_winter_012_002",
     "motion": "m-adult-tilthead01",
     "expression": "face_sad_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14256,8 +14801,8 @@
     "voice": "system_winter_012_003",
     "motion": "m-adult-nod02",
     "expression": "face_normal_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14269,8 +14814,8 @@
     "voice": "system_winter_013_001",
     "motion": "m-tsukasa-angry01",
     "expression": "face_surprise_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14282,8 +14827,8 @@
     "voice": "system_winter_013_002",
     "motion": "m-tsukasa-nod02",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14295,8 +14840,8 @@
     "voice": "system_winter_013_003",
     "motion": "m-tsukasa-regret02",
     "expression": "face_smug_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14308,8 +14853,8 @@
     "voice": "system_winter_014_001",
     "motion": "w-happy-glad01",
     "expression": "face_smile_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14321,8 +14866,8 @@
     "voice": "system_winter_014_002",
     "motion": "w-happy-angry02",
     "expression": "face_surprise_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14334,8 +14879,8 @@
     "voice": "system_winter_014_003",
     "motion": "w-happy-nod03",
     "expression": "face_sparkling_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14347,8 +14892,8 @@
     "voice": "system_winter_015_001",
     "motion": "w-normal-tilthead06",
     "expression": "face_trouble_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14360,8 +14905,8 @@
     "voice": "system_winter_015_002",
     "motion": "w-normal-nod04",
     "expression": "face_sharp_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14373,8 +14918,8 @@
     "voice": "system_winter_015_003",
     "motion": "w-normal-angry01",
     "expression": "face_shy_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14386,8 +14931,8 @@
     "voice": "system_winter_016_001",
     "motion": "m-cool-nod02",
     "expression": "face_smile_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -14399,8 +14944,8 @@
     "voice": "system_winter_016_002",
     "motion": "m-cool-tilthead01",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14412,8 +14957,8 @@
     "voice": "system_winter_016_003",
     "motion": "m-cool-plan01",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14425,8 +14970,8 @@
     "voice": "system_winter_017_001",
     "motion": "w-kanade-tilthead01",
     "expression": "face_surprise_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14438,8 +14983,8 @@
     "voice": "system_winter_017_002",
     "motion": "w-kanade-nod02",
     "expression": "face_normal_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14451,8 +14996,8 @@
     "voice": "system_winter_017_003",
     "motion": "w-kanade-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14464,8 +15009,8 @@
     "voice": "system_winter_018_001",
     "motion": "w-cool-nod02",
     "expression": "face_normal_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14477,8 +15022,8 @@
     "voice": "system_winter_018_002",
     "motion": "w-cool-tilthead03",
     "expression": "face_normal_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14490,8 +15035,8 @@
     "voice": "system_winter_018_003",
     "motion": "w-cool-tilthead04",
     "expression": "face_normal_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14503,8 +15048,8 @@
     "voice": "system_winter_019_001",
     "motion": "w-cute-glad01",
     "expression": "face_smile_04",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14516,8 +15061,8 @@
     "voice": "system_winter_019_002",
     "motion": "w-cute-tilthead08",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14529,8 +15074,8 @@
     "voice": "system_winter_019_003",
     "motion": "w-cute-tilthead05",
     "expression": "face_trouble_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14542,8 +15087,8 @@
     "voice": "system_winter_020_001",
     "motion": "w-cute-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14555,8 +15100,8 @@
     "voice": "system_winter_020_002",
     "motion": "w-happy-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14568,8 +15113,8 @@
     "voice": "system_winter_020_003",
     "motion": "w-happy-shakehead01",
     "expression": "face_sad_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14581,8 +15126,8 @@
     "voice": "partvoice_02_021_piapro",
     "motion": "w-normal-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14594,8 +15139,8 @@
     "voice": "partvoice_22_021_piapro",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14607,8 +15152,8 @@
     "voice": "partvoice_20_021_piapro",
     "motion": "w-normal-tilthead04",
     "expression": "face_smile_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14620,8 +15165,8 @@
     "voice": "partvoice_03_021_band",
     "motion": "w-cool-nod01",
     "expression": "face_band_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14633,8 +15178,8 @@
     "voice": "partvoice_02_021_band",
     "motion": "w-cool-nod03",
     "expression": "face_band_smile_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14646,8 +15191,8 @@
     "voice": "partvoice_10_021_band",
     "motion": "w-normal-tilthead06",
     "expression": "face_band_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14659,8 +15204,8 @@
     "voice": "partvoice_01_021_idol",
     "motion": "w-cute-nod05",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14672,8 +15217,8 @@
     "voice": "partvoice_20_021_idol",
     "motion": "w-cute-tilthead07",
     "expression": "face_idol_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14685,8 +15230,8 @@
     "voice": "partvoice_02_021_idol",
     "motion": "w-cute-glad04",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14698,8 +15243,8 @@
     "voice": "partvoice_17_021_street",
     "motion": "w-cool-tilthead03",
     "expression": "face_street_smile_03",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14711,8 +15256,8 @@
     "voice": "partvoice_20_021_street",
     "motion": "w-cool-tilthead01",
     "expression": "face_street_smile_05",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14724,8 +15269,8 @@
     "voice": "partvoice_03_021_street",
     "motion": "w-cool-tilthead04",
     "expression": "face_street_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14737,8 +15282,8 @@
     "voice": "partvoice_10_021_wonder",
     "motion": "w-happy-tilthead03",
     "expression": "face_wonder_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14750,8 +15295,8 @@
     "voice": "partvoice_20_021_wonder",
     "motion": "w-happy-glad01",
     "expression": "face_wonder_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14763,8 +15308,8 @@
     "voice": "partvoice_32_021_wonder",
     "motion": "w-happy-glad02",
     "expression": "face_wonder_kirakira_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14776,8 +15321,8 @@
     "voice": "partvoice_03_021_night",
     "motion": "w-normal-tilthead04",
     "expression": "face_night_normal_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14789,8 +15334,8 @@
     "voice": "partvoice_16_021_night",
     "motion": "w-normal-tilthead01",
     "expression": "face_night_normal_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14802,8 +15347,8 @@
     "voice": "partvoice_10_021_night",
     "motion": "w-normal-tilthead05",
     "expression": "face_night_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14815,8 +15360,8 @@
     "voice": "partvoice_02_022",
     "motion": "w-cool-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14828,8 +15373,8 @@
     "voice": "partvoice_10_022",
     "motion": "w-cute-tilthead08",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14841,8 +15386,8 @@
     "voice": "partvoice_01_022",
     "motion": "w-cute-tilthead07",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14854,8 +15399,8 @@
     "voice": "partvoice_03_023",
     "motion": "n-len-plan01",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14867,8 +15412,8 @@
     "voice": "partvoice_02_023",
     "motion": "n-len-glad01",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14880,8 +15425,8 @@
     "voice": "partvoice_33_023",
     "motion": "n-len-nod04",
     "expression": "face_twinkle_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14893,8 +15438,8 @@
     "voice": "partvoice_08_024",
     "motion": "w-adult-nod03",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14906,8 +15451,8 @@
     "voice": "partvoice_20_024",
     "motion": "w-adult-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14919,8 +15464,8 @@
     "voice": "partvoice_14_024",
     "motion": "w-adult-think01",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14932,8 +15477,8 @@
     "voice": "partvoice_03_025",
     "motion": "w-cool-tilthead01",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14945,8 +15490,8 @@
     "voice": "partvoice_20_025",
     "motion": "w-cool-tilthead03",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14958,8 +15503,8 @@
     "voice": "partvoice_01_025",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14971,8 +15516,8 @@
     "voice": "partvoice_15_026",
     "motion": "m-normal-tilthead01",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14984,8 +15529,8 @@
     "voice": "partvoice_12_026",
     "motion": "m-adult-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -14997,8 +15542,8 @@
     "voice": "partvoice_02_026",
     "motion": "m-normal-tilthead03",
     "expression": "face_smile_02",
-    "publishedAt": 1638252000000,
-    "closedAt": 1646028000000,
+    "publishedAt": 1669788000000,
+    "closedAt": 1677564000000,
     "weight": 1
   },
   {
@@ -15010,8 +15555,8 @@
     "voice": "system_birthday_008_add_001",
     "motion": "w-happy-tilthead04",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15023,8 +15568,8 @@
     "voice": "system_birthday_008_add_002",
     "motion": "w-cute-glad06",
     "expression": "face_smile_01",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15036,8 +15581,8 @@
     "voice": "system_birthday_008_add_003",
     "motion": "w-adult-nod02",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15049,8 +15594,8 @@
     "voice": "system_birthday_008_add_004",
     "motion": "w-cool-sigh02",
     "expression": "face_trouble_02",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15062,8 +15607,8 @@
     "voice": "system_birthday_008_add_005",
     "motion": "w-cute-glad05",
     "expression": "face_sparkling_01",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15075,8 +15620,8 @@
     "voice": "system_birthday_008_add_006",
     "motion": "w-cool-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15088,8 +15633,8 @@
     "voice": "system_birthday_008_add_007",
     "motion": "w-cute-tilthead08",
     "expression": "face_smile_03",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15101,8 +15646,8 @@
     "voice": "system_birthday_008_add_008",
     "motion": "w-adult-relief01",
     "expression": "face_smile_01",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15114,8 +15659,8 @@
     "voice": "system_birthday_008_add_018",
     "motion": "w-cute-nod04",
     "expression": "face_smile_01",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15127,8 +15672,8 @@
     "voice": "system_birthday_008_add_019",
     "motion": "w-cute-shy01",
     "expression": "face_trouble_02",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15140,8 +15685,8 @@
     "voice": "system_birthday_008_add_020",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15153,8 +15698,8 @@
     "voice": "partvoice_07_021_idol",
     "motion": "w-cute-nod02",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1638716400000,
-    "closedAt": 1638802799000,
+    "publishedAt": 1670252400000,
+    "closedAt": 1670338799000,
     "weight": 1
   },
   {
@@ -15166,8 +15711,8 @@
     "voice": "system_anniversary_022_add_001",
     "motion": "w-normal-nod06",
     "expression": "face_smile_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15179,8 +15724,8 @@
     "voice": "system_anniversary_022_add_002",
     "motion": "w-cute-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15192,8 +15737,8 @@
     "voice": "system_anniversary_022_add_003",
     "motion": "w-adult-nod01",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15205,8 +15750,8 @@
     "voice": "system_anniversary_022_add_004",
     "motion": "w-cool-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15218,8 +15763,8 @@
     "voice": "system_anniversary_022_add_005",
     "motion": "w-cute-glad05",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15231,8 +15776,8 @@
     "voice": "system_anniversary_022_add_006",
     "motion": "w-cool-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15244,8 +15789,8 @@
     "voice": "system_anniversary_022_add_007",
     "motion": "w-happy-purpose01",
     "expression": "face_smile_03",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15257,8 +15802,8 @@
     "voice": "system_anniversary_022_add_008",
     "motion": "w-adult-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15270,8 +15815,8 @@
     "voice": "system_anniversary_022_add_009",
     "motion": "w-normal-nod01",
     "expression": "face_smile_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15283,8 +15828,8 @@
     "voice": "system_anniversary_022_add_010",
     "motion": "w-happy-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15296,8 +15841,8 @@
     "voice": "system_anniversary_022_add_011",
     "motion": "m-normal-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15309,8 +15854,8 @@
     "voice": "system_anniversary_022_add_012",
     "motion": "m-adult-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15322,8 +15867,8 @@
     "voice": "system_anniversary_022_add_013",
     "motion": "m-tsukasa-nod03",
     "expression": "face_smile_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15335,8 +15880,8 @@
     "voice": "system_anniversary_022_add_014",
     "motion": "w-happy-wandahoi01",
     "expression": "face_ncsmile_03",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15348,8 +15893,8 @@
     "voice": "system_anniversary_022_add_015",
     "motion": "w-normal-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15361,8 +15906,8 @@
     "voice": "system_anniversary_022_add_016",
     "motion": "m-cool-think01",
     "expression": "face_smile_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15374,8 +15919,8 @@
     "voice": "system_anniversary_022_add_017",
     "motion": "w-kanade-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15387,8 +15932,8 @@
     "voice": "system_anniversary_022_add_018",
     "motion": "w-happy-nod05",
     "expression": "face_normal_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15400,8 +15945,8 @@
     "voice": "system_anniversary_022_add_019",
     "motion": "w-cute-nod05",
     "expression": "face_smile_04",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15413,8 +15958,8 @@
     "voice": "system_anniversary_022_add_020",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15426,8 +15971,8 @@
     "voice": "partvoice_03_021_piapro",
     "motion": "w-normal-glad01",
     "expression": "face_smile_03",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15439,8 +15984,8 @@
     "voice": "partvoice_01_022",
     "motion": "w-cute-glad05",
     "expression": "face_smile_03",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15452,8 +15997,8 @@
     "voice": "partvoice_33_023",
     "motion": "n-len-nod03",
     "expression": "face_closeeye_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15465,8 +16010,8 @@
     "voice": "partvoice_30_024",
     "motion": "w-adult-nod02",
     "expression": "face_smile_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15478,8 +16023,8 @@
     "voice": "partvoice_20_025",
     "motion": "w-happy-nod03",
     "expression": "face_closeeye_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15491,8 +16036,8 @@
     "voice": "partvoice_12_026",
     "motion": "m-cool-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15504,8 +16049,8 @@
     "voice": "partvoice_20_021_band",
     "motion": "w-normal-nod06",
     "expression": "face_band_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15517,8 +16062,8 @@
     "voice": "partvoice_20_021_idol",
     "motion": "w-cute-glad05",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15530,8 +16075,8 @@
     "voice": "partvoice_21_021_street",
     "motion": "w-cool-sigh02",
     "expression": "face_street_smile_04",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15543,8 +16088,8 @@
     "voice": "partvoice_32_021_wonder",
     "motion": "w-cute-glad05",
     "expression": "face_wonder_kirakira_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15556,8 +16101,8 @@
     "voice": "partvoice_03_021_night",
     "motion": "w-normal-nod02",
     "expression": "face_night_normal_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15569,8 +16114,8 @@
     "voice": "system_anniversary_023_add_001",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15582,8 +16127,8 @@
     "voice": "system_anniversary_023_add_002",
     "motion": "w-cute-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15595,8 +16140,8 @@
     "voice": "system_anniversary_023_add_003",
     "motion": "w-adult-nod02",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15608,8 +16153,8 @@
     "voice": "system_anniversary_023_add_004",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15621,8 +16166,8 @@
     "voice": "system_anniversary_023_add_005",
     "motion": "w-normal-glad01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15634,8 +16179,8 @@
     "voice": "system_anniversary_023_add_006",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15647,8 +16192,8 @@
     "voice": "system_anniversary_023_add_007",
     "motion": "w-cute-nod05",
     "expression": "face_smile_03",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15660,8 +16205,8 @@
     "voice": "system_anniversary_023_add_008",
     "motion": "w-adult-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15673,8 +16218,8 @@
     "voice": "system_anniversary_023_add_009",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15686,8 +16231,8 @@
     "voice": "system_anniversary_023_add_010",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15699,8 +16244,8 @@
     "voice": "system_anniversary_023_add_011",
     "motion": "m-cool-disgust01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15712,8 +16257,8 @@
     "voice": "system_anniversary_023_add_012",
     "motion": "m-adult-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15725,8 +16270,8 @@
     "voice": "system_anniversary_023_add_013",
     "motion": "m-tsukasa-plan01",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15738,8 +16283,8 @@
     "voice": "system_anniversary_023_add_014",
     "motion": "w-happy-glad02",
     "expression": "face_smile_04",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15751,8 +16296,8 @@
     "voice": "system_anniversary_023_add_015",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15764,8 +16309,8 @@
     "voice": "system_anniversary_023_add_016",
     "motion": "m-cool-nod01",
     "expression": "face_smug_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15777,8 +16322,8 @@
     "voice": "partvoice_20_021_piapro",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_03",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15790,8 +16335,8 @@
     "voice": "partvoice_20_022",
     "motion": "w-cute-glad06",
     "expression": "face_closeeye_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15803,8 +16348,8 @@
     "voice": "partvoice_07_023",
     "motion": "n-len-smug01",
     "expression": "face_smile_03",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15816,8 +16361,8 @@
     "voice": "partvoice_20_024",
     "motion": "w-adult-tilthead03",
     "expression": "face_smile_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15829,8 +16374,8 @@
     "voice": "partvoice_32_025",
     "motion": "w-cute-nod04",
     "expression": "face_smile_02",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15842,8 +16387,8 @@
     "voice": "partvoice_07_026",
     "motion": "m-tsukasa-nod04",
     "expression": "face_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15855,8 +16400,8 @@
     "voice": "partvoice_20_021_band",
     "motion": "w-cool-tilthead04",
     "expression": "face_band_smile_04",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15868,8 +16413,8 @@
     "voice": "partvoice_07_021_idol",
     "motion": "w-cute-nod02",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15881,8 +16426,8 @@
     "voice": "partvoice_01_021_street",
     "motion": "w-cool-nod01",
     "expression": "face_street_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15894,8 +16439,8 @@
     "voice": "partvoice_01_021_wonder",
     "motion": "w-happy-nod03",
     "expression": "face_wonder_smile_01",
-    "publishedAt": 1640530800000,
-    "closedAt": 1640617199000,
+    "publishedAt": 1672066800000,
+    "closedAt": 1672153199000,
     "weight": 1
   },
   {
@@ -15907,8 +16452,8 @@
     "voice": "system_holiday_001_008_002",
     "motion": "w-normal-tilthead01",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -15920,8 +16465,8 @@
     "voice": "system_holiday_002_008_002",
     "motion": "w-cute-glad05",
     "expression": "face_smile_05",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -15933,8 +16478,8 @@
     "voice": "system_holiday_003_008_002",
     "motion": "w-adult-tilthead03",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -15946,8 +16491,8 @@
     "voice": "system_holiday_004_008_002",
     "motion": "w-cool-trouble01",
     "expression": "face_lookdown_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -15959,8 +16504,8 @@
     "voice": "system_holiday_005_008_002",
     "motion": "w-normal-nod06",
     "expression": "face_smile_02",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -15972,8 +16517,8 @@
     "voice": "system_holiday_006_008_002",
     "motion": "w-happy-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -15985,8 +16530,8 @@
     "voice": "system_holiday_007_008_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_03",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -15998,8 +16543,8 @@
     "voice": "system_holiday_008_008_002",
     "motion": "w-adult-nod02",
     "expression": "face_smile_02",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16011,8 +16556,8 @@
     "voice": "system_holiday_009_008_002",
     "motion": "w-normal-nod06",
     "expression": "face_smile_04",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16024,8 +16569,8 @@
     "voice": "system_holiday_010_008_002",
     "motion": "w-cool-glad01",
     "expression": "face_smile_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16037,8 +16582,8 @@
     "voice": "system_holiday_011_008_002",
     "motion": "m-cool-nod01",
     "expression": "face_smile_03",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16050,8 +16595,8 @@
     "voice": "system_holiday_012_008_002",
     "motion": "m-adult-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16063,8 +16608,8 @@
     "voice": "system_holiday_013_008_002",
     "motion": "m-tsukasa-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16076,8 +16621,8 @@
     "voice": "system_holiday_014_008_002",
     "motion": "w-happy-glad02",
     "expression": "face_smile_02",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16089,8 +16634,8 @@
     "voice": "system_holiday_015_008_002",
     "motion": "w-normal-relief01",
     "expression": "face_smile_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16102,8 +16647,8 @@
     "voice": "system_holiday_016_008_002",
     "motion": "m-cool-nod01",
     "expression": "face_smug_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16115,8 +16660,8 @@
     "voice": "system_holiday_017_008_002",
     "motion": "w-normal-tilthead05",
     "expression": "face_surprise_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16128,8 +16673,8 @@
     "voice": "system_holiday_018_008_002",
     "motion": "w-happy-sad02",
     "expression": "face_normal_02",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16141,8 +16686,8 @@
     "voice": "system_holiday_019_008_002",
     "motion": "w-cute-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16154,8 +16699,8 @@
     "voice": "system_holiday_020_008_002",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16167,8 +16712,8 @@
     "voice": "partvoice_20_021_piapro",
     "motion": "w-normal-nod06",
     "expression": "face_smile_03",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16180,8 +16725,8 @@
     "voice": "partvoice_22_022",
     "motion": "w-cute-nod02",
     "expression": "face_smile_03",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16193,8 +16738,8 @@
     "voice": "partvoice_18_023",
     "motion": "n-len-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16206,8 +16751,8 @@
     "voice": "partvoice_23_024",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16219,8 +16764,8 @@
     "voice": "partvoice_20_025",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_02",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16232,8 +16777,8 @@
     "voice": "partvoice_10_026",
     "motion": "m-cool-think02",
     "expression": "face_smile_04",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16245,8 +16790,8 @@
     "voice": "partvoice_10_021_band",
     "motion": "w-cool-tilthead03",
     "expression": "face_band_smile_05",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16258,8 +16803,8 @@
     "voice": "partvoice_02_021_idol",
     "motion": "w-cute-glad05",
     "expression": "face_idol_sparkling_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16271,8 +16816,8 @@
     "voice": "partvoice_03_021_street",
     "motion": "w-cute-nod05",
     "expression": "face_street_smile_03",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16284,8 +16829,8 @@
     "voice": "partvoice_07_021_wonder",
     "motion": "w-cute-glad05",
     "expression": "face_wonder_kirakira_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16297,8 +16842,8 @@
     "voice": "partvoice_10_021_night",
     "motion": "w-normal-tilthead02",
     "expression": "face_night_normal_01",
-    "publishedAt": 1640358000000,
-    "closedAt": 1640444399000,
+    "publishedAt": 1671894000000,
+    "closedAt": 1671980399000,
     "weight": 1
   },
   {
@@ -16310,8 +16855,8 @@
     "voice": "system_holiday_001_009_002",
     "motion": "w-normal-glad01",
     "expression": "face_smile_02",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16323,8 +16868,8 @@
     "voice": "system_holiday_002_009_002",
     "motion": "w-cute-tilthead08",
     "expression": "face_ncsmile_04",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16336,8 +16881,8 @@
     "voice": "system_holiday_003_009_002",
     "motion": "w-adult-nod01",
     "expression": "face_smile_05",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16349,8 +16894,8 @@
     "voice": "system_holiday_004_009_002",
     "motion": "w-cute-nod05",
     "expression": "face_smile_07",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16362,8 +16907,8 @@
     "voice": "system_holiday_005_009_002",
     "motion": "w-cute-glad05",
     "expression": "face_sparkling_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16375,8 +16920,8 @@
     "voice": "system_holiday_006_009_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16388,8 +16933,8 @@
     "voice": "system_holiday_007_009_002",
     "motion": "w-cool-nod03",
     "expression": "face_smile_03",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16401,8 +16946,8 @@
     "voice": "system_holiday_008_009_002",
     "motion": "w-adult-think02",
     "expression": "face_smile_02",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16414,8 +16959,8 @@
     "voice": "system_holiday_009_009_002",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16427,8 +16972,8 @@
     "voice": "system_holiday_010_009_002",
     "motion": "w-happy-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16440,8 +16985,8 @@
     "voice": "system_holiday_011_009_002",
     "motion": "m-cool-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16453,8 +16998,8 @@
     "voice": "system_holiday_012_009_002",
     "motion": "m-adult-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16466,8 +17011,8 @@
     "voice": "system_holiday_013_009_002",
     "motion": "m-tsukasa-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16479,8 +17024,8 @@
     "voice": "system_holiday_014_009_002",
     "motion": "w-cute-glad05",
     "expression": "face_ncsmile_03",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16492,8 +17037,8 @@
     "voice": "system_holiday_015_009_002",
     "motion": "w-normal-tilthead01",
     "expression": "face_smile_09",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16505,8 +17050,8 @@
     "voice": "system_holiday_016_009_002",
     "motion": "m-normal-nod04",
     "expression": "face_smile_08",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16518,8 +17063,8 @@
     "voice": "system_holiday_017_009_002",
     "motion": "w-kanade-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16531,8 +17076,8 @@
     "voice": "system_holiday_018_009_002",
     "motion": "w-happy-tilthead04",
     "expression": "face_lookaway_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16544,8 +17089,8 @@
     "voice": "system_holiday_019_009_002",
     "motion": "w-normal-sigh01",
     "expression": "face_trouble_02",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16557,8 +17102,8 @@
     "voice": "system_holiday_020_009_002",
     "motion": "w-normal-trouble01",
     "expression": "face_sad_05",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16570,8 +17115,8 @@
     "voice": "partvoice_01_021_piapro",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_03",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16583,8 +17128,8 @@
     "voice": "partvoice_20_022",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_02",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16596,8 +17141,8 @@
     "voice": "partvoice_20_023",
     "motion": "n-len-tilthead01",
     "expression": "face_smile_02",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16609,8 +17154,8 @@
     "voice": "partvoice_29_024",
     "motion": "w-adult-tilthead03",
     "expression": "face_smile_04",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16622,8 +17167,8 @@
     "voice": "partvoice_01_025",
     "motion": "w-cool-tilthead02",
     "expression": "face_smile_04",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16635,8 +17180,8 @@
     "voice": "partvoice_20_026",
     "motion": "m-adult-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16648,8 +17193,8 @@
     "voice": "partvoice_20_021_band",
     "motion": "w-cool-nod02",
     "expression": "face_band_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16661,8 +17206,8 @@
     "voice": "partvoice_07_021_idol",
     "motion": "w-cute-glad05",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16674,8 +17219,8 @@
     "voice": "partvoice_20_021_street",
     "motion": "w-cool-nod01",
     "expression": "face_street_smile_02",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16687,8 +17232,8 @@
     "voice": "partvoice_07_021_wonder",
     "motion": "w-cute-glad05",
     "expression": "face_wonder_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16700,8 +17245,8 @@
     "voice": "partvoice_20_021_night",
     "motion": "w-normal-nod05",
     "expression": "face_night_smile_01",
-    "publishedAt": 1640790000000,
-    "closedAt": 1640962799000,
+    "publishedAt": 1672326000000,
+    "closedAt": 1672498799000,
     "weight": 1
   },
   {
@@ -16713,8 +17258,8 @@
     "voice": "system_holiday_001_001_002",
     "motion": "w-cute-nod05",
     "expression": "face_smile_02",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16726,8 +17271,8 @@
     "voice": "system_holiday_002_001_002",
     "motion": "w-cute-tilthead03",
     "expression": "face_ worry_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16739,8 +17284,8 @@
     "voice": "system_holiday_003_001_002",
     "motion": "w-normal-nod06",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16752,8 +17297,8 @@
     "voice": "system_holiday_004_001_002",
     "motion": "w-cool-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16765,8 +17310,8 @@
     "voice": "system_holiday_005_001_002",
     "motion": "w-cute-tilthead03",
     "expression": "face_sparkling_03",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16778,8 +17323,8 @@
     "voice": "system_holiday_006_001_002",
     "motion": "w-normal-trouble02",
     "expression": "face_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16791,8 +17336,8 @@
     "voice": "system_holiday_007_001_002",
     "motion": "w-cute-tilthead05",
     "expression": "face_smile_09",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16804,8 +17349,8 @@
     "voice": "system_holiday_008_001_002",
     "motion": "w-adult-relief01",
     "expression": "face_smile_04",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16817,8 +17362,8 @@
     "voice": "system_holiday_009_001_002",
     "motion": "w-animal-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16830,8 +17375,8 @@
     "voice": "system_holiday_010_001_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_02",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16843,8 +17388,8 @@
     "voice": "system_holiday_011_001_002",
     "motion": "m-tsukasa-tilthead01",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16856,8 +17401,8 @@
     "voice": "system_holiday_012_001_002",
     "motion": "m-normal-nod04",
     "expression": "face_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16869,8 +17414,8 @@
     "voice": "system_holiday_013_001_002",
     "motion": "m-tsukasa-nod01",
     "expression": "face_serious_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16882,8 +17427,8 @@
     "voice": "system_holiday_014_001_002",
     "motion": "w-happy-wandahoi01",
     "expression": "face_sparkling_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16895,8 +17440,8 @@
     "voice": "system_holiday_015_001_002",
     "motion": "w-normal-sigh01",
     "expression": "face_smile_07",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16908,8 +17453,8 @@
     "voice": "system_holiday_016_001_002",
     "motion": "m-cool-nod01",
     "expression": "face_smile_03",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16921,8 +17466,8 @@
     "voice": "system_holiday_017_001_002",
     "motion": "w-normal-tilthead01",
     "expression": "face_smile_04",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16934,8 +17479,8 @@
     "voice": "system_holiday_018_001_002",
     "motion": "w-normal-tilthead05",
     "expression": "face_normal_02",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16947,8 +17492,8 @@
     "voice": "system_holiday_019_001_002",
     "motion": "w-cute-nod04",
     "expression": "face_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16960,8 +17505,8 @@
     "voice": "system_holiday_020_001_002",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16973,8 +17518,8 @@
     "voice": "partvoice_12_021_piapro",
     "motion": "w-normal-nod06",
     "expression": "face_smile_02",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16986,8 +17531,8 @@
     "voice": "partvoice_13_022",
     "motion": "w-cute-glad05",
     "expression": "face_smile_02",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -16999,8 +17544,8 @@
     "voice": "partvoice_01_023",
     "motion": "n-normal-tilthead01",
     "expression": "face_smile_02",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -17012,8 +17557,8 @@
     "voice": "partvoice_03_024",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -17025,8 +17570,8 @@
     "voice": "partvoice_07_025",
     "motion": "w-cute-nod04",
     "expression": "face_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -17038,8 +17583,8 @@
     "voice": "partvoice_01_026",
     "motion": "m-cool-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -17051,8 +17596,8 @@
     "voice": "partvoice_20_021_band",
     "motion": "w-cool-tilthead04",
     "expression": "face_band_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -17064,8 +17609,8 @@
     "voice": "partvoice_01_021_idol",
     "motion": "w-cute-nod02",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -17077,8 +17622,8 @@
     "voice": "partvoice_20_021_street",
     "motion": "w-cute-tilthead08",
     "expression": "face_street_smile_02",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -17090,8 +17635,8 @@
     "voice": "partvoice_22_021_wonder",
     "motion": "w-happy-forward02",
     "expression": "face_wonder_doya_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -17103,8 +17648,8 @@
     "voice": "partvoice_23_021_night",
     "motion": "w-normal-nod01",
     "expression": "face_night_smile_01",
-    "publishedAt": 1640962800000,
-    "closedAt": 1641221999000,
+    "publishedAt": 1672498800000,
+    "closedAt": 1672757999000,
     "weight": 1
   },
   {
@@ -17116,8 +17661,8 @@
     "voice": "system_birthday_004_add_001",
     "motion": "w-normal-nod06",
     "expression": "face_smile_02",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17129,8 +17674,8 @@
     "voice": "system_birthday_004_add_002",
     "motion": "w-cute-glad04",
     "expression": "face_ncsmile_04",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17142,8 +17687,8 @@
     "voice": "system_birthday_004_add_003",
     "motion": "w-adult-tilthead05",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17155,8 +17700,8 @@
     "voice": "system_birthday_004_add_004",
     "motion": "w-cool-sigh02",
     "expression": "face_smile_05",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17168,8 +17713,8 @@
     "voice": "system_birthday_004_add_005",
     "motion": "w-cute-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17181,8 +17726,8 @@
     "voice": "system_birthday_004_add_006",
     "motion": "w-cute-tilthead08",
     "expression": "face_smile_01",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17194,8 +17739,8 @@
     "voice": "system_birthday_004_add_007",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_04",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17207,8 +17752,8 @@
     "voice": "system_birthday_004_add_008",
     "motion": "w-cute-nod02",
     "expression": "face_sparkling_01",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17220,8 +17765,8 @@
     "voice": "system_birthday_004_add_009",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17233,8 +17778,8 @@
     "voice": "system_birthday_004_add_013_b",
     "motion": "m-tsukasa-nod04",
     "expression": "face_smile_01",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17246,8 +17791,8 @@
     "voice": "system_birthday_004_add_014",
     "motion": "w-happy-glad02",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17259,8 +17804,8 @@
     "voice": "partvoice_12_021_band",
     "motion": "w-normal-nod06",
     "expression": "face_band_smile_01",
-    "publishedAt": 1641567600000,
-    "closedAt": 1641653999000,
+    "publishedAt": 1673103600000,
+    "closedAt": 1673189999000,
     "weight": 1
   },
   {
@@ -17272,8 +17817,8 @@
     "voice": "system_birthday_018_add_001",
     "motion": "w-normal-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1643209200000,
-    "closedAt": 1643295599000,
+    "publishedAt": 1674745200000,
+    "closedAt": 1674831599000,
     "weight": 1
   },
   {
@@ -17285,8 +17830,8 @@
     "voice": "system_birthday_018_add_003",
     "motion": "w-adult-tilthead03",
     "expression": "face_smile_05",
-    "publishedAt": 1643209200000,
-    "closedAt": 1643295599000,
+    "publishedAt": 1674745200000,
+    "closedAt": 1674831599000,
     "weight": 1
   },
   {
@@ -17298,8 +17843,8 @@
     "voice": "system_birthday_018_add_008",
     "motion": "w-adult-nod02",
     "expression": "face_smile_04",
-    "publishedAt": 1643209200000,
-    "closedAt": 1643295599000,
+    "publishedAt": 1674745200000,
+    "closedAt": 1674831599000,
     "weight": 1
   },
   {
@@ -17311,8 +17856,8 @@
     "voice": "system_birthday_018_add_014",
     "motion": "w-happy-glad02",
     "expression": "face_smile_04",
-    "publishedAt": 1643209200000,
-    "closedAt": 1643295599000,
+    "publishedAt": 1674745200000,
+    "closedAt": 1674831599000,
     "weight": 1
   },
   {
@@ -17324,8 +17869,8 @@
     "voice": "system_birthday_018_add_017",
     "motion": "w-kanade-sad02",
     "expression": "face_smile_02",
-    "publishedAt": 1643209200000,
-    "closedAt": 1643295599000,
+    "publishedAt": 1674745200000,
+    "closedAt": 1674831599000,
     "weight": 1
   },
   {
@@ -17337,8 +17882,8 @@
     "voice": "system_birthday_018_add_018",
     "motion": "w-normal-sad01",
     "expression": "face_normal_01",
-    "publishedAt": 1643209200000,
-    "closedAt": 1643295599000,
+    "publishedAt": 1674745200000,
+    "closedAt": 1674831599000,
     "weight": 1
   },
   {
@@ -17350,8 +17895,8 @@
     "voice": "system_birthday_018_add_019",
     "motion": "w-cute-nod05",
     "expression": "face_trouble_02",
-    "publishedAt": 1643209200000,
-    "closedAt": 1643295599000,
+    "publishedAt": 1674745200000,
+    "closedAt": 1674831599000,
     "weight": 1
   },
   {
@@ -17363,8 +17908,8 @@
     "voice": "system_birthday_018_add_020",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1643209200000,
-    "closedAt": 1643295599000,
+    "publishedAt": 1674745200000,
+    "closedAt": 1674831599000,
     "weight": 1
   },
   {
@@ -17376,8 +17921,8 @@
     "voice": "partvoice_04_021_night",
     "motion": "w-normal-nod05",
     "expression": "face_night_normal_01",
-    "publishedAt": 1643209200000,
-    "closedAt": 1643295599000,
+    "publishedAt": 1674745200000,
+    "closedAt": 1674831599000,
     "weight": 1
   },
   {
@@ -17389,8 +17934,8 @@
     "voice": "system_birthday_024_add_001",
     "motion": "w-normal-nod01",
     "expression": "face_smile_02",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17402,8 +17947,8 @@
     "voice": "system_birthday_024_add_002",
     "motion": "w-animal-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17415,8 +17960,8 @@
     "voice": "system_birthday_024_add_003",
     "motion": "w-adult-tilthead03",
     "expression": "face_smile_02",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17428,8 +17973,8 @@
     "voice": "system_birthday_024_add_004",
     "motion": "w-cool-nod01",
     "expression": "face_smile_07",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17441,8 +17986,8 @@
     "voice": "system_birthday_024_add_005",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17454,8 +17999,8 @@
     "voice": "system_birthday_024_add_006",
     "motion": "w-cool-tilthead04",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17467,8 +18012,8 @@
     "voice": "system_birthday_024_add_007",
     "motion": "w-happy-glad02",
     "expression": "face_smile_03",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17480,8 +18025,8 @@
     "voice": "system_birthday_024_add_008",
     "motion": "w-adult-nod01",
     "expression": "face_smile_04",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17493,8 +18038,8 @@
     "voice": "system_birthday_024_add_009",
     "motion": "w-cute-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17506,8 +18051,8 @@
     "voice": "system_birthday_024_add_010",
     "motion": "w-cool-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17519,8 +18064,8 @@
     "voice": "system_birthday_024_add_011",
     "motion": "m-cool-tilthead04",
     "expression": "face_trouble_04",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17532,8 +18077,8 @@
     "voice": "system_birthday_024_add_012",
     "motion": "m-adult-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17545,8 +18090,8 @@
     "voice": "system_birthday_024_add_013",
     "motion": "m-tsukasa-nod03",
     "expression": "face_smile_02",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17558,8 +18103,8 @@
     "voice": "system_birthday_024_add_014",
     "motion": "w-cute-tilthead07",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17571,8 +18116,8 @@
     "voice": "system_birthday_024_add_015",
     "motion": "w-normal-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17584,8 +18129,8 @@
     "voice": "system_birthday_024_add_016",
     "motion": "m-cool-tilthead03",
     "expression": "face_smile_03",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17597,8 +18142,8 @@
     "voice": "system_birthday_024_add_017",
     "motion": "w-normal-tilthead05",
     "expression": "face_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17610,8 +18155,8 @@
     "voice": "system_birthday_024_add_018",
     "motion": "w-happy-tilthead04",
     "expression": "face_normal_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17623,8 +18168,8 @@
     "voice": "system_birthday_024_add_019",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_04",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17636,8 +18181,8 @@
     "voice": "system_birthday_024_add_020",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17649,8 +18194,8 @@
     "voice": "partvoice_23_021_piapro",
     "motion": "w-normal-glad02",
     "expression": "face_smile_02",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17662,8 +18207,8 @@
     "voice": "partvoice_07_022",
     "motion": "w-cute-glad03",
     "expression": "face_smile_03",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17675,8 +18220,8 @@
     "voice": "partvoice_20_023",
     "motion": "n-cool-nod01",
     "expression": "face_smile_03",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17688,8 +18233,8 @@
     "voice": "partvoice_05_024",
     "motion": "w-adult-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17701,8 +18246,8 @@
     "voice": "partvoice_31_025",
     "motion": "w-happy-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17714,8 +18259,8 @@
     "voice": "partvoice_12_026",
     "motion": "m-adult-nod03",
     "expression": "face_smile_03",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17727,8 +18272,8 @@
     "voice": "partvoice_05_021_band",
     "motion": "w-normal-nod06",
     "expression": "face_band_smile_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17740,8 +18285,8 @@
     "voice": "partvoice_07_021_idol",
     "motion": "w-cute-glad05",
     "expression": "face_idol_smile_03",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17753,8 +18298,8 @@
     "voice": "partvoice_01_021_street",
     "motion": "w-cool-sigh01",
     "expression": "face_street_smile_03",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17766,8 +18311,8 @@
     "voice": "partvoice_01_021_wonder",
     "motion": "w-cute-forward03",
     "expression": "face_wonder_kirakira_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17779,8 +18324,8 @@
     "voice": "partvoice_08_021_night",
     "motion": "w-normal-tilthead02",
     "expression": "face_night_normal_01",
-    "publishedAt": 1643468400000,
-    "closedAt": 1643554799000,
+    "publishedAt": 1675004400000,
+    "closedAt": 1675090799000,
     "weight": 1
   },
   {
@@ -17792,8 +18337,8 @@
     "voice": "system_holiday_001_002_002",
     "motion": "w-normal-nod06",
     "expression": "face_smile_02",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17805,8 +18350,8 @@
     "voice": "system_holiday_002_002_002",
     "motion": "w-cute-nod02",
     "expression": "face_sparkling_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17818,8 +18363,8 @@
     "voice": "system_holiday_003_002_002",
     "motion": "w-adult-delicious03",
     "expression": "face_angry_02",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17831,8 +18376,8 @@
     "voice": "system_holiday_004_002_002",
     "motion": "w-cool-nod03",
     "expression": "face_smile_05",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17844,8 +18389,8 @@
     "voice": "system_holiday_005_002_002",
     "motion": "w-happy-glad02",
     "expression": "face_serious_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17857,8 +18402,8 @@
     "voice": "system_holiday_006_002_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17870,8 +18415,8 @@
     "voice": "system_holiday_007_002_002",
     "motion": "w-happy-angry02",
     "expression": "face_angry_06",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17883,8 +18428,8 @@
     "voice": "system_holiday_008_002_002",
     "motion": "w-adult-nod01",
     "expression": "face_smile_04",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17896,8 +18441,8 @@
     "voice": "system_holiday_009_002_002",
     "motion": "w-animal-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17909,8 +18454,8 @@
     "voice": "system_holiday_010_002_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_shy_02",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17922,8 +18467,8 @@
     "voice": "system_holiday_011_002_002",
     "motion": "m-cool-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17935,8 +18480,8 @@
     "voice": "system_holiday_012_002_002",
     "motion": "m-adult-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17948,8 +18493,8 @@
     "voice": "system_holiday_013_002_002",
     "motion": "m-tsukasa-smug01",
     "expression": "face_angry_03",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17961,8 +18506,8 @@
     "voice": "system_holiday_014_002_002",
     "motion": "w-happy-glad02",
     "expression": "face_smile_02",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17974,8 +18519,8 @@
     "voice": "system_holiday_015_002_002",
     "motion": "w-cute-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -17987,8 +18532,8 @@
     "voice": "system_holiday_016_002_002",
     "motion": "m-tsukasa-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18000,8 +18545,8 @@
     "voice": "system_holiday_017_002_002",
     "motion": "w-kanade-nod01",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18013,8 +18558,8 @@
     "voice": "system_holiday_018_002_002",
     "motion": "w-normal-tilthead02",
     "expression": "face_normal_02",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18026,8 +18571,8 @@
     "voice": "system_holiday_019_002_002",
     "motion": "w-cute-angry01",
     "expression": "face_angry_02",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18039,8 +18584,8 @@
     "voice": "system_holiday_020_002_002",
     "motion": "w-cool-tilthead03",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18052,8 +18597,8 @@
     "voice": "partvoice_01_021_piapro",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_04",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18065,8 +18610,8 @@
     "voice": "partvoice_07_022",
     "motion": "w-cute-glad04",
     "expression": "face_smile_05",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18078,8 +18623,8 @@
     "voice": "partvoice_10_023",
     "motion": "n-len-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18091,8 +18636,8 @@
     "voice": "partvoice_01_024",
     "motion": "w-adult-think02",
     "expression": "face_smile_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18104,8 +18649,8 @@
     "voice": "partvoice_17_025",
     "motion": "w-cool-sigh01",
     "expression": "face_trouble_02",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18117,8 +18662,8 @@
     "voice": "partvoice_14_026",
     "motion": "m-cool-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18130,8 +18675,8 @@
     "voice": "partvoice_26_021_band",
     "motion": "w-cool-tilthead04",
     "expression": "face_band_smallmouth_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18143,8 +18688,8 @@
     "voice": "partvoice_07_021_idol",
     "motion": "w-cute-glad05",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18156,8 +18701,8 @@
     "voice": "partvoice_01_021_street",
     "motion": "w-cool-trouble01",
     "expression": "face_street_smile_05",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18169,8 +18714,8 @@
     "voice": "partvoice_30_021_wonder",
     "motion": "w-cute-glad05",
     "expression": "face_wonder_kirakira_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18182,8 +18727,8 @@
     "voice": "partvoice_02_021_night",
     "motion": "w-normal-nod01",
     "expression": "face_night_normal_01",
-    "publishedAt": 1643814000000,
-    "closedAt": 1643900399000,
+    "publishedAt": 1675350000000,
+    "closedAt": 1675436399000,
     "weight": 1
   },
   {
@@ -18195,8 +18740,8 @@
     "voice": "system_birthday_017_add_001",
     "motion": "w-adult-think01",
     "expression": "face_smile_01",
-    "publishedAt": 1644418800000,
-    "closedAt": 1644505199000,
+    "publishedAt": 1675954800000,
+    "closedAt": 1676041199000,
     "weight": 1
   },
   {
@@ -18208,8 +18753,8 @@
     "voice": "system_birthday_017_add_003b",
     "motion": "w-adult-glad01",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1644418800000,
-    "closedAt": 1644505199000,
+    "publishedAt": 1675954800000,
+    "closedAt": 1676041199000,
     "weight": 1
   },
   {
@@ -18221,8 +18766,8 @@
     "voice": "system_birthday_017_add_017",
     "motion": "w-normal-nod01",
     "expression": "face_smile_04",
-    "publishedAt": 1644418800000,
-    "closedAt": 1644505199000,
+    "publishedAt": 1675954800000,
+    "closedAt": 1676041199000,
     "weight": 1
   },
   {
@@ -18234,8 +18779,8 @@
     "voice": "system_birthday_017_add_018",
     "motion": "w-happy-nod05",
     "expression": "face_normal_01",
-    "publishedAt": 1644418800000,
-    "closedAt": 1644505199000,
+    "publishedAt": 1675954800000,
+    "closedAt": 1676041199000,
     "weight": 1
   },
   {
@@ -18247,8 +18792,8 @@
     "voice": "system_birthday_017_add_019",
     "motion": "w-cute-nod04",
     "expression": "face_smile_01",
-    "publishedAt": 1644418800000,
-    "closedAt": 1644505199000,
+    "publishedAt": 1675954800000,
+    "closedAt": 1676041199000,
     "weight": 1
   },
   {
@@ -18260,8 +18805,8 @@
     "voice": "system_birthday_017_add_020",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_07",
-    "publishedAt": 1644418800000,
-    "closedAt": 1644505199000,
+    "publishedAt": 1675954800000,
+    "closedAt": 1676041199000,
     "weight": 1
   },
   {
@@ -18273,8 +18818,8 @@
     "voice": "partvoice_20_021_night",
     "motion": "w-normal-nod05",
     "expression": "face_night_smile_01",
-    "publishedAt": 1644418800000,
-    "closedAt": 1644505199000,
+    "publishedAt": 1675954800000,
+    "closedAt": 1676041199000,
     "weight": 1
   },
   {
@@ -18286,8 +18831,8 @@
     "voice": "system_holiday_001_003_002",
     "motion": "w-adult-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18299,8 +18844,8 @@
     "voice": "system_holiday_002_003_002",
     "motion": "w-cute-glad05",
     "expression": "face_ncsmile_04",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18312,8 +18857,8 @@
     "voice": "system_holiday_003_003_002",
     "motion": "w-adult-blushed02",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18325,8 +18870,8 @@
     "voice": "system_holiday_004_003_002",
     "motion": "w-cool-nod03",
     "expression": "face_smile_02",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18338,8 +18883,8 @@
     "voice": "system_holiday_005_003_002",
     "motion": "w-cute-tilthead07",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18351,8 +18896,8 @@
     "voice": "system_holiday_006_003_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_06",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18364,8 +18909,8 @@
     "voice": "system_holiday_007_003_002",
     "motion": "w-happy-glad02",
     "expression": "face_smile_02",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18377,8 +18922,8 @@
     "voice": "system_holiday_008_003_002",
     "motion": "w-adult-nod05",
     "expression": "face_smile_02",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18390,8 +18935,8 @@
     "voice": "system_holiday_009_003_002",
     "motion": "w-cute-nod04",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18403,8 +18948,8 @@
     "voice": "system_holiday_010_003_002",
     "motion": "w-happy-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18416,8 +18961,8 @@
     "voice": "system_holiday_011_003_002",
     "motion": "m-cool-disgust01",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18429,8 +18974,8 @@
     "voice": "system_holiday_012_003_002",
     "motion": "m-adult-tilthead02",
     "expression": "face_trouble_04",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18442,8 +18987,8 @@
     "voice": "system_holiday_013_003_002",
     "motion": "m-tsukasa-plan01",
     "expression": "face_smile_04",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18455,8 +19000,8 @@
     "voice": "system_holiday_014_003_002",
     "motion": "w-cute-tilthead07",
     "expression": "face_ncsmile_03",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18468,8 +19013,8 @@
     "voice": "system_holiday_015_003_002",
     "motion": "w-adult-tilthead02",
     "expression": "face_shy_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18481,8 +19026,8 @@
     "voice": "system_holiday_016_003_002",
     "motion": "m-adult-tilthead02",
     "expression": "face_smile_07",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18494,8 +19039,8 @@
     "voice": "system_holiday_017_003_002",
     "motion": "w-normal-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18507,8 +19052,8 @@
     "voice": "system_holiday_018_003_002",
     "motion": "w-happy-sad02",
     "expression": "face_normal_02",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18520,8 +19065,8 @@
     "voice": "system_holiday_019_003_002",
     "motion": "w-cute-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18533,8 +19078,8 @@
     "voice": "system_holiday_020_003_002",
     "motion": "w-happy-sigh01",
     "expression": "face_smile_06",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18546,8 +19091,8 @@
     "voice": "partvoice_01_021_piapro",
     "motion": "w-animal-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18559,8 +19104,8 @@
     "voice": "partvoice_07_022",
     "motion": "w-cute-glad06",
     "expression": "face_smile_03",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18572,8 +19117,8 @@
     "voice": "partvoice_10_023",
     "motion": "n-len-tilthead03",
     "expression": "face_smile_04",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18585,8 +19130,8 @@
     "voice": "partvoice_29_024",
     "motion": "w-adult-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18598,8 +19143,8 @@
     "voice": "partvoice_14_025",
     "motion": "w-cool-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18611,8 +19156,8 @@
     "voice": "partvoice_33_026",
     "motion": "m-adult-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18624,8 +19169,8 @@
     "voice": "partvoice_20_021_band",
     "motion": "w-normal-nod06",
     "expression": "face_band_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18637,8 +19182,8 @@
     "voice": "partvoice_01_021_idol",
     "motion": "w-cute-glad05",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18650,8 +19195,8 @@
     "voice": "partvoice_03_021_street",
     "motion": "w-cool-nod03",
     "expression": "face_street_smile_03",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18663,8 +19208,8 @@
     "voice": "partvoice_32_021_wonder",
     "motion": "w-happy-forward02",
     "expression": "face_wonder_closeeye_02",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18676,8 +19221,8 @@
     "voice": "partvoice_02_021_night",
     "motion": "w-normal-tilthead03",
     "expression": "face_night_smile_01",
-    "publishedAt": 1644764400000,
-    "closedAt": 1644850799000,
+    "publishedAt": 1676300400000,
+    "closedAt": 1676386799000,
     "weight": 1
   },
   {
@@ -18689,8 +19234,8 @@
     "voice": "system_anniversary_026_add_001",
     "motion": "w-normal-nod06",
     "expression": "face_smile_02",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18702,8 +19247,8 @@
     "voice": "system_anniversary_026_add_002",
     "motion": "w-cute-tilthead03",
     "expression": "face_sad_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18715,8 +19260,8 @@
     "voice": "system_anniversary_026_add_003",
     "motion": "w-adult-tilthead03",
     "expression": "face_smile_04",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18728,8 +19273,8 @@
     "voice": "system_anniversary_026_add_004",
     "motion": "w-cool-tilthead04",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18741,8 +19286,8 @@
     "voice": "system_anniversary_026_add_005",
     "motion": "w-animal-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18754,8 +19299,8 @@
     "voice": "system_anniversary_026_add_006",
     "motion": "w-cute-nod05",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18767,8 +19312,8 @@
     "voice": "system_anniversary_026_add_007",
     "motion": "w-happy-angry02",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18780,8 +19325,8 @@
     "voice": "system_anniversary_026_add_008",
     "motion": "w-adult-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18793,8 +19338,8 @@
     "voice": "system_anniversary_026_add_009",
     "motion": "w-normal-nod01r",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18806,8 +19351,8 @@
     "voice": "system_anniversary_026_add_010",
     "motion": "w-cool-glad01",
     "expression": "face_smile_02",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18819,8 +19364,8 @@
     "voice": "system_anniversary_026_add_011",
     "motion": "m-cool-plan01",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18832,8 +19377,8 @@
     "voice": "system_anniversary_026_add_012",
     "motion": "m-adult-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18845,8 +19390,8 @@
     "voice": "system_anniversary_026_add_013",
     "motion": "m-tsukasa-nod04",
     "expression": "face_smile_02",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18858,8 +19403,8 @@
     "voice": "system_anniversary_026_add_014",
     "motion": "w-happy-glad02",
     "expression": "face_ncsmile_03",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18871,8 +19416,8 @@
     "voice": "system_anniversary_026_add_015",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18884,8 +19429,8 @@
     "voice": "system_anniversary_026_add_016",
     "motion": "m-cool-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18897,8 +19442,8 @@
     "voice": "partvoice_30_021_piapro",
     "motion": "w-normal-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18910,8 +19455,8 @@
     "voice": "partvoice_01_022",
     "motion": "w-cute-nod04",
     "expression": "face_smile_02",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18923,8 +19468,8 @@
     "voice": "partvoice_01_023",
     "motion": "n-len-smug01",
     "expression": "face_smile_02",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18936,8 +19481,8 @@
     "voice": "partvoice_20_024",
     "motion": "w-adult-nod02",
     "expression": "face_smile_02",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18949,8 +19494,8 @@
     "voice": "partvoice_07_025",
     "motion": "w-cool-glad01",
     "expression": "face_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18962,8 +19507,8 @@
     "voice": "partvoice_05_026",
     "motion": "m-normal-nod01",
     "expression": "face_smile_03",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18975,8 +19520,8 @@
     "voice": "partvoice_21_021_band",
     "motion": "w-cool-trouble01",
     "expression": "face_band_smile_05",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -18988,8 +19533,8 @@
     "voice": "partvoice_07_021_idol",
     "motion": "w-cute-glad06",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -19001,8 +19546,8 @@
     "voice": "partvoice_03_021_street",
     "motion": "w-cool-nod03",
     "expression": "face_street_smile_02",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -19014,8 +19559,8 @@
     "voice": "partvoice_05_021_wonder",
     "motion": "w-cute-forward02",
     "expression": "face_wonder_kirakira_01",
-    "publishedAt": 1645023600000,
-    "closedAt": 1645109999000,
+    "publishedAt": 1676559600000,
+    "closedAt": 1676645999000,
     "weight": 1
   },
   {
@@ -19027,8 +19572,8 @@
     "voice": "system_birthday_009_add_001",
     "motion": "w-animal-nod02",
     "expression": "face_ncsmile_03",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19040,8 +19585,8 @@
     "voice": "system_birthday_009_add_002",
     "motion": "w-cute-tilthead07",
     "expression": "face_smile_01",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19053,8 +19598,8 @@
     "voice": "system_birthday_009_add_003",
     "motion": "w-adult-nod01",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19066,8 +19611,8 @@
     "voice": "system_birthday_009_add_004",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19079,8 +19624,8 @@
     "voice": "system_birthday_009_add_005",
     "motion": "w-cute-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19092,8 +19637,8 @@
     "voice": "system_birthday_009_add_006",
     "motion": "w-cool-nod01",
     "expression": "face_smile_03",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19105,8 +19650,8 @@
     "voice": "system_birthday_009_add_009",
     "motion": "w-animal-nod01",
     "expression": "face_smile_03",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19118,8 +19663,8 @@
     "voice": "system_birthday_009_add_010",
     "motion": "w-cool-glad01",
     "expression": "face_sparkling_01",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19131,8 +19676,8 @@
     "voice": "system_birthday_009_add_011",
     "motion": "m-cool-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19144,8 +19689,8 @@
     "voice": "system_birthday_009_add_012",
     "motion": "m-adult-nod03",
     "expression": "face_smile_03",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19157,8 +19702,8 @@
     "voice": "system_birthday_009_add_013",
     "motion": "m-tsukasa-nod04",
     "expression": "face_smile_02",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19170,8 +19715,8 @@
     "voice": "system_birthday_009_add_014",
     "motion": "w-happy-wandahoi01",
     "expression": "face_sparkling_01",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19183,8 +19728,8 @@
     "voice": "system_birthday_009_add_015",
     "motion": "w-normal-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19196,8 +19741,8 @@
     "voice": "system_birthday_009_add_016",
     "motion": "m-adult-nod03",
     "expression": "face_closeeye_02",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19209,8 +19754,8 @@
     "voice": "system_birthday_009_add_020",
     "motion": "w-cute-glad06",
     "expression": "face_smile_02",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19222,8 +19767,8 @@
     "voice": "partvoice_01_021_street",
     "motion": "w-cool-nod01",
     "expression": "face_street_closeeye_02",
-    "publishedAt": 1646146800000,
-    "closedAt": 1646233199000,
+    "publishedAt": 1677682800000,
+    "closedAt": 1677769199000,
     "weight": 1
   },
   {
@@ -19235,8 +19780,8 @@
     "voice": "system_holiday_001_004_002",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_02",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19248,8 +19793,8 @@
     "voice": "system_holiday_002_004_002",
     "motion": "w-cute-tilthead03",
     "expression": "face_ncsmile_04",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19261,8 +19806,8 @@
     "voice": "system_holiday_003_004_002",
     "motion": "w-adult-tilthead01",
     "expression": "face_smile_05",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19274,8 +19819,8 @@
     "voice": "system_holiday_004_004_002",
     "motion": "w-cool-tilthead03",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19287,8 +19832,8 @@
     "voice": "system_holiday_005_004_002",
     "motion": "w-cute-tilthead07",
     "expression": "face_hawawa_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19300,8 +19845,8 @@
     "voice": "system_holiday_006_004_002",
     "motion": "w-cool-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19313,8 +19858,8 @@
     "voice": "system_holiday_007_004_002",
     "motion": "w-happy-tilthead02",
     "expression": "face_smile_03",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19326,8 +19871,8 @@
     "voice": "system_holiday_008_004_002",
     "motion": "w-adult-nod03",
     "expression": "face_smile_02",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19339,8 +19884,8 @@
     "voice": "system_holiday_009_004_002",
     "motion": "w-normal-blushed01",
     "expression": "face_shy_02",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19352,8 +19897,8 @@
     "voice": "system_holiday_010_004_002",
     "motion": "w-cool-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19365,8 +19910,8 @@
     "voice": "system_holiday_011_004_002",
     "motion": "m-tsukasa-tilthead01",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19378,8 +19923,8 @@
     "voice": "system_holiday_012_004_002",
     "motion": "m-adult-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19391,8 +19936,8 @@
     "voice": "system_holiday_013_004_002",
     "motion": "m-tsukasa-nod01",
     "expression": "face_smile_02",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19404,8 +19949,8 @@
     "voice": "system_holiday_014_004_002",
     "motion": "w-cute-glad05",
     "expression": "face_sparkling_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19417,8 +19962,8 @@
     "voice": "system_holiday_015_004_002",
     "motion": "w-normal-trouble01",
     "expression": "face_disgust_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19430,8 +19975,8 @@
     "voice": "system_holiday_016_004_002",
     "motion": "m-cool-disgust01",
     "expression": "face_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19443,8 +19988,8 @@
     "voice": "system_holiday_017_004_002",
     "motion": "w-kanade-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19456,8 +20001,8 @@
     "voice": "system_holiday_018_004_002",
     "motion": "w-normal-nod02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19469,8 +20014,8 @@
     "voice": "system_holiday_019_004_002",
     "motion": "w-cute-nod04",
     "expression": "face_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19482,8 +20027,8 @@
     "voice": "system_holiday_020_004_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_06",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19495,8 +20040,8 @@
     "voice": "partvoice_30_021_piapro",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19508,8 +20053,8 @@
     "voice": "partvoice_03_022",
     "motion": "w-cute-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19521,8 +20066,8 @@
     "voice": "partvoice_01_023",
     "motion": "n-normal-nod04",
     "expression": "face_smile_03",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19534,8 +20079,8 @@
     "voice": "partvoice_22_024",
     "motion": "w-adult-tilthead03",
     "expression": "face_smile_02",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19547,8 +20092,8 @@
     "voice": "partvoice_13_025",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19560,8 +20105,8 @@
     "voice": "partvoice_14_026",
     "motion": "m-normal-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19573,8 +20118,8 @@
     "voice": "partvoice_20_021_band",
     "motion": "w-cute-tilthead08",
     "expression": "face_band_smile_02",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19586,8 +20131,8 @@
     "voice": "partvoice_07_021_idol",
     "motion": "w-normal-nod06",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19599,8 +20144,8 @@
     "voice": "partvoice_10_021_street",
     "motion": "w-cool-tilthead02",
     "expression": "face_street_smallmouth_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19612,8 +20157,8 @@
     "voice": "partvoice_32_021_wonder",
     "motion": "w-happy-nod03",
     "expression": "face_wonder_closeeye_02",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19625,8 +20170,8 @@
     "voice": "partvoice_20_021_night",
     "motion": "w-normal-nod05",
     "expression": "face_night_smile_01",
-    "publishedAt": 1646233200000,
-    "closedAt": 1646319599000,
+    "publishedAt": 1677769200000,
+    "closedAt": 1677855599000,
     "weight": 1
   },
   {
@@ -19638,8 +20183,8 @@
     "voice": "system_spring_001_004",
     "motion": "w-cute-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19651,8 +20196,8 @@
     "voice": "system_spring_001_005",
     "motion": "w-normal-nod06",
     "expression": "face_smile_04",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19664,8 +20209,8 @@
     "voice": "system_spring_001_006",
     "motion": "w-cool-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19677,8 +20222,8 @@
     "voice": "system_spring_002_004",
     "motion": "w-cute-tilthead06",
     "expression": "face_ worry_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19690,8 +20235,8 @@
     "voice": "system_spring_002_005",
     "motion": "w-cute-tilthead08",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19703,8 +20248,8 @@
     "voice": "system_spring_002_006",
     "motion": "w-cute-glad06",
     "expression": "face_sparkling_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19716,8 +20261,8 @@
     "voice": "system_spring_003_004",
     "motion": "w-adult-think02",
     "expression": "face_smile_04",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19729,8 +20274,8 @@
     "voice": "system_spring_003_005",
     "motion": "w-adult-tilthead03",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19742,8 +20287,8 @@
     "voice": "system_spring_003_006",
     "motion": "w-adult-nod03",
     "expression": "face_nccloseeye_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19755,8 +20300,8 @@
     "voice": "system_spring_004_004",
     "motion": "w-cool-nod02",
     "expression": "face_smile_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19768,8 +20313,8 @@
     "voice": "system_spring_004_005",
     "motion": "w-cool-nod03",
     "expression": "face_smile_07",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19781,8 +20326,8 @@
     "voice": "system_spring_004_006",
     "motion": "w-cool-tilthead02",
     "expression": "face_smile_05",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19794,8 +20339,8 @@
     "voice": "system_spring_005_004",
     "motion": "w-cute-tilthead04",
     "expression": "face_sleepy_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19807,8 +20352,8 @@
     "voice": "system_spring_005_005",
     "motion": "w-cute-tilthead06",
     "expression": "face_surprise_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19820,8 +20365,8 @@
     "voice": "system_spring_005_006",
     "motion": "w-cute-tilthead03",
     "expression": "face_smile_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19833,8 +20378,8 @@
     "voice": "system_spring_006_004",
     "motion": "w-cool-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19846,8 +20391,8 @@
     "voice": "system_spring_006_005",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_06",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19859,8 +20404,8 @@
     "voice": "system_spring_006_006",
     "motion": "w-cool-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19872,8 +20417,8 @@
     "voice": "system_spring_007_004",
     "motion": "w-cool-tilthead01",
     "expression": "face_smile_09",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19885,8 +20430,8 @@
     "voice": "system_spring_007_005",
     "motion": "w-happy-tilthead01",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19898,8 +20443,8 @@
     "voice": "system_spring_007_006",
     "motion": "w-happy-nod03",
     "expression": "face_smile_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19911,8 +20456,8 @@
     "voice": "system_spring_008_004",
     "motion": "w-adult-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19924,8 +20469,8 @@
     "voice": "system_spring_008_005",
     "motion": "w-adult-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19937,8 +20482,8 @@
     "voice": "system_spring_008_006",
     "motion": "w-adult-trouble01",
     "expression": "face_sad_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19950,8 +20495,8 @@
     "voice": "system_spring_009_004",
     "motion": "w-cute-tilthead03",
     "expression": "face_smile_05",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19963,8 +20508,8 @@
     "voice": "system_spring_009_005",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19976,8 +20521,8 @@
     "voice": "system_spring_009_006",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -19989,8 +20534,8 @@
     "voice": "system_spring_010_004",
     "motion": "w-cute-nod05",
     "expression": "face_smile_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20002,8 +20547,8 @@
     "voice": "system_spring_010_005",
     "motion": "w-cool-nod03",
     "expression": "face_smile_05",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20015,8 +20560,8 @@
     "voice": "system_spring_010_006",
     "motion": "w-cool-tilthead02",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20028,8 +20573,8 @@
     "voice": "system_spring_011_004",
     "motion": "m-tsukasa-lookdown01",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20041,8 +20586,8 @@
     "voice": "system_spring_011_005",
     "motion": "m-cool-tilthead01",
     "expression": "face_normal_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20054,8 +20599,8 @@
     "voice": "system_spring_011_006",
     "motion": "m-cool-disgust01",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20067,8 +20612,8 @@
     "voice": "system_spring_012_004",
     "motion": "m-adult-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20080,8 +20625,8 @@
     "voice": "system_spring_012_005",
     "motion": "m-normal-nod01",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20093,8 +20638,8 @@
     "voice": "system_spring_012_006",
     "motion": "m-normal-tilthead01",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20106,8 +20651,8 @@
     "voice": "system_spring_013_004",
     "motion": "m-cool-nod01",
     "expression": "face_smile_03",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20119,8 +20664,8 @@
     "voice": "system_spring_013_005",
     "motion": "m-tsukasa-nod02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20132,8 +20677,8 @@
     "voice": "system_spring_013_006",
     "motion": "m-tsukasa-angry02",
     "expression": "face_notice_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20145,8 +20690,8 @@
     "voice": "system_spring_014_004",
     "motion": "w-happy-tilthead02",
     "expression": "face_ncsmile_03",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20158,8 +20703,8 @@
     "voice": "system_spring_014_005",
     "motion": "w-happy-forward02",
     "expression": "face_smile_04",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20171,8 +20716,8 @@
     "voice": "system_spring_014_006",
     "motion": "w-happy-nod03",
     "expression": "face_ncsmile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20184,8 +20729,8 @@
     "voice": "system_spring_015_004",
     "motion": "w-normal-relief01",
     "expression": "face_smile_09",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20197,8 +20742,8 @@
     "voice": "system_spring_015_005",
     "motion": "w-normal-tilthead01",
     "expression": "face_sad_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20210,8 +20755,8 @@
     "voice": "system_spring_015_006",
     "motion": "w-cute-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20223,8 +20768,8 @@
     "voice": "system_spring_016_004",
     "motion": "m-tsukasa-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20236,8 +20781,8 @@
     "voice": "system_spring_016_005",
     "motion": "m-cool-nod01",
     "expression": "face_closeeye_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20249,8 +20794,8 @@
     "voice": "system_spring_016_006",
     "motion": "m-tsukasa-tilthead01",
     "expression": "face_smug_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20262,8 +20807,8 @@
     "voice": "system_spring_017_004",
     "motion": "w-kanade-nod01",
     "expression": "face_smile_04",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20275,8 +20820,8 @@
     "voice": "system_spring_017_005",
     "motion": "w-kanade-tilthead02",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20288,8 +20833,8 @@
     "voice": "system_spring_017_006",
     "motion": "w-kanade-sad02",
     "expression": "face_sad_05",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20301,8 +20846,8 @@
     "voice": "system_spring_018_004",
     "motion": "w-normal-tilthead02",
     "expression": "face_normal_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20314,8 +20859,8 @@
     "voice": "system_spring_018_005",
     "motion": "w-normal-nod05",
     "expression": "face_normal_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20327,8 +20872,8 @@
     "voice": "system_spring_018_006",
     "motion": "w-normal-tilthead05",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20340,8 +20885,8 @@
     "voice": "system_spring_019_004",
     "motion": "w-cute-tilthead08",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20353,8 +20898,8 @@
     "voice": "system_spring_019_005",
     "motion": "w-cute-tilthead03",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20366,8 +20911,8 @@
     "voice": "system_spring_019_006",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_04",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20379,8 +20924,8 @@
     "voice": "system_spring_020_004",
     "motion": "w-cute-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20392,8 +20937,8 @@
     "voice": "system_spring_020_005",
     "motion": "w-cute-tilthead03",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20405,8 +20950,8 @@
     "voice": "system_spring_020_006",
     "motion": "w-cute-forward02",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20418,8 +20963,8 @@
     "voice": "partvoice_22_021_piapro",
     "motion": "w-cute-nod02",
     "expression": "face_closeeye_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20431,8 +20976,8 @@
     "voice": "partvoice_02_021_piapro",
     "motion": "w-cute-tilthead03",
     "expression": "face_smile_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20444,8 +20989,8 @@
     "voice": "partvoice_01_021_piapro",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20457,8 +21002,8 @@
     "voice": "partvoice_20_022",
     "motion": "w-normal-glad01",
     "expression": "face_closeeye_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20470,8 +21015,8 @@
     "voice": "partvoice_01_022",
     "motion": "w-cute-tilthead07",
     "expression": "face_smile_03",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20483,8 +21028,8 @@
     "voice": "partvoice_10_022",
     "motion": "w-normal-tilthead06",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20496,8 +21041,8 @@
     "voice": "partvoice_27_023",
     "motion": "n-normal-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20509,8 +21054,8 @@
     "voice": "partvoice_01_023",
     "motion": "n-cool-tilthead03",
     "expression": "face_closeeye_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20522,8 +21067,8 @@
     "voice": "partvoice_20_023",
     "motion": "n-cool-nod02",
     "expression": "face_smile_03",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20535,8 +21080,8 @@
     "voice": "partvoice_02_024",
     "motion": "w-adult-tilthead02",
     "expression": "face_smile_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20548,8 +21093,8 @@
     "voice": "partvoice_20_024",
     "motion": "w-adult-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20561,8 +21106,8 @@
     "voice": "partvoice_03_024",
     "motion": "w-adult-nod03",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20574,8 +21119,8 @@
     "voice": "partvoice_20_025",
     "motion": "w-cool-tilthead03",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20587,8 +21132,8 @@
     "voice": "partvoice_07_025",
     "motion": "w-cool-glad01",
     "expression": "face_closeeye_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20600,8 +21145,8 @@
     "voice": "partvoice_14_025",
     "motion": "w-cool-nod03",
     "expression": "face_smile_04",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20613,8 +21158,8 @@
     "voice": "partvoice_12_026",
     "motion": "m-normal-tilthead01",
     "expression": "face_smile_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20626,8 +21171,8 @@
     "voice": "partvoice_20_026",
     "motion": "m-cool-nod01",
     "expression": "face_closeeye_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20639,8 +21184,8 @@
     "voice": "partvoice_32_026",
     "motion": "m-cool-tilthead01",
     "expression": "face_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20652,8 +21197,8 @@
     "voice": "partvoice_01_021_band",
     "motion": "w-cool-tilthead02",
     "expression": "face_band_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20665,8 +21210,8 @@
     "voice": "partvoice_29_021_band",
     "motion": "w-cool-tilthead03",
     "expression": "face_band_smile_03",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20678,8 +21223,8 @@
     "voice": "partvoice_03_021_band",
     "motion": "w-cool-nod02",
     "expression": "face_band_smile_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20691,8 +21236,8 @@
     "voice": "partvoice_14_021_idol",
     "motion": "w-normal-tilthead06",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20704,8 +21249,8 @@
     "voice": "partvoice_20_021_idol",
     "motion": "w-cute-nod02",
     "expression": "face_idol_smile_03",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20717,8 +21262,8 @@
     "voice": "partvoice_01_021_idol",
     "motion": "w-cute-tilthead03",
     "expression": "face_idol_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20730,8 +21275,8 @@
     "voice": "partvoice_12_021_street",
     "motion": "w-cool-nod02",
     "expression": "face_street_smile_05",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20743,8 +21288,8 @@
     "voice": "partvoice_20_021_street",
     "motion": "w-cool-sigh01",
     "expression": "face_street_smile_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20756,8 +21301,8 @@
     "voice": "partvoice_14_021_street",
     "motion": "w-cool-tilthead04",
     "expression": "face_street_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20769,8 +21314,8 @@
     "voice": "partvoice_02_021_wonder",
     "motion": "w-cute-glad06",
     "expression": "face_wonder_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20782,8 +21327,8 @@
     "voice": "partvoice_01_021_wonder",
     "motion": "w-happy-nod02",
     "expression": "face_wonder_closeeye_02",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20795,8 +21340,8 @@
     "voice": "partvoice_10_021_wonder",
     "motion": "w-cute-forward02",
     "expression": "face_wonder_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20808,8 +21353,8 @@
     "voice": "partvoice_16_021_night",
     "motion": "w-normal-tilthead05",
     "expression": "face_night_normal_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20821,8 +21366,8 @@
     "voice": "partvoice_03_021_night",
     "motion": "w-normal-nod02",
     "expression": "face_night_smile_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20834,8 +21379,8 @@
     "voice": "partvoice_08_021_night",
     "motion": "w-normal-tilthead02",
     "expression": "face_night_smallmouth_01",
-    "publishedAt": 1646028000000,
-    "closedAt": 1653976800000,
+    "publishedAt": 1677564000000,
+    "closedAt": 1685512800000,
     "weight": 1
   },
   {
@@ -20847,8 +21392,8 @@
     "voice": "system_holiday_001_005_002",
     "motion": "w-normal-tilthead06",
     "expression": "face_smile_02",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20860,8 +21405,8 @@
     "voice": "system_holiday_002_005_002",
     "motion": "w-cute-tilthead07",
     "expression": "face_smile_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20873,8 +21418,8 @@
     "voice": "system_holiday_003_005_002",
     "motion": "w-adult-relief01",
     "expression": "face_smile_05",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20886,8 +21431,8 @@
     "voice": "system_holiday_004_005_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_02",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20899,8 +21444,8 @@
     "voice": "system_holiday_005_005_002",
     "motion": "w-cute-forward02",
     "expression": "face_shy_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20912,8 +21457,8 @@
     "voice": "system_holiday_006_005_002",
     "motion": "w-cool-nod01",
     "expression": "face_smile_03",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20925,8 +21470,8 @@
     "voice": "system_holiday_007_005_002",
     "motion": "w-happy-nod02",
     "expression": "face_smile_03",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20938,8 +21483,8 @@
     "voice": "system_holiday_008_005_002",
     "motion": "w-adult-tilthead03",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20951,8 +21496,8 @@
     "voice": "system_holiday_009_005_002",
     "motion": "w-normal-nod01",
     "expression": "face_smile_04",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20964,8 +21509,8 @@
     "voice": "system_holiday_010_005_002",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20977,8 +21522,8 @@
     "voice": "system_holiday_011_005_002",
     "motion": "m-normal-tilthead02",
     "expression": "face_normal_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -20990,8 +21535,8 @@
     "voice": "system_holiday_012_005_002",
     "motion": "m-adult-nod03",
     "expression": "face_smile_03",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21003,8 +21548,8 @@
     "voice": "system_holiday_013_005_002",
     "motion": "m-tsukasa-nod01",
     "expression": "face_smile_02",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21016,8 +21561,8 @@
     "voice": "system_holiday_014_005_002",
     "motion": "w-cute-forward03",
     "expression": "face_sparkling_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21029,8 +21574,8 @@
     "voice": "system_holiday_015_005_002",
     "motion": "w-normal-trouble01",
     "expression": "face_disgust_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21042,8 +21587,8 @@
     "voice": "system_holiday_016_005_002",
     "motion": "m-cool-disgust01",
     "expression": "face_smile_02",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21055,8 +21600,8 @@
     "voice": "system_holiday_017_005_002",
     "motion": "w-normal-tilthead01",
     "expression": "face_smile_06",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21068,8 +21613,8 @@
     "voice": "system_holiday_018_005_002",
     "motion": "w-normal-tilthead01",
     "expression": "face_normal_02",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21081,8 +21626,8 @@
     "voice": "system_holiday_019_005_002",
     "motion": "w-normal-trouble02",
     "expression": "face_smile_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21094,8 +21639,8 @@
     "voice": "system_holiday_020_005_002",
     "motion": "w-cute-nod04",
     "expression": "face_smile_02",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21107,8 +21652,8 @@
     "voice": "partvoice_20_021_piapro",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21120,8 +21665,8 @@
     "voice": "partvoice_18_022",
     "motion": "w-cute-tilthead03",
     "expression": "face_smallmouth_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21133,8 +21678,8 @@
     "voice": "partvoice_08_023",
     "motion": "n-len-angry01",
     "expression": "face_surprise_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21146,8 +21691,8 @@
     "voice": "partvoice_08_024",
     "motion": "w-adult-tilthead03",
     "expression": "face_closeeye_02",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21159,8 +21704,8 @@
     "voice": "partvoice_13_025",
     "motion": "w-cool-tilthead04",
     "expression": "face_smile_02",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21172,8 +21717,8 @@
     "voice": "partvoice_10_026",
     "motion": "m-tsukasa-tilthead01",
     "expression": "face_smile_04",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21185,8 +21730,8 @@
     "voice": "partvoice_10_021_band",
     "motion": "w-cool-nod03",
     "expression": "face_band_smallmouth_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21198,8 +21743,8 @@
     "voice": "partvoice_05_021_idol",
     "motion": "w-cute-forward02",
     "expression": "face_idol_sparkling_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21211,8 +21756,8 @@
     "voice": "partvoice_29_021_street",
     "motion": "w-cool-nod01",
     "expression": "face_street_smile_02",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21224,8 +21769,8 @@
     "voice": "partvoice_32_021_wonder",
     "motion": "w-cute-glad05",
     "expression": "face_wonder_kirakira_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21237,8 +21782,8 @@
     "voice": "partvoice_20_021_night",
     "motion": "w-normal-nod01",
     "expression": "face_night_smile_01",
-    "publishedAt": 1647183600000,
-    "closedAt": 1647269999000,
+    "publishedAt": 1678719600000,
+    "closedAt": 1678805999000,
     "weight": 1
   },
   {
@@ -21250,8 +21795,8 @@
     "voice": "system_birthday_007_add_002",
     "motion": "w-cute-nod02",
     "expression": "face_ncsmile_04",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21263,8 +21808,8 @@
     "voice": "system_birthday_007_add_004",
     "motion": "w-cute-nod05",
     "expression": "face_smile_01",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21276,8 +21821,8 @@
     "voice": "system_birthday_007_add_005",
     "motion": "w-cute-glad05",
     "expression": "face_smile_02",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21289,8 +21834,8 @@
     "voice": "system_birthday_007_add_006",
     "motion": "w-cute-nod05",
     "expression": "face_smile_06",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21302,8 +21847,8 @@
     "voice": "system_birthday_007_add_007",
     "motion": "w-happy-tilthead04",
     "expression": "face_smile_09",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21315,8 +21860,8 @@
     "voice": "system_birthday_007_add_008",
     "motion": "w-adult-nod01",
     "expression": "face_smile_02",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21328,8 +21873,8 @@
     "voice": "system_birthday_007_add_011",
     "motion": "m-tsukasa-nod02",
     "expression": "face_smile_01",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21341,8 +21886,8 @@
     "voice": "system_birthday_007_add_014",
     "motion": "w-happy-glad02",
     "expression": "face_smile_04",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21354,8 +21899,8 @@
     "voice": "system_birthday_007_add_019",
     "motion": "w-cute-nod02",
     "expression": "face_smile_04",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21367,8 +21912,8 @@
     "voice": "system_birthday_007_add_020",
     "motion": "w-normal-nod06",
     "expression": "face_smile_01",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   },
   {
@@ -21380,8 +21925,8 @@
     "voice": "partvoice_05_021_idol",
     "motion": "w-normal-nod01",
     "expression": "face_idol_smile_03",
-    "publishedAt": 1647615600000,
-    "closedAt": 1647701999000,
+    "publishedAt": 1679151600000,
+    "closedAt": 1679237999000,
     "weight": 1
   }
 ]
