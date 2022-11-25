@@ -714,34 +714,6 @@
     "virtualShopType": "event"
   },
   {
-    "id": 13,
-    "name": "크리스마스",
-    "virtualShopItems": [
-      {
-        "id": 65,
-        "virtualShopId": 13,
-        "virtualShopItemType": "coordinate",
-        "seq": 99995,
-        "resourceBoxId": 66,
-        "costPaidJewel": 1000,
-        "startAt": 1671775200000,
-        "endAt": 1672034340000
-      },
-      {
-        "id": 66,
-        "virtualShopId": 13,
-        "virtualShopItemType": "accessory",
-        "seq": 99994,
-        "resourceBoxId": 67,
-        "costVirtualCoin": 3000,
-        "costJewel": 1000,
-        "startAt": 1671775200000,
-        "endAt": 1672034340000
-      }
-    ],
-    "virtualShopType": "special_live"
-  },
-  {
     "id": 14,
     "name": "린 ANNIVERSARY",
     "virtualShopItems": [

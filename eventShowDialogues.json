@@ -758,5 +758,68 @@
         "transitionDestinationId": "256"
       }
     ]
+  },
+  {
+    "id": 1023,
+    "assetbundleName": "limitmission_half_anniversary",
+    "showType": "ONCE",
+    "startAt": 1668913200000,
+    "endAt": 1669809599000,
+    "behaviors": [
+      {
+        "id": 99,
+        "eventShowDialogueId": 1023,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "285"
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "assetbundleName": "half_anniversary_valueset",
+    "showType": "ONCE",
+    "startAt": 1668913200000,
+    "endAt": 1669906799000,
+    "behaviors": [
+      {
+        "id": 100,
+        "eventShowDialogueId": 1024,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_value_set"
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "assetbundleName": "half_anniversary_01",
+    "showType": "ONCE",
+    "startAt": 1668582000000,
+    "endAt": 1669906799000,
+    "behaviors": [
+      {
+        "id": 101,
+        "eventShowDialogueId": 1025,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "261"
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "assetbundleName": "half_anniversary_02",
+    "showType": "ONCE",
+    "startAt": 1668740400000,
+    "endAt": 1669906799000,
+    "behaviors": [
+      {
+        "id": 102,
+        "eventShowDialogueId": 1026,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "269"
+      }
+    ]
   }
 ]

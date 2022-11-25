@@ -20,13 +20,23 @@
     "multiLiveLobbyType": "normal"
   },
   {
-    "id": 4,
+    "id": 3,
     "seq": 3,
     "name": "프리",
     "photonLobbyName": "publicFreeCheerfulParty",
     "matchingLogic": "random",
     "totalPower": 0,
     "assetbundleName": "room1",
+    "multiLiveLobbyType": "cheerful_carnival"
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "name": "베테랑",
+    "photonLobbyName": "publicVeteranCheerfulParty_{SCALE_INDEX}",
+    "matchingLogic": "power",
+    "totalPower": 150000,
+    "assetbundleName": "room2",
     "multiLiveLobbyType": "cheerful_carnival"
   }
 ]
