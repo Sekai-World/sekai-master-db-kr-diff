@@ -60,6 +60,18 @@
     ]
   },
   {
+    "id": 204,
+    "seq": 4,
+    "honorMissionType": "player_rank",
+    "requirement": 300,
+    "sentence": "플레이어 랭크 300 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1154
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -1436,6 +1448,30 @@
     "rewards": [
       {
         "resourceBoxId": 50010
+      }
+    ]
+  },
+  {
+    "id": 50011,
+    "seq": 11,
+    "honorMissionType": "special_training_card_total",
+    "requirement": 75,
+    "sentence": "특훈을 완료한 멤버 총 75명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50011
+      }
+    ]
+  },
+  {
+    "id": 50012,
+    "seq": 12,
+    "honorMissionType": "special_training_card_total",
+    "requirement": 100,
+    "sentence": "특훈을 완료한 멤버 총 100명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50012
       }
     ]
   },

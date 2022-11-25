@@ -1228,7 +1228,7 @@
   },
   {
     "wordingKey": "MSG_MODULE_MAINTENANCE",
-    "value": "상품 가격과 구성품을 조정 중이니, 기다려 주세요"
+    "value": "현재 해당 기능은 점검 중이므로 이용할 수 없습니다. 이용에 불편을 드려 죄송합니다. 점검이 완료될 때까지 잠시만 기다려 주시기 바랍니다."
   },
   {
     "wordingKey": "MSG_MOVE_STAGE_FAILED",
@@ -3055,12 +3055,16 @@
     "value": "닫기"
   },
   {
+    "wordingKey": "WORD_CLOSE_LOGOUT",
+    "value": "true"
+  },
+  {
     "wordingKey": "WORD_COIN",
     "value": "코인"
   },
   {
     "wordingKey": "WORD_COLLABORATION_AREA",
-    "value": "콜라보 한정 세카이 등장"
+    "value": "컬래버레이션 한정 세카이 등장"
   },
   {
     "wordingKey": "WORD_COLLECTION_GACHA",

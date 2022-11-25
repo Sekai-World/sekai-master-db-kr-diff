@@ -48,34 +48,44 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 122,
-    "seq": 50,
+    "homeBannerId": 119,
+    "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha85",
+    "assetbundleName": "banner_gacha159",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 85,
-    "startAt": 1667800800000,
-    "endAt": 1668405599000
+    "transitionDestinationId": 159,
+    "startAt": 1668924000000,
+    "endAt": 1670133599000
   },
   {
-    "homeBannerId": 123,
+    "homeBannerId": 127,
     "seq": 50,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha87",
+    "assetbundleName": "banner_gacha92",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 87,
-    "startAt": 1667973600000,
-    "endAt": 1668340799000
+    "transitionDestinationId": 92,
+    "startAt": 1669010400000,
+    "endAt": 1669615199000
   },
   {
-    "homeBannerId": 152,
+    "homeBannerId": 128,
+    "seq": 50,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha94",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 94,
+    "startAt": 1669183200000,
+    "endAt": 1669550399000
+  },
+  {
+    "homeBannerId": 154,
     "seq": 40,
     "homeBannerType": "event",
-    "assetbundleName": "event_breaktime_2021",
+    "assetbundleName": "event_wonders_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 23,
-    "startAt": 1667800800000,
-    "endAt": 1668405599000
+    "transitionDestinationId": 25,
+    "startAt": 1669010400000,
+    "endAt": 1669615199000
   },
   {
     "homeBannerId": 167,
@@ -97,16 +107,6 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 169,
-    "seq": 5000,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_questionnaire_3",
-    "transitionDestinationType": "questionnaire",
-    "transitionDestinationId": 20313466,
-    "startAt": 1667790000000,
-    "endAt": 1668913200000
-  },
-  {
     "homeBannerId": 171,
     "seq": 110,
     "homeBannerType": "general",
@@ -114,15 +114,5 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1667574000000,
     "endAt": 1669820399000
-  },
-  {
-    "homeBannerId": 172,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha144",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 144,
-    "startAt": 1667574000000,
-    "endAt": 1668178799000
   }
 ]
