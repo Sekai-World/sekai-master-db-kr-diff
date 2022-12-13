@@ -48,44 +48,24 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 119,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha159",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 159,
-    "startAt": 1668924000000,
-    "endAt": 1670133599000
-  },
-  {
-    "homeBannerId": 129,
+    "homeBannerId": 134,
     "seq": 50,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha96",
+    "assetbundleName": "banner_gacha102",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 96,
-    "startAt": 1669615200000,
-    "endAt": 1670219999000
+    "transitionDestinationId": 102,
+    "startAt": 1670824800000,
+    "endAt": 1671429599000
   },
   {
-    "homeBannerId": 130,
-    "seq": 50,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha97",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 97,
-    "startAt": 1669788000000,
-    "endAt": 1670155199000
-  },
-  {
-    "homeBannerId": 155,
+    "homeBannerId": 157,
     "seq": 40,
     "homeBannerType": "event",
-    "assetbundleName": "event_carnation_2021",
+    "assetbundleName": "event_awakening_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 26,
-    "startAt": 1669615200000,
-    "endAt": 1670219999000
+    "transitionDestinationId": 28,
+    "startAt": 1670824800000,
+    "endAt": 1671429599000
   },
   {
     "homeBannerId": 167,
@@ -107,12 +87,21 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 173,
-    "seq": 1,
+    "homeBannerId": 174,
+    "seq": 110,
     "homeBannerType": "general",
     "assetbundleName": "banner_bp09",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1669820400000,
-    "endAt": 1670165999000
+    "startAt": 1670166000000,
+    "endAt": 1672498799000
+  },
+  {
+    "homeBannerId": 206,
+    "seq": 60,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_nenmatsu2022_valueset01",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1670943600000,
+    "endAt": 1671807599000
   }
 ]

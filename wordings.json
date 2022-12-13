@@ -1459,6 +1459,10 @@
     "value": "심야 시간대 알림"
   },
   {
+    "wordingKey": "MSG_NOT_BONUS_EVENT_INSESSION",
+    "value": "개최 중인 이벤트가 없습니다."
+  },
+  {
     "wordingKey": "MSG_NOT_CONSUME",
     "value": "사용 안 함"
   },
@@ -2443,6 +2447,10 @@
     "value": "설정 조건"
   },
   {
+    "wordingKey": "WORD_ACCOUNTBONUSEFFECT_TITLE",
+    "value": "アカウントボーナス効果"
+  },
+  {
     "wordingKey": "WORD_ACHIEVED",
     "value": "달성 완료"
   },
@@ -2777,6 +2785,34 @@
   {
     "wordingKey": "WORD_BONUS",
     "value": "보너스"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_BONDSEXP",
+    "value": "인연 랭크 EXP 획득량 {0}배 증가"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_NUMBEREXP",
+    "value": "멤버 랭크 EXP 획득량 {0}배 증가"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_RANKEXP",
+    "value": "플레이어 랭크 EXP 획득량 {0}배 증가"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_RATE",
+    "value": "라이브를 통해 {0}(을)를 획득할 확률 {1}배 증가"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_UNITEXP",
+    "value": "유닛 랭크 EXP 획득량 {0}배 증가"
+  },
+  {
+    "wordingKey": "WORD_BONUSEFFECT_VALUE",
+    "value": "라이브를 통해 획득 {0}+{1}"
+  },
+  {
+    "wordingKey": "WORD_BONUSEVENT_NAME",
+    "value": "이벤트 보너스"
   },
   {
     "wordingKey": "WORD_BOOST_RECOVERY",
@@ -7654,12 +7690,20 @@
     "value": "이벤트"
   },
   {
+    "wordingKey": "WORD_EVENTBONUSEFFECT_TITLE",
+    "value": "이벤트 기간 중 보너스 효과"
+  },
+  {
     "wordingKey": "WORD_EVENT_BONUS",
     "value": "이벤트 보너스"
   },
   {
     "wordingKey": "WORD_EVENT_BONUS_NL",
     "value": "이벤트\n 보너스"
+  },
+  {
+    "wordingKey": "WORD_EVENT_BONUS_PROGRESS",
+    "value": "오늘의 진행 상황"
   },
   {
     "wordingKey": "WORD_EVENT_CLOSE",
@@ -10420,6 +10464,14 @@
     "value": "앞으로 {0}"
   },
   {
+    "wordingKey": "WORD_RESULTBONUS",
+    "value": "이벤트 보너스"
+  },
+  {
+    "wordingKey": "WORD_RESULTBONUS_TITLE",
+    "value": "라이브 보너스"
+  },
+  {
     "wordingKey": "WORD_RESUME",
     "value": "이어서 재생"
   },
@@ -10922,6 +10974,18 @@
   {
     "wordingKey": "WORD_SORT_SKILL_EFFECT_VALUE",
     "value": "스킬 효과치"
+  },
+  {
+    "wordingKey": "WORD_SPECIALREWARD_DETAIL",
+    "value": "보상 상세 보기"
+  },
+  {
+    "wordingKey": "WORD_SPECIALREWARD_GET_REWARD",
+    "value": "랜덤 획득"
+  },
+  {
+    "wordingKey": "WORD_SPECIALREWARD_TITLE",
+    "value": "특별 보상"
   },
   {
     "wordingKey": "WORD_SPECIAL_SKILL",

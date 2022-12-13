@@ -322,5 +322,59 @@
     "requirement": 5,
     "sentence": " 하프 애니버서리의 기간 한정 미션을 모두 클리어하기",
     "resourceBoxId": 100032
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 45,
+    "seq": 1,
+    "limitMissionType": "clear_live_miku_leader",
+    "requirement": 15,
+    "sentence": "카가미네 렌과 카가미네 린으로 유닛을 편성하여 라이브 15회 플레이하기",
+    "resourceBoxId": 100019
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 46,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "resourceBoxId": 100015
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 47,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100027
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 48,
+    "seq": 1,
+    "limitMissionType": "character_rank_miku",
+    "requirement": 5,
+    "sentence": "카가미네 렌과 카가미네 린 모두 캐릭터 랭크 5 달성하기",
+    "resourceBoxId": 100033
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 49,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
+    "resourceBoxId": 100025
+  },
+  {
+    "limitMissionGroupId": 8,
+    "id": 50,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "카가미네 렌과 카가미네 린의 모든 기념일 한정 미션 완료하기",
+    "resourceBoxId": 100034
   }
 ]

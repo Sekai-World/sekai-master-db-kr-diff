@@ -821,5 +821,97 @@
         "transitionDestinationId": "269"
       }
     ]
+  },
+  {
+    "id": 1027,
+    "assetbundleName": "event_show_livemissionpass_09",
+    "showType": "ONCE",
+    "startAt": 1669820400000,
+    "endAt": 1672498799000,
+    "behaviors": [
+      {
+        "id": 103,
+        "eventShowDialogueId": 1027,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_live_mission_pass"
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "assetbundleName": "googlebest_2022",
+    "showType": "ONCE",
+    "startAt": 1669820400000,
+    "endAt": 1670511599000,
+    "behaviors": [
+      {
+        "id": 104,
+        "eventShowDialogueId": 1028,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "308"
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "assetbundleName": "nenmatsu2022_valueset01",
+    "showType": "ONCE",
+    "startAt": 1670943600000,
+    "endAt": 1671807599000,
+    "behaviors": [
+      {
+        "id": 105,
+        "eventShowDialogueId": 1029,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_value_set"
+      }
+    ]
+  },
+  {
+    "id": 1030,
+    "assetbundleName": "nenmatsu2022_valueset02",
+    "showType": "ONCE",
+    "startAt": 1672412400000,
+    "endAt": 1673535599000,
+    "behaviors": [
+      {
+        "id": 106,
+        "eventShowDialogueId": 1030,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_value_set"
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "assetbundleName": "nenmatsu2022_valueset03",
+    "showType": "ONCE",
+    "startAt": 1672412400000,
+    "endAt": 1673535599000,
+    "behaviors": [
+      {
+        "id": 107,
+        "eventShowDialogueId": 1031,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_value_set"
+      }
+    ]
+  },
+  {
+    "id": 1032,
+    "assetbundleName": "limitmission_show_kagami2022",
+    "showType": "ONCE",
+    "startAt": 1672034400000,
+    "endAt": 1672919999000,
+    "behaviors": [
+      {
+        "id": 110,
+        "eventShowDialogueId": 1032,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "308"
+      }
+    ]
   }
 ]
