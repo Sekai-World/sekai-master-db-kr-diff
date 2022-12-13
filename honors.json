@@ -7418,14 +7418,14 @@
     "seq": 200003,
     "groupId": 116,
     "honorRarity": "low",
-    "name": "2021 카운트다운",
+    "name": "2023 카운트다운",
     "assetbundleName": "honor_0435",
     "levels": [
       {
         "honorId": 435,
         "level": 1,
         "bonus": 0,
-        "description": "'2022 카운트다운 라이브'에 참가하기"
+        "description": "'카운트다운 라이브'에 참가하기"
       }
     ]
   },
@@ -17478,6 +17478,390 @@
     ]
   },
   {
+    "id": 1092,
+    "seq": 115101,
+    "groupId": 152,
+    "honorRarity": "highest",
+    "name": "1위",
+    "assetbundleName": "honor_top_000001",
+    "levels": [
+      {
+        "honorId": 1092,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n1위 달성하기"
+      }
+    ]
+  },
+  {
+    "id": 1093,
+    "seq": 115102,
+    "groupId": 152,
+    "honorRarity": "highest",
+    "name": "2위",
+    "assetbundleName": "honor_top_000002",
+    "levels": [
+      {
+        "honorId": 1093,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n2위 달성하기"
+      }
+    ]
+  },
+  {
+    "id": 1094,
+    "seq": 115103,
+    "groupId": 152,
+    "honorRarity": "highest",
+    "name": "3위",
+    "assetbundleName": "honor_top_000003",
+    "levels": [
+      {
+        "honorId": 1094,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n3위 달성하기"
+      }
+    ]
+  },
+  {
+    "id": 1095,
+    "seq": 115104,
+    "groupId": 152,
+    "honorRarity": "highest",
+    "name": "TOP 10",
+    "assetbundleName": "honor_top_000010",
+    "levels": [
+      {
+        "honorId": 1095,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n10위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "seq": 115105,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 20",
+    "assetbundleName": "honor_top_000020",
+    "levels": [
+      {
+        "honorId": 1096,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n20위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1097,
+    "seq": 115106,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 30",
+    "assetbundleName": "honor_top_000030",
+    "levels": [
+      {
+        "honorId": 1097,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n30위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1098,
+    "seq": 115107,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 40",
+    "assetbundleName": "honor_top_000040",
+    "levels": [
+      {
+        "honorId": 1098,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n40위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1099,
+    "seq": 115108,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 50",
+    "assetbundleName": "honor_top_000050",
+    "levels": [
+      {
+        "honorId": 1099,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n50위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1100,
+    "seq": 115109,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 100",
+    "assetbundleName": "honor_top_000100",
+    "levels": [
+      {
+        "honorId": 1100,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n100위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1101,
+    "seq": 115110,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 200",
+    "assetbundleName": "honor_top_000200",
+    "levels": [
+      {
+        "honorId": 1101,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n200위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1102,
+    "seq": 115111,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 300",
+    "assetbundleName": "honor_top_000300",
+    "levels": [
+      {
+        "honorId": 1102,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n300위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1103,
+    "seq": 115112,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 400",
+    "assetbundleName": "honor_top_000400",
+    "levels": [
+      {
+        "honorId": 1103,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n400위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1104,
+    "seq": 115113,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 500",
+    "assetbundleName": "honor_top_000500",
+    "levels": [
+      {
+        "honorId": 1104,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n500위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "seq": 115114,
+    "groupId": 152,
+    "honorRarity": "high",
+    "name": "TOP 1000",
+    "assetbundleName": "honor_top_001000",
+    "levels": [
+      {
+        "honorId": 1105,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n1000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1106,
+    "seq": 115115,
+    "groupId": 152,
+    "honorRarity": "middle",
+    "name": "TOP 2000",
+    "assetbundleName": "honor_top_002000",
+    "levels": [
+      {
+        "honorId": 1106,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n2000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "seq": 115116,
+    "groupId": 152,
+    "honorRarity": "middle",
+    "name": "TOP 3000",
+    "assetbundleName": "honor_top_003000",
+    "levels": [
+      {
+        "honorId": 1107,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n3000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "seq": 115117,
+    "groupId": 152,
+    "honorRarity": "middle",
+    "name": "TOP 4000",
+    "assetbundleName": "honor_top_004000",
+    "levels": [
+      {
+        "honorId": 1108,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n4000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1109,
+    "seq": 115118,
+    "groupId": 152,
+    "honorRarity": "middle",
+    "name": "TOP 5000",
+    "assetbundleName": "honor_top_005000",
+    "levels": [
+      {
+        "honorId": 1109,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n5000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1110,
+    "seq": 115119,
+    "groupId": 152,
+    "honorRarity": "middle",
+    "name": "TOP 10000",
+    "assetbundleName": "honor_top_010000",
+    "levels": [
+      {
+        "honorId": 1110,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n10000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1111,
+    "seq": 115120,
+    "groupId": 152,
+    "honorRarity": "low",
+    "name": "TOP 20000",
+    "assetbundleName": "honor_top_020000",
+    "levels": [
+      {
+        "honorId": 1111,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n20000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1112,
+    "seq": 115121,
+    "groupId": 152,
+    "honorRarity": "low",
+    "name": "TOP 30000",
+    "assetbundleName": "honor_top_030000",
+    "levels": [
+      {
+        "honorId": 1112,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n30000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1113,
+    "seq": 115122,
+    "groupId": 152,
+    "honorRarity": "low",
+    "name": "TOP 40000",
+    "assetbundleName": "honor_top_040000",
+    "levels": [
+      {
+        "honorId": 1113,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n40000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1114,
+    "seq": 115123,
+    "groupId": 152,
+    "honorRarity": "low",
+    "name": "TOP 50000",
+    "assetbundleName": "honor_top_050000",
+    "levels": [
+      {
+        "honorId": 1114,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n50000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
+    "id": 1115,
+    "seq": 115124,
+    "groupId": 152,
+    "honorRarity": "low",
+    "name": "TOP 100000",
+    "assetbundleName": "honor_top_100000",
+    "levels": [
+      {
+        "honorId": 1115,
+        "level": 1,
+        "bonus": 0,
+        "description": "이벤트 '스크램블 팬 페스타!'에서 \n100000위 이내에 진입하기"
+      }
+    ]
+  },
+  {
     "id": 1118,
     "seq": 13500,
     "groupId": 155,
@@ -18802,6 +19186,38 @@
         "level": 1,
         "bonus": 0,
         "description": "'크리스마스 2022 라이브' 참가"
+      }
+    ]
+  },
+  {
+    "id": 1342,
+    "seq": 200010,
+    "groupId": 192,
+    "honorRarity": "low",
+    "name": "카운트다운",
+    "assetbundleName": "honor_1342",
+    "levels": [
+      {
+        "honorId": 1342,
+        "level": 1,
+        "bonus": 0,
+        "description": "'카운트다운 2022 라이브' 참가"
+      }
+    ]
+  },
+  {
+    "id": 1463,
+    "seq": 200011,
+    "groupId": 198,
+    "honorRarity": "low",
+    "name": "밸런타인 2022",
+    "assetbundleName": "honor_1463",
+    "levels": [
+      {
+        "honorId": 1463,
+        "level": 1,
+        "bonus": 0,
+        "description": " '밸런타인 2022 라이브' 참가"
       }
     ]
   },
