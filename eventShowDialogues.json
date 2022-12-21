@@ -910,7 +910,87 @@
         "eventShowDialogueId": 1032,
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "information",
-        "transitionDestinationId": "308"
+        "transitionDestinationId": "330"
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "assetbundleName": "event_show_obt31_banner",
+    "showType": "ONCE",
+    "startAt": 1672639200000,
+    "endAt": 1673179199000,
+    "behaviors": [
+      {
+        "id": 111,
+        "eventShowDialogueId": 1033,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "31"
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "assetbundleName": "event_show_obt32_banner",
+    "showType": "ONCE",
+    "startAt": 1673244000000,
+    "endAt": 1673783999000,
+    "behaviors": [
+      {
+        "id": 112,
+        "eventShowDialogueId": 1034,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "32"
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "assetbundleName": "event_show_obt33_banner",
+    "showType": "ONCE",
+    "startAt": 1673848800000,
+    "endAt": 1674388799000,
+    "behaviors": [
+      {
+        "id": 113,
+        "eventShowDialogueId": 1035,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "33"
+      }
+    ]
+  },
+  {
+    "id": 1036,
+    "assetbundleName": "event_show_obt34_banner",
+    "showType": "ONCE",
+    "startAt": 1674453600000,
+    "endAt": 1674993599000,
+    "behaviors": [
+      {
+        "id": 114,
+        "eventShowDialogueId": 1036,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "34"
+      }
+    ]
+  },
+  {
+    "id": 1037,
+    "assetbundleName": "event_show_obt35_banner",
+    "showType": "ONCE",
+    "startAt": 1675058400000,
+    "endAt": 1675598399000,
+    "behaviors": [
+      {
+        "id": 115,
+        "eventShowDialogueId": 1037,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "35"
       }
     ]
   }
