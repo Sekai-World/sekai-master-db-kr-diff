@@ -58979,19 +58979,20 @@
         "groupId": 3,
         "priority": 1,
         "gachaBehaviorType": "normal",
-        "costResourceType": "jewel",
-        "costResourceQuantity": 300,
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
         "spinCount": 1
       },
       {
         "id": 302,
         "gachaId": 110,
-        "groupId": 4,
-        "priority": 1,
-        "gachaBehaviorType": "over_rarity_3_once",
+        "groupId": 3,
+        "priority": 2,
+        "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
-        "costResourceQuantity": 3000,
-        "spinCount": 10
+        "costResourceQuantity": 300,
+        "spinCount": 1
       },
       {
         "id": 691,
@@ -59840,15 +59841,37 @@
         "groupId": 1,
         "priority": 1,
         "gachaBehaviorType": "normal",
-        "costResourceType": "jewel",
-        "costResourceQuantity": 300,
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
         "spinCount": 1
       },
       {
         "id": 304,
         "gachaId": 111,
+        "groupId": 1,
+        "priority": 2,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1
+      },
+      {
+        "id": 706,
+        "gachaId": 111,
         "groupId": 2,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 707,
+        "gachaId": 111,
+        "groupId": 2,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -60991,19 +61014,20 @@
         "groupId": 3,
         "priority": 1,
         "gachaBehaviorType": "normal",
-        "costResourceType": "jewel",
-        "costResourceQuantity": 300,
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
         "spinCount": 1
       },
       {
         "id": 308,
         "gachaId": 112,
-        "groupId": 4,
-        "priority": 1,
-        "gachaBehaviorType": "over_rarity_3_once",
+        "groupId": 3,
+        "priority": 2,
+        "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
-        "costResourceQuantity": 3000,
-        "spinCount": 10
+        "costResourceQuantity": 300,
+        "spinCount": 1
       },
       {
         "id": 693,
@@ -61852,15 +61876,37 @@
         "groupId": 1,
         "priority": 1,
         "gachaBehaviorType": "normal",
-        "costResourceType": "jewel",
-        "costResourceQuantity": 300,
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
         "spinCount": 1
       },
       {
         "id": 310,
         "gachaId": 113,
+        "groupId": 1,
+        "priority": 2,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1
+      },
+      {
+        "id": 708,
+        "gachaId": 113,
         "groupId": 2,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 709,
+        "gachaId": 113,
+        "groupId": 2,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -64145,19 +64191,20 @@
         "groupId": 3,
         "priority": 1,
         "gachaBehaviorType": "normal",
-        "costResourceType": "jewel",
-        "costResourceQuantity": 300,
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
         "spinCount": 1
       },
       {
         "id": 315,
         "gachaId": 115,
-        "groupId": 4,
-        "priority": 1,
-        "gachaBehaviorType": "over_rarity_3_once",
+        "groupId": 3,
+        "priority": 2,
+        "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
-        "costResourceQuantity": 3000,
-        "spinCount": 10
+        "costResourceQuantity": 300,
+        "spinCount": 1
       },
       {
         "id": 695,
@@ -65020,15 +65067,37 @@
         "groupId": 1,
         "priority": 1,
         "gachaBehaviorType": "normal",
-        "costResourceType": "jewel",
-        "costResourceQuantity": 300,
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
         "spinCount": 1
       },
       {
         "id": 317,
         "gachaId": 116,
+        "groupId": 1,
+        "priority": 2,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1
+      },
+      {
+        "id": 710,
+        "gachaId": 116,
         "groupId": 2,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 711,
+        "gachaId": 116,
+        "groupId": 2,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -67010,19 +67079,20 @@
         "groupId": 3,
         "priority": 1,
         "gachaBehaviorType": "normal",
-        "costResourceType": "jewel",
-        "costResourceQuantity": 300,
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
         "spinCount": 1
       },
       {
         "id": 322,
         "gachaId": 118,
-        "groupId": 4,
-        "priority": 1,
-        "gachaBehaviorType": "over_rarity_3_once",
+        "groupId": 3,
+        "priority": 2,
+        "gachaBehaviorType": "normal",
         "costResourceType": "jewel",
-        "costResourceQuantity": 3000,
-        "spinCount": 10
+        "costResourceQuantity": 300,
+        "spinCount": 1
       },
       {
         "id": 697,
@@ -67913,15 +67983,37 @@
         "groupId": 1,
         "priority": 1,
         "gachaBehaviorType": "normal",
-        "costResourceType": "jewel",
-        "costResourceQuantity": 300,
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 1,
         "spinCount": 1
       },
       {
         "id": 324,
         "gachaId": 119,
+        "groupId": 1,
+        "priority": 2,
+        "gachaBehaviorType": "normal",
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "spinCount": 1
+      },
+      {
+        "id": 712,
+        "gachaId": 119,
         "groupId": 2,
         "priority": 1,
+        "gachaBehaviorType": "over_rarity_3_once",
+        "costResourceType": "gacha_ticket",
+        "costResourceId": 1,
+        "costResourceQuantity": 10,
+        "spinCount": 10
+      },
+      {
+        "id": 713,
+        "gachaId": 119,
+        "groupId": 2,
+        "priority": 2,
         "gachaBehaviorType": "over_rarity_3_once",
         "costResourceType": "jewel",
         "costResourceQuantity": 3000,
@@ -71037,7 +71129,7 @@
   {
     "id": 123,
     "gachaType": "normal",
-    "name": "[2023 새해맞이] 10회 연속 무료 뽑기",
+    "name": "[새해 기념] 10회 연속 무료 뽑기",
     "seq": 90000,
     "assetbundleName": "ab_gacha_123",
     "gachaCardRarityRateGroupId": 1,
@@ -72126,7 +72218,7 @@
     "gachaPickupCostumes": [],
     "gachaInformation": {
       "gachaId": 123,
-      "summary": "'[2023 새해맞이] 10회 연속 무료 뽑기' 등장!\n\n★2 이상 멤버만 출현하며, ★3 멤버 1명이 반드시 출현하는 뽑기입니다.\n출현하는 ★4 멤버는 10월 10일 15:00까지 뽑기에 등장했던 멤버입니다.\n※기간 한정, 컬러풀 페스티벌 한정 멤버는 출현하지 않습니다.\n\n처음 획득하는 일부 ★4 멤버는 '라이브 의상'이 포함되어 있습니다.\n'라이브 의상'을 획득하면 다른 캐릭터가 착용 가능한 의상을 '의상 상점'에서 만들 수 있습니다.\n다른 캐릭터가 착용하는 '라이브 의상'은 일부 디자인과 액세서리 유무가 다를 수 있습니다.\n자세한 내용은 [멤버]→[라이브 의상] 화면에서 확인할 수 있습니다.",
+      "summary": "'[새해 기념] 10회 연속 무료 뽑기' 등장!\n\n★2 이상 멤버만 출현하며, ★3 멤버 1명이 반드시 출현하는 뽑기입니다.\n출현하는 ★4 멤버는 10월 10일 15:00까지 뽑기에 등장했던 멤버입니다.\n※기간 한정, 컬러풀 페스티벌 한정 멤버는 출현하지 않습니다.\n\n처음 획득하는 일부 ★4 멤버는 '라이브 의상'이 포함되어 있습니다.\n'라이브 의상'을 획득하면 다른 캐릭터가 착용 가능한 의상을 '의상 상점'에서 만들 수 있습니다.\n다른 캐릭터가 착용하는 '라이브 의상'은 일부 디자인과 액세서리 유무가 다를 수 있습니다.\n자세한 내용은 [멤버]→[라이브 의상] 화면에서 확인할 수 있습니다.",
       "description": "- 이 뽑기는 '[2023 새해맞이] 10회 연속 무료 뽑기 티켓'으로 이용할 수 있는 뽑기입니다.\n- '[2023 새해맞이] 10회 연속 무료 뽑기 티켓'은 '[2023 새해맞이] 세뱃돈 로그인 캠페인'에서 획득할 수 있습니다.\n- 출현하는 멤버는 모두 특훈 전 상태입니다.\n- 뽑기에서 출현하는 멤버는 중복될 수 있습니다.\n- 중복으로 획득한 멤버는 대기실로 자동 이동 됩니다.\n- 뽑기는 제공 확률에 기반하여 1회마다 개별 추첨을 진행합니다. 예를 들어 제공 확률이 1%인 멤버라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n- [10회 뽑기]를 이용해 추첨한 결과 ★3 이상 멤버가 한 명도 출현하지 않은 경우에는 10번째 슬롯을 확정 뽑기 제공 확률로 다시 추첨합니다.\n- 제공 확률은 제공 확률 탭에서 확인할 수 있습니다.\n- 출현 멤버의 능력치와 스킬은 뽑기 페이지의 멤버 상세 보기에서 확인할 수 있습니다.\n- 라이브 의상 포함 멤버는 제공 확률 탭에서 확인할 수 있습니다.\n- 뽑기 실행 후 게임을 강제 종료 하거나 통신이 끊겨 뽑기 결과 화면이 정상적으로 표시되지 않더라도 멤버는 획득됩니다. 멤버 목록이나 대기실을 확인해 주세요.\n- 이 뽑기에서는 뽑기 스티커를 획득할 수 없습니다.\n- 진행 일정은 예고 없이 변경될 수 있습니다."
     }
   },
@@ -88285,7 +88377,7 @@
     "id": 162,
     "gachaType": "ceil",
     "name": "[카가미네 린] HAPPY ANNIVERSARY 뽑기",
-    "seq": 200,
+    "seq": 210,
     "assetbundleName": "ab_gacha_162",
     "gachaCardRarityRateGroupId": 4,
     "startAt": 1672066800000,
@@ -88405,7 +88497,7 @@
     "id": 163,
     "gachaType": "ceil",
     "name": "[카가미네 렌] HAPPY ANNIVERSARY 뽑기",
-    "seq": 210,
+    "seq": 220,
     "assetbundleName": "ab_gacha_163",
     "gachaCardRarityRateGroupId": 4,
     "startAt": 1672066800000,
@@ -88916,8 +89008,8 @@
     "seq": 200,
     "assetbundleName": "ab_gacha_179",
     "gachaCardRarityRateGroupId": 1,
-    "startAt": 1675576800000,
-    "endAt": 1676181599000,
+    "startAt": 1674194400000,
+    "endAt": 1674799199000,
     "isShowPeriod": true,
     "wishSelectCount": 0,
     "gachaCardRarityRates": [
@@ -90871,10 +90963,10 @@
     "gachaType": "normal",
     "name": "[버추얼 싱어] ★4 멤버 1명 확정 뽑기",
     "seq": 200,
-    "assetbundleName": "ab_gacha_126",
+    "assetbundleName": "ab_gacha_1009",
     "gachaCardRarityRateGroupId": 1,
-    "startAt": 1672466399000,
-    "endAt": 1672725598000,
+    "startAt": 1672466400000,
+    "endAt": 1672725599000,
     "isShowPeriod": true,
     "wishSelectCount": 0,
     "gachaCardRarityRates": [
@@ -91223,11 +91315,11 @@
     "gachaPickups": [
       {
         "gachaId": 2001,
-        "cardId": 149
+        "cardId": 116
       },
       {
         "gachaId": 2001,
-        "cardId": 131
+        "cardId": 171
       },
       {
         "gachaId": 2001,
@@ -91235,11 +91327,15 @@
       },
       {
         "gachaId": 2001,
-        "cardId": 110
+        "cardId": 161
       },
       {
         "gachaId": 2001,
-        "cardId": 121
+        "cardId": 156
+      },
+      {
+        "gachaId": 2001,
+        "cardId": 214
       }
     ],
     "gachaPickupCostumes": [],
@@ -91254,10 +91350,10 @@
     "gachaType": "normal",
     "name": "[Leo/need] ★4 멤버 1명 확정 뽑기",
     "seq": 200,
-    "assetbundleName": "ab_gacha_127",
+    "assetbundleName": "ab_gacha_1010",
     "gachaCardRarityRateGroupId": 1,
-    "startAt": 1672552799000,
-    "endAt": 1672811998000,
+    "startAt": 1672552800000,
+    "endAt": 1672811999000,
     "isShowPeriod": true,
     "wishSelectCount": 0,
     "gachaCardRarityRates": [
@@ -91487,15 +91583,19 @@
     "gachaPickups": [
       {
         "gachaId": 2002,
-        "cardId": 197
-      },
-      {
-        "gachaId": 2002,
         "cardId": 155
       },
       {
         "gachaId": 2002,
-        "cardId": 207
+        "cardId": 170
+      },
+      {
+        "gachaId": 2002,
+        "cardId": 185
+      },
+      {
+        "gachaId": 2002,
+        "cardId": 197
       }
     ],
     "gachaPickupCostumes": [],
@@ -91510,10 +91610,10 @@
     "gachaType": "normal",
     "name": "[MORE MORE JUMP!] ★4 멤버 1명 확정 뽑기",
     "seq": 200,
-    "assetbundleName": "ab_gacha_128",
+    "assetbundleName": "ab_gacha_1011",
     "gachaCardRarityRateGroupId": 1,
-    "startAt": 1672639199000,
-    "endAt": 1672898398000,
+    "startAt": 1672639200000,
+    "endAt": 1672898399000,
     "isShowPeriod": true,
     "wishSelectCount": 0,
     "gachaCardRarityRates": [
@@ -91729,19 +91829,19 @@
     "gachaPickups": [
       {
         "gachaId": 2003,
-        "cardId": 190
+        "cardId": 125
       },
       {
         "gachaId": 2003,
-        "cardId": 222
+        "cardId": 218
       },
       {
         "gachaId": 2003,
-        "cardId": 129
+        "cardId": 223
       },
       {
         "gachaId": 2003,
-        "cardId": 160
+        "cardId": 224
       }
     ],
     "gachaPickupCostumes": [],
@@ -91756,10 +91856,10 @@
     "gachaType": "normal",
     "name": "[Vivid BAD SQUAD] ★4 멤버 1명 확정 뽑기",
     "seq": 200,
-    "assetbundleName": "ab_gacha_129",
+    "assetbundleName": "ab_gacha_1012",
     "gachaCardRarityRateGroupId": 1,
-    "startAt": 1672725540000,
-    "endAt": 1672984739000,
+    "startAt": 1672725600000,
+    "endAt": 1672984799000,
     "isShowPeriod": true,
     "wishSelectCount": 0,
     "gachaCardRarityRates": [
@@ -91937,7 +92037,15 @@
       },
       {
         "gachaId": 2004,
+        "cardId": 135
+      },
+      {
+        "gachaId": 2004,
         "cardId": 165
+      },
+      {
+        "gachaId": 2004,
+        "cardId": 166
       }
     ],
     "gachaPickupCostumes": [],
@@ -91952,10 +92060,10 @@
     "gachaType": "normal",
     "name": "[원더랜즈×쇼타임] ★4 멤버 1명 확정 뽑기",
     "seq": 200,
-    "assetbundleName": "ab_gacha_130",
+    "assetbundleName": "ab_gacha_1013",
     "gachaCardRarityRateGroupId": 1,
-    "startAt": 1672811940000,
-    "endAt": 1673071139000,
+    "startAt": 1672812000000,
+    "endAt": 1673071199000,
     "isShowPeriod": true,
     "wishSelectCount": 0,
     "gachaCardRarityRates": [
@@ -92185,6 +92293,10 @@
     "gachaPickups": [
       {
         "gachaId": 2005,
+        "cardId": 182
+      },
+      {
+        "gachaId": 2005,
         "cardId": 232
       },
       {
@@ -92193,11 +92305,7 @@
       },
       {
         "gachaId": 2005,
-        "cardId": 144
-      },
-      {
-        "gachaId": 2005,
-        "cardId": 119
+        "cardId": 234
       }
     ],
     "gachaPickupCostumes": [],
@@ -92212,10 +92320,10 @@
     "gachaType": "normal",
     "name": "[25시, 나이트 코드에서.] ★4 멤버 1명 확정 뽑기",
     "seq": 200,
-    "assetbundleName": "ab_gacha_131",
+    "assetbundleName": "ab_gacha_1014",
     "gachaCardRarityRateGroupId": 1,
-    "startAt": 1672898340000,
-    "endAt": 1673157539000,
+    "startAt": 1672898400000,
+    "endAt": 1673157599000,
     "isShowPeriod": true,
     "wishSelectCount": 0,
     "gachaCardRarityRates": [
@@ -92431,19 +92539,19 @@
     "gachaPickups": [
       {
         "gachaId": 2006,
-        "cardId": 237
-      },
-      {
-        "gachaId": 2006,
         "cardId": 114
       },
       {
         "gachaId": 2006,
-        "cardId": 175
+        "cardId": 152
       },
       {
         "gachaId": 2006,
-        "cardId": 202
+        "cardId": 177
+      },
+      {
+        "gachaId": 2006,
+        "cardId": 219
       }
     ],
     "gachaPickupCostumes": [],
