@@ -68,6 +68,16 @@
     "endAt": 1671969599000
   },
   {
+    "homeBannerId": 138,
+    "seq": 50,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha106",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 106,
+    "startAt": 1671775200000,
+    "endAt": 1672379999000
+  },
+  {
     "homeBannerId": 148,
     "seq": 50,
     "homeBannerType": "general",
@@ -124,15 +134,6 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1670166000000,
     "endAt": 1672498799000
-  },
-  {
-    "homeBannerId": 206,
-    "seq": 60,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_nenmatsu2022_valueset01",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1670943600000,
-    "endAt": 1671807599000
   },
   {
     "homeBannerId": 207,
