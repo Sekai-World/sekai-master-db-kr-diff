@@ -333,7 +333,7 @@
   },
   {
     "configKey": "show_icon_limit_mission_group_id",
-    "value": "6"
+    "value": "10"
   },
   {
     "configKey": "support_event_color",
@@ -342,5 +342,13 @@
   {
     "configKey": "virtual_live_threshold",
     "value": "2"
+  },
+  {
+    "configKey": "cdn_master_data_enabled",
+    "value": "1"
+  },
+  {
+    "configKey": "bonus_event_color",
+    "value": "255,85,170"
   }
 ]

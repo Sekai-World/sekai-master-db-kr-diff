@@ -132,6 +132,10 @@
     "value": "'%s' 랭킹 %d위 보상입니다."
   },
   {
+    "wordingKey": "EVENT_TOP_USER_LIMIT",
+    "value": "로그인 실패하신 이유는 진행 중인 이벤트에서 랭킹 TOP 100에 진입한 적이 있기 때문입니다. 해당 계정의 로그인 가능 기기의 수가 제한되었고 이벤트 종료 후에 제한이 자동으로 해제될 것입니다. 다른 문의사항이 있으시면 공식 고객센터로 연락 주시기 바랍니다."
+  },
+  {
     "wordingKey": "EXPERT",
     "value": "EXPERT"
   },
@@ -2308,7 +2312,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_PERSONAL_REWARD",
-    "value": "추석 응원 이벤트 개인 팔로워 수 보상입니다"
+    "value": "'응원제! 2023 세카이의 새해' 이벤트의 개인 보상입니다."
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
@@ -2324,7 +2328,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
-    "value": "추석 응원 이벤트의 \"세카이\" 팔로워 누적수 보상입니다"
+    "value": "'응원제! 2023 세카이의 새해' 이벤트의 참여 보상입니다."
   },
   {
     "wordingKey": "TB",
@@ -2788,23 +2792,23 @@
   },
   {
     "wordingKey": "WORD_BONUSEFFECT_BONDSEXP",
-    "value": "인연 랭크 EXP 획득량 {0}배 증가"
+    "value": "인연 랭크 EXP 획득량 {0}배로 증가"
   },
   {
     "wordingKey": "WORD_BONUSEFFECT_NUMBEREXP",
-    "value": "멤버 랭크 EXP 획득량 {0}배 증가"
+    "value": "멤버 랭크 EXP 획득량 {0}배로 증가"
   },
   {
     "wordingKey": "WORD_BONUSEFFECT_RANKEXP",
-    "value": "플레이어 랭크 EXP 획득량 {0}배 증가"
+    "value": "플레이어 랭크 EXP 획득량 {0}배로 증가"
   },
   {
     "wordingKey": "WORD_BONUSEFFECT_RATE",
-    "value": "라이브를 통해 {0}(을)를 획득할 확률 {1}배 증가"
+    "value": "라이브를 통해 {0}을 획득할 확률 {1}배로 증가"
   },
   {
     "wordingKey": "WORD_BONUSEFFECT_UNITEXP",
-    "value": "유닛 랭크 EXP 획득량 {0}배 증가"
+    "value": "유닛 랭크 EXP 획득량 {0}배로 증가"
   },
   {
     "wordingKey": "WORD_BONUSEFFECT_VALUE",
@@ -3092,7 +3096,7 @@
   },
   {
     "wordingKey": "WORD_CLOSE_LOGOUT",
-    "value": "true"
+    "value": "false"
   },
   {
     "wordingKey": "WORD_COIN",
@@ -7794,6 +7798,10 @@
     "value": "설문조사"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_return",
+    "value": "복귀 미션"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_virtual_live",
     "value": "버추얼 라이브"
   },
@@ -8540,6 +8548,10 @@
   {
     "wordingKey": "WORD_HOURS_LEFT",
     "value": "앞으로\n{0}시간"
+  },
+  {
+    "wordingKey": "WORD_HUNDRED_MILLION",
+    "value": "{0}억"
   },
   {
     "wordingKey": "WORD_ID",
@@ -11153,7 +11165,7 @@
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
-    "value": "팔로워 수 {0}만 달성 보상"
+    "value": "'응원제! 2023 세카이의 새해' 이벤트의 팔로워 수 {0}억 돌파 보상입니다."
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_UNIT_SCORE_REWARD",
@@ -11353,7 +11365,7 @@
   },
   {
     "wordingKey": "WORD_TranslateMusicName",
-    "value": "번역 버전(영어)"
+    "value": "번역 버전(한국어)"
   },
   {
     "wordingKey": "WORD_TranslateMusicOptionName",

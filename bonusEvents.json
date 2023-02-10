@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "startAt": 1674194400000,
+    "endAt": 1674993599000,
+    "url": "https://act.sgsnssdk.com/gms/a1b8a01ae2/?from_source=h5",
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceType": "material",
+        "resourceId": 14,
+        "value": 3.0
+      },
+      {
+        "bonusType": "exp_unit",
+        "value": 2.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
+      }
+    ],
+    "normalBoxDailyLimit": 4,
+    "exBoxDailyLimit": 1,
+    "normalBoxResourceBoxIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "exBoxResourceBoxIds": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "limitMissionGroupId": 7
+  }
+]
