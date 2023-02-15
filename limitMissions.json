@@ -392,7 +392,7 @@
     "seq": 1,
     "limitMissionType": "clear_virtual_live",
     "requirement": 1,
-    "sentence": " '버추얼 라이브' 1회 참가하기",
+    "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
     "resourceBoxId": 100035
   },
   {
@@ -484,5 +484,59 @@
     "requirement": 5,
     "sentence": "메구리네 루카의 모든 기념일 한정 미션 완료하기",
     "resourceBoxId": 100037
+  },
+  {
+    "limitMissionGroupId": 11,
+    "id": 63,
+    "seq": 1,
+    "limitMissionType": "clear_live_miku_leader",
+    "requirement": 15,
+    "sentence": " 'KAITO'를 리더로 편성하여 \n라이브 15회 플레이하기",
+    "resourceBoxId": 100019
+  },
+  {
+    "limitMissionGroupId": 11,
+    "id": 64,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "resourceBoxId": 100015
+  },
+  {
+    "limitMissionGroupId": 11,
+    "id": 65,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100027
+  },
+  {
+    "limitMissionGroupId": 11,
+    "id": 66,
+    "seq": 1,
+    "limitMissionType": "character_rank_miku",
+    "requirement": 5,
+    "sentence": "KAITO 캐릭터 랭크 5 달성하기",
+    "resourceBoxId": 100038
+  },
+  {
+    "limitMissionGroupId": 11,
+    "id": 67,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기",
+    "resourceBoxId": 100025
+  },
+  {
+    "limitMissionGroupId": 11,
+    "id": 68,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "KAITO의 모든 기념일 한정 미션 완료하기",
+    "resourceBoxId": 100039
   }
 ]

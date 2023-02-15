@@ -12400,6 +12400,226 @@
     "cardEpisodePartType": "second_part"
   },
   {
+    "id": 625,
+    "cardId": 313,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "003014_honami01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 626,
+    "cardId": 313,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "003014_honami02",
+    "releaseConditionId": 30313,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 627,
+    "cardId": 314,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "004012_shiho01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 628,
+    "cardId": 314,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "004012_shiho02",
+    "releaseConditionId": 30314,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 629,
+    "cardId": 315,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "002014_saki01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 630,
+    "cardId": 315,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "002014_saki02",
+    "releaseConditionId": 30315,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 631,
+    "cardId": 316,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "001012_ichika01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 632,
+    "cardId": 316,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "001012_ichika02",
+    "releaseConditionId": 30316,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 633,
+    "cardId": 317,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "023012_len01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 634,
+    "cardId": 317,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "023012_len02",
+    "releaseConditionId": 30317,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
     "id": 635,
     "cardId": 318,
     "title": "사이드 스토리(전편)",
@@ -12446,6 +12666,446 @@
     "cardEpisodePartType": "second_part"
   },
   {
+    "id": 637,
+    "cardId": 319,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "009012_kohane01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 638,
+    "cardId": 319,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "009012_kohane02",
+    "releaseConditionId": 30319,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 639,
+    "cardId": 320,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "024013_luka01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 640,
+    "cardId": 320,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "024013_luka02",
+    "releaseConditionId": 30320,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 641,
+    "cardId": 321,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "006013_haruka01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 642,
+    "cardId": 321,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "006013_haruka02",
+    "releaseConditionId": 30321,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 643,
+    "cardId": 322,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "010011_an01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 644,
+    "cardId": 322,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "010011_an02",
+    "releaseConditionId": 30322,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 645,
+    "cardId": 323,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "008011_shizuku01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 646,
+    "cardId": 323,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "008011_shizuku02",
+    "releaseConditionId": 30323,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 647,
+    "cardId": 324,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "018014_mafuyu01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 648,
+    "cardId": 324,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "018014_mafuyu02",
+    "releaseConditionId": 30324,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 649,
+    "cardId": 325,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "001013_ichika01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 650,
+    "cardId": 325,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "001013_ichika02",
+    "releaseConditionId": 30325,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 651,
+    "cardId": 326,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "021018_miku01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 652,
+    "cardId": 326,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "021018_miku02",
+    "releaseConditionId": 30326,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 653,
+    "cardId": 327,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "017014_kanade01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 654,
+    "cardId": 327,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "017014_kanade02",
+    "releaseConditionId": 30327,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 655,
+    "cardId": 328,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "003015_honami01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 656,
+    "cardId": 328,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "003015_honami02",
+    "releaseConditionId": 30328,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
     "id": 657,
     "cardId": 329,
     "title": "사이드 스토리(전편)",
@@ -12487,6 +13147,226 @@
         "resourceId": 14,
         "resourceType": "material",
         "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 659,
+    "cardId": 330,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "005012_minori01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 660,
+    "cardId": 330,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "005012_minori02",
+    "releaseConditionId": 30330,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 661,
+    "cardId": 331,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "007013_airi01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 662,
+    "cardId": 331,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "007013_airi02",
+    "releaseConditionId": 30331,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 663,
+    "cardId": 332,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "008013_shizuku01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 664,
+    "cardId": 332,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "008013_shizuku02",
+    "releaseConditionId": 30332,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 665,
+    "cardId": 333,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "026012_kaito01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 666,
+    "cardId": 333,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "026012_kaito02",
+    "releaseConditionId": 30333,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 667,
+    "cardId": 334,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "006014_haruka01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 668,
+    "cardId": 334,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "006014_haruka02",
+    "releaseConditionId": 30334,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
       }
     ],
     "cardEpisodePartType": "second_part"
@@ -12722,6 +13602,226 @@
     "cardEpisodePartType": "second_part"
   },
   {
+    "id": 679,
+    "cardId": 341,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "012013_touya01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 680,
+    "cardId": 341,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "012013_touya02",
+    "releaseConditionId": 30341,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 681,
+    "cardId": 342,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "011012_akito01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 682,
+    "cardId": 342,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "011012_akito02",
+    "releaseConditionId": 30342,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 683,
+    "cardId": 343,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "010012_an01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 684,
+    "cardId": 343,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "010012_an02",
+    "releaseConditionId": 30343,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 685,
+    "cardId": 344,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "024015_luka01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 686,
+    "cardId": 344,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "024015_luka02",
+    "releaseConditionId": 30344,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 687,
+    "cardId": 345,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "009013_kohane01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 688,
+    "cardId": 345,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "009013_kohane02",
+    "releaseConditionId": 30345,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
     "id": 689,
     "cardId": 346,
     "title": "사이드 스토리(전편)",
@@ -12814,6 +13914,318 @@
     "cardEpisodePartType": "second_part"
   },
   {
+    "id": 693,
+    "cardId": 348,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "015012_nene01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 694,
+    "cardId": 348,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "015012_nene02",
+    "releaseConditionId": 30348,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 695,
+    "cardId": 349,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "016013_rui01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 696,
+    "cardId": 349,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "016013_rui02",
+    "releaseConditionId": 30349,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 697,
+    "cardId": 350,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "006015_haruka01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 698,
+    "cardId": 350,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "006015_haruka02",
+    "releaseConditionId": 30350,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 699,
+    "cardId": 351,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "003016_honami01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 700,
+    "cardId": 351,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "003016_honami02",
+    "releaseConditionId": 30351,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 701,
+    "cardId": 352,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "009014_kohane01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 702,
+    "cardId": 352,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "009014_kohane02",
+    "releaseConditionId": 30352,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 703,
+    "cardId": 353,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "021020_miku01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 704,
+    "cardId": 353,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "021020_miku02",
+    "releaseConditionId": 30353,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 705,
+    "cardId": 354,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "004013_shiho01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 706,
+    "cardId": 354,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "004013_shiho02",
+    "releaseConditionId": 30354,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
     "id": 707,
     "cardId": 355,
     "title": "사이드 스토리(전편)",
@@ -12855,6 +14267,446 @@
         "resourceId": 14,
         "resourceType": "material",
         "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 709,
+    "cardId": 356,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "014014_emu01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 710,
+    "cardId": 356,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "014014_emu02",
+    "releaseConditionId": 30356,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 711,
+    "cardId": 357,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "013014_tsukasa01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 712,
+    "cardId": 357,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "013014_tsukasa02",
+    "releaseConditionId": 30357,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 713,
+    "cardId": 358,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "025016_meiko01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 714,
+    "cardId": 358,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "025016_meiko02",
+    "releaseConditionId": 30358,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 715,
+    "cardId": 359,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "015013_nene01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 716,
+    "cardId": 359,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "015013_nene02",
+    "releaseConditionId": 30359,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 717,
+    "cardId": 360,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "016014_rui01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 718,
+    "cardId": 360,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "016014_rui02",
+    "releaseConditionId": 30360,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 719,
+    "cardId": 361,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "017015_kanade01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 720,
+    "cardId": 361,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "017015_kanade02",
+    "releaseConditionId": 30361,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 721,
+    "cardId": 362,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "018015_mafuyu01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 722,
+    "cardId": 362,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "018015_mafuyu02",
+    "releaseConditionId": 30362,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 723,
+    "cardId": 363,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "020014_mizuki01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 724,
+    "cardId": 363,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "020014_mizuki02",
+    "releaseConditionId": 30363,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 725,
+    "cardId": 364,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "019014_ena01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 726,
+    "cardId": 364,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "019014_ena02",
+    "releaseConditionId": 30364,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 727,
+    "cardId": 365,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "021021_miku01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 728,
+    "cardId": 365,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "021021_miku02",
+    "releaseConditionId": 30365,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
       }
     ],
     "cardEpisodePartType": "second_part"
@@ -12952,6 +14804,446 @@
     "cardEpisodePartType": "second_part"
   },
   {
+    "id": 733,
+    "cardId": 368,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "007014_airi01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 734,
+    "cardId": 368,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "007014_airi02",
+    "releaseConditionId": 30368,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 735,
+    "cardId": 369,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "002015_saki01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 736,
+    "cardId": 369,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "002015_saki02",
+    "releaseConditionId": 30369,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 737,
+    "cardId": 370,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "014015_emu01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 738,
+    "cardId": 370,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "014015_emu02",
+    "releaseConditionId": 30370,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 739,
+    "cardId": 371,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "022015_rin01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 740,
+    "cardId": 371,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "022015_rin02",
+    "releaseConditionId": 30371,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 741,
+    "cardId": 372,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "008014_shizuku01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 742,
+    "cardId": 372,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "008014_shizuku02",
+    "releaseConditionId": 30372,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 743,
+    "cardId": 373,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "009015_kohane01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 744,
+    "cardId": 373,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "009015_kohane02",
+    "releaseConditionId": 30373,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 745,
+    "cardId": 374,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "012014_touya01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 746,
+    "cardId": 374,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "012014_touya02",
+    "releaseConditionId": 30374,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 747,
+    "cardId": 375,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "023015_len01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 748,
+    "cardId": 375,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "023015_len02",
+    "releaseConditionId": 30375,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 749,
+    "cardId": 376,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "010013_an01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 750,
+    "cardId": 376,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "010013_an02",
+    "releaseConditionId": 30376,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 751,
+    "cardId": 377,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "011013_akito01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 752,
+    "cardId": 377,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "011013_akito02",
+    "releaseConditionId": 30377,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
     "id": 753,
     "cardId": 378,
     "title": "사이드 스토리(전편)",
@@ -13039,6 +15331,978 @@
         "resourceId": 14,
         "resourceType": "material",
         "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 757,
+    "cardId": 380,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "004015_shiho01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 758,
+    "cardId": 380,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "004015_shiho02",
+    "releaseConditionId": 30380,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 759,
+    "cardId": 381,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "001014_ichika01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 760,
+    "cardId": 381,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "001014_ichika02",
+    "releaseConditionId": 30381,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 761,
+    "cardId": 382,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "026015_kaito01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 762,
+    "cardId": 382,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "026015_kaito02",
+    "releaseConditionId": 30382,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 763,
+    "cardId": 383,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "002016_saki01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 764,
+    "cardId": 383,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "002016_saki02",
+    "releaseConditionId": 30383,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 765,
+    "cardId": 384,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "003017_honami01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 766,
+    "cardId": 384,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "003017_honami02",
+    "releaseConditionId": 30384,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 767,
+    "cardId": 385,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "013015_tsukasa01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 768,
+    "cardId": 385,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "013015_tsukasa02",
+    "releaseConditionId": 30385,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 769,
+    "cardId": 386,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "011014_akito01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 770,
+    "cardId": 386,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "011014_akito02",
+    "releaseConditionId": 30386,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 771,
+    "cardId": 387,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "020015_mizuki01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 772,
+    "cardId": 387,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "020015_mizuki02",
+    "releaseConditionId": 30387,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 773,
+    "cardId": 388,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "004016_shiho01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 774,
+    "cardId": 388,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "004016_shiho02",
+    "releaseConditionId": 30388,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 775,
+    "cardId": 389,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "023016_len01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 776,
+    "cardId": 389,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "023016_len02",
+    "releaseConditionId": 30389,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 777,
+    "cardId": 390,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "009016_kohane01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 778,
+    "cardId": 390,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "009016_kohane02",
+    "releaseConditionId": 30390,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 779,
+    "cardId": 391,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "008015_shizuku01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 780,
+    "cardId": 391,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "008015_shizuku02",
+    "releaseConditionId": 30391,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 781,
+    "cardId": 392,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "005013_minori01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 782,
+    "cardId": 392,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "005013_minori02",
+    "releaseConditionId": 30392,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 783,
+    "cardId": 393,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "021022_miku01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 784,
+    "cardId": 393,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "021022_miku02",
+    "releaseConditionId": 30393,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 785,
+    "cardId": 394,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "006016_haruka01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 786,
+    "cardId": 394,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "006016_haruka02",
+    "releaseConditionId": 30394,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 787,
+    "cardId": 395,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "007015_airi01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 788,
+    "cardId": 395,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "007015_airi02",
+    "releaseConditionId": 30395,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 789,
+    "cardId": 396,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "007016_airi01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 790,
+    "cardId": 396,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "007016_airi02",
+    "releaseConditionId": 30396,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 791,
+    "cardId": 397,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "019015_ena01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 792,
+    "cardId": 397,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "019015_ena02",
+    "releaseConditionId": 30397,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 793,
+    "cardId": 398,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "017017_kanade01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 794,
+    "cardId": 398,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "017017_kanade02",
+    "releaseConditionId": 30398,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 795,
+    "cardId": 399,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "022016_rin01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 796,
+    "cardId": 399,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "022016_rin02",
+    "releaseConditionId": 30399,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 797,
+    "cardId": 400,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "018017_mafuyu01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 798,
+    "cardId": 400,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "018017_mafuyu02",
+    "releaseConditionId": 30400,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 799,
+    "cardId": 401,
+    "title": "사이드 스토리(전편)",
+    "scenarioId": "020016_mizuki01",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 800,
+    "cardId": 401,
+    "title": "사이드 스토리(후편)",
+    "scenarioId": "020016_mizuki02",
+    "releaseConditionId": 30401,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
       }
     ],
     "cardEpisodePartType": "second_part"

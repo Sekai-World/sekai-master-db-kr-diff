@@ -910,7 +910,7 @@
         "eventShowDialogueId": 1032,
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "information",
-        "transitionDestinationId": "330"
+        "transitionDestinationId": "308"
       }
     ]
   },
@@ -1116,6 +1116,22 @@
         "buttonStyle": "IMPORTANT",
         "transitionDestinationType": "event",
         "transitionDestinationId": "39"
+      }
+    ]
+  },
+  {
+    "id": 1046,
+    "assetbundleName": "limitmission_show_kaito2023",
+    "showType": "ONCE",
+    "startAt": 1676527200000,
+    "endAt": 1677412799000,
+    "behaviors": [
+      {
+        "id": 124,
+        "eventShowDialogueId": 1046,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "information",
+        "transitionDestinationId": "431"
       }
     ]
   },
