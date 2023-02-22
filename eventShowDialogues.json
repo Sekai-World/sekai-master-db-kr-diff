@@ -1136,6 +1136,179 @@
     ]
   },
   {
+    "id": 1047,
+    "assetbundleName": "event_show_obt40_banner",
+    "showType": "ONCE",
+    "startAt": 1678082400000,
+    "endAt": 1678622399000,
+    "behaviors": [
+      {
+        "id": 125,
+        "eventShowDialogueId": 1047,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "40"
+      }
+    ]
+  },
+  {
+    "id": 1048,
+    "assetbundleName": "event_show_obt41_banner",
+    "showType": "ONCE",
+    "startAt": 1678687200000,
+    "endAt": 1679227199000,
+    "behaviors": [
+      {
+        "id": 126,
+        "eventShowDialogueId": 1048,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "41"
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "assetbundleName": "event_show_obt42_banner",
+    "showType": "ONCE",
+    "startAt": 1679292000000,
+    "endAt": 1679831999000,
+    "behaviors": [
+      {
+        "id": 127,
+        "eventShowDialogueId": 1049,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "42"
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "assetbundleName": "event_show_obt43_banner",
+    "showType": "ONCE",
+    "startAt": 1679896800000,
+    "endAt": 1680436799000,
+    "behaviors": [
+      {
+        "id": 128,
+        "eventShowDialogueId": 1050,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "43"
+      }
+    ]
+  },
+  {
+    "id": 1051,
+    "assetbundleName": "event_show_obt44_banner",
+    "showType": "ONCE",
+    "startAt": 1680501600000,
+    "endAt": 1681041599000,
+    "behaviors": [
+      {
+        "id": 129,
+        "eventShowDialogueId": 1051,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "44"
+      }
+    ]
+  },
+  {
+    "id": 1052,
+    "assetbundleName": "event_show_obt45_banner",
+    "showType": "ONCE",
+    "startAt": 1681106400000,
+    "endAt": 1681646399000,
+    "behaviors": [
+      {
+        "id": 130,
+        "eventShowDialogueId": 1052,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "45"
+      }
+    ]
+  },
+  {
+    "id": 1053,
+    "assetbundleName": "event_show_obt46_banner",
+    "showType": "ONCE",
+    "startAt": 1681711200000,
+    "endAt": 1682251199000,
+    "behaviors": [
+      {
+        "id": 131,
+        "eventShowDialogueId": 1053,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "46"
+      }
+    ]
+  },
+  {
+    "id": 1054,
+    "assetbundleName": "event_show_obt47_banner",
+    "showType": "ONCE",
+    "startAt": 1682316000000,
+    "endAt": 1682855999000,
+    "behaviors": [
+      {
+        "id": 132,
+        "eventShowDialogueId": 1054,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "event",
+        "transitionDestinationId": "47"
+      }
+    ]
+  },
+  {
+    "id": 1055,
+    "assetbundleName": "pajama2023",
+    "showType": "ONCE",
+    "startAt": 1678687200000,
+    "endAt": 1679410799000,
+    "behaviors": [
+      {
+        "id": 133,
+        "eventShowDialogueId": 1055,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_costume_3d"
+      }
+    ]
+  },
+  {
+    "id": 1056,
+    "assetbundleName": "fantasy2023",
+    "showType": "ONCE",
+    "startAt": 1677650400000,
+    "endAt": 1678373940000,
+    "behaviors": [
+      {
+        "id": 134,
+        "eventShowDialogueId": 1056,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_value_set"
+      }
+    ]
+  },
+  {
+    "id": 1057,
+    "assetbundleName": "event_show_livemissionpass_12",
+    "showType": "ONCE",
+    "startAt": 1677596400000,
+    "endAt": 1680274799000,
+    "behaviors": [
+      {
+        "id": 135,
+        "eventShowDialogueId": 1057,
+        "buttonStyle": "IMPORTANT",
+        "transitionDestinationType": "billing_shop_for_live_mission_pass"
+      }
+    ]
+  },
+  {
     "id": 3001,
     "assetbundleName": "event_show_return",
     "showType": "ONCE",
