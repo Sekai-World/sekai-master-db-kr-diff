@@ -5,7 +5,7 @@
     "seq": 3,
     "name": "종합 능력치",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "TotalPower"
   },
   {
@@ -14,7 +14,7 @@
     "seq": 9,
     "name": "메인 유닛",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "Deck"
   },
   {
@@ -23,7 +23,7 @@
     "seq": 2,
     "name": "한마디",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "Comment"
   },
   {
@@ -32,7 +32,7 @@
     "seq": 4,
     "name": "리더 멤버",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "LeaderCard"
   },
   {
@@ -41,16 +41,16 @@
     "seq": 8,
     "name": "칭호",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "HonorDeck"
   },
   {
     "customProfileResourceType": "player_info",
     "id": 9,
     "seq": 5,
-    "name": "MVP/SUPER STAR",
+    "name": "MVP\/SUPER STAR",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "MultiLive"
   },
   {
@@ -59,16 +59,16 @@
     "seq": 11,
     "name": "챌린지 라이브",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "ChallengeLive"
   },
   {
     "customProfileResourceType": "player_info",
     "id": 11,
     "seq": 12,
-    "name": "캐릭터 랭크/챌린지 스테이지",
+    "name": "캐릭터 랭크\/챌린지 스테이지",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "CharacterRankAndChallengeStage"
   },
   {
@@ -77,7 +77,7 @@
     "seq": 10,
     "name": "악곡 정보",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "MusicClearInfo"
   },
   {
@@ -86,7 +86,7 @@
     "seq": 1,
     "name": "플레이어 이름",
     "resourceLoadType": "prefab",
-    "resourceLoadVal": "CustomProfile/ContentView/General",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "EditUserName"
   }
 ]
