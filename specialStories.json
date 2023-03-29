@@ -15,6 +15,7 @@
         "scenarioId": "op_01",
         "releaseConditionId": 1,
         "isAbleSkip": true,
+        "isActionSetRefresh": false,
         "rewardResourceBoxIds": [
           1
         ]
@@ -29,6 +30,7 @@
         "scenarioId": "op_02",
         "releaseConditionId": 1,
         "isAbleSkip": true,
+        "isActionSetRefresh": false,
         "rewardResourceBoxIds": [
           1
         ]
@@ -43,6 +45,7 @@
         "scenarioId": "op_02area",
         "releaseConditionId": 1,
         "isAbleSkip": true,
+        "isActionSetRefresh": false,
         "rewardResourceBoxIds": [
           1
         ]
@@ -57,6 +60,7 @@
         "scenarioId": "op_03",
         "releaseConditionId": 1,
         "isAbleSkip": true,
+        "isActionSetRefresh": false,
         "rewardResourceBoxIds": []
       }
     ]
@@ -78,6 +82,49 @@
         "scenarioId": "collaboration_akuno_op_01",
         "releaseConditionId": 1,
         "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "assetbundleName": "aprilfool-story-2022",
+    "startAt": 1680274800000,
+    "endAt": 1680361199000,
+    "episodes": [
+      {
+        "id": 15,
+        "specialStoryId": 10,
+        "episodeNo": 1,
+        "title": "만우절 2023 도입부 영상",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2022",
+        "scenarioId": "aprilfool_2022_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "assetbundleName": "aprilfool-story-2022",
+    "startAt": 1680361200000,
+    "endAt": 1680447599000,
+    "episodes": [
+      {
+        "id": 16,
+        "specialStoryId": 11,
+        "episodeNo": 1,
+        "title": "만우절 2023 후일담 영상",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2022",
+        "scenarioId": "aprilfool_2022_02",
+        "releaseConditionId": 1000001,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
         "rewardResourceBoxIds": []
       }
     ]

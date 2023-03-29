@@ -1483,7 +1483,6 @@
     "id": 13,
     "description": "{{40;d}}초 동안 스코어가 {{41;v}}％ 상승하며, \nGREAT 이하가 나오기 전까지 스코어가 {{40;v}}％ 상승한다.",
     "descriptionSpriteName": "score_up",
-    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
@@ -1629,6 +1628,221 @@
             "activateEffectDuration": 5.0,
             "activateEffectValueType": "rate",
             "activateEffectValue": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "description": "{{44;d}}초 동안 스코어 {{44;v}}% UP\n자신을 제외한 'Leo\/need' 멤버를 1명 편성할 때마다 스코어 {{44;e}}% UP, 전원 일치하면 추가로 {{44;e}}% 상승한다.(최대 {{44;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 44,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 173,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 174,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 175,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 176,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "description": "{{45;d}}초 동안 스코어 {{45;v}}% UP\n자신을 제외한 'MORE MORE JUMP!' 멤버를 1명 편성할 때마다 스코어 {{45;e}}% UP, 전원 일치하면 추가로 {{45;e}}% 상승한다.(최대 {{45;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 45,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 177,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 178,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 179,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 180,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "description": "{{46;d}}초 동안 스코어 {{46;v}}% UP\n자신을 제외한 'Vivid BAD SQUAD' 멤버를 1명 편성할 때마다 스코어 {{46;e}}% UP, 전원 일치하면 추가로 {{46;e}}% 상승한다.(최대 {{46;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 46,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 181,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 182,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 183,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 184,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "description": "{{47;d}}초 동안 스코어 {{47;v}}% UP\n자신을 제외한 '원더랜즈×쇼타임' 멤버를 1명 편성할 때마다 스코어 {{47;e}}% UP, 전원 일치하면 추가로 {{47;e}}% 상승한다.(최대 {{47;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 47,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 185,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 186,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 187,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 188,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "description": "{{48;d}}초 동안 스코어 {{48;v}}% UP\n자신을 제외한 '25시, 나이트 코드에서.' 멤버를 1명 편성할 때마다 스코어 {{48;e}}% UP, 전원 일치하면 추가로 {{48;e}}% 상승한다.(최대 {{48;m}}%)",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 48,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 189,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 190,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 191,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 192,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
           }
         ]
       }

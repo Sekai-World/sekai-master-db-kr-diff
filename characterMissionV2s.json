@@ -1,0 +1,3746 @@
+[
+  {
+    "id": 1001,
+    "characterMissionType": "play_live",
+    "characterId": 1,
+    "parameterGroupId": 1,
+    "sentence": "｢호시노 이치카｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1002,
+    "characterMissionType": "waiting_room",
+    "characterId": 1,
+    "parameterGroupId": 2,
+    "sentence": "｢호시노 이치카｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 1,
+    "parameterGroupId": 3,
+    "sentence": "｢호시노 이치카｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 1,
+    "parameterGroupId": 4,
+    "sentence": "｢호시노 이치카｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 1,
+    "parameterGroupId": 5,
+    "sentence": "｢호시노 이치카｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 1,
+    "parameterGroupId": 6,
+    "sentence": "｢호시노 이치카｣의 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 1,
+    "parameterGroupId": 7,
+    "sentence": "｢호시노 이치카｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 1,
+    "parameterGroupId": 8,
+    "sentence": "｢호시노 이치카｣의 어나더 보컬 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 1,
+    "parameterGroupId": 9,
+    "sentence": "｢호시노 이치카｣의 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 1,
+    "parameterGroupId": 11,
+    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 1,
+    "parameterGroupId": 13,
+    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1012,
+    "characterMissionType": "collect_member",
+    "characterId": 1,
+    "parameterGroupId": 14,
+    "sentence": "｢호시노 이치카｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 1,
+    "parameterGroupId": 15,
+    "sentence": "｢호시노 이치카｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 1,
+    "parameterGroupId": 16,
+    "sentence": "｢호시노 이치카｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 1,
+    "parameterGroupId": 17,
+    "sentence": "｢호시노 이치카｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 1,
+    "parameterGroupId": 18,
+    "sentence": "｢호시노 이치카｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2001,
+    "characterMissionType": "play_live",
+    "characterId": 2,
+    "parameterGroupId": 1,
+    "sentence": "｢텐마 사키｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2002,
+    "characterMissionType": "waiting_room",
+    "characterId": 2,
+    "parameterGroupId": 2,
+    "sentence": "｢텐마 사키｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 2,
+    "parameterGroupId": 3,
+    "sentence": "｢텐마 사키｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 2,
+    "parameterGroupId": 4,
+    "sentence": "｢텐마 사키｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 2,
+    "parameterGroupId": 5,
+    "sentence": "｢텐마 사키｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 2,
+    "parameterGroupId": 6,
+    "sentence": "｢텐마 사키｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 2,
+    "parameterGroupId": 7,
+    "sentence": "｢텐마 사키｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 2,
+    "parameterGroupId": 8,
+    "sentence": "｢텐마 사키｣의 어나더 보컬 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 2,
+    "parameterGroupId": 9,
+    "sentence": "｢텐마 사키｣의 에어리어 아이템 누적 {requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 2,
+    "parameterGroupId": 11,
+    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 2,
+    "parameterGroupId": 13,
+    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2012,
+    "characterMissionType": "collect_member",
+    "characterId": 2,
+    "parameterGroupId": 14,
+    "sentence": "｢텐마 사키｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 2,
+    "parameterGroupId": 15,
+    "sentence": "｢텐마 사키｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 2,
+    "parameterGroupId": 16,
+    "sentence": "｢텐마 사키｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 2,
+    "parameterGroupId": 17,
+    "sentence": "｢텐마 사키｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 2,
+    "parameterGroupId": 18,
+    "sentence": "｢텐마 사키｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3001,
+    "characterMissionType": "play_live",
+    "characterId": 3,
+    "parameterGroupId": 1,
+    "sentence": "｢모치즈키 호나미｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3002,
+    "characterMissionType": "waiting_room",
+    "characterId": 3,
+    "parameterGroupId": 2,
+    "sentence": "｢모치즈키 호나미｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 3,
+    "parameterGroupId": 3,
+    "sentence": "｢모치즈키 호나미｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 3,
+    "parameterGroupId": 4,
+    "sentence": "｢모치즈키 호나미｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 3,
+    "parameterGroupId": 5,
+    "sentence": "｢모치즈키 호나미｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 3,
+    "parameterGroupId": 6,
+    "sentence": "｢모치즈키 호나미｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 3,
+    "parameterGroupId": 7,
+    "sentence": "｢모치즈키 호나미｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 3,
+    "parameterGroupId": 8,
+    "sentence": "｢모치즈키 호나미｣의 어나더 보컬 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 3,
+    "parameterGroupId": 9,
+    "sentence": "｢모치즈키 호나미｣의 에어리어 아이템 누적 {requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 3,
+    "parameterGroupId": 11,
+    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 3,
+    "parameterGroupId": 13,
+    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3012,
+    "characterMissionType": "collect_member",
+    "characterId": 3,
+    "parameterGroupId": 14,
+    "sentence": "｢모치즈키 호나미｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 3,
+    "parameterGroupId": 15,
+    "sentence": "｢모치즈키 호나미｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 3,
+    "parameterGroupId": 16,
+    "sentence": "｢모치즈키 호나미｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 3,
+    "parameterGroupId": 17,
+    "sentence": "｢모치즈키 호나미｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 3,
+    "parameterGroupId": 18,
+    "sentence": "｢모치즈키 호나미｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4001,
+    "characterMissionType": "play_live",
+    "characterId": 4,
+    "parameterGroupId": 1,
+    "sentence": "｢히노모리 시호｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4002,
+    "characterMissionType": "waiting_room",
+    "characterId": 4,
+    "parameterGroupId": 2,
+    "sentence": "｢히노모리 시호｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 4,
+    "parameterGroupId": 3,
+    "sentence": "｢히노모리 시호｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 4,
+    "parameterGroupId": 4,
+    "sentence": "｢히노모리 시호｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 4,
+    "parameterGroupId": 5,
+    "sentence": "｢히노모리 시호｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 4,
+    "parameterGroupId": 6,
+    "sentence": "｢히노모리 시호｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 4,
+    "parameterGroupId": 7,
+    "sentence": "｢히노모리 시호｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 4,
+    "parameterGroupId": 8,
+    "sentence": "｢히노모리 시호｣의 어나더 보컬 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 4,
+    "parameterGroupId": 9,
+    "sentence": "｢히노모리 시호｣의 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 4,
+    "parameterGroupId": 11,
+    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 4,
+    "parameterGroupId": 13,
+    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4012,
+    "characterMissionType": "collect_member",
+    "characterId": 4,
+    "parameterGroupId": 14,
+    "sentence": "｢히노모리 시호｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 4,
+    "parameterGroupId": 15,
+    "sentence": "｢히노모리 시호｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 4,
+    "parameterGroupId": 16,
+    "sentence": "｢히노모리 시호｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 4,
+    "parameterGroupId": 17,
+    "sentence": "｢히노모리 시호｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 4,
+    "parameterGroupId": 18,
+    "sentence": "｢히노모리 시호｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5001,
+    "characterMissionType": "play_live",
+    "characterId": 5,
+    "parameterGroupId": 1,
+    "sentence": "｢하나사토 미노리｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5002,
+    "characterMissionType": "waiting_room",
+    "characterId": 5,
+    "parameterGroupId": 2,
+    "sentence": "｢하나사토 미노리｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 5,
+    "parameterGroupId": 3,
+    "sentence": "｢하나사토 미노리｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 5,
+    "parameterGroupId": 4,
+    "sentence": "｢하나사토 미노리｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 5,
+    "parameterGroupId": 5,
+    "sentence": "｢하나사토 미노리｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 5,
+    "parameterGroupId": 6,
+    "sentence": "｢하나사토 미노리｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 5,
+    "parameterGroupId": 7,
+    "sentence": "｢하나사토 미노리｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 5,
+    "parameterGroupId": 8,
+    "sentence": "｢하나사토 미노리｣의 어나더 보컬 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 5,
+    "parameterGroupId": 9,
+    "sentence": "｢하나사토 미노리｣의 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 5,
+    "parameterGroupId": 11,
+    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 5,
+    "parameterGroupId": 13,
+    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5012,
+    "characterMissionType": "collect_member",
+    "characterId": 5,
+    "parameterGroupId": 14,
+    "sentence": "｢하나사토 미노리｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 5,
+    "parameterGroupId": 15,
+    "sentence": "｢하나사토 미노리｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 5,
+    "parameterGroupId": 16,
+    "sentence": "｢하나사토 미노리｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 5,
+    "parameterGroupId": 17,
+    "sentence": "｢하나사토 미노리｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 5,
+    "parameterGroupId": 18,
+    "sentence": "｢하나사토 미노리｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6001,
+    "characterMissionType": "play_live",
+    "characterId": 6,
+    "parameterGroupId": 1,
+    "sentence": "｢키리타니 하루카｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6002,
+    "characterMissionType": "waiting_room",
+    "characterId": 6,
+    "parameterGroupId": 2,
+    "sentence": "｢키리타니 하루카｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 6,
+    "parameterGroupId": 3,
+    "sentence": "｢키리타니 하루카｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 6,
+    "parameterGroupId": 4,
+    "sentence": "｢키리타니 하루카｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 6,
+    "parameterGroupId": 5,
+    "sentence": "｢키리타니 하루카｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 6,
+    "parameterGroupId": 6,
+    "sentence": "｢키리타니 하루카｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 6,
+    "parameterGroupId": 7,
+    "sentence": "｢키리타니 하루카｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 6,
+    "parameterGroupId": 8,
+    "sentence": "｢키리타니 하루카｣의 어나더 보컬 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 6,
+    "parameterGroupId": 9,
+    "sentence": "｢키리타니 하루카｣의 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 6,
+    "parameterGroupId": 11,
+    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 6,
+    "parameterGroupId": 13,
+    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6012,
+    "characterMissionType": "collect_member",
+    "characterId": 6,
+    "parameterGroupId": 14,
+    "sentence": "｢키리타니 하루카｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 6,
+    "parameterGroupId": 15,
+    "sentence": "｢키리타니 하루카｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 6,
+    "parameterGroupId": 16,
+    "sentence": "｢키리타니 하루카｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 6,
+    "parameterGroupId": 17,
+    "sentence": "｢키리타니 하루카｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 6,
+    "parameterGroupId": 18,
+    "sentence": "｢키리타니 하루카｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7001,
+    "characterMissionType": "play_live",
+    "characterId": 7,
+    "parameterGroupId": 1,
+    "sentence": "｢모모이 아이리｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7002,
+    "characterMissionType": "waiting_room",
+    "characterId": 7,
+    "parameterGroupId": 2,
+    "sentence": "｢모모이 아이리｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 7,
+    "parameterGroupId": 3,
+    "sentence": "｢모모이 아이리｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 7,
+    "parameterGroupId": 4,
+    "sentence": "｢모모이 아이리｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 7,
+    "parameterGroupId": 5,
+    "sentence": "｢모모이 아이리｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 7,
+    "parameterGroupId": 6,
+    "sentence": "｢모모이 아이리｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 7,
+    "parameterGroupId": 7,
+    "sentence": "｢모모이 아이리｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 7,
+    "parameterGroupId": 8,
+    "sentence": "｢모모이 아이리｣의 어나더 보컬 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 7,
+    "parameterGroupId": 9,
+    "sentence": "｢모모이 아이리｣의 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 7,
+    "parameterGroupId": 11,
+    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 7,
+    "parameterGroupId": 13,
+    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7012,
+    "characterMissionType": "collect_member",
+    "characterId": 7,
+    "parameterGroupId": 14,
+    "sentence": "｢모모이 아이리｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 7,
+    "parameterGroupId": 15,
+    "sentence": "｢모모이 아이리｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 7,
+    "parameterGroupId": 16,
+    "sentence": "｢모모이 아이리｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 7,
+    "parameterGroupId": 17,
+    "sentence": "｢모모이 아이리｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 7,
+    "parameterGroupId": 18,
+    "sentence": "｢모모이 아이리｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8001,
+    "characterMissionType": "play_live",
+    "characterId": 8,
+    "parameterGroupId": 1,
+    "sentence": "｢히노모리 시즈쿠｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8002,
+    "characterMissionType": "waiting_room",
+    "characterId": 8,
+    "parameterGroupId": 2,
+    "sentence": "｢히노모리 시즈쿠｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 8,
+    "parameterGroupId": 3,
+    "sentence": "｢히노모리 시즈쿠｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 8,
+    "parameterGroupId": 4,
+    "sentence": "｢히노모리 시즈쿠｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 8,
+    "parameterGroupId": 5,
+    "sentence": "｢히노모리 시즈쿠｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 8,
+    "parameterGroupId": 6,
+    "sentence": "｢히노모리 시즈쿠｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 8,
+    "parameterGroupId": 7,
+    "sentence": "｢히노모리 시즈쿠｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 8,
+    "parameterGroupId": 8,
+    "sentence": "｢히노모리 시즈쿠｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 8,
+    "parameterGroupId": 9,
+    "sentence": "｢히노모리 시즈쿠｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 8,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 8,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8012,
+    "characterMissionType": "collect_member",
+    "characterId": 8,
+    "parameterGroupId": 14,
+    "sentence": "｢히노모리 시즈쿠｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 8,
+    "parameterGroupId": 15,
+    "sentence": "｢히노모리 시즈쿠｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 8,
+    "parameterGroupId": 16,
+    "sentence": "｢히노모리 시즈쿠｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 8,
+    "parameterGroupId": 17,
+    "sentence": "｢히노모리 시즈쿠｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 8,
+    "parameterGroupId": 18,
+    "sentence": "｢히노모리 시즈쿠｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9001,
+    "characterMissionType": "play_live",
+    "characterId": 9,
+    "parameterGroupId": 1,
+    "sentence": "｢아즈사와 코하네｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9002,
+    "characterMissionType": "waiting_room",
+    "characterId": 9,
+    "parameterGroupId": 2,
+    "sentence": "｢아즈사와 코하네｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 9,
+    "parameterGroupId": 3,
+    "sentence": "｢아즈사와 코하네｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 9,
+    "parameterGroupId": 4,
+    "sentence": "｢아즈사와 코하네｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 9,
+    "parameterGroupId": 5,
+    "sentence": "｢아즈사와 코하네｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 9,
+    "parameterGroupId": 6,
+    "sentence": "｢아즈사와 코하네｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 9,
+    "parameterGroupId": 7,
+    "sentence": "｢아즈사와 코하네｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 9,
+    "parameterGroupId": 8,
+    "sentence": "｢아즈사와 코하네｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 9,
+    "parameterGroupId": 9,
+    "sentence": "｢아즈사와 코하네｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 9,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 9,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9012,
+    "characterMissionType": "collect_member",
+    "characterId": 9,
+    "parameterGroupId": 14,
+    "sentence": "｢아즈사와 코하네｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 9,
+    "parameterGroupId": 15,
+    "sentence": "｢아즈사와 코하네｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 9,
+    "parameterGroupId": 16,
+    "sentence": "｢아즈사와 코하네｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 9,
+    "parameterGroupId": 17,
+    "sentence": "｢아즈사와 코하네｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 9,
+    "parameterGroupId": 18,
+    "sentence": "｢아즈사와 코하네｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10001,
+    "characterMissionType": "play_live",
+    "characterId": 10,
+    "parameterGroupId": 1,
+    "sentence": "｢시라이시 안｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10002,
+    "characterMissionType": "waiting_room",
+    "characterId": 10,
+    "parameterGroupId": 2,
+    "sentence": "｢시라이시 안｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 10,
+    "parameterGroupId": 3,
+    "sentence": "｢시라이시 안｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 10,
+    "parameterGroupId": 4,
+    "sentence": "｢시라이시 안｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 10,
+    "parameterGroupId": 5,
+    "sentence": "｢시라이시 안｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 10,
+    "parameterGroupId": 6,
+    "sentence": "｢시라이시 안｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 10,
+    "parameterGroupId": 7,
+    "sentence": "｢시라이시 안｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 10,
+    "parameterGroupId": 8,
+    "sentence": "｢시라이시 안｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 10,
+    "parameterGroupId": 9,
+    "sentence": "｢시라이시 안｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 10,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 10,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10012,
+    "characterMissionType": "collect_member",
+    "characterId": 10,
+    "parameterGroupId": 14,
+    "sentence": "｢시라이시 안｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 10,
+    "parameterGroupId": 15,
+    "sentence": "｢시라이시 안｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 10,
+    "parameterGroupId": 16,
+    "sentence": "｢시라이시 안｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 10,
+    "parameterGroupId": 17,
+    "sentence": "｢시라이시 안｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 10,
+    "parameterGroupId": 18,
+    "sentence": "｢시라이시 안｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11001,
+    "characterMissionType": "play_live",
+    "characterId": 11,
+    "parameterGroupId": 1,
+    "sentence": "｢시노노메 아키토｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11002,
+    "characterMissionType": "waiting_room",
+    "characterId": 11,
+    "parameterGroupId": 2,
+    "sentence": "｢시노노메 아키토｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 11,
+    "parameterGroupId": 3,
+    "sentence": "｢시노노메 아키토｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 11,
+    "parameterGroupId": 4,
+    "sentence": "｢시노노메 아키토｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 11,
+    "parameterGroupId": 5,
+    "sentence": "｢시노노메 아키토｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 11,
+    "parameterGroupId": 6,
+    "sentence": "｢시노노메 아키토｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 11,
+    "parameterGroupId": 7,
+    "sentence": "｢시노노메 아키토｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 11,
+    "parameterGroupId": 8,
+    "sentence": "｢시노노메 아키토｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 11,
+    "parameterGroupId": 9,
+    "sentence": "｢시노노메 아키토｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 11,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 11,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11012,
+    "characterMissionType": "collect_member",
+    "characterId": 11,
+    "parameterGroupId": 14,
+    "sentence": "｢시노노메 아키토｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 11,
+    "parameterGroupId": 15,
+    "sentence": "｢시노노메 아키토｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 11,
+    "parameterGroupId": 16,
+    "sentence": "｢시노노메 아키토｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 11,
+    "parameterGroupId": 17,
+    "sentence": "｢시노노메 아키토｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 11,
+    "parameterGroupId": 18,
+    "sentence": "｢시노노메 아키토｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12001,
+    "characterMissionType": "play_live",
+    "characterId": 12,
+    "parameterGroupId": 1,
+    "sentence": "｢아오야기 토우야｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12002,
+    "characterMissionType": "waiting_room",
+    "characterId": 12,
+    "parameterGroupId": 2,
+    "sentence": "｢아오야기 토우야｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 12,
+    "parameterGroupId": 3,
+    "sentence": "｢아오야기 토우야｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 12,
+    "parameterGroupId": 4,
+    "sentence": "｢아오야기 토우야｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 12,
+    "parameterGroupId": 5,
+    "sentence": "｢아오야기 토우야｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 12,
+    "parameterGroupId": 6,
+    "sentence": "｢아오야기 토우야｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 12,
+    "parameterGroupId": 7,
+    "sentence": "｢아오야기 토우야｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 12,
+    "parameterGroupId": 8,
+    "sentence": "｢아오야기 토우야｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 12,
+    "parameterGroupId": 9,
+    "sentence": "｢아오야기 토우야｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 12,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 12,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12012,
+    "characterMissionType": "collect_member",
+    "characterId": 12,
+    "parameterGroupId": 14,
+    "sentence": "｢아오야기 토우야｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 12,
+    "parameterGroupId": 15,
+    "sentence": "｢아오야기 토우야｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 12,
+    "parameterGroupId": 16,
+    "sentence": "｢아오야기 토우야｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 12,
+    "parameterGroupId": 17,
+    "sentence": "｢아오야기 토우야｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 12,
+    "parameterGroupId": 18,
+    "sentence": "｢아오야기 토우야｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13001,
+    "characterMissionType": "play_live",
+    "characterId": 13,
+    "parameterGroupId": 1,
+    "sentence": "｢텐마 츠카사｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13002,
+    "characterMissionType": "waiting_room",
+    "characterId": 13,
+    "parameterGroupId": 2,
+    "sentence": "｢텐마 츠카사｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 13,
+    "parameterGroupId": 3,
+    "sentence": "｢텐마 츠카사｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 13,
+    "parameterGroupId": 4,
+    "sentence": "｢텐마 츠카사｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 13,
+    "parameterGroupId": 5,
+    "sentence": "｢텐마 츠카사｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 13,
+    "parameterGroupId": 6,
+    "sentence": "｢텐마 츠카사｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 13,
+    "parameterGroupId": 7,
+    "sentence": "｢텐마 츠카사｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 13,
+    "parameterGroupId": 8,
+    "sentence": "｢텐마 츠카사｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 13,
+    "parameterGroupId": 9,
+    "sentence": "｢텐마 츠카사｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 13,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 13,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13012,
+    "characterMissionType": "collect_member",
+    "characterId": 13,
+    "parameterGroupId": 14,
+    "sentence": "｢텐마 츠카사｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 13,
+    "parameterGroupId": 15,
+    "sentence": "｢텐마 츠카사｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 13,
+    "parameterGroupId": 16,
+    "sentence": "｢텐마 츠카사｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 13,
+    "parameterGroupId": 17,
+    "sentence": "｢텐마 츠카사｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 13,
+    "parameterGroupId": 18,
+    "sentence": "｢텐마 츠카사｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14001,
+    "characterMissionType": "play_live",
+    "characterId": 14,
+    "parameterGroupId": 1,
+    "sentence": "｢오오토리 에무｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14002,
+    "characterMissionType": "waiting_room",
+    "characterId": 14,
+    "parameterGroupId": 2,
+    "sentence": "｢오오토리 에무｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 14,
+    "parameterGroupId": 3,
+    "sentence": "｢오오토리 에무｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 14,
+    "parameterGroupId": 4,
+    "sentence": "｢오오토리 에무｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 14,
+    "parameterGroupId": 5,
+    "sentence": "｢오오토리 에무｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 14,
+    "parameterGroupId": 6,
+    "sentence": "｢오오토리 에무｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 14,
+    "parameterGroupId": 7,
+    "sentence": "｢오오토리 에무｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 14,
+    "parameterGroupId": 8,
+    "sentence": "｢오오토리 에무｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 14,
+    "parameterGroupId": 9,
+    "sentence": "｢오오토리 에무｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 14,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 14,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14012,
+    "characterMissionType": "collect_member",
+    "characterId": 14,
+    "parameterGroupId": 14,
+    "sentence": "｢오오토리 에무｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 14,
+    "parameterGroupId": 15,
+    "sentence": "｢오오토리 에무｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 14,
+    "parameterGroupId": 16,
+    "sentence": "｢오오토리 에무｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 14,
+    "parameterGroupId": 17,
+    "sentence": "｢오오토리 에무｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 14,
+    "parameterGroupId": 18,
+    "sentence": "｢오오토리 에무｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15001,
+    "characterMissionType": "play_live",
+    "characterId": 15,
+    "parameterGroupId": 1,
+    "sentence": "｢쿠사나기 네네｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15002,
+    "characterMissionType": "waiting_room",
+    "characterId": 15,
+    "parameterGroupId": 2,
+    "sentence": "｢쿠사나기 네네｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 15,
+    "parameterGroupId": 3,
+    "sentence": "｢쿠사나기 네네｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 15,
+    "parameterGroupId": 4,
+    "sentence": "｢쿠사나기 네네｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 15,
+    "parameterGroupId": 5,
+    "sentence": "｢쿠사나기 네네｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 15,
+    "parameterGroupId": 6,
+    "sentence": "｢쿠사나기 네네｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 15,
+    "parameterGroupId": 7,
+    "sentence": "｢쿠사나기 네네｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 15,
+    "parameterGroupId": 8,
+    "sentence": "｢쿠사나기 네네｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 15,
+    "parameterGroupId": 9,
+    "sentence": "｢쿠사나기 네네｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 15,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 15,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15012,
+    "characterMissionType": "collect_member",
+    "characterId": 15,
+    "parameterGroupId": 14,
+    "sentence": "｢쿠사나기 네네｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 15,
+    "parameterGroupId": 15,
+    "sentence": "｢쿠사나기 네네｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 15,
+    "parameterGroupId": 16,
+    "sentence": "｢쿠사나기 네네｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 15,
+    "parameterGroupId": 17,
+    "sentence": "｢쿠사나기 네네｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 15,
+    "parameterGroupId": 18,
+    "sentence": "｢쿠사나기 네네｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16001,
+    "characterMissionType": "play_live",
+    "characterId": 16,
+    "parameterGroupId": 1,
+    "sentence": "｢카미시로 루이｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16002,
+    "characterMissionType": "waiting_room",
+    "characterId": 16,
+    "parameterGroupId": 2,
+    "sentence": "｢카미시로 루이｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 16,
+    "parameterGroupId": 3,
+    "sentence": "｢카미시로 루이｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 16,
+    "parameterGroupId": 4,
+    "sentence": "｢카미시로 루이｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 16,
+    "parameterGroupId": 5,
+    "sentence": "｢카미시로 루이｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 16,
+    "parameterGroupId": 6,
+    "sentence": "｢카미시로 루이｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 16,
+    "parameterGroupId": 7,
+    "sentence": "｢카미시로 루이｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 16,
+    "parameterGroupId": 8,
+    "sentence": "｢카미시로 루이｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 16,
+    "parameterGroupId": 9,
+    "sentence": "｢카미시로 루이｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 16,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 16,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16012,
+    "characterMissionType": "collect_member",
+    "characterId": 16,
+    "parameterGroupId": 14,
+    "sentence": "｢카미시로 루이｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 16,
+    "parameterGroupId": 15,
+    "sentence": "｢카미시로 루이｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 16,
+    "parameterGroupId": 16,
+    "sentence": "｢카미시로 루이｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 16,
+    "parameterGroupId": 17,
+    "sentence": "｢카미시로 루이｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 16,
+    "parameterGroupId": 18,
+    "sentence": "｢카미시로 루이｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17001,
+    "characterMissionType": "play_live",
+    "characterId": 17,
+    "parameterGroupId": 1,
+    "sentence": "｢요이사키 카나데｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17002,
+    "characterMissionType": "waiting_room",
+    "characterId": 17,
+    "parameterGroupId": 2,
+    "sentence": "｢요이사키 카나데｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 17,
+    "parameterGroupId": 3,
+    "sentence": "｢요이사키 카나데｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 17,
+    "parameterGroupId": 4,
+    "sentence": "｢요이사키 카나데｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 17,
+    "parameterGroupId": 5,
+    "sentence": "｢요이사키 카나데｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 17,
+    "parameterGroupId": 6,
+    "sentence": "｢요이사키 카나데｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 17,
+    "parameterGroupId": 7,
+    "sentence": "｢요이사키 카나데｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 17,
+    "parameterGroupId": 8,
+    "sentence": "｢요이사키 카나데｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 17,
+    "parameterGroupId": 9,
+    "sentence": "｢요이사키 카나데｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 17,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 17,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17012,
+    "characterMissionType": "collect_member",
+    "characterId": 17,
+    "parameterGroupId": 14,
+    "sentence": "｢요이사키 카나데｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 17,
+    "parameterGroupId": 15,
+    "sentence": "｢요이사키 카나데｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 17,
+    "parameterGroupId": 16,
+    "sentence": "｢요이사키 카나데｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 17,
+    "parameterGroupId": 17,
+    "sentence": "｢요이사키 카나데｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 17,
+    "parameterGroupId": 18,
+    "sentence": "｢요이사키 카나데｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18001,
+    "characterMissionType": "play_live",
+    "characterId": 18,
+    "parameterGroupId": 1,
+    "sentence": "｢아사히나 마후유｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18002,
+    "characterMissionType": "waiting_room",
+    "characterId": 18,
+    "parameterGroupId": 2,
+    "sentence": "｢아사히나 마후유｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 18,
+    "parameterGroupId": 3,
+    "sentence": "｢아사히나 마후유｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 18,
+    "parameterGroupId": 4,
+    "sentence": "｢아사히나 마후유｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 18,
+    "parameterGroupId": 5,
+    "sentence": "｢아사히나 마후유｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 18,
+    "parameterGroupId": 6,
+    "sentence": "｢아사히나 마후유｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 18,
+    "parameterGroupId": 7,
+    "sentence": "｢아사히나 마후유｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 18,
+    "parameterGroupId": 8,
+    "sentence": "｢아사히나 마후유｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 18,
+    "parameterGroupId": 9,
+    "sentence": "｢아사히나 마후유｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 18,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 18,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18012,
+    "characterMissionType": "collect_member",
+    "characterId": 18,
+    "parameterGroupId": 14,
+    "sentence": "｢아사히나 마후유｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 18,
+    "parameterGroupId": 15,
+    "sentence": "｢아사히나 마후유｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 18,
+    "parameterGroupId": 16,
+    "sentence": "｢아사히나 마후유｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 18,
+    "parameterGroupId": 17,
+    "sentence": "｢아사히나 마후유｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 18,
+    "parameterGroupId": 18,
+    "sentence": "｢아사히나 마후유｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19001,
+    "characterMissionType": "play_live",
+    "characterId": 19,
+    "parameterGroupId": 1,
+    "sentence": "｢시노노메 에나｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19002,
+    "characterMissionType": "waiting_room",
+    "characterId": 19,
+    "parameterGroupId": 2,
+    "sentence": "｢시노노메 에나｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 19,
+    "parameterGroupId": 3,
+    "sentence": "｢시노노메 에나｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 19,
+    "parameterGroupId": 4,
+    "sentence": "｢시노노메 에나｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 19,
+    "parameterGroupId": 5,
+    "sentence": "｢시노노메 에나｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 19,
+    "parameterGroupId": 6,
+    "sentence": "｢시노노메 에나｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 19,
+    "parameterGroupId": 7,
+    "sentence": "｢시노노메 에나｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 19,
+    "parameterGroupId": 8,
+    "sentence": "｢시노노메 에나｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 19,
+    "parameterGroupId": 9,
+    "sentence": "｢시노노메 에나｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 19,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 19,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19012,
+    "characterMissionType": "collect_member",
+    "characterId": 19,
+    "parameterGroupId": 14,
+    "sentence": "｢시노노메 에나｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 19,
+    "parameterGroupId": 15,
+    "sentence": "｢시노노메 에나｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 19,
+    "parameterGroupId": 16,
+    "sentence": "｢시노노메 에나｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 19,
+    "parameterGroupId": 17,
+    "sentence": "｢시노노메 에나｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 19,
+    "parameterGroupId": 18,
+    "sentence": "｢시노노메 에나｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20001,
+    "characterMissionType": "play_live",
+    "characterId": 20,
+    "parameterGroupId": 1,
+    "sentence": "｢아키야마 미즈키｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20002,
+    "characterMissionType": "waiting_room",
+    "characterId": 20,
+    "parameterGroupId": 2,
+    "sentence": "｢아키야마 미즈키｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 20,
+    "parameterGroupId": 3,
+    "sentence": "｢아키야마 미즈키｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 20,
+    "parameterGroupId": 4,
+    "sentence": "｢아키야마 미즈키｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 20,
+    "parameterGroupId": 5,
+    "sentence": "｢아키야마 미즈키｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 20,
+    "parameterGroupId": 6,
+    "sentence": "｢아키야마 미즈키｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 20,
+    "parameterGroupId": 7,
+    "sentence": "｢아키야마 미즈키｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 20,
+    "parameterGroupId": 8,
+    "sentence": "｢아키야마 미즈키｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 20,
+    "parameterGroupId": 9,
+    "sentence": "｢아키야마 미즈키｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 20,
+    "parameterGroupId": 11,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 20,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20012,
+    "characterMissionType": "collect_member",
+    "characterId": 20,
+    "parameterGroupId": 14,
+    "sentence": "｢아키야마 미즈키｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 20,
+    "parameterGroupId": 15,
+    "sentence": "｢아키야마 미즈키｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 20,
+    "parameterGroupId": 16,
+    "sentence": "｢아키야마 미즈키｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 20,
+    "parameterGroupId": 17,
+    "sentence": "｢아키야마 미즈키｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 20,
+    "parameterGroupId": 18,
+    "sentence": "｢아키야마 미즈키｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21001,
+    "characterMissionType": "play_live",
+    "characterId": 21,
+    "parameterGroupId": 1,
+    "sentence": "｢하츠네 미쿠｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21002,
+    "characterMissionType": "waiting_room",
+    "characterId": 21,
+    "parameterGroupId": 2,
+    "sentence": "｢하츠네 미쿠｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 21,
+    "parameterGroupId": 3,
+    "sentence": "｢하츠네 미쿠｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 21,
+    "parameterGroupId": 4,
+    "sentence": "｢하츠네 미쿠｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 21,
+    "parameterGroupId": 5,
+    "sentence": "｢하츠네 미쿠｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 21,
+    "parameterGroupId": 6,
+    "sentence": "｢하츠네 미쿠｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 21,
+    "parameterGroupId": 7,
+    "sentence": "｢하츠네 미쿠｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 21,
+    "parameterGroupId": 8,
+    "sentence": "｢하츠네 미쿠｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 21,
+    "parameterGroupId": 10,
+    "sentence": "｢하츠네 미쿠｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 21,
+    "parameterGroupId": 12,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 21,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21012,
+    "characterMissionType": "collect_member",
+    "characterId": 21,
+    "parameterGroupId": 14,
+    "sentence": "｢하츠네 미쿠｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 21,
+    "parameterGroupId": 15,
+    "sentence": "｢하츠네 미쿠｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 21,
+    "parameterGroupId": 16,
+    "sentence": "｢하츠네 미쿠｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 21,
+    "parameterGroupId": 17,
+    "sentence": "｢하츠네 미쿠｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 21,
+    "parameterGroupId": 18,
+    "sentence": "｢하츠네 미쿠｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22001,
+    "characterMissionType": "play_live",
+    "characterId": 22,
+    "parameterGroupId": 1,
+    "sentence": "｢카가미네 린｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22002,
+    "characterMissionType": "waiting_room",
+    "characterId": 22,
+    "parameterGroupId": 2,
+    "sentence": "｢카가미네 린｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 22,
+    "parameterGroupId": 3,
+    "sentence": "｢카가미네 린｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 22,
+    "parameterGroupId": 4,
+    "sentence": "｢카가미네 린｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 22,
+    "parameterGroupId": 5,
+    "sentence": "｢카가미네 린｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 22,
+    "parameterGroupId": 6,
+    "sentence": "｢카가미네 린｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 22,
+    "parameterGroupId": 7,
+    "sentence": "｢카가미네 린｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 22,
+    "parameterGroupId": 8,
+    "sentence": "｢카가미네 린｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 22,
+    "parameterGroupId": 9,
+    "sentence": "｢카가미네 린｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 22,
+    "parameterGroupId": 12,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 22,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22012,
+    "characterMissionType": "collect_member",
+    "characterId": 22,
+    "parameterGroupId": 14,
+    "sentence": "｢카가미네 린｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 22,
+    "parameterGroupId": 15,
+    "sentence": "｢카가미네 린｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 22,
+    "parameterGroupId": 16,
+    "sentence": "｢카가미네 린｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 22,
+    "parameterGroupId": 17,
+    "sentence": "｢카가미네 린｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 22,
+    "parameterGroupId": 18,
+    "sentence": "｢카가미네 린｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23001,
+    "characterMissionType": "play_live",
+    "characterId": 23,
+    "parameterGroupId": 1,
+    "sentence": "｢카가미네 렌｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23002,
+    "characterMissionType": "waiting_room",
+    "characterId": 23,
+    "parameterGroupId": 2,
+    "sentence": "｢카가미네 렌｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 23,
+    "parameterGroupId": 3,
+    "sentence": "｢카가미네 렌｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 23,
+    "parameterGroupId": 4,
+    "sentence": "｢카가미네 렌｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 23,
+    "parameterGroupId": 5,
+    "sentence": "｢카가미네 렌｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 23,
+    "parameterGroupId": 6,
+    "sentence": "｢카가미네 렌｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 23,
+    "parameterGroupId": 7,
+    "sentence": "｢카가미네 렌｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 23,
+    "parameterGroupId": 8,
+    "sentence": "｢카가미네 렌｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 23,
+    "parameterGroupId": 9,
+    "sentence": "｢카가미네 렌｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 23,
+    "parameterGroupId": 12,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 23,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23012,
+    "characterMissionType": "collect_member",
+    "characterId": 23,
+    "parameterGroupId": 14,
+    "sentence": "｢카가미네 렌｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 23,
+    "parameterGroupId": 15,
+    "sentence": "｢카가미네 렌｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 23,
+    "parameterGroupId": 16,
+    "sentence": "｢카가미네 렌｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 23,
+    "parameterGroupId": 17,
+    "sentence": "｢카가미네 렌｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 23,
+    "parameterGroupId": 18,
+    "sentence": "｢카가미네 렌｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24001,
+    "characterMissionType": "play_live",
+    "characterId": 24,
+    "parameterGroupId": 1,
+    "sentence": "｢메구리네 루카｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24002,
+    "characterMissionType": "waiting_room",
+    "characterId": 24,
+    "parameterGroupId": 2,
+    "sentence": "｢메구리네 루카｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 24,
+    "parameterGroupId": 3,
+    "sentence": "｢메구리네 루카｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 24,
+    "parameterGroupId": 4,
+    "sentence": "｢메구리네 루카｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 24,
+    "parameterGroupId": 5,
+    "sentence": "｢메구리네 루카｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 24,
+    "parameterGroupId": 6,
+    "sentence": "｢메구리네 루카｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 24,
+    "parameterGroupId": 7,
+    "sentence": "｢메구리네 루카｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 24,
+    "parameterGroupId": 8,
+    "sentence": "｢메구리네 루카｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 24,
+    "parameterGroupId": 9,
+    "sentence": "｢메구리네 루카｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 24,
+    "parameterGroupId": 12,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 24,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24012,
+    "characterMissionType": "collect_member",
+    "characterId": 24,
+    "parameterGroupId": 14,
+    "sentence": "｢메구리네 루카｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 24,
+    "parameterGroupId": 15,
+    "sentence": "｢메구리네 루카｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 24,
+    "parameterGroupId": 16,
+    "sentence": "｢메구리네 루카｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 24,
+    "parameterGroupId": 17,
+    "sentence": "｢메구리네 루카｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 24,
+    "parameterGroupId": 18,
+    "sentence": "｢메구리네 루카｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25001,
+    "characterMissionType": "play_live",
+    "characterId": 25,
+    "parameterGroupId": 1,
+    "sentence": "｢MEIKO｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25002,
+    "characterMissionType": "waiting_room",
+    "characterId": 25,
+    "parameterGroupId": 2,
+    "sentence": "｢MEIKO｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 25,
+    "parameterGroupId": 3,
+    "sentence": "｢MEIKO｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 25,
+    "parameterGroupId": 4,
+    "sentence": "｢MEIKO｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 25,
+    "parameterGroupId": 5,
+    "sentence": "｢MEIKO｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 25,
+    "parameterGroupId": 6,
+    "sentence": "｢MEIKO｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 25,
+    "parameterGroupId": 7,
+    "sentence": "｢MEIKO｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 25,
+    "parameterGroupId": 8,
+    "sentence": "｢MEIKO｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 25,
+    "parameterGroupId": 9,
+    "sentence": "｢MEIKO｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 25,
+    "parameterGroupId": 12,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 25,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25012,
+    "characterMissionType": "collect_member",
+    "characterId": 25,
+    "parameterGroupId": 14,
+    "sentence": "｢MEIKO｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 25,
+    "parameterGroupId": 15,
+    "sentence": "｢MEIKO｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 25,
+    "parameterGroupId": 16,
+    "sentence": "｢MEIKO｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 25,
+    "parameterGroupId": 17,
+    "sentence": "｢MEIKO｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 25,
+    "parameterGroupId": 18,
+    "sentence": "｢MEIKO｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26001,
+    "characterMissionType": "play_live",
+    "characterId": 26,
+    "parameterGroupId": 1,
+    "sentence": "｢KAITO｣를 리더로  편성하여 라이브를 {requirement}회 플레이.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26002,
+    "characterMissionType": "waiting_room",
+    "characterId": 26,
+    "parameterGroupId": 2,
+    "sentence": "｢KAITO｣의 멤버를 {requirement}회 대기실로 이동시키기.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 26,
+    "parameterGroupId": 3,
+    "sentence": "｢KAITO｣의 3D 의상을{requirement}벌 보유.",
+    "progressSentence": "{progress}벌",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 26,
+    "parameterGroupId": 4,
+    "sentence": "｢KAITO｣의 스탬프를 {requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 26,
+    "parameterGroupId": 5,
+    "sentence": "｢KAITO｣의 에어리어 대화 {requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 26,
+    "parameterGroupId": 6,
+    "sentence": "｢KAITO｣ 카드 에피소드 전편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 26,
+    "parameterGroupId": 7,
+    "sentence": "｢KAITO｣의 카드 에피소드 후편{requirement}종류 읽기.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 26,
+    "parameterGroupId": 8,
+    "sentence": "｢KAITO｣의 어나더 보컬 {requirement}곡 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 26,
+    "parameterGroupId": 9,
+    "sentence": "｢KAITO｣의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 26,
+    "parameterGroupId": 12,
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 26,
+    "parameterGroupId": 13,
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26012,
+    "characterMissionType": "collect_member",
+    "characterId": 26,
+    "parameterGroupId": 14,
+    "sentence": "｢KAITO｣의 멤버를{requirement}종류 보유.",
+    "progressSentence": "{progress}종류",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 26,
+    "parameterGroupId": 15,
+    "sentence": "｢KAITO｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 26,
+    "parameterGroupId": 16,
+    "sentence": "｢KAITO｣의 ★1\/★2\/★3 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 26,
+    "parameterGroupId": 17,
+    "sentence": "｢KAITO｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 26,
+    "parameterGroupId": 18,
+    "sentence": "｢KAITO｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "progressSentence": "{progress}회",
+    "isAchievementMission": true
+  }
+]

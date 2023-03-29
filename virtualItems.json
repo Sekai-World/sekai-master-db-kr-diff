@@ -990,6 +990,20 @@
     "gameCharacterUnitId": 19
   },
   {
+    "id": 77,
+    "virtualItemCategory": "normal",
+    "seq": 770,
+    "priority": 770,
+    "name": "HAPPY BIRTHDAY 코하네",
+    "assetbundleName": "chara_kohane_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_kohane_birthday",
+    "effectExpressionType": "throw_effect",
+    "gameCharacterUnitId": 9
+  },
+  {
     "id": 78,
     "virtualItemCategory": "normal",
     "seq": 780,
@@ -1016,6 +1030,33 @@
     "effectAssetbundleName": "event_hinamatsuri",
     "effectExpressionType": "throw_effect",
     "gameCharacterUnitId": 2
+  },
+  {
+    "id": 80,
+    "virtualItemCategory": "normal",
+    "seq": 800,
+    "priority": 800,
+    "name": "HAPPY WHITE DAY",
+    "assetbundleName": "event_whiteday_2021",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_whiteday_2021",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 81,
+    "virtualItemCategory": "normal",
+    "seq": 810,
+    "priority": 810,
+    "name": "HAPPY BIRTHDAY 아이리",
+    "assetbundleName": "chara_airi_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_airi_birthday",
+    "effectExpressionType": "throw_effect",
+    "gameCharacterUnitId": 7
   },
   {
     "id": 82,

@@ -25214,6 +25214,21 @@
     },
     "virtualItems": [
       {
+        "id": 77,
+        "virtualItemCategory": "normal",
+        "seq": 770,
+        "priority": 770,
+        "name": "HAPPY BIRTHDAY 코하네",
+        "assetbundleName": "chara_kohane_birthday",
+        "costVirtualCoin": 3000,
+        "costJewel": 3000,
+        "cheerPoint": 3000,
+        "effectAssetbundleName": "chara_kohane_birthday",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special",
+        "gameCharacterUnitId": 9
+      },
+      {
         "id": 1,
         "virtualItemCategory": "normal",
         "seq": 10,
@@ -27269,8 +27284,8 @@
     "name": "화이트데이 라이브",
     "assetbundleName": "vlentrance_00063",
     "screenMvMusicVocalId": 8,
-    "startAt": 1647064800000,
-    "endAt": 1647410399000,
+    "startAt": 1678600800000,
+    "endAt": 1678946399000,
     "rankingAnnounceAt": 4102412399000,
     "virtualLiveSetlists": [
       {
@@ -27526,10 +27541,24 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 63,
-      "startAt": 1647064800000,
-      "endAt": 1647410399000
+      "startAt": 1678600800000,
+      "endAt": 1678946399000
     },
     "virtualItems": [
+      {
+        "id": 80,
+        "virtualItemCategory": "normal",
+        "seq": 800,
+        "priority": 800,
+        "name": "HAPPY WHITE DAY",
+        "assetbundleName": "event_whiteday_2021",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_whiteday_2021",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
       {
         "id": 1,
         "virtualItemCategory": "normal",
@@ -28239,6 +28268,21 @@
       "endAt": 1679291999000
     },
     "virtualItems": [
+      {
+        "id": 81,
+        "virtualItemCategory": "normal",
+        "seq": 810,
+        "priority": 810,
+        "name": "HAPPY BIRTHDAY 아이리",
+        "assetbundleName": "chara_airi_birthday",
+        "costVirtualCoin": 3000,
+        "costJewel": 3000,
+        "cheerPoint": 3000,
+        "effectAssetbundleName": "chara_airi_birthday",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special",
+        "gameCharacterUnitId": 7
+      },
       {
         "id": 1,
         "virtualItemCategory": "normal",
@@ -31003,8 +31047,8 @@
     "name": "HAPPY BIRTHDAY 라이브 미노리",
     "assetbundleName": "vlentrance_00068",
     "screenMvMusicVocalId": 147,
-    "startAt": 1649743200000,
-    "endAt": 1650002399000,
+    "startAt": 1681279200000,
+    "endAt": 1681538399000,
     "rankingAnnounceAt": 4102412399000,
     "virtualLiveSetlists": [
       {
@@ -31144,8 +31188,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 68,
-      "startAt": 1649743200000,
-      "endAt": 1650002399000
+      "startAt": 1681279200000,
+      "endAt": 1681538399000
     },
     "virtualItems": [
       {
@@ -32441,8 +32485,8 @@
     "name": "HAPPY BIRTHDAY 라이브 에나",
     "assetbundleName": "vlentrance_00070",
     "screenMvMusicVocalId": 53,
-    "startAt": 1651125600000,
-    "endAt": 1651384799000,
+    "startAt": 1682661600000,
+    "endAt": 1682920799000,
     "rankingAnnounceAt": 4102412399000,
     "virtualLiveSetlists": [
       {
@@ -32584,8 +32628,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 70,
-      "startAt": 1651125600000,
-      "endAt": 1651384799000
+      "startAt": 1682661600000,
+      "endAt": 1682920799000
     },
     "virtualItems": [
       {
@@ -72275,8 +72319,8 @@
     "name": "화이트데이 2023 라이브",
     "assetbundleName": "vlentrance_00138",
     "screenMvMusicVocalId": 312,
-    "startAt": 1647064800000,
-    "endAt": 1647410399000,
+    "startAt": 1678600800000,
+    "endAt": 1678946399000,
     "rankingAnnounceAt": 4102412399000,
     "virtualLiveSetlists": [
       {
@@ -72532,10 +72576,24 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 138,
-      "startAt": 1647064800000,
-      "endAt": 1647410399000
+      "startAt": 1678600800000,
+      "endAt": 1678946399000
     },
     "virtualItems": [
+      {
+        "id": 80,
+        "virtualItemCategory": "normal",
+        "seq": 800,
+        "priority": 800,
+        "name": "HAPPY WHITE DAY",
+        "assetbundleName": "event_whiteday_2021",
+        "costVirtualCoin": 1500,
+        "costJewel": 1500,
+        "cheerPoint": 1500,
+        "effectAssetbundleName": "event_whiteday_2021",
+        "effectExpressionType": "throw_effect",
+        "virtualItemLabelType": "special"
+      },
       {
         "id": 1,
         "virtualItemCategory": "normal",
