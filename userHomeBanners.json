@@ -77,15 +77,6 @@
     "endAt": 1681181999000
   },
   {
-    "homeBannerId": 257,
-    "seq": 110,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_premiummissionpass_2022_03",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1678028400000,
-    "endAt": 1680274799000
-  },
-  {
     "homeBannerId": 262,
     "seq": 40,
     "homeBannerType": "general",
@@ -94,6 +85,15 @@
     "transitionDestinationId": 43,
     "startAt": 1679896800000,
     "endAt": 1680436799000
+  },
+  {
+    "homeBannerId": 281,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_premiummissionpass_2022_04",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1680274800000,
+    "endAt": 1680706799000
   },
   {
     "homeBannerId": 283,

@@ -85,7 +85,7 @@
     "characterMissionType": "area_item_level_up_unit",
     "characterId": 1,
     "parameterGroupId": 11,
-    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -94,7 +94,7 @@
     "characterMissionType": "area_item_level_up_reality_world",
     "characterId": 1,
     "parameterGroupId": 13,
-    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -112,7 +112,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 1,
     "parameterGroupId": 15,
-    "sentence": "｢호시노 이치카｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢호시노 이치카｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -130,7 +130,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 1,
     "parameterGroupId": 17,
-    "sentence": "｢호시노 이치카｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢호시노 이치카｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -139,7 +139,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 1,
     "parameterGroupId": 18,
-    "sentence": "｢호시노 이치카｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢호시노 이치카｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -229,7 +229,7 @@
     "characterMissionType": "area_item_level_up_unit",
     "characterId": 2,
     "parameterGroupId": 11,
-    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -238,7 +238,7 @@
     "characterMissionType": "area_item_level_up_reality_world",
     "characterId": 2,
     "parameterGroupId": 13,
-    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -256,7 +256,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 2,
     "parameterGroupId": 15,
-    "sentence": "｢텐마 사키｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢텐마 사키｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -274,7 +274,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 2,
     "parameterGroupId": 17,
-    "sentence": "｢텐마 사키｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢텐마 사키｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -283,7 +283,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 2,
     "parameterGroupId": 18,
-    "sentence": "｢텐마 사키｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢텐마 사키｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -373,7 +373,7 @@
     "characterMissionType": "area_item_level_up_unit",
     "characterId": 3,
     "parameterGroupId": 11,
-    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -382,7 +382,7 @@
     "characterMissionType": "area_item_level_up_reality_world",
     "characterId": 3,
     "parameterGroupId": 13,
-    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -400,7 +400,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 3,
     "parameterGroupId": 15,
-    "sentence": "｢모치즈키 호나미｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢모치즈키 호나미｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -418,7 +418,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 3,
     "parameterGroupId": 17,
-    "sentence": "｢모치즈키 호나미｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢모치즈키 호나미｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -427,7 +427,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 3,
     "parameterGroupId": 18,
-    "sentence": "｢모치즈키 호나미｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢모치즈키 호나미｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -517,7 +517,7 @@
     "characterMissionType": "area_item_level_up_unit",
     "characterId": 4,
     "parameterGroupId": 11,
-    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -526,7 +526,7 @@
     "characterMissionType": "area_item_level_up_reality_world",
     "characterId": 4,
     "parameterGroupId": 13,
-    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -544,7 +544,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 4,
     "parameterGroupId": 15,
-    "sentence": "｢히노모리 시호｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢히노모리 시호｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -562,7 +562,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 4,
     "parameterGroupId": 17,
-    "sentence": "｢히노모리 시호｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢히노모리 시호｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -571,7 +571,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 4,
     "parameterGroupId": 18,
-    "sentence": "｢히노모리 시호｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢히노모리 시호｣의 ★1\/★2\/★3 희귀도 카드 {requirement회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -661,7 +661,7 @@
     "characterMissionType": "area_item_level_up_unit",
     "characterId": 5,
     "parameterGroupId": 11,
-    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -670,7 +670,7 @@
     "characterMissionType": "area_item_level_up_reality_world",
     "characterId": 5,
     "parameterGroupId": 13,
-    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -688,7 +688,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 5,
     "parameterGroupId": 15,
-    "sentence": "｢하나사토 미노리｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢하나사토 미노리｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -706,7 +706,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 5,
     "parameterGroupId": 17,
-    "sentence": "｢하나사토 미노리｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢하나사토 미노리｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -715,7 +715,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 5,
     "parameterGroupId": 18,
-    "sentence": "｢하나사토 미노리｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢하나사토 미노리｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -805,7 +805,7 @@
     "characterMissionType": "area_item_level_up_unit",
     "characterId": 6,
     "parameterGroupId": 11,
-    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -814,7 +814,7 @@
     "characterMissionType": "area_item_level_up_reality_world",
     "characterId": 6,
     "parameterGroupId": 13,
-    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -832,7 +832,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 6,
     "parameterGroupId": 15,
-    "sentence": "｢키리타니 하루카｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢키리타니 하루카｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -850,7 +850,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 6,
     "parameterGroupId": 17,
-    "sentence": "｢키리타니 하루카｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢키리타니 하루카｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -859,7 +859,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 6,
     "parameterGroupId": 18,
-    "sentence": "｢키리타니 하루카｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢키리타니 하루카｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -949,7 +949,7 @@
     "characterMissionType": "area_item_level_up_unit",
     "characterId": 7,
     "parameterGroupId": 11,
-    "sentence": "에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "지정 유닛의 에어리어 아이템 누적{requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -958,7 +958,7 @@
     "characterMissionType": "area_item_level_up_reality_world",
     "characterId": 7,
     "parameterGroupId": 13,
-    "sentence": "세계 에어리어 아이템 누적{requirement}레벨 업.",
+    "sentence": "현실 세계의 에어리어 아이템 누적 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -976,7 +976,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 7,
     "parameterGroupId": 15,
-    "sentence": "｢모모이 아이리｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢모모이 아이리｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -994,7 +994,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 7,
     "parameterGroupId": 17,
-    "sentence": "｢모모이 아이리｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢모모이 아이리｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1003,7 +1003,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 7,
     "parameterGroupId": 18,
-    "sentence": "｢모모이 아이리｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢모모이 아이리｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1120,7 +1120,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 8,
     "parameterGroupId": 15,
-    "sentence": "｢히노모리 시즈쿠｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢히노모리 시즈쿠｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1138,7 +1138,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 8,
     "parameterGroupId": 17,
-    "sentence": "｢히노모리 시즈쿠｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢히노모리 시즈쿠｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1147,7 +1147,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 8,
     "parameterGroupId": 18,
-    "sentence": "｢히노모리 시즈쿠｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢히노모리 시즈쿠｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1264,7 +1264,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 9,
     "parameterGroupId": 15,
-    "sentence": "｢아즈사와 코하네｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢아즈사와 코하네｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1282,7 +1282,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 9,
     "parameterGroupId": 17,
-    "sentence": "｢아즈사와 코하네｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢아즈사와 코하네｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1291,7 +1291,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 9,
     "parameterGroupId": 18,
-    "sentence": "｢아즈사와 코하네｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢아즈사와 코하네｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1408,7 +1408,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 10,
     "parameterGroupId": 15,
-    "sentence": "｢시라이시 안｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢시라이시 안｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1426,7 +1426,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 10,
     "parameterGroupId": 17,
-    "sentence": "｢시라이시 안｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢시라이시 안｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1435,7 +1435,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 10,
     "parameterGroupId": 18,
-    "sentence": "｢시라이시 안｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢시라이시 안｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1552,7 +1552,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 11,
     "parameterGroupId": 15,
-    "sentence": "｢시노노메 아키토｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢시노노메 아키토｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1570,7 +1570,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 11,
     "parameterGroupId": 17,
-    "sentence": "｢시노노메 아키토｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢시노노메 아키토｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1579,7 +1579,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 11,
     "parameterGroupId": 18,
-    "sentence": "｢시노노메 아키토｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢시노노메 아키토｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1696,7 +1696,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 12,
     "parameterGroupId": 15,
-    "sentence": "｢아오야기 토우야｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢아오야기 토우야｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1714,7 +1714,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 12,
     "parameterGroupId": 17,
-    "sentence": "｢아오야기 토우야｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢아오야기 토우야｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1723,7 +1723,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 12,
     "parameterGroupId": 18,
-    "sentence": "｢아오야기 토우야｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢아오야기 토우야｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1840,7 +1840,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 13,
     "parameterGroupId": 15,
-    "sentence": "｢텐마 츠카사｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢텐마 츠카사｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1858,7 +1858,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 13,
     "parameterGroupId": 17,
-    "sentence": "｢텐마 츠카사｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢텐마 츠카사｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1867,7 +1867,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 13,
     "parameterGroupId": 18,
-    "sentence": "｢텐마 츠카사｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢텐마 츠카사｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1984,7 +1984,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 14,
     "parameterGroupId": 15,
-    "sentence": "｢오오토리 에무｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢오오토리 에무｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2002,7 +2002,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 14,
     "parameterGroupId": 17,
-    "sentence": "｢오오토리 에무｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢오오토리 에무｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2011,7 +2011,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 14,
     "parameterGroupId": 18,
-    "sentence": "｢오오토리 에무｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢오오토리 에무｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2128,7 +2128,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 15,
     "parameterGroupId": 15,
-    "sentence": "｢쿠사나기 네네｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢쿠사나기 네네｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2146,7 +2146,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 15,
     "parameterGroupId": 17,
-    "sentence": "｢쿠사나기 네네｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢쿠사나기 네네｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2155,7 +2155,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 15,
     "parameterGroupId": 18,
-    "sentence": "｢쿠사나기 네네｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢쿠사나기 네네｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2272,7 +2272,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 16,
     "parameterGroupId": 15,
-    "sentence": "｢카미시로 루이｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢카미시로 루이｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2290,7 +2290,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 16,
     "parameterGroupId": 17,
-    "sentence": "｢카미시로 루이｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢카미시로 루이｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2299,7 +2299,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 16,
     "parameterGroupId": 18,
-    "sentence": "｢카미시로 루이｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢카미시로 루이｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2416,7 +2416,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 17,
     "parameterGroupId": 15,
-    "sentence": "｢요이사키 카나데｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢요이사키 카나데｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2434,7 +2434,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 17,
     "parameterGroupId": 17,
-    "sentence": "｢요이사키 카나데｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢요이사키 카나데｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2443,7 +2443,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 17,
     "parameterGroupId": 18,
-    "sentence": "｢요이사키 카나데｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢요이사키 카나데｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2560,7 +2560,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 18,
     "parameterGroupId": 15,
-    "sentence": "｢아사히나 마후유｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢아사히나 마후유｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2578,7 +2578,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 18,
     "parameterGroupId": 17,
-    "sentence": "｢아사히나 마후유｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢아사히나 마후유｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2587,7 +2587,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 18,
     "parameterGroupId": 18,
-    "sentence": "｢아사히나 마후유｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢아사히나 마후유｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2704,7 +2704,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 19,
     "parameterGroupId": 15,
-    "sentence": "｢시노노메 에나｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢시노노메 에나｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2722,7 +2722,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 19,
     "parameterGroupId": 17,
-    "sentence": "｢시노노메 에나｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢시노노메 에나｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2731,7 +2731,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 19,
     "parameterGroupId": 18,
-    "sentence": "｢시노노메 에나｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢시노노메 에나｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2848,7 +2848,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 20,
     "parameterGroupId": 15,
-    "sentence": "｢아키야마 미즈키｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢아키야마 미즈키｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2866,7 +2866,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 20,
     "parameterGroupId": 17,
-    "sentence": "｢아키야마 미즈키｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢아키야마 미즈키｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2875,7 +2875,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 20,
     "parameterGroupId": 18,
-    "sentence": "｢아키야마 미즈키｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢아키야마 미즈키｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2992,7 +2992,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 21,
     "parameterGroupId": 15,
-    "sentence": "｢하츠네 미쿠｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢하츠네 미쿠｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3010,7 +3010,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 21,
     "parameterGroupId": 17,
-    "sentence": "｢하츠네 미쿠｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢하츠네 미쿠｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3019,7 +3019,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 21,
     "parameterGroupId": 18,
-    "sentence": "｢하츠네 미쿠｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢하츠네 미쿠｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3136,7 +3136,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 22,
     "parameterGroupId": 15,
-    "sentence": "｢카가미네 린｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢카가미네 린｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3154,7 +3154,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 22,
     "parameterGroupId": 17,
-    "sentence": "｢카가미네 린｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢카가미네 린｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3163,7 +3163,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 22,
     "parameterGroupId": 18,
-    "sentence": "｢카가미네 린｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢카가미네 린｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3280,7 +3280,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 23,
     "parameterGroupId": 15,
-    "sentence": "｢카가미네 렌｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢카가미네 렌｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3298,7 +3298,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 23,
     "parameterGroupId": 17,
-    "sentence": "｢카가미네 렌｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢카가미네 렌｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3307,7 +3307,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 23,
     "parameterGroupId": 18,
-    "sentence": "｢카가미네 렌｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢카가미네 렌｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3424,7 +3424,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 24,
     "parameterGroupId": 15,
-    "sentence": "｢메구리네 루카｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢메구리네 루카｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3442,7 +3442,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 24,
     "parameterGroupId": 17,
-    "sentence": "｢메구리네 루카｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢메구리네 루카｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3451,7 +3451,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 24,
     "parameterGroupId": 18,
-    "sentence": "｢메구리네 루카｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢메구리네 루카｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3568,7 +3568,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 25,
     "parameterGroupId": 15,
-    "sentence": "｢MEIKO｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢MEIKO｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3586,7 +3586,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 25,
     "parameterGroupId": 17,
-    "sentence": "｢MEIKO｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢MEIKO｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3595,7 +3595,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 25,
     "parameterGroupId": 18,
-    "sentence": "｢MEIKO｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢MEIKO｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3712,7 +3712,7 @@
     "characterMissionType": "skill_level_up_rare",
     "characterId": 26,
     "parameterGroupId": 15,
-    "sentence": "｢KAITO｣의 ★4\/Birthday 희귀도 카드 스킬 {requirement}회 레벨 업.",
+    "sentence": "｢KAITO｣의 ★4\/Birthday\/Anniversary 희귀도 카드 스킬 {requirement}회 레벨 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3730,7 +3730,7 @@
     "characterMissionType": "master_rank_up_rare",
     "characterId": 26,
     "parameterGroupId": 17,
-    "sentence": "｢KAITO｣의 ★4\/Birthday 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢KAITO｣의 ★4\/Birthday\/Anniversary 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3739,7 +3739,7 @@
     "characterMissionType": "master_rank_up_standard",
     "characterId": 26,
     "parameterGroupId": 18,
-    "sentence": "｢KAITO｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 레벨 업.",
+    "sentence": "｢KAITO｣의 ★1\/★2\/★3 희귀도 카드 {requirement}회 마스터 랭크 업.",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   }

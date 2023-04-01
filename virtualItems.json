@@ -1101,6 +1101,20 @@
     "gameCharacterUnitId": 20
   },
   {
+    "id": 85,
+    "virtualItemCategory": "normal",
+    "seq": 850,
+    "priority": 850,
+    "name": "HAPPY BIRTHDAY 미노리",
+    "assetbundleName": "chara_minori_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_minori_birthday",
+    "effectExpressionType": "throw_effect",
+    "gameCharacterUnitId": 5
+  },
+  {
     "id": 86,
     "virtualItemCategory": "normal",
     "seq": 860,
@@ -1113,6 +1127,20 @@
     "effectAssetbundleName": "event_resonate",
     "effectExpressionType": "throw_effect",
     "gameCharacterUnitId": 4
+  },
+  {
+    "id": 87,
+    "virtualItemCategory": "normal",
+    "seq": 870,
+    "priority": 870,
+    "name": "HAPPY BIRTHDAY 에나",
+    "assetbundleName": "chara_ena_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_ena_birthday",
+    "effectExpressionType": "throw_effect",
+    "gameCharacterUnitId": 19
   },
   {
     "id": 88,
