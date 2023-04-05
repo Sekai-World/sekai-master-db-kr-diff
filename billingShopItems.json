@@ -669,7 +669,7 @@
     "resourceBoxId": 1145,
     "bonusResourceBoxId": 1145,
     "startAt": 1664517600000,
-    "endAt": 1665327540000
+    "endAt": 1665327599000
   },
   {
     "id": 1146,
@@ -685,7 +685,7 @@
     "resourceBoxId": 1146,
     "bonusResourceBoxId": 1146,
     "startAt": 1664517600000,
-    "endAt": 1665327540000
+    "endAt": 1665327599000
   },
   {
     "id": 1147,
@@ -701,7 +701,7 @@
     "resourceBoxId": 1147,
     "bonusResourceBoxId": 1147,
     "startAt": 1664517600000,
-    "endAt": 1665327540000
+    "endAt": 1665327599000
   },
   {
     "id": 1148,
@@ -717,7 +717,7 @@
     "resourceBoxId": 1148,
     "bonusResourceBoxId": 1148,
     "startAt": 1664517600000,
-    "endAt": 1665327540000
+    "endAt": 1665327599000
   },
   {
     "id": 1149,
@@ -733,7 +733,7 @@
     "resourceBoxId": 1149,
     "bonusResourceBoxId": 1149,
     "startAt": 1664517600000,
-    "endAt": 1665327540000
+    "endAt": 1665327599000
   },
   {
     "id": 1150,
@@ -749,7 +749,7 @@
     "resourceBoxId": 1150,
     "bonusResourceBoxId": 1150,
     "startAt": 1664517600000,
-    "endAt": 1665327540000
+    "endAt": 1665327599000
   },
   {
     "id": 1151,
@@ -843,7 +843,7 @@
     "resourceBoxId": 1156,
     "bonusResourceBoxId": 1156,
     "startAt": 1667196000000,
-    "endAt": 1667833140000
+    "endAt": 1667833199000
   },
   {
     "id": 1157,
@@ -859,7 +859,7 @@
     "resourceBoxId": 1157,
     "bonusResourceBoxId": 1157,
     "startAt": 1667196000000,
-    "endAt": 1667833140000
+    "endAt": 1667833199000
   },
   {
     "id": 1158,
@@ -875,7 +875,7 @@
     "resourceBoxId": 1158,
     "bonusResourceBoxId": 1158,
     "startAt": 1667196000000,
-    "endAt": 1667833140000
+    "endAt": 1667833199000
   },
   {
     "id": 1159,
@@ -889,7 +889,7 @@
     "assetbundleName": "shop_10012",
     "resourceBoxId": 54,
     "startAt": 1667196000000,
-    "endAt": 1667833140000,
+    "endAt": 1667833199000,
     "purchaseOption": "exchange"
   },
   {
@@ -904,7 +904,7 @@
     "assetbundleName": "shop_10011",
     "resourceBoxId": 53,
     "startAt": 1667196000000,
-    "endAt": 1667833140000,
+    "endAt": 1667833199000,
     "purchaseOption": "exchange"
   },
   {
@@ -921,7 +921,7 @@
     "resourceBoxId": 35,
     "bonusResourceBoxId": 26,
     "startAt": 1668870000000,
-    "endAt": 1669906740000
+    "endAt": 1669906799000
   },
   {
     "id": 1162,
@@ -937,7 +937,7 @@
     "resourceBoxId": 34,
     "bonusResourceBoxId": 25,
     "startAt": 1668870000000,
-    "endAt": 1669906740000
+    "endAt": 1669906799000
   },
   {
     "id": 1163,
@@ -953,7 +953,7 @@
     "resourceBoxId": 1148,
     "bonusResourceBoxId": 1148,
     "startAt": 1668870000000,
-    "endAt": 1669906740000
+    "endAt": 1669906799000
   },
   {
     "id": 1164,
@@ -969,7 +969,7 @@
     "resourceBoxId": 1149,
     "bonusResourceBoxId": 1149,
     "startAt": 1668870000000,
-    "endAt": 1669906740000
+    "endAt": 1669906799000
   },
   {
     "id": 1165,
@@ -985,7 +985,7 @@
     "resourceBoxId": 1150,
     "bonusResourceBoxId": 1150,
     "startAt": 1668870000000,
-    "endAt": 1669906740000
+    "endAt": 1669906799000
   },
   {
     "id": 1166,
@@ -1001,7 +1001,7 @@
     "resourceBoxId": 1159,
     "bonusResourceBoxId": 1159,
     "startAt": 1668870000000,
-    "endAt": 1669906740000
+    "endAt": 1669906799000
   },
   {
     "id": 1167,
@@ -1017,7 +1017,7 @@
     "resourceBoxId": 1160,
     "bonusResourceBoxId": 1160,
     "startAt": 1668870000000,
-    "endAt": 1669906740000
+    "endAt": 1669906799000
   },
   {
     "id": 1168,
@@ -1033,7 +1033,7 @@
     "resourceBoxId": 1161,
     "bonusResourceBoxId": 1161,
     "startAt": 1668870000000,
-    "endAt": 1669906740000
+    "endAt": 1669906799000
   },
   {
     "id": 1169,
@@ -1495,6 +1495,166 @@
     "startAt": 1678687200000,
     "endAt": 1679410799000,
     "purchaseOption": "exchange"
+  },
+  {
+    "id": 1198,
+    "seq": 2000,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1198,
+    "name": "[세카이의 새해 세일] 크리스탈 D",
+    "description": "[世界新年特賣]水晶D",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1117",
+    "resourceBoxId": 1191,
+    "bonusResourceBoxId": 1191,
+    "startAt": 1681095600000,
+    "endAt": 1682305199000
+  },
+  {
+    "id": 1199,
+    "seq": 2000,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1199,
+    "name": "[세카이의 새해 세일] 크리스탈 F",
+    "description": "[世界新年特賣]水晶F",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1118",
+    "resourceBoxId": 1192,
+    "bonusResourceBoxId": 1192,
+    "startAt": 1681095600000,
+    "endAt": 1682305199000
+  },
+  {
+    "id": 1200,
+    "seq": 2000,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1200,
+    "name": "[세카이의 새해 세일] 크리스탈 G",
+    "description": "[世界新年特賣]水晶G",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1119",
+    "resourceBoxId": 1193,
+    "bonusResourceBoxId": 1193,
+    "startAt": 1681095600000,
+    "endAt": 1682305199000
+  },
+  {
+    "id": 1201,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "name": "세카이의 새해 복주머니 2023 주옥",
+    "description": "世界新年福袋2023 玉",
+    "billableLimitType": "count",
+    "billableLimitValue": 2,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10033",
+    "resourceBoxId": 75,
+    "bonusResourceBoxId": 32,
+    "startAt": 1681095600000,
+    "endAt": 1682305199000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 1202,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "name": "세카이의 새해 복주머니 2023 우아",
+    "description": "世界新年福袋2023 雅",
+    "billableLimitType": "count",
+    "billableLimitValue": 2,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10034",
+    "resourceBoxId": 76,
+    "bonusResourceBoxId": 33,
+    "startAt": 1681095600000,
+    "endAt": 1682305199000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 1203,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "name": "세카이의 새해 복주머니 2023 극락",
+    "description": "世界新年福袋2023 極",
+    "billableLimitType": "count",
+    "billableLimitValue": 2,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10035",
+    "resourceBoxId": 77,
+    "bonusResourceBoxId": 34,
+    "startAt": 1681095600000,
+    "endAt": 1682305199000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 1204,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1204,
+    "name": "Eastar・Bunny Boy (남성용) 의상 세트",
+    "description": "Eastar・Bunny Boy（男性）服装组合包",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1024",
+    "resourceBoxId": 1186,
+    "bonusResourceBoxId": 1204,
+    "startAt": 1680966000000,
+    "endAt": 1681829999000
+  },
+  {
+    "id": 1205,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1205,
+    "name": "이스터 마칭 돌 (여성용) 의상 세트",
+    "description": "復活節行軍娃娃（女性）服装组合包",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1025",
+    "resourceBoxId": 1186,
+    "bonusResourceBoxId": 1205,
+    "startAt": 1680966000000,
+    "endAt": 1681829999000
+  },
+  {
+    "id": 1206,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1206,
+    "name": "Elegant Pirates (남성용) 의상 세트",
+    "description": "Elegant Pirates（男性）服装组合包",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1026",
+    "resourceBoxId": 1186,
+    "bonusResourceBoxId": 1206,
+    "startAt": 1682089200000,
+    "endAt": 1682953199000
+  },
+  {
+    "id": 1207,
+    "seq": 2000,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1207,
+    "name": "파이러츠 오브 펭귄 (여성용) 의상 세트",
+    "description": "Pirates of Penguin（女性）服装组合包",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1027",
+    "resourceBoxId": 1186,
+    "bonusResourceBoxId": 1207,
+    "startAt": 1682089200000,
+    "endAt": 1682953199000
   },
   {
     "id": 10001,
