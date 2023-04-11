@@ -67,14 +67,34 @@
     "endAt": 1681181999000
   },
   {
-    "homeBannerId": 267,
+    "homeBannerId": 264,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_prayer_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 45,
+    "startAt": 1681106400000,
+    "endAt": 1681646399000
+  },
+  {
+    "homeBannerId": 268,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha160",
+    "assetbundleName": "banner_gacha164",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 160,
-    "startAt": 1680490800000,
-    "endAt": 1681095599000
+    "transitionDestinationId": 164,
+    "startAt": 1681095600000,
+    "endAt": 1681527599000
+  },
+  {
+    "homeBannerId": 270,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha167",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 167,
+    "startAt": 1681095600000,
+    "endAt": 1682132340000
   },
   {
     "homeBannerId": 282,
@@ -84,6 +104,15 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1680706800000,
     "endAt": 1682866799000
+  },
+  {
+    "homeBannerId": 285,
+    "seq": 60,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_sekai_newyear_2023",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1681095600000,
+    "endAt": 1681829999000
   },
   {
     "homeBannerId": 10101,
