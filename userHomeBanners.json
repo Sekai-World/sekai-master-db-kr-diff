@@ -57,14 +57,14 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 269,
-    "seq": 30,
+    "homeBannerId": 265,
+    "seq": 40,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha165",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 165,
-    "startAt": 1681527600000,
-    "endAt": 1681700399000
+    "assetbundleName": "event_nikkori_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 46,
+    "startAt": 1681711200000,
+    "endAt": 1682251199000
   },
   {
     "homeBannerId": 270,
@@ -75,6 +75,16 @@
     "transitionDestinationId": 167,
     "startAt": 1681095600000,
     "endAt": 1682132340000
+  },
+  {
+    "homeBannerId": 271,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha171",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 171,
+    "startAt": 1681700400000,
+    "endAt": 1682305199000
   },
   {
     "homeBannerId": 273,
