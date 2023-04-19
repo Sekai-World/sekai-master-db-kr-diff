@@ -128,6 +128,12 @@
     "releaseConditionTypeLevel": 15
   },
   {
+    "id": 10020,
+    "sentence": "플레이어 랭크 20 달성",
+    "releaseConditionType": "user_rank",
+    "releaseConditionTypeLevel": 20
+  },
+  {
     "id": 10025,
     "sentence": "플레이어 랭크 25 달성",
     "releaseConditionType": "user_rank",
@@ -11169,28 +11175,28 @@
   },
   {
     "id": 61190,
-    "sentence": "'[그리하여 아는 \"전설\"] 아즈사와 코하네' 획득",
+    "sentence": "'[그렇게 알게 된 \"전설\"] 아즈사와 코하네' 획득",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 373,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 61191,
-    "sentence": "'[그리하여 아는 \"전설\"] 아즈사와 코하네' 마스터 랭크 1 달성",
+    "sentence": "'[그렇게 알게 된 \"전설\"] 아즈사와 코하네' 마스터 랭크 1 달성",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 373,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 61192,
-    "sentence": "'[그리하여 아는 \"전설\"] 아즈사와 코하네' 마스터 랭크 3 달성",
+    "sentence": "'[그렇게 알게 된 \"전설\"] 아즈사와 코하네' 마스터 랭크 3 달성",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 373,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 61193,
-    "sentence": "'[그리하여 아는 \"전설\"] 아즈사와 코하네' 마스터 랭크 5 달성",
+    "sentence": "'[그렇게 알게 된 \"전설\"] 아즈사와 코하네' 마스터 랭크 5 달성",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 373,
     "releaseConditionTypeLevel": 5
@@ -17160,6 +17166,501 @@
     "releaseConditionTypeId": 1000382
   },
   {
+    "id": 104701,
+    "sentence": "이벤트 P 6000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 48,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 104702,
+    "sentence": "이벤트 P 13000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 48,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 104703,
+    "sentence": "이벤트 P 30000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 48,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 104704,
+    "sentence": "이벤트 P 60000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 48,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 104705,
+    "sentence": "이벤트 P 90000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 48,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 104706,
+    "sentence": "이벤트 P 120000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 48,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 104707,
+    "sentence": "이벤트 P 150000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 48,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 104708,
+    "sentence": "'비밀의♡ 밸런타인 대작전' 제8화 읽기",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000390
+  },
+  {
+    "id": 104801,
+    "sentence": "이벤트 P 6000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 49,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 104802,
+    "sentence": "이벤트 P 13000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 49,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 104803,
+    "sentence": "이벤트 P 30000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 49,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 104804,
+    "sentence": "이벤트 P 60000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 49,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 104805,
+    "sentence": "이벤트 P 90000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 49,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 104806,
+    "sentence": "이벤트 P 120000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 49,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 104807,
+    "sentence": "이벤트 P 150000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 49,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 104808,
+    "sentence": "'Legend still vivid' 제8화 읽기",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000398
+  },
+  {
+    "id": 104901,
+    "sentence": "이벤트 P 6000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 50,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 104902,
+    "sentence": "이벤트 P 13000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 50,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 104903,
+    "sentence": "이벤트 P 30000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 50,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 104904,
+    "sentence": "이벤트 P 60000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 50,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 104905,
+    "sentence": "이벤트 P 90000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 50,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 104906,
+    "sentence": "이벤트 P 120000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 50,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 104907,
+    "sentence": "이벤트 P 150000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 50,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 104908,
+    "sentence": "'그날, 하늘은 멀리 있었다' 제8화 읽기",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000406
+  },
+  {
+    "id": 105001,
+    "sentence": "이벤트 P 6000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 51,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 105002,
+    "sentence": "이벤트 P 13000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 51,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 105003,
+    "sentence": "이벤트 P 30000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 51,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 105004,
+    "sentence": "이벤트 P 60000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 51,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 105005,
+    "sentence": "이벤트 P 90000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 51,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 105006,
+    "sentence": "이벤트 P 120000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 51,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 105007,
+    "sentence": "이벤트 P 150000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 51,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 105008,
+    "sentence": "'괴도 신사의 조마조마?! 화이트데이' 제8화 읽기",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000414
+  },
+  {
+    "id": 105101,
+    "sentence": "이벤트 P 6000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 52,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 105102,
+    "sentence": "이벤트 P 13000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 52,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 105103,
+    "sentence": "이벤트 P 30000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 52,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 105104,
+    "sentence": "이벤트 P 60000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 52,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 105105,
+    "sentence": "이벤트 P 90000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 52,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 105106,
+    "sentence": "이벤트 P 120000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 52,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 105107,
+    "sentence": "이벤트 P 150000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 52,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 105108,
+    "sentence": "'Cast Spell on You' 제8화 읽기",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000422
+  },
+  {
+    "id": 105201,
+    "sentence": "이벤트 P 6000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 53,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 105202,
+    "sentence": "이벤트 P 13000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 53,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 105203,
+    "sentence": "이벤트 P 30000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 53,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 105204,
+    "sentence": "이벤트 P 60000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 53,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 105205,
+    "sentence": "이벤트 P 90000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 53,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 105206,
+    "sentence": "이벤트 P 120000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 53,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 105207,
+    "sentence": "이벤트 P 150000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 53,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 105208,
+    "sentence": "'공백의 캔버스에 그리는 나는' 제8화 읽기",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000430
+  },
+  {
+    "id": 105301,
+    "sentence": "이벤트 P 6000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 54,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 105302,
+    "sentence": "이벤트 P 13000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 54,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 105303,
+    "sentence": "이벤트 P 30000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 54,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 105304,
+    "sentence": "이벤트 P 60000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 54,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 105305,
+    "sentence": "이벤트 P 90000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 54,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 105306,
+    "sentence": "이벤트 P 120000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 54,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 105307,
+    "sentence": "이벤트 P 150000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 54,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 105308,
+    "sentence": "'세카이의 벚꽃, 이어지는 마음' 제8화 읽기",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000438
+  },
+  {
+    "id": 105401,
+    "sentence": "이벤트 P 6000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 55,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 105402,
+    "sentence": "이벤트 P 13000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 55,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 105403,
+    "sentence": "이벤트 P 30000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 55,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 105404,
+    "sentence": "이벤트 P 60000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 55,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 105405,
+    "sentence": "이벤트 P 90000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 55,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 105406,
+    "sentence": "이벤트 P 120000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 55,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 105407,
+    "sentence": "이벤트 P 150000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 55,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 105408,
+    "sentence": "'눈부신 빛의 스테이지에서' 제8화 읽기",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000446
+  },
+  {
+    "id": 105501,
+    "sentence": "이벤트 P 6000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 56,
+    "releaseConditionTypeQuantity": 6000
+  },
+  {
+    "id": 105502,
+    "sentence": "이벤트 P 13000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 56,
+    "releaseConditionTypeQuantity": 13000
+  },
+  {
+    "id": 105503,
+    "sentence": "이벤트 P 30000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 56,
+    "releaseConditionTypeQuantity": 30000
+  },
+  {
+    "id": 105504,
+    "sentence": "이벤트 P 60000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 56,
+    "releaseConditionTypeQuantity": 60000
+  },
+  {
+    "id": 105505,
+    "sentence": "이벤트 P 90000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 56,
+    "releaseConditionTypeQuantity": 90000
+  },
+  {
+    "id": 105506,
+    "sentence": "이벤트 P 120000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 56,
+    "releaseConditionTypeQuantity": 120000
+  },
+  {
+    "id": 105507,
+    "sentence": "이벤트 P 150000 달성",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 56,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 105508,
+    "sentence": "'Live with memories' 제8화 읽기",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000454
+  },
+  {
     "id": 800001,
     "sentence": "버추얼 라이브 참가",
     "releaseConditionType": "virtual_live_participation",
@@ -17581,7 +18082,7 @@
   },
   {
     "id": 1000000,
-    "sentence": "랭크 매치 오픈 & EXPERT 이상 & 10곡 이상",
+    "sentence": "랭크 매치 오픈 & EXPERT 이상 & 5곡 이상",
     "releaseConditionType": "rank_match",
     "releaseConditionTypeQuantity": 1000
   },
@@ -17590,66 +18091,6 @@
     "sentence": "2023 만우절 도입부 스토리 읽기",
     "releaseConditionType": "special_story",
     "releaseConditionTypeId": 15
-  },
-  {
-    "id": 1000002,
-    "sentence": "'청춘\/friends' 에어리어 대화 1 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1359
-  },
-  {
-    "id": 1000003,
-    "sentence": "'청춘\/friends' 에어리어 대화 2 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1360
-  },
-  {
-    "id": 1000004,
-    "sentence": "'YUME YUME JUMP!' 에어리어 대화 1 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1362
-  },
-  {
-    "id": 1000005,
-    "sentence": "'YUME YUME JUMP!' 에어리어 대화 2 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1363
-  },
-  {
-    "id": 1000006,
-    "sentence": "'Fantasista SQUAD' 에어리어 대화 1 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1365
-  },
-  {
-    "id": 1000007,
-    "sentence": "'Fantasista SQUAD' 에어리어 대화 2 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1366
-  },
-  {
-    "id": 1000008,
-    "sentence": "'해피니스 전대 서니서니☆원더' 에어리어 대화 1 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1368
-  },
-  {
-    "id": 1000009,
-    "sentence": "'해피니스 전대 서니서니☆원더' 에어리어 대화 2 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1369
-  },
-  {
-    "id": 1000010,
-    "sentence": "'휴일, 취미인들끼리.' 에어리어 대화 1 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1371
-  },
-  {
-    "id": 1000011,
-    "sentence": "'휴일, 취미인들끼리.' 에어리어 대화 2 읽기",
-    "releaseConditionType": "action_set",
-    "releaseConditionTypeId": 1372
   },
   {
     "id": 1010201,

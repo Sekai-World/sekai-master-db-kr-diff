@@ -1164,6 +1164,23 @@
     "virtualShopType": "event"
   },
   {
+    "id": 40,
+    "name": "사키 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 98,
+        "virtualShopId": 40,
+        "virtualShopItemType": "coordinate",
+        "seq": 99976,
+        "resourceBoxId": 98,
+        "costPaidJewel": 1000,
+        "startAt": 1683439200000,
+        "endAt": 1683698399000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
     "id": 41,
     "name": "제22회 이벤트 판매",
     "virtualShopItems": [
@@ -1179,6 +1196,23 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 42,
+    "name": "츠카사 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 100,
+        "virtualShopId": 42,
+        "virtualShopItemType": "coordinate",
+        "seq": 99975,
+        "resourceBoxId": 100,
+        "costPaidJewel": 1000,
+        "startAt": 1684130400000,
+        "endAt": 1684389599000
+      }
+    ],
+    "virtualShopType": "birthday"
   },
   {
     "id": 43,
@@ -1578,6 +1612,35 @@
     "virtualShopType": "event"
   },
   {
+    "id": 65,
+    "name": "1주년 라이브",
+    "virtualShopItems": [
+      {
+        "id": 126,
+        "virtualShopId": 65,
+        "virtualShopItemType": "accessory",
+        "seq": 99934,
+        "resourceBoxId": 126,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1664463900000,
+        "endAt": 1664690399000
+      },
+      {
+        "id": 127,
+        "virtualShopId": 65,
+        "virtualShopItemType": "penlight",
+        "seq": 99935,
+        "resourceBoxId": 127,
+        "costVirtualCoin": 6000,
+        "costJewel": 2000,
+        "startAt": 1664463900000,
+        "endAt": 1664690399000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
     "id": 67,
     "name": "제36회 이벤트 판매",
     "virtualShopItems": [
@@ -1923,6 +1986,39 @@
     "virtualShopType": "event"
   },
   {
+    "id": 93,
+    "name": "제48회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 193,
+        "virtualShopId": 93,
+        "virtualShopItemType": "accessory",
+        "seq": 199936,
+        "resourceBoxId": 155,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1682920800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 95,
+    "name": "제49회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 195,
+        "virtualShopId": 95,
+        "virtualShopItemType": "penlight",
+        "seq": 199935,
+        "resourceBoxId": 156,
+        "costPaidJewel": 1000,
+        "startAt": 1683525600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
     "id": 96,
     "name": "밸런타인 라이브",
     "virtualShopItems": [
@@ -1948,6 +2044,55 @@
       }
     ],
     "virtualShopType": "special_live"
+  },
+  {
+    "id": 98,
+    "name": "제50회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 199,
+        "virtualShopId": 98,
+        "virtualShopItemType": "accessory",
+        "seq": 199934,
+        "resourceBoxId": 158,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1684130400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 99,
+    "name": "제51회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 200,
+        "virtualShopId": 99,
+        "virtualShopItemType": "coordinate",
+        "seq": 199933,
+        "resourceBoxId": 159,
+        "costPaidJewel": 1000,
+        "startAt": 1684735200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 101,
+    "name": "제52회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 202,
+        "virtualShopId": 101,
+        "virtualShopItemType": "penlight",
+        "seq": 199932,
+        "resourceBoxId": 160,
+        "costPaidJewel": 1000,
+        "startAt": 1685340000000
+      }
+    ],
+    "virtualShopType": "event"
   },
   {
     "id": 102,
@@ -1993,5 +2138,431 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 104,
+    "name": "제53회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 206,
+        "virtualShopId": 104,
+        "virtualShopItemType": "accessory",
+        "seq": 199931,
+        "resourceBoxId": 162,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1685944800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 105,
+    "name": "제54회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 207,
+        "virtualShopId": 105,
+        "virtualShopItemType": "accessory",
+        "seq": 199930,
+        "resourceBoxId": 163,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1686549600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 107,
+    "name": "제55회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 209,
+        "virtualShopId": 107,
+        "virtualShopItemType": "accessory",
+        "seq": 199929,
+        "resourceBoxId": 165,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1687154400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 109,
+    "name": "제56회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 211,
+        "virtualShopId": 109,
+        "virtualShopItemType": "penlight",
+        "seq": 199928,
+        "resourceBoxId": 166,
+        "costPaidJewel": 1000,
+        "startAt": 1687759200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 116,
+    "name": "토우야 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 218,
+        "virtualShopId": 116,
+        "virtualShopItemType": "coordinate",
+        "seq": 99903,
+        "resourceBoxId": 102,
+        "costPaidJewel": 1000,
+        "startAt": 1684821600000,
+        "endAt": 1685080799000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 122,
+    "name": "루이 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 227,
+        "virtualShopId": 122,
+        "virtualShopItemType": "coordinate",
+        "seq": 99901,
+        "resourceBoxId": 107,
+        "costPaidJewel": 1000,
+        "startAt": 1687413600000,
+        "endAt": 1687672799000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 140,
+    "name": "제72회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 246,
+        "virtualShopId": 140,
+        "virtualShopItemType": "penlight",
+        "seq": 199913,
+        "resourceBoxId": 189,
+        "costPaidJewel": 1000,
+        "startAt": 1664517600000
+      },
+      {
+        "id": 254,
+        "virtualShopId": 140,
+        "virtualShopItemType": "accessory",
+        "seq": 199914,
+        "resourceBoxId": 126,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 255,
+        "virtualShopId": 140,
+        "virtualShopItemType": "penlight",
+        "seq": 199915,
+        "resourceBoxId": 127,
+        "costVirtualCoin": 6000,
+        "costJewel": 2000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 256,
+        "virtualShopId": 140,
+        "virtualShopItemType": "costume",
+        "seq": 199911,
+        "resourceBoxId": 197,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 257,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99862,
+        "resourceBoxId": 121,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 258,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99863,
+        "resourceBoxId": 128,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 259,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99864,
+        "resourceBoxId": 129,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 260,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99865,
+        "resourceBoxId": 130,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 261,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99866,
+        "resourceBoxId": 131,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 262,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99867,
+        "resourceBoxId": 132,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 263,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99868,
+        "resourceBoxId": 68,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 264,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99869,
+        "resourceBoxId": 69,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 265,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99870,
+        "resourceBoxId": 77,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 266,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99871,
+        "resourceBoxId": 53,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 267,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99872,
+        "resourceBoxId": 80,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 268,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99873,
+        "resourceBoxId": 117,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 269,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99874,
+        "resourceBoxId": 98,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 270,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99875,
+        "resourceBoxId": 62,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 271,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99876,
+        "resourceBoxId": 73,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 272,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99877,
+        "resourceBoxId": 93,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 273,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99878,
+        "resourceBoxId": 61,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 274,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99879,
+        "resourceBoxId": 87,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 275,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99880,
+        "resourceBoxId": 64,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 276,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99881,
+        "resourceBoxId": 82,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 277,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99882,
+        "resourceBoxId": 114,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 278,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99883,
+        "resourceBoxId": 63,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 279,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99884,
+        "resourceBoxId": 102,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 280,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99885,
+        "resourceBoxId": 100,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 281,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99886,
+        "resourceBoxId": 123,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 282,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99887,
+        "resourceBoxId": 112,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 283,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99888,
+        "resourceBoxId": 107,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 284,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99889,
+        "resourceBoxId": 79,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 285,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99890,
+        "resourceBoxId": 76,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 286,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99891,
+        "resourceBoxId": 95,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      },
+      {
+        "id": 287,
+        "virtualShopId": 140,
+        "virtualShopItemType": "coordinate",
+        "seq": 99892,
+        "resourceBoxId": 120,
+        "costPaidJewel": 1000,
+        "startAt": 1684508400000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]
