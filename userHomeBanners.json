@@ -57,14 +57,24 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 271,
+    "homeBannerId": 266,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_tricolo_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 47,
+    "startAt": 1682316000000,
+    "endAt": 1682855999000
+  },
+  {
+    "homeBannerId": 272,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha171",
+    "assetbundleName": "banner_gacha173",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 171,
-    "startAt": 1681700400000,
-    "endAt": 1682305199000
+    "transitionDestinationId": 173,
+    "startAt": 1682305200000,
+    "endAt": 1682909999000
   },
   {
     "homeBannerId": 282,
