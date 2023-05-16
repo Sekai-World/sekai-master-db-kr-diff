@@ -57,14 +57,14 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 296,
+    "homeBannerId": 297,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha181",
+    "assetbundleName": "banner_gacha185",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 181,
-    "startAt": 1683514800000,
-    "endAt": 1684119599000
+    "transitionDestinationId": 185,
+    "startAt": 1684119600000,
+    "endAt": 1684724399000
   },
   {
     "homeBannerId": 298,
@@ -77,14 +77,24 @@
     "endAt": 1684292399000
   },
   {
-    "homeBannerId": 301,
-    "seq": 30,
+    "homeBannerId": 304,
+    "seq": 50,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha206",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 206,
-    "startAt": 1683558000000,
-    "endAt": 1684162799000
+    "assetbundleName": "banner_virtuallive74",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 74,
+    "startAt": 1684130400000,
+    "endAt": 1684389599000
+  },
+  {
+    "homeBannerId": 308,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_peaky_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 50,
+    "startAt": 1684130400000,
+    "endAt": 1684670399000
   },
   {
     "homeBannerId": 10101,
