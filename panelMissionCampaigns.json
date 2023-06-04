@@ -1,1 +1,1693 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "1주년 기념 애니버서리 스탬프 미션",
+    "assetbundleName": "2nd_anniv_pm",
+    "bgmAssetbundleName": "2nd_anniv_pm_bgm",
+    "selectableLimit": 3,
+    "startAt": 1684551600000,
+    "progressEndAt": 1685415599000,
+    "closedAt": 1685761199000,
+    "informationId": 582,
+    "panelMissionSheetGroups": [
+      {
+        "id": 101,
+        "panelMissionCampaignId": 1,
+        "name": "유닛",
+        "selectableLimit": 2,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 10101,
+            "panelMissionSheetGroupId": 101,
+            "name": "'VIRTUAL SINGER' 프레셔스 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_piapro",
+            "panelMissions": [
+              {
+                "id": 1010101,
+                "panelMissionSheetId": 10101,
+                "name": "유닛 멤버로만 라이브\n10회 플레이하기",
+                "description": "버추얼 싱어 멤버로만 유닛을 편성하여\n라이브 10회 플레이하기",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010102,
+                "panelMissionSheetId": 10101,
+                "name": "응원 아바타 의상으로\n버추얼 라이브\n1회 참가하기",
+                "description": "버추얼 싱어의 '응원 핫피'\n또는 멤버의 '서포터 셔츠'를 입고 버추얼 라이브 1회 참가하기",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010103,
+                "panelMissionSheetId": 10101,
+                "name": "유닛 악곡으로 라이브\n10회 플레이하기",
+                "description": " '악곡 선택' 화면의 버추얼 싱어 탭에서\n악곡을 선택하여 라이브 10회 플레이하기",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010104,
+                "panelMissionSheetId": 10101,
+                "name": "유닛 멤버의 어나더\n보컬 ver.으로 라이브\n10회 플레이하기",
+                "description": "버추얼 싱어 멤버가 포함된\n어나더 보컬 ver. 악곡으로 라이브 10회 플레이하기",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010105,
+                "panelMissionSheetId": 10101,
+                "name": "전원 팬 칭호를 달고\n라이브 1회 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서 전원\n버추얼 싱어 멤버의 팬 칭호를 하나 이상 달고\n라이브 1회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010106,
+                "panelMissionSheetId": 10101,
+                "name": "유닛 멤버의\n라이브 의상\n2벌 획득하기",
+                "description": "버추얼 싱어 멤버의 라이브 의상 2벌 획득하기",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010107,
+                "panelMissionSheetId": 10101,
+                "name": "유닛 멤버를 대기실로\n6회 이동시키기",
+                "description": "버추얼 싱어 멤버를 대기실로 6회 이동시키기",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4617,
+                "missionType": "panel_mission_complete",
+                "missionId": 10101,
+                "seq": 1,
+                "resourceBoxId": 1349,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10102,
+            "panelMissionSheetGroupId": 101,
+            "name": "'Leo\/need' 프레셔스 카드",
+            "seq": 2,
+            "assetbundleName": "sheet_light_sound",
+            "panelMissions": [
+              {
+                "id": 1010201,
+                "panelMissionSheetId": 10102,
+                "name": "유닛 멤버로만 라이브\n10회 플레이하기",
+                "description": "Leo\/need 멤버로만 유닛을 편성하여\n라이브 10회 플레이하기(서브 유닛 멤버 포함)",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010202,
+                "panelMissionSheetId": 10102,
+                "name": "응원 아바타 의상으로\n버추얼 라이브\n1회 참가하기",
+                "description": "Leo\/need의 '응원 핫피'\n또는 멤버의 '서포터 셔츠'를 입고 버추얼 라이브 1회 참가하기",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010203,
+                "panelMissionSheetId": 10102,
+                "name": "유닛 악곡으로 라이브\n10회 플레이하기",
+                "description": " '악곡 선택' 화면의 Leo\/need 탭에서\n악곡을 선택하여 라이브 10회 플레이하기",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010204,
+                "panelMissionSheetId": 10102,
+                "name": "유닛 멤버의 어나더\n보컬 ver.으로 라이브\n10회 플레이하기",
+                "description": "Leo\/need 멤버가 포함된\n어나더 보컬 ver. 악곡으로 라이브 10회 플레이하기",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010205,
+                "panelMissionSheetId": 10102,
+                "name": "전원 팬 칭호를 달고\n라이브 1회 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서 전원\nLeo\/need 멤버의 팬 칭호를 하나 이상 달고\n라이브 1회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010206,
+                "panelMissionSheetId": 10102,
+                "name": "유닛 멤버의\n라이브 의상\n2벌 획득하기",
+                "description": "Leo\/need 멤버의 라이브 의상 2벌 획득하기",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010207,
+                "panelMissionSheetId": 10102,
+                "name": "유닛 멤버를 대기실로\n6회 이동시키기",
+                "description": "Leo\/need 멤버를 대기실로 6회 이동시키기",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4618,
+                "missionType": "panel_mission_complete",
+                "missionId": 10102,
+                "seq": 1,
+                "resourceBoxId": 1350,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10103,
+            "panelMissionSheetGroupId": 101,
+            "name": "'MORE MORE JUMP!' 프레셔스 카드",
+            "seq": 3,
+            "assetbundleName": "sheet_idol",
+            "panelMissions": [
+              {
+                "id": 1010301,
+                "panelMissionSheetId": 10103,
+                "name": "유닛 멤버로만 라이브\n10회 플레이하기",
+                "description": "MORE MORE JUMP! 멤버로만 유닛을 편성하여\n라이브 10회 플레이하기(서브 유닛 멤버 포함)",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010302,
+                "panelMissionSheetId": 10103,
+                "name": "응원 아바타 의상으로\n버추얼 라이브\n1회 참가하기",
+                "description": "MORE MORE JUMP!의 '응원 핫피'\n또는 멤버의 '서포터 셔츠'를 입고 버추얼 라이브 1회 참가하기",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010303,
+                "panelMissionSheetId": 10103,
+                "name": "유닛 악곡으로 라이브\n10회 플레이하기",
+                "description": " '악곡 선택' 화면의 MORE MORE JUMP! 탭에서\n악곡을 선택하여 라이브 10회 플레이하기",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010304,
+                "panelMissionSheetId": 10103,
+                "name": "유닛 멤버의 어나더\n보컬 ver.으로 라이브\n10회 플레이하기",
+                "description": "MORE MORE JUMP! 멤버가 포함된\n어나더 보컬 ver. 악곡으로 라이브 10회 플레이하기",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010305,
+                "panelMissionSheetId": 10103,
+                "name": "전원 팬 칭호를 달고\n라이브 1회 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서 전원\nMORE MORE JUMP! 멤버의 팬 칭호를 하나 이상 달고\n라이브 1회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010306,
+                "panelMissionSheetId": 10103,
+                "name": "유닛 멤버의\n라이브 의상\n2벌 획득하기",
+                "description": "MORE MORE JUMP! 멤버의 라이브 의상 2벌 획득하기",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010307,
+                "panelMissionSheetId": 10103,
+                "name": "유닛 멤버를 대기실로\n6회 이동시키기",
+                "description": "MORE MORE JUMP! 멤버를 대기실로 6회 이동시키기",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4619,
+                "missionType": "panel_mission_complete",
+                "missionId": 10103,
+                "seq": 1,
+                "resourceBoxId": 1351,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10104,
+            "panelMissionSheetGroupId": 101,
+            "name": "'Vivid BAD SQUAD' 프레셔스 카드",
+            "seq": 4,
+            "assetbundleName": "sheet_street",
+            "panelMissions": [
+              {
+                "id": 1010401,
+                "panelMissionSheetId": 10104,
+                "name": "유닛 멤버로만 라이브\n10회 플레이하기",
+                "description": "Vivid BAD SQUAD 멤버로만 유닛을 편성하여\n라이브 10회 플레이하기(서브 유닛 멤버 포함)",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010402,
+                "panelMissionSheetId": 10104,
+                "name": "응원 아바타 의상으로\n버추얼 라이브\n1회 참가하기",
+                "description": "Vivid BAD SQUAD의 '응원 핫피'\n또는 멤버의 '서포터 셔츠'를 입고 버추얼 라이브 1회 참가하기",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010403,
+                "panelMissionSheetId": 10104,
+                "name": "유닛 악곡으로 라이브\n10회 플레이하기",
+                "description": " '악곡 선택' 화면의 Vivid BAD SQUAD 탭에서\n악곡을 선택하여 라이브 10회 플레이하기",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010404,
+                "panelMissionSheetId": 10104,
+                "name": "유닛 멤버의 어나더\n보컬 ver.으로 라이브\n10회 플레이하기",
+                "description": "Vivid BAD SQUAD 멤버가 포함된\n어나더 보컬 ver. 악곡으로 라이브 10회 플레이하기",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010405,
+                "panelMissionSheetId": 10104,
+                "name": "전원 팬 칭호를 달고\n라이브 1회 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서 전원\nVivid BAD SQUAD 멤버의 팬 칭호를 하나 이상 달고\n라이브 1회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010406,
+                "panelMissionSheetId": 10104,
+                "name": "유닛 멤버의\n라이브 의상\n2벌 획득하기",
+                "description": "Vivid BAD SQUAD 멤버의 라이브 의상 2벌 획득하기",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010407,
+                "panelMissionSheetId": 10104,
+                "name": "유닛 멤버를 대기실로\n6회 이동시키기",
+                "description": "Vivid BAD SQUAD 멤버를 대기실로 6회 이동시키기",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4620,
+                "missionType": "panel_mission_complete",
+                "missionId": 10104,
+                "seq": 1,
+                "resourceBoxId": 1352,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10105,
+            "panelMissionSheetGroupId": 101,
+            "name": "'원더랜즈×쇼타임' 프레셔스 카드",
+            "seq": 5,
+            "assetbundleName": "sheet_theme_park",
+            "panelMissions": [
+              {
+                "id": 1010501,
+                "panelMissionSheetId": 10105,
+                "name": "유닛 멤버로만 라이브\n10회 플레이하기",
+                "description": "원더랜즈×쇼타임 멤버로만 유닛을 편성하여\n라이브 10회 플레이하기(서브 유닛 멤버 포함)",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010502,
+                "panelMissionSheetId": 10105,
+                "name": "응원 아바타 의상으로\n버추얼 라이브\n1회 참가하기",
+                "description": "원더랜즈×쇼타임의 '응원 핫피'\n또는 멤버의 '서포터 셔츠'를 입고 버추얼 라이브 1회 참가하기",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010503,
+                "panelMissionSheetId": 10105,
+                "name": "유닛 악곡으로 라이브\n10회 플레이하기",
+                "description": " '악곡 선택' 화면의 원더랜즈×쇼타임 탭에서\n악곡을 선택하여 라이브 10회 플레이하기",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010504,
+                "panelMissionSheetId": 10105,
+                "name": "유닛 멤버의 어나더\n보컬 ver.으로 라이브\n10회 플레이하기",
+                "description": "원더랜즈×쇼타임 멤버가 포함된\n어나더 보컬 ver. 악곡으로 라이브 10회 플레이하기",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010505,
+                "panelMissionSheetId": 10105,
+                "name": "전원 팬 칭호를 달고\n라이브 1회 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서 전원\n원더랜즈×쇼타임 멤버의 팬 칭호를 하나 이상 달고\n라이브 1회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010506,
+                "panelMissionSheetId": 10105,
+                "name": "유닛 멤버의\n라이브 의상\n2벌 획득하기",
+                "description": "원더랜즈×쇼타임 멤버의 라이브 의상 2벌 획득하기",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010507,
+                "panelMissionSheetId": 10105,
+                "name": "유닛 멤버를 대기실로\n6회 이동시키기",
+                "description": "원더랜즈×쇼타임 멤버를 대기실로 6회 이동시키기",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4621,
+                "missionType": "panel_mission_complete",
+                "missionId": 10105,
+                "seq": 1,
+                "resourceBoxId": 1353,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10106,
+            "panelMissionSheetGroupId": 101,
+            "name": "'25시, 나이트 코드에서.' 프레셔스 카드",
+            "seq": 6,
+            "assetbundleName": "sheet_school_refusal",
+            "panelMissions": [
+              {
+                "id": 1010601,
+                "panelMissionSheetId": 10106,
+                "name": "유닛 멤버로만 라이브\n10회 플레이하기",
+                "description": "25시, 나이트 코드에서. 멤버로만 유닛을 편성하여\n라이브 10회 플레이하기(서브 유닛 멤버 포함)",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010602,
+                "panelMissionSheetId": 10106,
+                "name": "응원 아바타 의상으로\n버추얼 라이브\n1회 참가하기",
+                "description": "25시, 나이트 코드에서.의 '응원 핫피'\n또는 멤버의 '서포터 셔츠'를 입고 버추얼 라이브 1회 참가하기",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010603,
+                "panelMissionSheetId": 10106,
+                "name": "유닛 악곡으로 라이브\n10회 플레이하기",
+                "description": " '악곡 선택' 화면의 25시, 나이트 코드에서. 탭에서\n악곡을 선택하여 라이브 10회 플레이하기",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010604,
+                "panelMissionSheetId": 10106,
+                "name": "유닛 멤버의 어나더\n보컬 ver.으로 라이브\n10회 플레이하기",
+                "description": "25시, 나이트 코드에서. 멤버가 포함된\n어나더 보컬 ver. 악곡으로 라이브 10회 플레이하기",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010605,
+                "panelMissionSheetId": 10106,
+                "name": "전원 팬 칭호를 달고\n라이브 1회 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서 전원\n25시, 나이트 코드에서. 멤버의 팬 칭호를 하나 이상 달고\n라이브 1회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010606,
+                "panelMissionSheetId": 10106,
+                "name": "유닛 멤버의\n라이브 의상\n2벌 획득하기",
+                "description": "25시, 나이트 코드에서. 멤버의 라이브 의상 2벌 획득하기",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1010607,
+                "panelMissionSheetId": 10106,
+                "name": "유닛 멤버를 대기실로\n6회 이동시키기",
+                "description": "25시, 나이트 코드에서. 멤버를 대기실로 6회 이동시키기",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4622,
+                "missionType": "panel_mission_complete",
+                "missionId": 10106,
+                "seq": 1,
+                "resourceBoxId": 1354,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "panelMissionCampaignId": 1,
+        "name": "플레이",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 10201,
+            "panelMissionSheetGroupId": 102,
+            "name": "캐주얼 트라이 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_try",
+            "panelMissions": [
+              {
+                "id": 1020101,
+                "panelMissionSheetId": 10201,
+                "name": "멀티 라이브\/\n치어풀 라이브\n10회 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브' 10회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020102,
+                "panelMissionSheetId": 10201,
+                "name": "특정 멤버\n레벨 50 달성하기",
+                "description": " '[\"고마움\"을 담아서] 히노모리 시호'\n레벨 50 달성하기",
+                "seq": 2,
+                "panelMissionType": "card_level_up",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020103,
+                "panelMissionSheetId": 10201,
+                "name": "이벤트 '괴도 신사의\n조마조마?! 화이트데이'\n제8화 읽기",
+                "description": "이벤트 '괴도 신사의 조마조마?! 화이트데이'\n이벤트 스토리 제8화 읽기",
+                "seq": 3,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020104,
+                "panelMissionSheetId": 10201,
+                "name": "괴도 신사의 조마조마?!\n화이트데이 애프터\n라이브 1회 참가하기",
+                "description": " '괴도 신사의 조마조마?! 화이트데이 애프터 라이브'\n1회 참가하기",
+                "seq": 4,
+                "panelMissionType": "join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020105,
+                "panelMissionSheetId": 10201,
+                "name": "응원봉으로\n'1st Anniversary\n응원봉' 1회 설정하기",
+                "description": " '버추얼 라이브 아바타'의 응원봉으로\n'1st Anniversary 응원봉' 1회 설정하기",
+                "seq": 5,
+                "panelMissionType": "set_penlight",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020106,
+                "panelMissionSheetId": 10201,
+                "name": "친구\n5명 만들기",
+                "description": "친구 5명 만들기",
+                "seq": 6,
+                "panelMissionType": "make_new_friend",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020107,
+                "panelMissionSheetId": 10201,
+                "name": " '[1주년 기념]\n10회 연속 무료 뽑기'\n1회 진행하기",
+                "description": " '[1주년 기념] 10회 연속 무료 뽑기' 1회 진행하기",
+                "seq": 7,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4623,
+                "missionType": "panel_mission_complete",
+                "missionId": 10201,
+                "seq": 1,
+                "resourceBoxId": 1355,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10202,
+            "panelMissionSheetGroupId": 102,
+            "name": "레귤러 트라이 카드",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_try",
+            "panelMissions": [
+              {
+                "id": 1020201,
+                "panelMissionSheetId": 10202,
+                "name": "친구 5명과 함께\n악곡 'Gunjo Sanka'\n1회 클리어하기",
+                "description": "친구 5명과 함께 악곡 'Gunjo Sanka' 1회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_music_with_friends",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020202,
+                "panelMissionSheetId": 10202,
+                "name": "전원 풀 콤보로\n라이브 1회 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서 전원 풀 콤보로\n라이브 1회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020203,
+                "panelMissionSheetId": 10202,
+                "name": " 'SUPER FEVER'\n20회 달성하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서\n'SUPER FEVER' 20회 달성하기",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020204,
+                "panelMissionSheetId": 10202,
+                "name": "오전과 오후에 라이브\n10회씩 플레이하기",
+                "description": " '00:00~11:59' \/ '12:00~23:59'\n각 시간대에 라이브 10회씩 플레이하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_am_pm",
+                "requirement1": 2,
+                "requirement2": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020205,
+                "panelMissionSheetId": 10202,
+                "name": "\"MVP\/\nSUPER STAR\/ACE\"\n5회 달성하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서\n\"MVP\/SUPER STAR\/ACE\" 누적 5회 달성하기",
+                "seq": 5,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020206,
+                "panelMissionSheetId": 10202,
+                "name": "누적 이벤트 P\n400000 달성하기",
+                "description": "누적 이벤트 P 400000 달성하기",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 400000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020207,
+                "panelMissionSheetId": 10202,
+                "name": "PERFECT 판정\n누적 20000회 달성하기",
+                "description": "라이브에서 PERFECT 판정 누적 20000회 달성하기",
+                "seq": 7,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 20000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4624,
+                "missionType": "panel_mission_complete",
+                "missionId": 10202,
+                "seq": 1,
+                "resourceBoxId": 1356,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10203,
+            "panelMissionSheetGroupId": 102,
+            "name": "언리미티드 트라이 카드",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_try",
+            "panelMissions": [
+              {
+                "id": 1020301,
+                "panelMissionSheetId": 10203,
+                "name": " 'Gunjo Sanka'\n스코어 5000000\n이상으로 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서 악곡 'Gunjo Sanka'를\n스코어 5000000 이상으로 클리어하기",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020302,
+                "panelMissionSheetId": 10203,
+                "name": "전원 풀 콤보로\n라이브 3회 클리어하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서 전원 풀 콤보로\n라이브 3회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020303,
+                "panelMissionSheetId": 10203,
+                "name": " 'SUPER FEVER'\n30회 달성하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서\n'SUPER FEVER' 30회 달성하기",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020304,
+                "panelMissionSheetId": 10203,
+                "name": "오전과 오후에 라이브\n30회씩 플레이하기",
+                "description": " '00:00~11:59' \/ '12:00~23:59'\n각 시간대에 라이브 30회씩 플레이하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_am_pm",
+                "requirement1": 2,
+                "requirement2": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020305,
+                "panelMissionSheetId": 10203,
+                "name": "\"MVP\/\nSUPER STAR\/ACE\"\n20회 달성하기",
+                "description": " '멀티 라이브\/치어풀 라이브'에서\n\"MVP\/SUPER STAR\/ACE\" 누적 20회 달성하기",
+                "seq": 5,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020306,
+                "panelMissionSheetId": 10203,
+                "name": "누적 이벤트 P\n1000000 달성하기",
+                "description": "누적 이벤트 P 1000000 달성하기",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1020307,
+                "panelMissionSheetId": 10203,
+                "name": "PERFECT 판정\n누적 100000회\n달성하기",
+                "description": "라이브에서 PERFECT 판정 누적 100000회 달성하기",
+                "seq": 7,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 100000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4625,
+                "missionType": "panel_mission_complete",
+                "missionId": 10203,
+                "seq": 1,
+                "resourceBoxId": 1357,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "panelMissionCampaignId": 1,
+        "name": "뽑기",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 10301,
+            "panelMissionSheetGroupId": 103,
+            "name": "골드 셀렉트 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_gold_select",
+            "panelMissions": [
+              {
+                "id": 1030101,
+                "panelMissionSheetId": 10301,
+                "name": " '컬러풀 페스티벌\/\n기간 한정 뽑기'\n30회 진행하기",
+                "description": " '[1주년 기념] 컬러풀 페스티벌 뽑기 드림 픽'\n또는 '나이츠 오브 화이트 뽑기' 30회 진행하기",
+                "seq": 1,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030102,
+                "panelMissionSheetId": 10301,
+                "name": " '메모리얼 셀렉트 뽑기'\n1회 진행하기",
+                "description": " '[1주년 기념] 메모리얼 셀렉트 뽑기' 1회 진행하기",
+                "seq": 2,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030103,
+                "panelMissionSheetId": 10301,
+                "name": " '프리미엄 선물 뽑기'\n1회 진행하기",
+                "description": " '[1주년 기념] 프리미엄 선물 뽑기' 1회 진행하기",
+                "seq": 3,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030104,
+                "panelMissionSheetId": 10301,
+                "name": " '1주년 기념 세트'\n1종류 구매하기",
+                "description": "크리스탈 상점에서 '1주년 기념 세트' 1종류 구매하기",
+                "seq": 4,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030105,
+                "panelMissionSheetId": 10301,
+                "name": "2023년 5월\n'프리미엄 미션 패스'\n구매하기",
+                "description": "2023년 5월 '프리미엄 미션 패스' 구매하기",
+                "seq": 5,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030106,
+                "panelMissionSheetId": 10301,
+                "name": "누적 응원 포인트\n5000 달성하기",
+                "description": "버추얼 라이브에서 누적 응원 포인트 5000 달성하기",
+                "seq": 6,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 5000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030107,
+                "panelMissionSheetId": 10301,
+                "name": " '1st Anniversary 모자'\n구매하기",
+                "description": " '1st Anniversary 모자' 구매하기",
+                "seq": 7,
+                "panelMissionType": "spin_virtual_live_avatar_accessory",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4626,
+                "missionType": "panel_mission_complete",
+                "missionId": 10301,
+                "seq": 1,
+                "resourceBoxId": 1358,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10302,
+            "panelMissionSheetGroupId": 103,
+            "name": "다이아몬드 셀렉트 카드",
+            "seq": 2,
+            "assetbundleName": "sheet_diamond_select",
+            "panelMissions": [
+              {
+                "id": 1030201,
+                "panelMissionSheetId": 10302,
+                "name": " '컬러풀 페스티벌\/\n기간 한정 뽑기'\n100회 진행하기",
+                "description": " '[1주년 기념] 컬러풀 페스티벌 뽑기 드림 픽'\n또는 '나이츠 오브 화이트 뽑기' 100회 진행하기",
+                "seq": 1,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030202,
+                "panelMissionSheetId": 10302,
+                "name": " '메모리얼 셀렉트 뽑기'\n1회 진행하기",
+                "description": " '[1주년 기념] 메모리얼 셀렉트 뽑기' 1회 진행하기",
+                "seq": 2,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030203,
+                "panelMissionSheetId": 10302,
+                "name": " '프리미엄 선물 뽑기'\n2회 진행하기",
+                "description": " '[1주년 기념] 프리미엄 선물 뽑기' 2회 진행하기",
+                "seq": 3,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030204,
+                "panelMissionSheetId": 10302,
+                "name": " '1주년 기념 세트'\n1종류 구매하기",
+                "description": "크리스탈 상점에서 '1주년 기념 세트' 1종류 구매하기",
+                "seq": 4,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030205,
+                "panelMissionSheetId": 10302,
+                "name": "2023년 5월\n'프리미엄 미션 패스'\n구매하기",
+                "description": "2023년 5월 '프리미엄 미션 패스' 구매하기",
+                "seq": 5,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030206,
+                "panelMissionSheetId": 10302,
+                "name": "누적 응원 포인트\n10000 달성하기",
+                "description": "버추얼 라이브에서 누적 응원 포인트 10000 달성하기",
+                "seq": 6,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 10000,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1030207,
+                "panelMissionSheetId": 10302,
+                "name": " '1st Anniversary\n응원봉' 구매하기",
+                "description": " '1st Anniversary 응원봉' 구매하기",
+                "seq": 7,
+                "panelMissionType": "spin_penlight",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4627,
+                "missionType": "panel_mission_complete",
+                "missionId": 10302,
+                "seq": 1,
+                "resourceBoxId": 1359,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "panelMissionCampaignId": 1,
+        "name": "리듬 게임",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 10401,
+            "panelMissionSheetGroupId": 104,
+            "name": "라이트 리듬 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_gamer",
+            "panelMissions": [
+              {
+                "id": 1040101,
+                "panelMissionSheetId": 10401,
+                "name": "악곡을 풀 콤보로\n10회 클리어하기",
+                "description": "악곡을 풀 콤보로 10회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040102,
+                "panelMissionSheetId": 10401,
+                "name": " '스코어 UP' 스킬을\n가진 멤버로만 라이브\n10회 플레이하기",
+                "description": " '스코어 UP' 또는 '스코어 UP(특수)' 스킬을 가진 멤버로만\n유닛을 편성하여 라이브 10회 플레이하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_skill_score_up",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040103,
+                "panelMissionSheetId": 10401,
+                "name": " '판정 강화' 스킬을\n가진 멤버로만 라이브\n10회 플레이하기",
+                "description": " '판정 강화' 스킬을 가진 멤버로만\n유닛을 편성하여 라이브 10회 플레이하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_skill_judgement_up",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040104,
+                "panelMissionSheetId": 10401,
+                "name": " '라이프 회복' 스킬을\n가진 멤버로만 라이브\n10회 플레이하기",
+                "description": " '라이프 회복' 스킬을 가진 멤버로만\n유닛을 편성하여 라이브 10회 플레이하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_skill_life_recovery",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040105,
+                "panelMissionSheetId": 10401,
+                "name": "멤버의 스킬 레벨\n1회 올리기",
+                "description": "멤버의 스킬 레벨 1회 올리기",
+                "seq": 5,
+                "panelMissionType": "any_member_skill_up",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040106,
+                "panelMissionSheetId": 10401,
+                "name": "뮤직 카드\n20장 획득하기",
+                "description": "뮤직 카드 20장 획득하기",
+                "seq": 6,
+                "panelMissionType": "collect_material",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040107,
+                "panelMissionSheetId": 10401,
+                "name": "1주년 기념 추가\n악곡으로 라이브\n20회 플레이하기",
+                "description": " '1주년 기념 악곡 추가 캠페인'으로 추가된\n악곡으로 라이브 20회 플레이하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4628,
+                "missionType": "panel_mission_complete",
+                "missionId": 10401,
+                "seq": 1,
+                "resourceBoxId": 1360,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10402,
+            "panelMissionSheetGroupId": 104,
+            "name": "챌린지 리듬 카드",
+            "seq": 2,
+            "assetbundleName": "sheet_heavy_gamer",
+            "panelMissions": [
+              {
+                "id": 1040201,
+                "panelMissionSheetId": 10402,
+                "name": "Lv.25~26 악곡을\n풀 콤보로\n10회 클리어하기",
+                "description": "Lv.25～26 악곡을 풀 콤보로 10회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040202,
+                "panelMissionSheetId": 10402,
+                "name": "Lv.27~28 악곡을\n풀 콤보로\n10회 클리어하기",
+                "description": "Lv.27～28 악곡을 풀 콤보로 10회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040203,
+                "panelMissionSheetId": 10402,
+                "name": "Lv.29 악곡을\n풀 콤보로\n10회 클리어하기",
+                "description": "Lv.29 악곡을 풀 콤보로 10회 클리어하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040204,
+                "panelMissionSheetId": 10402,
+                "name": "Lv.30 이상 악곡을\n10회 클리어하기",
+                "description": "Lv.30 이상 악곡을 10회 클리어하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040205,
+                "panelMissionSheetId": 10402,
+                "name": "EXPERT 이상 악곡을\nALL PERFECT로\n3회 클리어하기",
+                "description": "난이도 EXPERT 이상 악곡을 ALL PERFECT로 3회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040206,
+                "panelMissionSheetId": 10402,
+                "name": "MASTER 악곡을\n풀 콤보로\n10회 클리어하기",
+                "description": "난이도 MASTER 악곡을 풀 콤보로 10회 클리어하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_full_combo_in_music_difficulty",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040207,
+                "panelMissionSheetId": 10402,
+                "name": " 'Gunjo Sanka'의\n모든 난이도를\n풀 콤보로 클리어하기",
+                "description": "악곡 'Gunjo Sanka'의 모든 난이도를\n풀 콤보로 클리어하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4629,
+                "missionType": "panel_mission_complete",
+                "missionId": 10402,
+                "seq": 1,
+                "resourceBoxId": 1361,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          },
+          {
+            "id": 10403,
+            "panelMissionSheetGroupId": 104,
+            "name": "얼티밋 리듬 카드",
+            "seq": 3,
+            "assetbundleName": "sheet_pro",
+            "panelMissions": [
+              {
+                "id": 1040301,
+                "panelMissionSheetId": 10403,
+                "name": "Lv.26～27 악곡을\n풀 콤보로\n10회 클리어하기",
+                "description": "Lv.26～27 악곡을 풀 콤보로 10회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040302,
+                "panelMissionSheetId": 10403,
+                "name": "Lv.28～29 악곡을\n풀 콤보로\n10회 클리어하기",
+                "description": "Lv.28～29 악곡을 풀 콤보로 10회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040303,
+                "panelMissionSheetId": 10403,
+                "name": "Lv.30 악곡을\n풀 콤보로\n10회 클리어하기",
+                "description": "Lv.30 악곡을 풀 콤보로 10회 클리어하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040304,
+                "panelMissionSheetId": 10403,
+                "name": "Lv.32 이상 악곡을\n10회 클리어하기",
+                "description": "Lv.32 이상 악곡을 10회 클리어하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040305,
+                "panelMissionSheetId": 10403,
+                "name": "MASTER 악곡을\nALL PERFECT로\n1회 클리어하기",
+                "description": "난이도 MASTER 악곡을 ALL PERFECT로 1회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040306,
+                "panelMissionSheetId": 10403,
+                "name": "MASTER 악곡을\n풀 콤보로\n20회 클리어하기",
+                "description": "난이도 MASTER 악곡을 풀 콤보로 20회 클리어하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_full_combo_in_music_difficulty",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 1040307,
+                "panelMissionSheetId": 10403,
+                "name": " 'Gunjo Sanka'의\n모든 난이도를\n풀 콤보로 클리어하기",
+                "description": "악곡 'Gunjo Sanka'의 모든 난이도를\n풀 콤보로 클리어하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 4630,
+                "missionType": "panel_mission_complete",
+                "missionId": 10403,
+                "seq": 1,
+                "resourceBoxId": 1362,
+                "worksheetVersion": "2.3.5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

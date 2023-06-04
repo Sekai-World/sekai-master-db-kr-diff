@@ -4849,7 +4849,7 @@
     "gameCharacterUnitId": 12,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233284400000,
-    "description": "'비 갠 뒤 첫 번째 별\n 애프터 라이브' 참가"
+    "description": "'Period of NOCTURNE\n 애프터 라이브' 참가"
   },
   {
     "id": 430,
@@ -4862,7 +4862,7 @@
     "gameCharacterUnitId": 19,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233284400000,
-    "description": "'Period of NOCTURNE\n 애프터 라이브' 참가"
+    "description": "'채워지지 않는 페일 컬러\n 애프터 라이브' 참가"
   },
   {
     "id": 431,
@@ -6246,7 +6246,7 @@
     "gameCharacterUnitId": 18,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1690783200000,
-    "description": "'헤매는 아이의 손을 잡아끈, 그 너머에는\n 애프터 라이브' 참가"
+    "description": "'헤매는 아이의 손을 잡고 이끈, 그 너머에는\n 애프터 라이브' 참가"
   },
   {
     "id": 546,
@@ -6616,7 +6616,7 @@
     "id": 574,
     "stampType": "illustration",
     "seq": 5740,
-    "name": "[스탬프] 에나: 또 그려도 될까",
+    "name": "[스탬프] 에나: 계속 그려도 될까",
     "assetbundleName": "stamp0574",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 19,
@@ -6761,6 +6761,85 @@
     "seq": 1,
     "name": "[텍스트 스탬프] 해피 계묘년!",
     "assetbundleName": "stamp10017",
-    "balloonAssetbundleName": "balloon_stamp_02"
+    "balloonAssetbundleName": "balloon_stamp_02",
+    "archiveDisplayType": "none"
+  },
+  {
+    "id": 20001,
+    "stampType": "illustration",
+    "seq": 5,
+    "name": "[스탬프]  미쿠: 앞으로도 함께 웃자",
+    "assetbundleName": "stamp20001",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 21,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1684551600000,
+    "description": "스탬프 상점에서 구매"
+  },
+  {
+    "id": 20002,
+    "stampType": "illustration",
+    "seq": 65,
+    "name": "[스탬프]  이치카: 응원해 줘서 고마워",
+    "assetbundleName": "stamp20002",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 1,
+    "gameCharacterUnitId": 1,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1684551600000,
+    "description": "스탬프 상점에서 구매"
+  },
+  {
+    "id": 20003,
+    "stampType": "illustration",
+    "seq": 155,
+    "name": "[스탬프]  미노리: 꽃길만 걷자!",
+    "assetbundleName": "stamp20003",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "gameCharacterUnitId": 5,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1684551600000,
+    "description": "스탬프 상점에서 구매"
+  },
+  {
+    "id": 20004,
+    "stampType": "illustration",
+    "seq": 195,
+    "name": "[스탬프]  코하네: 실력이 많이 늘었어!",
+    "assetbundleName": "stamp20004",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 9,
+    "gameCharacterUnitId": 9,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1684551600000,
+    "description": "스탬프 상점에서 구매"
+  },
+  {
+    "id": 20005,
+    "stampType": "illustration",
+    "seq": 235,
+    "name": "[스탬프]  츠카사: 화려한 공연이었어!",
+    "assetbundleName": "stamp20005",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 13,
+    "gameCharacterUnitId": 13,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1684551600000,
+    "description": "스탬프 상점에서 구매"
+  },
+  {
+    "id": 20006,
+    "stampType": "illustration",
+    "seq": 275,
+    "name": "[스탬프]  카나데: 너는... 소중해",
+    "assetbundleName": "stamp20006",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1684551600000,
+    "description": "스탬프 상점에서 구매"
   }
 ]

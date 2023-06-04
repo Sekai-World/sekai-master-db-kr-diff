@@ -72,6 +72,18 @@
     ]
   },
   {
+    "id": 205,
+    "seq": 5,
+    "honorMissionType": "player_rank",
+    "requirement": 400,
+    "sentence": "플레이어 랭크 400 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1185
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -1968,6 +1980,30 @@
     ]
   },
   {
+    "id": 50006,
+    "seq": 6,
+    "honorMissionType": "level_with_max_card_total",
+    "requirement": 150,
+    "sentence": "최고 레벨을 달성한 멤버 총 150명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50006
+      }
+    ]
+  },
+  {
+    "id": 50007,
+    "seq": 7,
+    "honorMissionType": "level_with_max_card_total",
+    "requirement": 200,
+    "sentence": "최고 레벨을 달성한 멤버 총 200명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50007
+      }
+    ]
+  },
+  {
     "id": 50009,
     "seq": 9,
     "honorMissionType": "special_training_card_total",
@@ -2012,6 +2048,30 @@
     "rewards": [
       {
         "resourceBoxId": 50012
+      }
+    ]
+  },
+  {
+    "id": 50013,
+    "seq": 13,
+    "honorMissionType": "special_training_card_total",
+    "requirement": 125,
+    "sentence": "특훈을 완료한 멤버 총 125명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50013
+      }
+    ]
+  },
+  {
+    "id": 50014,
+    "seq": 14,
+    "honorMissionType": "special_training_card_total",
+    "requirement": 150,
+    "sentence": "특훈을 완료한 멤버 총 150명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50014
       }
     ]
   },
@@ -2076,6 +2136,30 @@
     ]
   },
   {
+    "id": 50022,
+    "seq": 22,
+    "honorMissionType": "master_rank_with_2_card_total",
+    "requirement": 150,
+    "sentence": "마스터 랭크 2 이상의 멤버 총 150명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50022
+      }
+    ]
+  },
+  {
+    "id": 50023,
+    "seq": 23,
+    "honorMissionType": "master_rank_with_2_card_total",
+    "requirement": 200,
+    "sentence": "마스터 랭크 2 이상의 멤버 총 200명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50023
+      }
+    ]
+  },
+  {
     "id": 50025,
     "seq": 25,
     "honorMissionType": "skill_level_with_2_card_total",
@@ -2132,6 +2216,30 @@
     "rewards": [
       {
         "resourceBoxId": 50029
+      }
+    ]
+  },
+  {
+    "id": 50030,
+    "seq": 30,
+    "honorMissionType": "skill_level_with_2_card_total",
+    "requirement": 150,
+    "sentence": "스킬 레벨 2 이상의 멤버 총 150명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50030
+      }
+    ]
+  },
+  {
+    "id": 50031,
+    "seq": 31,
+    "honorMissionType": "skill_level_with_2_card_total",
+    "requirement": 200,
+    "sentence": "스킬 레벨 2 이상의 멤버 총 200명 보유하기",
+    "rewards": [
+      {
+        "resourceBoxId": 50031
       }
     ]
   },
@@ -2196,6 +2304,30 @@
     ]
   },
   {
+    "id": 50038,
+    "seq": 38,
+    "honorMissionType": "card_episode_first_part_total",
+    "requirement": 175,
+    "sentence": "사이드 스토리(전편) 총 175편 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 50038
+      }
+    ]
+  },
+  {
+    "id": 50039,
+    "seq": 39,
+    "honorMissionType": "card_episode_first_part_total",
+    "requirement": 200,
+    "sentence": "사이드 스토리(전편) 총 200편 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 50039
+      }
+    ]
+  },
+  {
     "id": 50041,
     "seq": 41,
     "honorMissionType": "card_episode_second_part_total",
@@ -2252,6 +2384,30 @@
     "rewards": [
       {
         "resourceBoxId": 50045
+      }
+    ]
+  },
+  {
+    "id": 50046,
+    "seq": 46,
+    "honorMissionType": "card_episode_second_part_total",
+    "requirement": 150,
+    "sentence": "사이드 스토리(후편) 총 150편 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 50046
+      }
+    ]
+  },
+  {
+    "id": 50047,
+    "seq": 47,
+    "honorMissionType": "card_episode_second_part_total",
+    "requirement": 200,
+    "sentence": "사이드 스토리(후편) 총 200편 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 50047
       }
     ]
   }

@@ -53,7 +53,7 @@
   },
   {
     "wordingKey": "CHEERFUL_CARNIVAL_ANNOUNCE_VICTORY_BONUS_LIVE",
-    "value": "'%s' 그룹의 '%s'가 %d배 스페셜 매치에서 승리했습니다!"
+    "value": "'%s' 그룹의 '%s'(이)가 %d배 스페셜 매치에서 승리했습니다!"
   },
   {
     "wordingKey": "CHEERFUL_CARNIVAL_FINAL_RESULT_REWARD",
@@ -1273,15 +1273,15 @@
   },
   {
     "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_1",
-    "value": "<color=#00CCBB>랭크 1<\/color> 달성 시 오픈"
+    "value": "<color=#00CCBB>랭크 1<\/color> 오픈"
   },
   {
     "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_3",
-    "value": "<color=#00CCBB>랭크 3<\/color> 달성 시 오픈"
+    "value": "<color=#00CCBB>랭크 3<\/color> 오픈"
   },
   {
     "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_5",
-    "value": "<color=#00CCBB>랭크 5<\/color> 달성 시 오픈"
+    "value": "<color=#00CCBB>랭크 5<\/color> 오픈"
   },
   {
     "wordingKey": "MSG_MATCHING_CONNECTING",
@@ -1925,7 +1925,7 @@
   },
   {
     "wordingKey": "MSG_RANK_MATCH_RELEASE_WAIT",
-    "value": "랭크 매치 기능은 3월 30일 18:00에 오픈 예정입니다.\n잠시만 기다려 주세요."
+    "value": "랭크 매치 기능은 6월 1일 18:00에 오픈 예정입니다.\n잠시만 기다려 주세요."
   },
   {
     "wordingKey": "MSG_RATING",
@@ -2241,7 +2241,7 @@
   },
   {
     "wordingKey": "MSG_STAMP_MISSION_EVENT_END",
-    "value": "[2주년 기념] 애니버서리 스탬프 미션은\n 개최 기간이 종료되었습니다.\n 홈으로 돌아갑니다."
+    "value": "[1주년 기념] 애니버서리 스탬프 미션은\n 개최 기간이 종료되었습니다.\n 홈으로 돌아갑니다."
   },
   {
     "wordingKey": "MSG_STAMP_MISSION_INTERNET_NOT_REACHABLE",
@@ -2937,7 +2937,7 @@
   },
   {
     "wordingKey": "WORD_AM_TIME",
-    "value": "'00:00 ~ 11:59'"
+    "value": "'00:00 ~ 11:59',"
   },
   {
     "wordingKey": "WORD_ANDROID_RATING_TITLE",
@@ -9585,7 +9585,7 @@
   },
   {
     "wordingKey": "WORD_LIVE_CHALLENGE_BR",
-    "value": "챌린지\n라이브"
+    "value": "랭크 매치"
   },
   {
     "wordingKey": "WORD_LIVE_CLOSE",
@@ -9940,6 +9940,14 @@
     "value": "이벤트\n스토리"
   },
   {
+    "wordingKey": "Word_MemorySize_Android",
+    "value": "3"
+  },
+  {
+    "wordingKey": "Word_MemorySize_iOS",
+    "value": "3"
+  },
+  {
     "wordingKey": "WORD_MENU",
     "value": "메뉴"
   },
@@ -10082,6 +10090,10 @@
   {
     "wordingKey": "WORD_MODE",
     "value": "모드"
+  },
+  {
+    "wordingKey": "WORD_MODEL_TEXTURE_QUALITY_SETTING",
+    "value": "텍스쳐 품질"
   },
   {
     "wordingKey": "WORD_MODE_SETTING",
@@ -11044,6 +11056,10 @@
     "value": "필요 아이템 부족"
   },
   {
+    "wordingKey": "WORD_PANELMISSION_SELECT",
+    "value": "선택하기"
+  },
+  {
     "wordingKey": "WORD_PANEL_MISSION",
     "value": "스탬프 미션"
   },
@@ -11181,7 +11197,7 @@
   },
   {
     "wordingKey": "WORD_PM_TIME",
-    "value": "'12:00 ~ 23:59'"
+    "value": "'12:00 ~ 23:59',"
   },
   {
     "wordingKey": "Word_PolicyUpdateContent",
@@ -11405,7 +11421,7 @@
   },
   {
     "wordingKey": "WORD_RARITY_BD",
-    "value": "BD·AN"
+    "value": "생일·기념일"
   },
   {
     "wordingKey": "WORD_RARITY_MEMBER_2",
@@ -12480,6 +12496,10 @@
     "value": "타이틀"
   },
   {
+    "wordingKey": "Word_TitleToOutGameGC",
+    "value": "1"
+  },
+  {
     "wordingKey": "WORD_TITLE_AUTO_LIVE_NOT_ALLOWED",
     "value": "라이브 보너스 부족"
   },
@@ -12685,7 +12705,11 @@
   },
   {
     "wordingKey": "WORD_UNSUBSCRIBE",
-    "value": "계정이 삭제되었습니다"
+    "value": "탈퇴한 계정입니다. "
+  },
+  {
+    "wordingKey": "WORD_UNSUBSCRIBE_RELEASE",
+    "value": "탈퇴한 계정입니다. 친구를 삭제하시겠습니까?"
   },
   {
     "wordingKey": "WORD_UNTIL_LIVE",
@@ -12710,6 +12734,14 @@
   {
     "wordingKey": "WORD_USE_COUNT",
     "value": "사용"
+  },
+  {
+    "wordingKey": "Word_ValidAndSkipLoadCachedMasterData",
+    "value": "1"
+  },
+  {
+    "wordingKey": "Word_ValidAndSkipLoadClientAssetBundleInfo",
+    "value": "1"
   },
   {
     "wordingKey": "WORD_VALUE_SET_GACHA_TICKET",
@@ -12946,6 +12978,10 @@
   {
     "wordingKey": "WORD_VISIBLE",
     "value": "표시"
+  },
+  {
+    "wordingKey": "Word_VLLoadOptimize",
+    "value": "1"
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_LABEL_ALL",
