@@ -2207,6 +2207,55 @@
     "virtualShopType": "event"
   },
   {
+    "id": 111,
+    "name": "제57회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 213,
+        "virtualShopId": 111,
+        "virtualShopItemType": "penlight",
+        "seq": 199927,
+        "resourceBoxId": 167,
+        "costPaidJewel": 1000,
+        "startAt": 1688364000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 113,
+    "name": "제58회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 215,
+        "virtualShopId": 113,
+        "virtualShopItemType": "coordinate",
+        "seq": 99905,
+        "resourceBoxId": 168,
+        "costPaidJewel": 1000,
+        "startAt": 1688968800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 115,
+    "name": "제59회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 217,
+        "virtualShopId": 115,
+        "virtualShopItemType": "accessory",
+        "seq": 199926,
+        "resourceBoxId": 169,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1689573600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
     "id": 116,
     "name": "토우야 BIRTHDAY",
     "virtualShopItems": [
@@ -2224,6 +2273,55 @@
     "virtualShopType": "birthday"
   },
   {
+    "id": 117,
+    "name": "제60회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 219,
+        "virtualShopId": 117,
+        "virtualShopItemType": "coordinate",
+        "seq": 99902,
+        "resourceBoxId": 170,
+        "costPaidJewel": 1000,
+        "startAt": 1690178400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 120,
+    "name": "제61회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 225,
+        "virtualShopId": 120,
+        "virtualShopItemType": "penlight",
+        "seq": 199925,
+        "resourceBoxId": 176,
+        "costPaidJewel": 1000,
+        "startAt": 1690783200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 121,
+    "name": "제62회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 226,
+        "virtualShopId": 121,
+        "virtualShopItemType": "accessory",
+        "seq": 199924,
+        "resourceBoxId": 177,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1691388000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
     "id": 122,
     "name": "루이 BIRTHDAY",
     "virtualShopItems": [
@@ -2239,6 +2337,83 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 123,
+    "name": "제63회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 228,
+        "virtualShopId": 123,
+        "virtualShopItemType": "penlight",
+        "seq": 199923,
+        "resourceBoxId": 178,
+        "costPaidJewel": 1000,
+        "startAt": 1691992800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 124,
+    "name": "칠석 라이브",
+    "virtualShopItems": [
+      {
+        "id": 229,
+        "virtualShopId": 124,
+        "virtualShopItemType": "accessory",
+        "seq": 199922,
+        "resourceBoxId": 110,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1660975200000,
+        "endAt": 1661320799000
+      },
+      {
+        "id": 230,
+        "virtualShopId": 124,
+        "virtualShopItemType": "coordinate",
+        "seq": 99900,
+        "resourceBoxId": 179,
+        "costPaidJewel": 1000,
+        "startAt": 1660975200000,
+        "endAt": 1661320799000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 125,
+    "name": "제64회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 231,
+        "virtualShopId": 125,
+        "virtualShopItemType": "accessory",
+        "seq": 199921,
+        "resourceBoxId": 180,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1692597600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 127,
+    "name": "제65회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 233,
+        "virtualShopId": 127,
+        "virtualShopItemType": "penlight",
+        "seq": 199920,
+        "resourceBoxId": 181,
+        "costPaidJewel": 1000,
+        "startAt": 1693202400000
+      }
+    ],
+    "virtualShopType": "event"
   },
   {
     "id": 140,

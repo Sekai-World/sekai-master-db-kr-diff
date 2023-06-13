@@ -538,5 +538,59 @@
     "requirement": 5,
     "sentence": "KAITO의 모든 기념일 한정 미션 완료하기",
     "resourceBoxId": 100039
+  },
+  {
+    "limitMissionGroupId": 12,
+    "id": 69,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": " '챌린지 라이브'  5회 플레이하기",
+    "resourceBoxId": 100003
+  },
+  {
+    "limitMissionGroupId": 12,
+    "id": 70,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "sentence": " '버추얼 라이브' 1회 참가하기",
+    "resourceBoxId": 100035
+  },
+  {
+    "limitMissionGroupId": 12,
+    "id": 71,
+    "seq": 1,
+    "limitMissionType": "use_virtual_item",
+    "requirement": 10,
+    "sentence": " '버추얼 라이브'에서 버추얼 아이템을 10회 사용하세요.",
+    "resourceBoxId": 100027
+  },
+  {
+    "limitMissionGroupId": 12,
+    "id": 72,
+    "seq": 1,
+    "limitMissionType": "friend_share",
+    "requirement": 1,
+    "sentence": " 공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
+    "resourceBoxId": 100019
+  },
+  {
+    "limitMissionGroupId": 12,
+    "id": 73,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": " 아무 멤버의 마스터 랭크 1회 올리기",
+    "resourceBoxId": 100018
+  },
+  {
+    "limitMissionGroupId": 12,
+    "id": 74,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": " 위 미션들을 모두 통과하세요.",
+    "resourceBoxId": 100031
   }
 ]

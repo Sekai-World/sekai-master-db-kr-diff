@@ -57,14 +57,34 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 313,
+    "homeBannerId": 311,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha195",
+    "assetbundleName": "banner_gacha197",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 195,
-    "startAt": 1685934000000,
-    "endAt": 1686538799000
+    "transitionDestinationId": 197,
+    "startAt": 1686538800000,
+    "endAt": 1687575599000
+  },
+  {
+    "homeBannerId": 312,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha198",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 198,
+    "startAt": 1686538800000,
+    "endAt": 1686970799000
+  },
+  {
+    "homeBannerId": 321,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_sakura_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 54,
+    "startAt": 1686549600000,
+    "endAt": 1687089599000
   },
   {
     "homeBannerId": 330,

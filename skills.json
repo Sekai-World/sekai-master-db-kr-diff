@@ -1673,7 +1673,18 @@
             "activateEffectValueType": "rate",
             "activateEffectValue": 100
           }
-        ]
+        ],
+        "skillEnhance": {
+          "id": 1,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 1,
+            "seq": 1,
+            "unit": "light_sound"
+          }
+        }
       }
     ]
   },
@@ -1716,7 +1727,18 @@
             "activateEffectValueType": "rate",
             "activateEffectValue": 100
           }
-        ]
+        ],
+        "skillEnhance": {
+          "id": 2,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 2,
+            "seq": 2,
+            "unit": "idol"
+          }
+        }
       }
     ]
   },
@@ -1759,7 +1781,18 @@
             "activateEffectValueType": "rate",
             "activateEffectValue": 100
           }
-        ]
+        ],
+        "skillEnhance": {
+          "id": 3,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 3,
+            "seq": 3,
+            "unit": "street"
+          }
+        }
       }
     ]
   },
@@ -1802,7 +1835,18 @@
             "activateEffectValueType": "rate",
             "activateEffectValue": 100
           }
-        ]
+        ],
+        "skillEnhance": {
+          "id": 4,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 4,
+            "seq": 4,
+            "unit": "theme_park"
+          }
+        }
       }
     ]
   },
@@ -1845,7 +1889,18 @@
             "activateEffectValueType": "rate",
             "activateEffectValue": 100
           }
-        ]
+        ],
+        "skillEnhance": {
+          "id": 5,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 5,
+            "seq": 5,
+            "unit": "school_refusal"
+          }
+        }
       }
     ]
   }
