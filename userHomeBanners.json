@@ -1,7 +1,7 @@
 [
   {
     "homeBannerId": 3,
-    "seq": 120,
+    "seq": 5000,
     "homeBannerType": "general",
     "assetbundleName": "banner_welcomelive",
     "transitionDestinationType": "virtual_live",
@@ -11,7 +11,7 @@
   },
   {
     "homeBannerId": 5,
-    "seq": 9999,
+    "seq": 5000,
     "homeBannerType": "general",
     "assetbundleName": "banner_beginners_guide",
     "transitionDestinationType": "information",
@@ -21,7 +21,7 @@
   },
   {
     "homeBannerId": 8,
-    "seq": 130,
+    "seq": 5000,
     "homeBannerType": "general",
     "assetbundleName": "banner_sodokumission",
     "transitionDestinationType": "sudoku",
@@ -30,7 +30,7 @@
   },
   {
     "homeBannerId": 35,
-    "seq": 20,
+    "seq": 5000,
     "homeBannerType": "general",
     "assetbundleName": "banner_cp4",
     "transitionDestinationType": "billing_shop_for_colorful_pass",
@@ -39,7 +39,7 @@
   },
   {
     "homeBannerId": 167,
-    "seq": 10,
+    "seq": 50000,
     "homeBannerType": "general",
     "assetbundleName": "banner_firstrecharge",
     "transitionDestinationType": "billing_shop_for_value_set",
@@ -75,36 +75,6 @@
     "transitionDestinationId": 217,
     "startAt": 1687532400000,
     "endAt": 1688137199000
-  },
-  {
-    "homeBannerId": 318,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha2010",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 2010,
-    "startAt": 1687532400000,
-    "endAt": 1688569199000
-  },
-  {
-    "homeBannerId": 319,
-    "seq": 50,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive157",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 157,
-    "startAt": 1687413600000,
-    "endAt": 1687672799000
-  },
-  {
-    "homeBannerId": 322,
-    "seq": 40,
-    "homeBannerType": "general",
-    "assetbundleName": "event_star_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 55,
-    "startAt": 1687154400000,
-    "endAt": 1687694399000
   },
   {
     "homeBannerId": 330,
