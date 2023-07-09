@@ -77,13 +77,13 @@
     "endAt": 1688957999000
   },
   {
-    "homeBannerId": 340,
-    "seq": 1,
+    "homeBannerId": 341,
+    "seq": 110,
     "homeBannerType": "general",
     "assetbundleName": "banner_premiummissionpass_2023_07",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1688137200000,
-    "endAt": 1688569199000
+    "startAt": 1688569200000,
+    "endAt": 1690815599000
   },
   {
     "homeBannerId": 342,
@@ -103,5 +103,15 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1688007600000,
     "endAt": 1689173999000
+  },
+  {
+    "homeBannerId": 10101,
+    "seq": 5000,
+    "homeBannerType": "return",
+    "assetbundleName": "banner_gacha2001",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1100,
+    "startAt": 1687892400000,
+    "endAt": 1690484399000
   }
 ]
