@@ -67,14 +67,14 @@
     "endAt": 1689044399000
   },
   {
-    "homeBannerId": 331,
+    "homeBannerId": 332,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha205",
+    "assetbundleName": "banner_gacha207",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 205,
-    "startAt": 1688353200000,
-    "endAt": 1688957999000
+    "transitionDestinationId": 207,
+    "startAt": 1688958000000,
+    "endAt": 1689562799000
   },
   {
     "homeBannerId": 341,
@@ -84,6 +84,16 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1688569200000,
     "endAt": 1690815599000
+  },
+  {
+    "homeBannerId": 343,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_cheerteam_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 58,
+    "startAt": 1688968800000,
+    "endAt": 1689508799000
   },
   {
     "homeBannerId": 371,
