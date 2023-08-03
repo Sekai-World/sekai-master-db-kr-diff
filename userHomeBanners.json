@@ -57,42 +57,32 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 336,
+    "homeBannerId": 337,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha213",
+    "assetbundleName": "banner_gacha214",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 213,
-    "startAt": 1690167600000,
-    "endAt": 1690772399000
+    "transitionDestinationId": 214,
+    "startAt": 1690772400000,
+    "endAt": 1691377199000
   },
   {
-    "homeBannerId": 338,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha224",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 224,
-    "startAt": 1690297200000,
-    "endAt": 1690901999000
-  },
-  {
-    "homeBannerId": 341,
-    "seq": 110,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_premiummissionpass_2023_07",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1688569200000,
-    "endAt": 1690815599000
-  },
-  {
-    "homeBannerId": 345,
+    "homeBannerId": 346,
     "seq": 40,
     "homeBannerType": "general",
-    "assetbundleName": "event_happiness_2022",
+    "assetbundleName": "event_maigo_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 60,
-    "startAt": 1690178400000,
-    "endAt": 1690718399000
+    "transitionDestinationId": 61,
+    "startAt": 1690783200000,
+    "endAt": 1691323199000
+  },
+  {
+    "homeBannerId": 361,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_premiummissionpass_2023_08",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1690815600000,
+    "endAt": 1691247599000
   }
 ]
