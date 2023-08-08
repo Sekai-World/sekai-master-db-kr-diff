@@ -57,16 +57,6 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 337,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha214",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 214,
-    "startAt": 1690772400000,
-    "endAt": 1691377199000
-  },
-  {
     "homeBannerId": 349,
     "seq": 30,
     "homeBannerType": "general",
@@ -77,6 +67,16 @@
     "endAt": 1691981999000
   },
   {
+    "homeBannerId": 350,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha216",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 216,
+    "startAt": 1691377200000,
+    "endAt": 1691981999000
+  },
+  {
     "homeBannerId": 362,
     "seq": 110,
     "homeBannerType": "general",
@@ -84,5 +84,15 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1691247600000,
     "endAt": 1693493999000
+  },
+  {
+    "homeBannerId": 363,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_island_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 62,
+    "startAt": 1691388000000,
+    "endAt": 1691927999000
   }
 ]
