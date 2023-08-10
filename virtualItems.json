@@ -1,5 +1,18 @@
 [
   {
+    "id": 1003,
+    "virtualItemCategory": "normal",
+    "seq": 1170,
+    "priority": 1170,
+    "name": "2023 '토끼' 띠",
+    "assetbundleName": "event_new_year_2023_02",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_new_year_2023_02",
+    "effectExpressionType": "throw_effect"
+  },
+  {
     "id": 1,
     "virtualItemCategory": "normal",
     "seq": 10,
@@ -1528,19 +1541,6 @@
     "costJewel": 1500,
     "cheerPoint": 1500,
     "effectAssetbundleName": "event_new_year_2022_02",
-    "effectExpressionType": "throw_effect"
-  },
-  {
-    "id": 1003,
-    "virtualItemCategory": "normal",
-    "seq": 1170,
-    "priority": 1170,
-    "name": "2023 '토끼' 띠",
-    "assetbundleName": "event_new_year_2023_02",
-    "costVirtualCoin": 1500,
-    "costJewel": 1500,
-    "cheerPoint": 1500,
-    "effectAssetbundleName": "event_new_year_2023_02",
     "effectExpressionType": "throw_effect"
   }
 ]

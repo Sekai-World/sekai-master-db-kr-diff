@@ -9314,8 +9314,8 @@
         "virtualLiveStageId": 5,
         "musicVocalId": 76,
         "character3dId1": 7,
-        "character3dId2": 8,
-        "character3dId3": 22
+        "character3dId2": 22,
+        "character3dId3": 8
       },
       {
         "id": 598,
@@ -35458,8 +35458,7 @@
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_bd_2021tsukasa_2",
-        "virtualLiveStageId": 4,
-        "musicVocalId": 253
+        "virtualLiveStageId": 4
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -49292,9 +49291,9 @@
         "id": 816,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0016_kuyamumirai",
+        "assetbundleName": "0116_001",
         "virtualLiveStageId": 6,
-        "musicVocalId": 52,
+        "musicVocalId": 173,
         "character3dId1": 20,
         "character3dId2": 19,
         "character3dId3": 17,
@@ -49307,7 +49306,7 @@
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_bd_2021mizuki_2",
         "virtualLiveStageId": 6,
-        "musicVocalId": 52
+        "musicVocalId": 173
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -51818,13 +51817,13 @@
         "id": 827,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0029_smh",
+        "assetbundleName": "0127_001",
         "virtualLiveStageId": 4,
-        "musicVocalId": 47,
-        "character3dId1": 25,
-        "character3dId2": 13,
-        "character3dId3": 15,
-        "character3dId4": 14,
+        "musicVocalId": 319,
+        "character3dId1": 39,
+        "character3dId2": 14,
+        "character3dId3": 13,
+        "character3dId4": 15,
         "character3dId5": 16
       },
       {
@@ -51833,7 +51832,7 @@
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_bd_2021emu_2",
         "virtualLiveStageId": 4,
-        "musicVocalId": 47
+        "musicVocalId": 319
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -60842,14 +60841,14 @@
     "archiveReleaseConditionId": 103908,
     "virtualLiveSetlists": [
       {
-        "id": 9005,
+        "id": 896,
         "seq": 1,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_band_06_1",
         "virtualLiveStageId": 7
       },
       {
-        "id": 9006,
+        "id": 897,
         "seq": 2,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0159_001",
@@ -60862,7 +60861,7 @@
         "character3dId5": 399
       },
       {
-        "id": 9007,
+        "id": 898,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_band_06_2",
@@ -61898,15 +61897,7 @@
     "archiveReleaseConditionId": 104008,
     "virtualLiveSetlists": [
       {
-        "id": 903,
-        "seq": 5,
-        "virtualLiveSetlistType": "mc",
-        "assetbundleName": "mc_ev_shuffle_13_3",
-        "virtualLiveStageId": 3,
-        "musicVocalId": 50
-      },
-      {
-        "id": 9008,
+        "id": 899,
         "seq": 1,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0024_newyearnia",
@@ -61917,7 +61908,7 @@
         "character3dId3": 402
       },
       {
-        "id": 9009,
+        "id": 900,
         "seq": 2,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_shuffle_13_1",
@@ -61925,14 +61916,14 @@
         "musicVocalId": 120
       },
       {
-        "id": 9010,
+        "id": 901,
         "seq": 3,
         "virtualLiveSetlistType": "mc",
         "assetbundleName": "mc_ev_shuffle_13_2",
         "virtualLiveStageId": 3
       },
       {
-        "id": 9011,
+        "id": 902,
         "seq": 4,
         "virtualLiveSetlistType": "music",
         "assetbundleName": "0014_forward",
@@ -61943,6 +61934,14 @@
         "character3dId3": 405,
         "character3dId4": 406,
         "character3dId5": 403
+      },
+      {
+        "id": 903,
+        "seq": 5,
+        "virtualLiveSetlistType": "mc",
+        "assetbundleName": "mc_ev_shuffle_13_3",
+        "virtualLiveStageId": 3,
+        "musicVocalId": 50
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -67825,20 +67824,6 @@
         "effectAssetbundleName": "chara_kaito",
         "effectExpressionType": "throw_effect",
         "gameCharacterUnitId": 26
-      },
-      {
-        "id": 1003,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023 '토끼' 띠",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -68033,6 +68018,7 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 118,
+      "lobbyAssetbundleName": "new_year_2022",
       "startAt": 1681106400000,
       "endAt": 1681736400000
     },
@@ -69068,7 +69054,7 @@
         "virtualLiveId": 119,
         "seq": 11,
         "startAt": 1674428400000,
-        "endAt": 1674430199000
+        "endAt": 1674429180000
       }
     ],
     "virtualLiveCharacters": [
@@ -69695,20 +69681,6 @@
         "effectAssetbundleName": "chara_kaito",
         "effectExpressionType": "throw_effect",
         "gameCharacterUnitId": 26
-      },
-      {
-        "id": 1003,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023 '토끼' 띠",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -69853,7 +69825,7 @@
         "virtualLiveId": 120,
         "seq": 11,
         "startAt": 1674514800000,
-        "endAt": 1674516599000
+        "endAt": 1674515484000
       }
     ],
     "virtualLiveCharacters": [
@@ -70480,20 +70452,6 @@
         "effectAssetbundleName": "chara_kaito",
         "effectExpressionType": "throw_effect",
         "gameCharacterUnitId": 26
-      },
-      {
-        "id": 1003,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023 '토끼' 띠",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -70637,7 +70595,7 @@
         "virtualLiveId": 121,
         "seq": 11,
         "startAt": 1674601200000,
-        "endAt": 1674602999000
+        "endAt": 1674601905000
       }
     ],
     "virtualLiveCharacters": [
@@ -71264,20 +71222,6 @@
         "effectAssetbundleName": "chara_kaito",
         "effectExpressionType": "throw_effect",
         "gameCharacterUnitId": 26
-      },
-      {
-        "id": 1003,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023 '토끼' 띠",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -71422,7 +71366,7 @@
         "virtualLiveId": 122,
         "seq": 11,
         "startAt": 1674687600000,
-        "endAt": 1674689399000
+        "endAt": 1674688368000
       }
     ],
     "virtualLiveCharacters": [
@@ -72049,20 +71993,6 @@
         "effectAssetbundleName": "chara_kaito",
         "effectExpressionType": "throw_effect",
         "gameCharacterUnitId": 26
-      },
-      {
-        "id": 1003,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023 '토끼' 띠",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -72213,7 +72143,7 @@
         "virtualLiveId": 123,
         "seq": 11,
         "startAt": 1674774000000,
-        "endAt": 1674775799000
+        "endAt": 1674774752000
       }
     ],
     "virtualLiveCharacters": [
@@ -72834,20 +72764,6 @@
         "effectAssetbundleName": "chara_kaito",
         "effectExpressionType": "throw_effect",
         "gameCharacterUnitId": 26
-      },
-      {
-        "id": 1003,
-        "virtualItemCategory": "normal",
-        "seq": 1170,
-        "priority": 1170,
-        "name": "2023 '토끼' 띠",
-        "assetbundleName": "event_new_year_2023_02",
-        "costVirtualCoin": 1500,
-        "costJewel": 1500,
-        "cheerPoint": 1500,
-        "effectAssetbundleName": "event_new_year_2023_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -79315,6 +79231,34 @@
         "seq": 11,
         "startAt": 1685966400000,
         "endAt": 1685966900000
+      },
+      {
+        "id": 2185,
+        "virtualLiveId": 137,
+        "seq": 12,
+        "startAt": 1648645200000,
+        "endAt": 1648645700000
+      },
+      {
+        "id": 2186,
+        "virtualLiveId": 137,
+        "seq": 13,
+        "startAt": 1648648800000,
+        "endAt": 1648649300000
+      },
+      {
+        "id": 2187,
+        "virtualLiveId": 137,
+        "seq": 14,
+        "startAt": 1648652400000,
+        "endAt": 1648652900000
+      },
+      {
+        "id": 2188,
+        "virtualLiveId": 137,
+        "seq": 15,
+        "startAt": 1648656000000,
+        "endAt": 1648656500000
       }
     ],
     "virtualLiveCharacters": [
