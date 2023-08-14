@@ -57,24 +57,14 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 349,
+    "homeBannerId": 351,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha215",
+    "assetbundleName": "banner_gacha218",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 215,
-    "startAt": 1691118000000,
-    "endAt": 1691981999000
-  },
-  {
-    "homeBannerId": 350,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha216",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 216,
-    "startAt": 1691377200000,
-    "endAt": 1691981999000
+    "transitionDestinationId": 218,
+    "startAt": 1691982000000,
+    "endAt": 1692413999000
   },
   {
     "homeBannerId": 360,
@@ -94,6 +84,25 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1691247600000,
     "endAt": 1693493999000
+  },
+  {
+    "homeBannerId": 364,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_sports_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 63,
+    "startAt": 1691992800000,
+    "endAt": 1692532799000
+  },
+  {
+    "homeBannerId": 372,
+    "seq": 60,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_summer2023_01",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1691982000000,
+    "endAt": 1692889140000
   },
   {
     "homeBannerId": 10101,
