@@ -2552,6 +2552,36 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 1271,
+    "seq": 2000,
+    "billingShopItemType": "costume_3d",
+    "name": "교복 테마 의상(여성용)",
+    "description": "校服風格套裝（女性）\n",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1272",
+    "resourceBoxId": 1271,
+    "startAt": 1693407600000,
+    "endAt": 1694271599000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 1272,
+    "seq": 2000,
+    "billingShopItemType": "costume_3d",
+    "name": "교복 테마 의상(남성용)",
+    "description": "校服風格套裝（男性）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1271",
+    "resourceBoxId": 1272,
+    "startAt": 1693407600000,
+    "endAt": 1694271599000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 10001,
     "seq": 1012,
     "billingShopItemType": "value_set",

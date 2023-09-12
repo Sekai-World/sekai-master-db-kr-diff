@@ -2416,6 +2416,105 @@
     "virtualShopType": "event"
   },
   {
+    "id": 129,
+    "name": "제66회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 235,
+        "virtualShopId": 129,
+        "virtualShopItemType": "accessory",
+        "seq": 199920,
+        "resourceBoxId": 182,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1693807200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 131,
+    "name": "제67회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 237,
+        "virtualShopId": 131,
+        "virtualShopItemType": "penlight",
+        "seq": 199919,
+        "resourceBoxId": 183,
+        "costPaidJewel": 1000,
+        "startAt": 1694412000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 132,
+    "name": "제68회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 238,
+        "virtualShopId": 132,
+        "virtualShopItemType": "accessory",
+        "seq": 199918,
+        "resourceBoxId": 184,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1695016800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 136,
+    "name": "제69회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 242,
+        "virtualShopId": 136,
+        "virtualShopItemType": "penlight",
+        "seq": 199917,
+        "resourceBoxId": 186,
+        "costPaidJewel": 1000,
+        "startAt": 1695621600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 138,
+    "name": "제70회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 244,
+        "virtualShopId": 138,
+        "virtualShopItemType": "coordinate",
+        "seq": 99893,
+        "resourceBoxId": 187,
+        "costPaidJewel": 1000,
+        "startAt": 1696226400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 139,
+    "name": "제71회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 245,
+        "virtualShopId": 139,
+        "virtualShopItemType": "accessory",
+        "seq": 199916,
+        "resourceBoxId": 188,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696831200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
     "id": 140,
     "name": "제72회 이벤트 판매",
     "virtualShopItems": [
@@ -2720,5 +2819,82 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 145,
+    "name": "제73회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 288,
+        "virtualShopId": 145,
+        "virtualShopItemType": "coordinate",
+        "seq": 99861,
+        "resourceBoxId": 198,
+        "costPaidJewel": 1000,
+        "startAt": 1698040800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 146,
+    "name": "제74회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 289,
+        "virtualShopId": 146,
+        "virtualShopItemType": "accessory",
+        "seq": 199913,
+        "resourceBoxId": 199,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1698645600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 148,
+    "name": "핼러윈 2022 라이브",
+    "virtualShopItems": [
+      {
+        "id": 291,
+        "virtualShopId": 148,
+        "virtualShopItemType": "penlight",
+        "seq": 199910,
+        "resourceBoxId": 201,
+        "costPaidJewel": 1000,
+        "startAt": 1698559200000
+      },
+      {
+        "id": 292,
+        "virtualShopId": 148,
+        "virtualShopItemType": "penlight",
+        "seq": 199909,
+        "resourceBoxId": 136,
+        "costPaidJewel": 1000,
+        "startAt": 1698559200000
+      },
+      {
+        "id": 293,
+        "virtualShopId": 148,
+        "virtualShopItemType": "accessory",
+        "seq": 199912,
+        "resourceBoxId": 52,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1698559200000
+      },
+      {
+        "id": 294,
+        "virtualShopId": 148,
+        "virtualShopItemType": "coordinate",
+        "seq": 99860,
+        "resourceBoxId": 54,
+        "costPaidJewel": 1000,
+        "startAt": 1698559200000
+      }
+    ],
+    "virtualShopType": "special_live"
   }
 ]
