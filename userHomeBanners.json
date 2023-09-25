@@ -35,16 +35,7 @@
     "assetbundleName": "banner_cp4",
     "transitionDestinationType": "billing_shop_for_colorful_pass",
     "startAt": 1654009200000,
-    "endAt": 4083890399000
-  },
-  {
-    "homeBannerId": 167,
-    "seq": 50000,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_firstrecharge",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1664550000000,
-    "endAt": 4094463600000
+    "endAt": 4093963199000
   },
   {
     "homeBannerId": 168,
@@ -84,6 +75,15 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1693926000000,
     "endAt": 1696085940000
+  },
+  {
+    "homeBannerId": 412,
+    "seq": 60,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_firstrecharge_1",
+    "transitionDestinationType": "billing_shop_for_first_recharge",
+    "startAt": 1695603600000,
+    "endAt": 4083890399000
   },
   {
     "homeBannerId": 10101,
