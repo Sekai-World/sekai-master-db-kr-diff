@@ -1481,14 +1481,14 @@
   },
   {
     "id": 13,
-    "description": "{{40;d}}초 동안 스코어가 {{41;v}}％ 상승하며, \nGREAT 이하가 나오기 전까지 스코어가 {{40;v}}％ 상승한다.",
+    "description": "{{40;d}}초 동안 스코어가 {{41;v}}% UP,\n GOOD 이하가 나오기 전까지 스코어가 {{40;v}}% UP",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
         "skillEffectType": "score_up_keep",
-        "activateNotesJudgmentType": "perfect",
+        "activateNotesJudgmentType": "great",
         "skillEffectDetails": [
           {
             "id": 157,

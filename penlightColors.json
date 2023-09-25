@@ -2,11 +2,13 @@
   {
     "id": 1,
     "seq": 1,
+    "name": "흰색",
     "colorCode": "#ffffff"
   },
   {
     "id": 2,
     "seq": 9,
+    "name": "호시노 이치카 컬러",
     "colorCode": "#33aaee",
     "characterId": 1,
     "unit": "light_sound"
@@ -14,6 +16,7 @@
   {
     "id": 3,
     "seq": 10,
+    "name": "텐마 사키 컬러",
     "colorCode": "#ffdd44",
     "characterId": 2,
     "unit": "light_sound"
@@ -21,6 +24,7 @@
   {
     "id": 4,
     "seq": 11,
+    "name": "모치즈키 호나미 컬러",
     "colorCode": "#ee6666",
     "characterId": 3,
     "unit": "light_sound"
@@ -28,6 +32,7 @@
   {
     "id": 5,
     "seq": 12,
+    "name": "히노모리 시호 컬러",
     "colorCode": "#bbdd22",
     "characterId": 4,
     "unit": "light_sound"
@@ -35,6 +40,7 @@
   {
     "id": 6,
     "seq": 14,
+    "name": "하나사토 미노리 컬러",
     "colorCode": "#ffccaa",
     "characterId": 5,
     "unit": "idol"
@@ -42,6 +48,7 @@
   {
     "id": 7,
     "seq": 15,
+    "name": "키리타니 하루카 컬러",
     "colorCode": "#99ccff",
     "characterId": 6,
     "unit": "idol"
@@ -49,6 +56,7 @@
   {
     "id": 8,
     "seq": 16,
+    "name": "모모이 아이리 컬러",
     "colorCode": "#ffaacc",
     "characterId": 7,
     "unit": "idol"
@@ -56,6 +64,7 @@
   {
     "id": 9,
     "seq": 17,
+    "name": "히노모리 시즈쿠 컬러",
     "colorCode": "#99eedd",
     "characterId": 8,
     "unit": "idol"
@@ -63,6 +72,7 @@
   {
     "id": 10,
     "seq": 19,
+    "name": "아즈사와 코하네 컬러",
     "colorCode": "#ff6699",
     "characterId": 9,
     "unit": "street"
@@ -70,6 +80,7 @@
   {
     "id": 11,
     "seq": 20,
+    "name": "시라이시 안 컬러",
     "colorCode": "#00bbdd",
     "characterId": 10,
     "unit": "street"
@@ -77,6 +88,7 @@
   {
     "id": 12,
     "seq": 21,
+    "name": "시노노메 아키토 컬러",
     "colorCode": "#ff7722",
     "characterId": 11,
     "unit": "street"
@@ -84,6 +96,7 @@
   {
     "id": 13,
     "seq": 22,
+    "name": "아오야기 토우야 컬러",
     "colorCode": "#0077dd",
     "characterId": 12,
     "unit": "street"
@@ -91,6 +104,7 @@
   {
     "id": 14,
     "seq": 24,
+    "name": "텐마 츠카사 컬러",
     "colorCode": "#ffbb00",
     "characterId": 13,
     "unit": "theme_park"
@@ -98,6 +112,7 @@
   {
     "id": 15,
     "seq": 25,
+    "name": "오오토리 에무 컬러",
     "colorCode": "#ff66bb",
     "characterId": 14,
     "unit": "theme_park"
@@ -105,6 +120,7 @@
   {
     "id": 16,
     "seq": 26,
+    "name": "쿠사나기 네네 컬러",
     "colorCode": "#33dd99",
     "characterId": 15,
     "unit": "theme_park"
@@ -112,6 +128,7 @@
   {
     "id": 17,
     "seq": 27,
+    "name": "카미시로 루이 컬러",
     "colorCode": "#bb88ee",
     "characterId": 16,
     "unit": "theme_park"
@@ -119,6 +136,7 @@
   {
     "id": 18,
     "seq": 29,
+    "name": "요이사키 카나데 컬러",
     "colorCode": "#bb6688",
     "characterId": 17,
     "unit": "school_refusal"
@@ -126,6 +144,7 @@
   {
     "id": 19,
     "seq": 30,
+    "name": "아사히나 마후유 컬러",
     "colorCode": "#8888cc",
     "characterId": 18,
     "unit": "school_refusal"
@@ -133,6 +152,7 @@
   {
     "id": 20,
     "seq": 31,
+    "name": "시노노메 에나 컬러",
     "colorCode": "#ccaa88",
     "characterId": 19,
     "unit": "school_refusal"
@@ -140,6 +160,7 @@
   {
     "id": 21,
     "seq": 32,
+    "name": "아키야마 미즈키 컬러",
     "colorCode": "#ddaacc",
     "characterId": 20,
     "unit": "school_refusal"
@@ -147,6 +168,7 @@
   {
     "id": 22,
     "seq": 2,
+    "name": "하츠네 미쿠 컬러",
     "colorCode": "#33ccbb",
     "characterId": 21,
     "unit": "piapro"
@@ -154,6 +176,7 @@
   {
     "id": 23,
     "seq": 3,
+    "name": "카가미네 린 컬러",
     "colorCode": "#ffcc11",
     "characterId": 22,
     "unit": "piapro"
@@ -161,6 +184,7 @@
   {
     "id": 24,
     "seq": 4,
+    "name": "카가미네 렌 컬러",
     "colorCode": "#ffee11",
     "characterId": 23,
     "unit": "piapro"
@@ -168,6 +192,7 @@
   {
     "id": 25,
     "seq": 5,
+    "name": "메구리네 루카 컬러",
     "colorCode": "#ffbbcc",
     "characterId": 24,
     "unit": "piapro"
@@ -175,6 +200,7 @@
   {
     "id": 26,
     "seq": 6,
+    "name": "MEIKO 컬러",
     "colorCode": "#dd4444",
     "characterId": 25,
     "unit": "piapro"
@@ -182,6 +208,7 @@
   {
     "id": 27,
     "seq": 7,
+    "name": "KAITO 컬러",
     "colorCode": "#3366cc",
     "characterId": 26,
     "unit": "piapro"
@@ -189,30 +216,35 @@
   {
     "id": 28,
     "seq": 8,
+    "name": "Leo\/need 컬러",
     "colorCode": "#4455dd",
     "unit": "light_sound"
   },
   {
     "id": 29,
     "seq": 13,
+    "name": "MORE MORE JUMP! 컬러",
     "colorCode": "#88dd44",
     "unit": "idol"
   },
   {
     "id": 30,
     "seq": 18,
+    "name": "Vivid BAD SQUAD 컬러",
     "colorCode": "#ee1166",
     "unit": "street"
   },
   {
     "id": 31,
     "seq": 23,
+    "name": "원더랜즈×쇼타임 컬러",
     "colorCode": "#ff9900",
     "unit": "theme_park"
   },
   {
     "id": 32,
     "seq": 28,
+    "name": "25시, 나이트 코드에서. 컬러",
     "colorCode": "#884499",
     "unit": "school_refusal"
   }

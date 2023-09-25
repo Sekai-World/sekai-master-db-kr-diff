@@ -2289,6 +2289,69 @@
     "virtualShopType": "event"
   },
   {
+    "id": 118,
+    "name": "커넥트 라이브 본 공연(티켓 상점)",
+    "virtualLiveId": 173,
+    "virtualShopItems": [
+      {
+        "id": 221,
+        "virtualShopId": 118,
+        "virtualShopItemType": "premium_virtual_live_ticket",
+        "seq": 299997,
+        "resourceBoxId": 172,
+        "costPaidJewel": 2000,
+        "startAt": 1696226400000,
+        "endAt": 1696831199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "virtual_live_ticket"
+  },
+  {
+    "id": 119,
+    "name": "커넥트 라이브 본 공연(굿즈 판매 상점)",
+    "virtualLiveId": 173,
+    "virtualShopItems": [
+      {
+        "id": 222,
+        "virtualShopId": 119,
+        "virtualShopItemType": "costume",
+        "seq": 9,
+        "resourceBoxId": 173,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696226400000,
+        "endAt": 1696831199000,
+        "limitValue": 1
+      },
+      {
+        "id": 223,
+        "virtualShopId": 119,
+        "virtualShopItemType": "costume",
+        "seq": 8,
+        "resourceBoxId": 174,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696226400000,
+        "endAt": 1696831199000,
+        "limitValue": 1
+      },
+      {
+        "id": 224,
+        "virtualShopId": 119,
+        "virtualShopItemType": "accessory",
+        "seq": 7,
+        "resourceBoxId": 175,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1696226400000,
+        "endAt": 1696831199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 120,
     "name": "제61회 이벤트 판매",
     "virtualShopItems": [

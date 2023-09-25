@@ -2,31 +2,55 @@
   {
     "id": 1,
     "name": "뽑기 티켓",
-    "assetbundleName": "gacha_ticket"
+    "assetbundleName": "gacha_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 2,
     "name": "★3 이상 확정 티켓",
-    "assetbundleName": "over_the_3_ticket"
+    "assetbundleName": "over_the_3_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 3,
     "name": "[1주년 기념] 10회 연속 무료 뽑기 티켓",
-    "assetbundleName": "anniversary_free_gacha_ticket"
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 4,
     "name": "[2023 새해맞이] 10회 연속 무료 뽑기 티켓",
-    "assetbundleName": "free_gacha_10_ticket"
+    "assetbundleName": "free_gacha_10_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 5,
     "name": "미쿠의 날 축하 캠페인 뽑기 티켓",
-    "assetbundleName": "gacha_ticket"
+    "assetbundleName": "gacha_ticket",
+    "gachaDisplayType": "always"
   },
   {
     "id": 6,
     "name": "[2주년 기념] 10회 연속 무료 뽑기 티켓",
-    "assetbundleName": "anniversary_free_gacha_ticket"
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 7,
+    "name": "[2024 새해맞이] 10회 연속 무료 뽑기 티켓",
+    "assetbundleName": "free_gacha_10_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 8,
+    "name": "[2.5주년 기념] 10회 연속 무료 뽑기 티켓",
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 9,
+    "name": "[친구 초대] ★4 멤버 확정 뽑기 티켓",
+    "assetbundleName": "gacha_ticket_star4",
+    "gachaDisplayType": "having"
   }
 ]

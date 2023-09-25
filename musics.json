@@ -4,10 +4,13 @@
     "seq": 1100101,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "Tell Your World",
     "pronunciation": "てるゆあわーるど",
+    "creator": "livetune",
     "lyricist": "kz",
     "composer": "kz",
     "arranger": "kz",
@@ -19,6 +22,7 @@
     "infos": [
       {
         "title": "Tell Your World",
+        "creator": "livetune",
         "lyricist": "kz",
         "composer": "kz",
         "arranger": "kz"
@@ -27,13 +31,16 @@
   },
   {
     "id": 2,
-    "seq": 1200101,
+    "seq": 9999903,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ロキ",
     "pronunciation": "ろき",
+    "creator": "みきとP",
     "lyricist": "みきとP",
     "composer": "みきとP",
     "arranger": "みきとP",
@@ -45,6 +52,7 @@
     "infos": [
       {
         "title": "로키",
+        "creator": "미키토P",
         "lyricist": "미키토P",
         "composer": "미키토P",
         "arranger": "미키토P"
@@ -53,13 +61,16 @@
   },
   {
     "id": 3,
-    "seq": 1200102,
+    "seq": 9999904,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "テオ",
     "pronunciation": "てお",
+    "creator": "Omoi",
     "lyricist": "Sakurai",
     "composer": "Omoi",
     "arranger": "Omoi",
@@ -71,6 +82,7 @@
     "infos": [
       {
         "title": "테오",
+        "creator": "Omoi",
         "lyricist": "Sakurai",
         "composer": "Omoi",
         "arranger": "Omoi"
@@ -79,13 +91,16 @@
   },
   {
     "id": 6,
-    "seq": 1200103,
+    "seq": 9999905,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ヒバナ -Reloaded-",
     "pronunciation": "ひばなりろーでっど",
+    "creator": "DECO*27",
     "lyricist": "DECO*27",
     "composer": "DECO*27",
     "arranger": "Rockwell",
@@ -97,6 +112,7 @@
     "infos": [
       {
         "title": "불꽃 -Reloaded-",
+        "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Rockwell"
@@ -105,14 +121,19 @@
   },
   {
     "id": 8,
-    "seq": 1200104,
+    "seq": 9999906,
     "releaseConditionId": 5,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "タイムマシン",
     "pronunciation": "たいむましん",
+    "creator": "1640mP（164×40mP）",
     "lyricist": "164",
     "composer": "40mP",
     "arranger": "1640mP",
@@ -124,6 +145,7 @@
     "infos": [
       {
         "title": "타임머신",
+        "creator": "1640mP（164×40mP）",
         "lyricist": "164",
         "composer": "40mP",
         "arranger": "1640mP"
@@ -132,14 +154,19 @@
   },
   {
     "id": 10,
-    "seq": 1300101,
+    "seq": 9999907,
     "releaseConditionId": 1,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ハッピーシンセサイザ",
     "pronunciation": "はっぴーしんせさいざ",
+    "creator": "EasyPop",
     "lyricist": "EasyPop",
     "composer": "EasyPop",
     "arranger": "-",
@@ -151,6 +178,7 @@
     "infos": [
       {
         "title": "해피 신디사이저",
+        "creator": "EasyPop",
         "lyricist": "EasyPop",
         "composer": "EasyPop",
         "arranger": "-"
@@ -159,14 +187,19 @@
   },
   {
     "id": 11,
-    "seq": 1300601,
+    "seq": 1300001,
     "releaseConditionId": 5,
     "categories": [
-      "image",
-      "mv_2d"
+      {
+        "musicCategoryName": "image"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ビバハピ",
     "pronunciation": "びばはぴ",
+    "creator": "Mitchie M",
     "lyricist": "Mitchie M",
     "composer": "Mitchie M",
     "arranger": "Mitchie M",
@@ -178,6 +211,7 @@
     "infos": [
       {
         "title": "비바해피",
+        "creator": "Mitchie M",
         "lyricist": "Mitchie M",
         "composer": "Mitchie M",
         "arranger": "Mitchie M"
@@ -186,13 +220,16 @@
   },
   {
     "id": 13,
-    "seq": 1300102,
+    "seq": 9999908,
     "releaseConditionId": 1,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "Nostalogic",
     "pronunciation": "のすたろじっく",
+    "creator": "yuukiss",
     "lyricist": "yuukiss",
     "composer": "yuukiss",
     "arranger": "-",
@@ -204,6 +241,7 @@
     "infos": [
       {
         "title": "Nostalogic",
+        "creator": "yuukiss",
         "lyricist": "yuukiss",
         "composer": "yuukiss",
         "arranger": "-"
@@ -212,13 +250,16 @@
   },
   {
     "id": 15,
-    "seq": 9999902,
+    "seq": 9999909,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "drop pop candy",
     "pronunciation": "どろっぷぽっぷきゃんでぃ",
+    "creator": "GigaReol",
     "lyricist": "れをる",
     "composer": "ギガ",
     "arranger": "ギガ",
@@ -230,6 +271,7 @@
     "infos": [
       {
         "title": "drop pop candy",
+        "creator": "GigaReol",
         "lyricist": "Reol",
         "composer": "Giga",
         "arranger": "Giga"
@@ -238,13 +280,16 @@
   },
   {
     "id": 18,
-    "seq": 1200201,
+    "seq": 1200001,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "アスノヨゾラ哨戒班",
     "pronunciation": "あすのよぞらしょうかいはん",
+    "creator": "Orangestar",
     "lyricist": "Orangestar",
     "composer": "Orangestar",
     "arranger": "Rockwell",
@@ -256,6 +301,7 @@
     "infos": [
       {
         "title": "내일의 밤하늘 초계반",
+        "creator": "Orangestar",
         "lyricist": "Orangestar",
         "composer": "Orangestar",
         "arranger": "Rockwell"
@@ -264,13 +310,16 @@
   },
   {
     "id": 19,
-    "seq": 1600101,
+    "seq": 9999910,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "シャルル",
     "pronunciation": "しゃるる",
+    "creator": "バルーン",
     "lyricist": "バルーン",
     "composer": "バルーン",
     "arranger": "バルーン",
@@ -282,6 +331,7 @@
     "infos": [
       {
         "title": "Charles",
+        "creator": "balloon",
         "lyricist": "balloon",
         "composer": "balloon",
         "arranger": "balloon"
@@ -290,13 +340,16 @@
   },
   {
     "id": 21,
-    "seq": 9999903,
+    "seq": 9999911,
     "releaseConditionId": 1,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "脱法ロック",
     "pronunciation": "だっぽうろっく",
+    "creator": "Neru",
     "lyricist": "Neru",
     "composer": "Neru",
     "arranger": "-",
@@ -308,6 +361,7 @@
     "infos": [
       {
         "title": "탈법 록",
+        "creator": "Neru",
         "lyricist": "Neru",
         "composer": "Neru",
         "arranger": "Neru"
@@ -316,13 +370,16 @@
   },
   {
     "id": 22,
-    "seq": 1600102,
+    "seq": 9999912,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "命に嫌われている",
     "pronunciation": "いのちにきらわれている",
+    "creator": "カンザキイオリ",
     "lyricist": "カンザキイオリ",
     "composer": "カンザキイオリ",
     "arranger": "カンザキイオリ",
@@ -334,6 +391,7 @@
     "infos": [
       {
         "title": "생명에게 미움받고 있어",
+        "creator": "칸자키 이오리",
         "lyricist": "칸자키 이오리",
         "composer": "칸자키 이오리",
         "arranger": "칸자키 이오리"
@@ -342,13 +400,16 @@
   },
   {
     "id": 26,
-    "seq": 1400101,
+    "seq": 9999914,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "劣等上等",
     "pronunciation": "れっとうじょうとう",
+    "creator": "Giga",
     "lyricist": "Reol",
     "composer": "Giga",
     "arranger": "Giga",
@@ -356,10 +417,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_026",
     "publishedAt": 1632981600000,
-    "fillerSec": 7.579999923706055,
+    "fillerSec": 7.562300205230713,
     "infos": [
       {
         "title": "열등상등",
+        "creator": "Giga",
         "lyricist": "Reol",
         "composer": "Giga",
         "arranger": "Giga"
@@ -368,13 +430,16 @@
   },
   {
     "id": 27,
-    "seq": 9999906,
+    "seq": 9999915,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "Just Be Friends",
     "pronunciation": "じゃすとびーふれんず",
+    "creator": "Dixie Flatline",
     "lyricist": "Dixie Flatline",
     "composer": "Dixie Flatline",
     "arranger": "-",
@@ -386,6 +451,7 @@
     "infos": [
       {
         "title": "Just Be Friends",
+        "creator": "Dixie Flatline",
         "lyricist": "Dixie Flatline",
         "composer": "Dixie Flatline",
         "arranger": "-"
@@ -394,13 +460,16 @@
   },
   {
     "id": 28,
-    "seq": 1400102,
+    "seq": 9999916,
     "releaseConditionId": 1,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ドクター＝ファンクビート",
     "pronunciation": "どくたーふぁんくびーと",
+    "creator": "nyanyannya（大天才P）",
     "lyricist": "nyanyannya（大天才P）",
     "composer": "nyanyannya（大天才P）",
     "arranger": "nyanyannya（大天才P）",
@@ -412,6 +481,7 @@
     "infos": [
       {
         "title": "닥터=펑크 비트",
+        "creator": "nyanyannya",
         "lyricist": "nyanyannya",
         "composer": "nyanyannya",
         "arranger": "-"
@@ -420,14 +490,19 @@
   },
   {
     "id": 36,
-    "seq": 9999909,
+    "seq": 9999918,
     "releaseConditionId": 5,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ミラクルペイント",
     "pronunciation": "みらくるぺいんと",
+    "creator": "OSTER project feat. 初音ミク",
     "lyricist": "OSTER project",
     "composer": "OSTER project",
     "arranger": "OSTER project",
@@ -439,6 +514,7 @@
     "infos": [
       {
         "title": "미라클 페인트",
+        "creator": "OSTER project",
         "lyricist": "OSTER project",
         "composer": "OSTER project",
         "arranger": "OSTER project"
@@ -447,13 +523,16 @@
   },
   {
     "id": 38,
-    "seq": 1500101,
+    "seq": 9999920,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ブリキノダンス",
     "pronunciation": "ぶりきのだんす",
+    "creator": "日向電工",
     "lyricist": "日向電工",
     "composer": "日向電工",
     "arranger": "日向電工",
@@ -461,10 +540,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_038",
     "publishedAt": 1632981600000,
-    "fillerSec": 8.982999801635742,
+    "fillerSec": 8.973999977111816,
     "infos": [
       {
         "title": "브리키노 댄스",
+        "creator": "HINATADENKOU",
         "lyricist": "HINATADENKOU",
         "composer": "HINATADENKOU",
         "arranger": "HINATADENKOU"
@@ -473,14 +553,19 @@
   },
   {
     "id": 41,
-    "seq": 9999912,
+    "seq": 9999921,
     "releaseConditionId": 5,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "スイートマジック",
     "pronunciation": "すいーとまじっく",
+    "creator": "Junky",
     "lyricist": "Junky",
     "composer": "Junky",
     "arranger": "-",
@@ -492,6 +577,7 @@
     "infos": [
       {
         "title": "스위트 매직",
+        "creator": "Junky",
         "lyricist": "Junky",
         "composer": "Junky",
         "arranger": "-"
@@ -500,13 +586,16 @@
   },
   {
     "id": 43,
-    "seq": 1100102,
+    "seq": 9999922,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ネクストネスト",
     "pronunciation": "ねくすとねすと",
+    "creator": "さつき が てんこもり feat. 初音ミク",
     "lyricist": "さつき が てんこもり",
     "composer": "さつき が てんこもり",
     "arranger": "-",
@@ -518,6 +607,7 @@
     "infos": [
       {
         "title": "NEXT NEST",
+        "creator": "Satsuki ga Tenkomori",
         "lyricist": "Satsuki ga Tenkomori",
         "composer": "Satsuki ga Tenkomori",
         "arranger": "-"
@@ -526,13 +616,16 @@
   },
   {
     "id": 44,
-    "seq": 1101401,
+    "seq": 1100001,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "Hand in Hand",
     "pronunciation": "はんどいんはんど",
+    "creator": "livetune",
     "lyricist": "kz",
     "composer": "kz",
     "arranger": "kz",
@@ -544,6 +637,7 @@
     "infos": [
       {
         "title": "Hand in Hand",
+        "creator": "livetune",
         "lyricist": "kz",
         "composer": "kz",
         "arranger": "kz"
@@ -552,13 +646,16 @@
   },
   {
     "id": 45,
-    "seq": 1101101,
+    "seq": 1100002,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "39みゅーじっく！",
     "pronunciation": "さんきゅーみゅーじっく",
+    "creator": "みきとP",
     "lyricist": "みきとP",
     "composer": "みきとP",
     "arranger": "-",
@@ -570,6 +667,7 @@
     "infos": [
       {
         "title": "39뮤직!",
+        "creator": "미키토P",
         "lyricist": "미키토P",
         "composer": "미키토P",
         "arranger": "-"
@@ -578,13 +676,16 @@
   },
   {
     "id": 46,
-    "seq": 1103601,
+    "seq": 1400101,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "グリーンライツ・セレナーデ",
     "pronunciation": "ぐりーんらいつせれなーで",
+    "creator": "Omoi feat. 初音ミク",
     "lyricist": "Sakurai",
     "composer": "Omoi",
     "arranger": "Omoi",
@@ -592,10 +693,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_046",
     "publishedAt": 1654927200000,
-    "fillerSec": 8.899999618530273,
+    "fillerSec": 8.885000228881836,
     "infos": [
       {
         "title": "그린라이츠 세레나데",
+        "creator": "Omoi",
         "lyricist": "Sakurai",
         "composer": "Omoi",
         "arranger": "Omoi"
@@ -604,13 +706,16 @@
   },
   {
     "id": 47,
-    "seq": 1100103,
+    "seq": 1400101,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "メルト",
     "pronunciation": "めると",
+    "creator": "ryo (supercell)",
     "lyricist": "ryo",
     "composer": "ryo",
     "arranger": "ryo",
@@ -622,6 +727,7 @@
     "infos": [
       {
         "title": "멜트",
+        "creator": "ryo",
         "lyricist": "ryo",
         "composer": "ryo",
         "arranger": "ryo"
@@ -630,13 +736,16 @@
   },
   {
     "id": 48,
-    "seq": 1102401,
+    "seq": 1100004,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ワールドイズマイン",
     "pronunciation": "わーるどいずまいん",
+    "creator": "ryo (supercell)",
     "lyricist": "ryo",
     "composer": "ryo",
     "arranger": "ryo",
@@ -648,6 +757,7 @@
     "infos": [
       {
         "title": "월드 이즈 마인",
+        "creator": "ryo",
         "lyricist": "ryo",
         "composer": "ryo",
         "arranger": "ryo"
@@ -656,13 +766,16 @@
   },
   {
     "id": 49,
-    "seq": 1100104,
+    "seq": 1400102,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "初音ミクの消失",
     "pronunciation": "はつねみくのしょうしつ",
+    "creator": "cosMo@暴走P",
     "lyricist": "cosMo@暴走P",
     "composer": "cosMo@暴走P",
     "arranger": "-",
@@ -674,6 +787,7 @@
     "infos": [
       {
         "title": "하츠네 미쿠의 소실",
+        "creator": "cosMo@폭주P",
         "lyricist": "cosMo@폭주P",
         "composer": "cosMo@폭주P",
         "arranger": "-"
@@ -682,13 +796,16 @@
   },
   {
     "id": 50,
-    "seq": 1100105,
+    "seq": 9999927,
     "releaseConditionId": 1,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "Blessing",
     "pronunciation": "ぶれっしんぐ",
+    "creator": "halyosy feat. VOCALOIDS",
     "lyricist": "halyosy",
     "composer": "halyosy",
     "arranger": "-",
@@ -696,10 +813,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_050",
     "publishedAt": 1632981600000,
-    "fillerSec": 7.928999900817871,
+    "fillerSec": 7.956999778747559,
     "infos": [
       {
         "title": "Blessing",
+        "creator": "halyosy",
         "lyricist": "halyosy",
         "composer": "halyosy",
         "arranger": "-"
@@ -708,13 +826,16 @@
   },
   {
     "id": 51,
-    "seq": 9999916,
+    "seq": 9999928,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "セカイはまだ始まってすらいない",
     "pronunciation": "せかいはまだはじまってすらいない",
+    "creator": "ピノキオピー",
     "lyricist": "ピノキオピー",
     "composer": "ピノキオピー",
     "arranger": "ピノキオピー",
@@ -726,6 +847,7 @@
     "infos": [
       {
         "title": "세상은 아직 시작조차 하지 않았어",
+        "creator": "피노키오피",
         "lyricist": "피노키오피",
         "composer": "피노키오피",
         "arranger": "피노키오피"
@@ -734,13 +856,19 @@
   },
   {
     "id": 52,
-    "seq": 9999917,
+    "seq": 9999929,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "potatoになっていく",
     "pronunciation": "ぽてとになっていく",
+    "creator": "Neru",
     "lyricist": "Neru",
     "composer": "Neru",
     "arranger": "Neru",
@@ -752,6 +880,7 @@
     "infos": [
       {
         "title": "potato가 되어가",
+        "creator": "Neru",
         "lyricist": "Neru",
         "composer": "Neru",
         "arranger": "Neru"
@@ -760,13 +889,16 @@
   },
   {
     "id": 54,
-    "seq": 9999918,
+    "seq": 9999930,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "Ready Steady",
     "pronunciation": "れでぃすてでぃ",
+    "creator": "Giga",
     "lyricist": "q*Left",
     "composer": "Giga",
     "arranger": "Giga",
@@ -778,6 +910,7 @@
     "infos": [
       {
         "title": "Ready Steady",
+        "creator": "Giga",
         "lyricist": "q*Left",
         "composer": "Giga",
         "arranger": "Giga"
@@ -786,13 +919,16 @@
   },
   {
     "id": 55,
-    "seq": 9999919,
+    "seq": 9999931,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "Forward",
     "pronunciation": "ふぉわーど",
+    "creator": "R Sound Design",
     "lyricist": "R Sound Design",
     "composer": "R Sound Design",
     "arranger": "R Sound Design",
@@ -804,6 +940,7 @@
     "infos": [
       {
         "title": "Forward",
+        "creator": "R Sound Design",
         "lyricist": "R Sound Design",
         "composer": "R Sound Design",
         "arranger": "R Sound Design"
@@ -812,13 +949,16 @@
   },
   {
     "id": 57,
-    "seq": 2300101,
+    "seq": 9999932,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "アイドル新鋭隊",
     "pronunciation": "あいどるしんえいたい",
+    "creator": "Mitchie M",
     "lyricist": "Mitchie M",
     "composer": "Mitchie M",
     "arranger": "Mitchie M",
@@ -830,6 +970,7 @@
     "infos": [
       {
         "title": "아이돌 신예대",
+        "creator": "Mitchie M",
         "lyricist": "Mitchie M",
         "composer": "Mitchie M",
         "arranger": "Mitchie M"
@@ -838,13 +979,16 @@
   },
   {
     "id": 60,
-    "seq": 2600101,
+    "seq": 9999933,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "悔やむと書いてミライ",
     "pronunciation": "くやむとかいてみらい",
+    "creator": "まふまふ",
     "lyricist": "まふまふ",
     "composer": "まふまふ",
     "arranger": "まふまふ",
@@ -856,6 +1000,7 @@
     "infos": [
       {
         "title": "후회한다 쓰고 미래",
+        "creator": "마후마후",
         "lyricist": "마후마후",
         "composer": "마후마후",
         "arranger": "마후마후"
@@ -864,13 +1009,16 @@
   },
   {
     "id": 61,
-    "seq": 2600401,
+    "seq": 2600001,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "携帯恋話",
     "pronunciation": "けいたいれんわ",
+    "creator": "まふまふ",
     "lyricist": "まふまふ",
     "composer": "まふまふ",
     "arranger": "まふまふ",
@@ -882,6 +1030,7 @@
     "infos": [
       {
         "title": "휴대연화",
+        "creator": "마후마후",
         "lyricist": "마후마후",
         "composer": "마후마후",
         "arranger": "마후마후"
@@ -890,14 +1039,19 @@
   },
   {
     "id": 62,
-    "seq": 2601001,
+    "seq": 2600002,
     "releaseConditionId": 10,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ジャックポットサッドガール",
     "pronunciation": "じゃっくぽっとさっどがーる",
+    "creator": "syudou",
     "lyricist": "syudou",
     "composer": "syudou",
     "arranger": "syudou",
@@ -909,6 +1063,7 @@
     "infos": [
       {
         "title": "잭팟 새드 걸",
+        "creator": "syudou",
         "lyricist": "syudou",
         "composer": "syudou",
         "arranger": "syudou"
@@ -917,13 +1072,16 @@
   },
   {
     "id": 63,
-    "seq": 2200101,
+    "seq": 1500101,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "needLe",
     "pronunciation": "にーどる",
+    "creator": "DECO*27",
     "lyricist": "DECO*27",
     "composer": "DECO*27",
     "arranger": "Rockwell",
@@ -935,6 +1093,7 @@
     "infos": [
       {
         "title": "needLe",
+        "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Rockwell"
@@ -943,13 +1102,16 @@
   },
   {
     "id": 64,
-    "seq": 2200801,
+    "seq": 1500101,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ステラ",
     "pronunciation": "すてら",
+    "creator": "じん",
     "lyricist": "じん",
     "composer": "じん",
     "arranger": "-",
@@ -961,6 +1123,7 @@
     "infos": [
       {
         "title": "스텔라",
+        "creator": "진",
         "lyricist": "진",
         "composer": "진",
         "arranger": "-"
@@ -969,13 +1132,16 @@
   },
   {
     "id": 66,
-    "seq": 1600102,
+    "seq": 9999935,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ハロ／ハワユ",
     "pronunciation": "はろはわゆ",
+    "creator": "ナノウ",
     "lyricist": "ナノウ",
     "composer": "ナノウ",
     "arranger": "-",
@@ -987,6 +1153,7 @@
     "infos": [
       {
         "title": "Hello\/How are you",
+        "creator": "Nanou",
         "lyricist": "Nanou",
         "composer": "Nanou",
         "arranger": "ー"
@@ -995,14 +1162,19 @@
   },
   {
     "id": 67,
-    "seq": 1600103,
+    "seq": 9999936,
     "releaseConditionId": 1,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "自傷無色",
     "pronunciation": "じしょうむしょく",
+    "creator": "ササノマリイ",
     "lyricist": "ササノマリイ",
     "composer": "ササノマリイ",
     "arranger": "-",
@@ -1014,6 +1186,7 @@
     "infos": [
       {
         "title": "자상무색",
+        "creator": "사사노마리",
         "lyricist": "사사노마리",
         "composer": "사사노마리",
         "arranger": "-"
@@ -1022,13 +1195,16 @@
   },
   {
     "id": 68,
-    "seq": 9999920,
+    "seq": 9999937,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ダンスロボットダンス",
     "pronunciation": "だんすろぼっとだんす",
+    "creator": "ナユタン星人",
     "lyricist": "ナユタン星人",
     "composer": "ナユタン星人",
     "arranger": "ナユタン星人",
@@ -1040,6 +1216,7 @@
     "infos": [
       {
         "title": "댄스 로봇 댄스",
+        "creator": "나유탄 성인",
         "lyricist": "나유탄 성인",
         "composer": "나유탄 성인",
         "arranger": "나유탄 성인"
@@ -1048,14 +1225,19 @@
   },
   {
     "id": 69,
-    "seq": 1400103,
+    "seq": 9999938,
     "releaseConditionId": 5,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "フラジール",
     "pronunciation": "ふらじーる",
+    "creator": "ぬゆり",
     "lyricist": "ぬゆり",
     "composer": "ぬゆり",
     "arranger": "ぬゆり",
@@ -1067,6 +1249,7 @@
     "infos": [
       {
         "title": "프래질",
+        "creator": "누유리",
         "lyricist": "누유리",
         "composer": "누유리",
         "arranger": "누유리"
@@ -1075,13 +1258,16 @@
   },
   {
     "id": 70,
-    "seq": 1302201,
+    "seq": 9999939,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "メルティランドナイトメア",
     "pronunciation": "0",
+    "creator": "はるまきごはん",
     "lyricist": "はるまきごはん",
     "composer": "はるまきごはん",
     "arranger": "はるまきごはん",
@@ -1093,6 +1279,7 @@
     "infos": [
       {
         "title": "멜티 랜드 나이트메어",
+        "creator": "하루마키고항",
         "lyricist": "하루마키고항",
         "composer": "하루마키고항",
         "arranger": "하루마키고항"
@@ -1101,13 +1288,16 @@
   },
   {
     "id": 71,
-    "seq": 1300103,
+    "seq": 9999940,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ツギハギスタッカート",
     "pronunciation": "つぎはぎすたっかーと",
+    "creator": "とあ",
     "lyricist": "とあ",
     "composer": "とあ",
     "arranger": "とあ",
@@ -1119,6 +1309,7 @@
     "infos": [
       {
         "title": "누덕누덕 스타카토",
+        "creator": "토아",
         "lyricist": "토아",
         "composer": "토아",
         "arranger": "토아"
@@ -1127,13 +1318,16 @@
   },
   {
     "id": 72,
-    "seq": 1100501,
+    "seq": 1100005,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "ブレス・ユア・ブレス",
     "pronunciation": "ぶれすゆあぶれす",
+    "creator": "和田たけあき",
     "lyricist": "和田たけあき",
     "composer": "和田たけあき",
     "arranger": "和田たけあき",
@@ -1145,6 +1339,7 @@
     "infos": [
       {
         "title": "Bless Your Breath",
+        "creator": "와다 타케아키",
         "lyricist": "와다 타케아키",
         "composer": "와다 타케아키",
         "arranger": "와다 타케아키"
@@ -1153,13 +1348,16 @@
   },
   {
     "id": 73,
-    "seq": 1300105,
+    "seq": 1103601,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ニア",
     "pronunciation": "にあ",
+    "creator": "夏代孝明",
     "lyricist": "夏代孝明",
     "composer": "夏代孝明",
     "arranger": "渡辺拓也",
@@ -1171,6 +1369,7 @@
     "infos": [
       {
         "title": "Near",
+        "creator": "Natsushiro Takaaki",
         "lyricist": "Natsushiro Takaaki",
         "composer": "Natsushiro Takaaki",
         "arranger": "Watanabe Takuya"
@@ -1179,13 +1378,16 @@
   },
   {
     "id": 74,
-    "seq": 1602101,
+    "seq": 1103601,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "独りんぼエンヴィー",
     "pronunciation": "ひとりんぼえんヴぃー",
+    "creator": "koyori（電ポルP）",
     "lyricist": "koyori",
     "composer": "koyori",
     "arranger": "koyori",
@@ -1197,6 +1399,7 @@
     "infos": [
       {
         "title": "Hitorinbo Envy",
+        "creator": "koyori",
         "lyricist": "koyori",
         "composer": "koyori",
         "arranger": "koyori"
@@ -1205,13 +1408,16 @@
   },
   {
     "id": 75,
-    "seq": 1201701,
+    "seq": 1200002,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ウミユリ海底譚",
     "pronunciation": "うみゆりかいていたん",
+    "creator": "n-buna",
     "lyricist": "n-buna",
     "composer": "n-buna",
     "arranger": "n-buna",
@@ -1223,6 +1429,7 @@
     "infos": [
       {
         "title": "갯나리 해저담",
+        "creator": "n-buna",
         "lyricist": "n-buna",
         "composer": "n-buna",
         "arranger": "n-buna"
@@ -1231,13 +1438,16 @@
   },
   {
     "id": 76,
-    "seq": 9999922,
+    "seq": 9999942,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "セカイ",
     "pronunciation": "せかい",
+    "creator": "DECO*27 & 堀江晶太(kemu)",
     "lyricist": "DECO*27",
     "composer": "堀江晶太(kemu)",
     "arranger": "Rockwell",
@@ -1249,6 +1459,7 @@
     "infos": [
       {
         "title": "세카이",
+        "creator": "DECO*27&shota horie（kemu）",
         "lyricist": "DECO*27",
         "composer": "Shota Horie(kemu)",
         "arranger": "Rockwell"
@@ -1257,13 +1468,16 @@
   },
   {
     "id": 77,
-    "seq": 9999923,
+    "seq": 1100104,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ワーワーワールド",
     "pronunciation": "わーわーわーるど",
+    "creator": "Giga＆Mitchie M",
     "lyricist": "Mitchie M",
     "composer": "Giga & Mitchie M",
     "arranger": "Giga",
@@ -1275,6 +1489,7 @@
     "infos": [
       {
         "title": "와 와 월드",
+        "creator": "Giga＆Mitchie M",
         "lyricist": "Mitchie M",
         "composer": "Giga & Mitchie M",
         "arranger": "Giga"
@@ -1283,14 +1498,19 @@
   },
   {
     "id": 78,
-    "seq": 9999924,
+    "seq": 1100104,
     "releaseConditionId": 5,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ぼうけんのしょがきえました！",
     "pronunciation": "ぼうけんのしょがきえました",
+    "creator": "ワンダフル☆オポチュニティ！",
     "lyricist": "じーざす",
     "composer": "じーざす",
     "arranger": "ワンダフル☆オポチュニティ！",
@@ -1302,6 +1522,7 @@
     "infos": [
       {
         "title": "모험의 서가 사라졌습니다!",
+        "creator": "WONDERFUL★OPPORTUNITY!",
         "lyricist": "Jizasu-P",
         "composer": "Jizasu-P",
         "arranger": "WONDERFUL★OPPORTUNITY!"
@@ -1310,13 +1531,16 @@
   },
   {
     "id": 81,
-    "seq": 9999925,
+    "seq": 1100105,
     "releaseConditionId": 1,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "夜咄ディセイブ",
     "pronunciation": "よばなしでぃせいぶ",
+    "creator": "じん",
     "lyricist": "じん",
     "composer": "じん",
     "arranger": "じん",
@@ -1328,6 +1552,7 @@
     "infos": [
       {
         "title": "요바나시 디세이브",
+        "creator": "진",
         "lyricist": "진",
         "composer": "진",
         "arranger": "진"
@@ -1339,10 +1564,13 @@
     "seq": 1100105,
     "releaseConditionId": 1,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "alive",
     "pronunciation": "あらいぶ",
+    "creator": "市瀬るぽ",
     "lyricist": "市瀬るぽ",
     "composer": "市瀬るぽ",
     "arranger": "-",
@@ -1354,6 +1582,7 @@
     "infos": [
       {
         "title": "alive",
+        "creator": "이치노세 루포",
         "lyricist": "이치노세 루포",
         "composer": "이치노세 루포",
         "arranger": "-"
@@ -1362,13 +1591,16 @@
   },
   {
     "id": 83,
-    "seq": 1109101,
+    "seq": 1100006,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "Gimme×Gimme",
     "pronunciation": "ぎみぎみ",
+    "creator": "八王子P × Giga",
     "lyricist": "q*Left",
     "composer": "八王子P \/ Giga",
     "arranger": "八王子P \/ Giga",
@@ -1380,6 +1612,7 @@
     "infos": [
       {
         "title": "Gimme×Gimme",
+        "creator": "하치오지P \/ Giga",
         "lyricist": "q*Left",
         "composer": "하치오지P \/ Giga",
         "arranger": "하치오지P \/ Giga"
@@ -1388,13 +1621,16 @@
   },
   {
     "id": 84,
-    "seq": 1100106,
+    "seq": 9999947,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ジャンキーナイトタウンオーケストラ",
     "pronunciation": "じゃんきーないとたうんおーけすとら",
+    "creator": "すりぃ",
     "lyricist": "すりぃ",
     "composer": "すりぃ",
     "arranger": "-",
@@ -1406,6 +1642,7 @@
     "infos": [
       {
         "title": "정키 나이트 타운 오케스트라",
+        "creator": "스리이",
         "lyricist": "스리이",
         "composer": "스리이",
         "arranger": "-"
@@ -1414,13 +1651,16 @@
   },
   {
     "id": 85,
-    "seq": 1100107,
+    "seq": 9999948,
     "releaseConditionId": 1,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "Leia - Remind",
     "pronunciation": "れいありまいんど",
+    "creator": "ゆよゆっぺ",
     "lyricist": "ゆよゆっぺ",
     "composer": "ゆよゆっぺ",
     "arranger": "ゆよゆっぺ",
@@ -1432,6 +1672,7 @@
     "infos": [
       {
         "title": "Leia - Remind",
+        "creator": "Yuyoyuppe",
         "lyricist": "Yuyoyuppe",
         "composer": "Yuyoyuppe",
         "arranger": "Yuyoyuppe"
@@ -1440,14 +1681,19 @@
   },
   {
     "id": 87,
-    "seq": 1301501,
+    "seq": 1300002,
     "releaseConditionId": 5,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "恋愛裁判",
     "pronunciation": "れんあいさいばん",
+    "creator": "40mP",
     "lyricist": "40mP",
     "composer": "40mP",
     "arranger": "40mP",
@@ -1459,6 +1705,7 @@
     "infos": [
       {
         "title": "연애재판",
+        "creator": "40mP",
         "lyricist": "40mP",
         "composer": "40mP",
         "arranger": "40mP"
@@ -1467,14 +1714,19 @@
   },
   {
     "id": 88,
-    "seq": 9999926,
+    "seq": 9999950,
     "releaseConditionId": 5,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "チュルリラ・チュルリラ・ダッダッダ！",
     "pronunciation": "ちゅるりらちゅるりらだっだっだ",
+    "creator": "和田たけあき(くらげP)",
     "lyricist": "和田たけあき(くらげP)",
     "composer": "和田たけあき(くらげP)",
     "arranger": "和田たけあき(くらげP)",
@@ -1486,6 +1738,7 @@
     "infos": [
       {
         "title": "Chururira Chururira Daddadda!",
+        "creator": "와다 타케아키(쿠라게P)",
         "lyricist": "와다 타케아키(쿠라게P)",
         "composer": "와다 타케아키(쿠라게P)",
         "arranger": "와다 타케아키(쿠라게P)"
@@ -1494,13 +1747,16 @@
   },
   {
     "id": 89,
-    "seq": 2305801,
+    "seq": 2300001,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "Color of Drops",
     "pronunciation": "からーおぶどろっぷす",
+    "creator": "40mP",
     "lyricist": "40mP",
     "composer": "40mP",
     "arranger": "40mP",
@@ -1512,6 +1768,7 @@
     "infos": [
       {
         "title": "Color of Drops",
+        "creator": "40mP",
         "lyricist": "40mP",
         "composer": "40mP",
         "arranger": "40mP"
@@ -1520,13 +1777,16 @@
   },
   {
     "id": 90,
-    "seq": 2605401,
+    "seq": 2600003,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "限りなく灰色へ",
     "pronunciation": "かぎりなくはいいろへ",
+    "creator": "すりぃ",
     "lyricist": "すりぃ",
     "composer": "すりぃ",
     "arranger": "すりぃ",
@@ -1538,6 +1798,7 @@
     "infos": [
       {
         "title": "끝없이 잿빛으로",
+        "creator": "스리이",
         "lyricist": "스리이",
         "composer": "스리이",
         "arranger": "스리이"
@@ -1546,13 +1807,16 @@
   },
   {
     "id": 91,
-    "seq": 1202501,
+    "seq": 1200003,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "ドラマツルギー",
     "pronunciation": "どらまつるぎー",
+    "creator": "Eve",
     "lyricist": "Eve",
     "composer": "Eve",
     "arranger": "Numa",
@@ -1564,6 +1828,7 @@
     "infos": [
       {
         "title": "Dramaturgy",
+        "creator": "Eve",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa"
@@ -1572,14 +1837,19 @@
   },
   {
     "id": 92,
-    "seq": 1600105,
+    "seq": 9999951,
     "releaseConditionId": 5,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "乙女解剖",
     "pronunciation": "おとめかいぼう",
+    "creator": "DECO*27",
     "lyricist": "DECO*27",
     "composer": "DECO*27",
     "arranger": "emon(Tes.) & Rockwell",
@@ -1591,6 +1861,7 @@
     "infos": [
       {
         "title": "Otome Dissection",
+        "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "emon(Tes.) & Rockwell"
@@ -1599,13 +1870,16 @@
   },
   {
     "id": 93,
-    "seq": 1201801,
+    "seq": 9999952,
     "releaseConditionId": 1,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "青く駆けろ！",
     "pronunciation": "あおくかけろ",
+    "creator": "まらしぃ",
     "lyricist": "まらしぃ",
     "composer": "まらしぃ",
     "arranger": "-",
@@ -1617,6 +1891,7 @@
     "infos": [
       {
         "title": "푸르게 달려라!",
+        "creator": "마라시",
         "lyricist": "마라시",
         "composer": "마라시",
         "arranger": "-"
@@ -1625,13 +1900,16 @@
   },
   {
     "id": 94,
-    "seq": 1601601,
+    "seq": 1600002,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "とても痛い痛がりたい",
     "pronunciation": "とてもいたいいたがりたい",
+    "creator": "EZFG",
     "lyricist": "EZFG",
     "composer": "EZFG",
     "arranger": "EZFG",
@@ -1643,6 +1921,7 @@
     "infos": [
       {
         "title": "너무 아파 아프고 싶어",
+        "creator": "EZFG",
         "lyricist": "EZFG",
         "composer": "EZFG",
         "arranger": "EZFG"
@@ -1651,14 +1930,19 @@
   },
   {
     "id": 95,
-    "seq": 9999927,
+    "seq": 2200101,
     "releaseConditionId": 5,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "威風堂々",
     "pronunciation": "いふうどうどう",
+    "creator": "梅とら",
     "lyricist": "梅とら",
     "composer": "梅とら",
     "arranger": "梅とら",
@@ -1670,6 +1954,7 @@
     "infos": [
       {
         "title": "Ifuudoudou",
+        "creator": "UMETORA",
         "lyricist": "UMETORA",
         "composer": "UMETORA",
         "arranger": "UMETORA"
@@ -1678,13 +1963,16 @@
   },
   {
     "id": 96,
-    "seq": 1205901,
+    "seq": 2200101,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "from Y to Y",
     "pronunciation": "0",
+    "creator": "ジミーサムP",
     "lyricist": "ジミーサムP",
     "composer": "ジミーサムP",
     "arranger": "ー",
@@ -1696,6 +1984,7 @@
     "infos": [
       {
         "title": "from Y to Y",
+        "creator": "지미섬P",
         "lyricist": "지미섬P",
         "composer": "지미섬P",
         "arranger": "-"
@@ -1704,13 +1993,16 @@
   },
   {
     "id": 97,
-    "seq": 2204701,
+    "seq": 2200002,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "霽れを待つ",
     "pronunciation": "はれをまつ",
+    "creator": "Orangestar",
     "lyricist": "Orangestar",
     "composer": "Orangestar",
     "arranger": "Orangestar",
@@ -1722,6 +2014,7 @@
     "infos": [
       {
         "title": "날이 개길 기다려",
+        "creator": "Orangestar",
         "lyricist": "Orangestar",
         "composer": "Orangestar",
         "arranger": "Orangestar"
@@ -1730,14 +2023,19 @@
   },
   {
     "id": 98,
-    "seq": 1209401,
+    "seq": 1600102,
     "releaseConditionId": 5,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ロストワンの号哭",
     "pronunciation": "ろすとわんのごうこく",
+    "creator": "Neru",
     "lyricist": "Neru",
     "composer": "Neru",
     "arranger": "-",
@@ -1745,10 +2043,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_098",
     "publishedAt": 1663567200000,
-    "fillerSec": 9.01669979095459,
+    "fillerSec": 9.039999961853027,
     "infos": [
       {
         "title": "로스트 원의 호곡",
+        "creator": "Neru",
         "lyricist": "Neru",
         "composer": "Neru",
         "arranger": "-"
@@ -1757,13 +2056,16 @@
   },
   {
     "id": 99,
-    "seq": 2303901,
+    "seq": 1600102,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "モア！ジャンプ！モア！",
     "pronunciation": "もあじゃんぷもあ",
+    "creator": "ナユタン星人",
     "lyricist": "ナユタン星人",
     "composer": "ナユタン星人",
     "arranger": "ナユタン星人",
@@ -1775,6 +2077,7 @@
     "infos": [
       {
         "title": "모어! 점프! 모어!",
+        "creator": "NayutalieN",
         "lyricist": "NayutalieN",
         "composer": "NayutalieN",
         "arranger": "NayutalieN"
@@ -1783,13 +2086,16 @@
   },
   {
     "id": 100,
-    "seq": 1404001,
+    "seq": 1600103,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ECHO",
     "pronunciation": "0",
+    "creator": "Crusher P",
     "lyricist": "Crusher P",
     "composer": "Crusher P",
     "arranger": "-",
@@ -1801,6 +2107,7 @@
     "infos": [
       {
         "title": "ECHO",
+        "creator": "Crusher P",
         "lyricist": "Crusher P",
         "composer": "Crusher P",
         "arranger": "-"
@@ -1809,13 +2116,16 @@
   },
   {
     "id": 101,
-    "seq": 9999930,
+    "seq": 1600103,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "RAD DOGS",
     "pronunciation": "らっどどっぐす",
+    "creator": "八王子P",
     "lyricist": "q*Left",
     "composer": "八王子P",
     "arranger": "八王子P",
@@ -1827,6 +2137,7 @@
     "infos": [
       {
         "title": "RAD DOGS",
+        "creator": "q*Left",
         "lyricist": "q*Left",
         "composer": "하치오지P",
         "arranger": "하치오지P"
@@ -1835,13 +2146,16 @@
   },
   {
     "id": 102,
-    "seq": 9999931,
+    "seq": 9999957,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "幽霊東京",
     "pronunciation": "ゆうれいとうきょう",
+    "creator": "Ayase",
     "lyricist": "Ayase",
     "composer": "Ayase",
     "arranger": "Ayase",
@@ -1853,6 +2167,7 @@
     "infos": [
       {
         "title": "Ghost City Tokyo",
+        "creator": "Ayase",
         "lyricist": "Ayase",
         "composer": "Ayase",
         "arranger": "Ayase"
@@ -1861,13 +2176,16 @@
   },
   {
     "id": 103,
-    "seq": 9999932,
+    "seq": 1400103,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ニジイロストーリーズ",
     "pronunciation": "にじいろすとーりーず",
+    "creator": "OSTER project",
     "lyricist": "OSTER project",
     "composer": "OSTER project",
     "arranger": "OSTER project",
@@ -1879,6 +2197,7 @@
     "infos": [
       {
         "title": "무지갯빛 스토리즈",
+        "creator": "OSTER project",
         "lyricist": "OSTER project",
         "composer": "OSTER project",
         "arranger": "OSTER project"
@@ -1887,13 +2206,16 @@
   },
   {
     "id": 104,
-    "seq": 1109001,
+    "seq": 1400103,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "サンドリヨン 10th Anniversary",
     "pronunciation": "さんどりよんてんすあにばーさりー",
+    "creator": "Dios\/シグナルP",
     "lyricist": "orange",
     "composer": "Dios\/シグナルP",
     "arranger": "Dios\/シグナルP",
@@ -1905,6 +2227,7 @@
     "infos": [
       {
         "title": "Cendrillon 10th Anniversary",
+        "creator": "Dios\/signalP",
         "lyricist": "orange",
         "composer": "Dios\/signalP",
         "arranger": "Dios\/signalP"
@@ -1913,13 +2236,16 @@
   },
   {
     "id": 105,
-    "seq": 9999933,
+    "seq": 9999959,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ワンスアポンアドリーム",
     "pronunciation": "わんすあぽんあどりーむ",
+    "creator": "YASUHIRO(康寛)",
     "lyricist": "YASUHIRO(康寛)",
     "composer": "YASUHIRO(康寛)",
     "arranger": "YASUHIRO(康寛)",
@@ -1931,6 +2257,7 @@
     "infos": [
       {
         "title": "once upon a dream",
+        "creator": "YASUHIRO",
         "lyricist": "YASUHIRO",
         "composer": "YASUHIRO",
         "arranger": "YASUHIRO"
@@ -1939,13 +2266,16 @@
   },
   {
     "id": 106,
-    "seq": 9999934,
+    "seq": 1302201,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "お気に召すまま",
     "pronunciation": "おきにめすまま",
+    "creator": "Eve",
     "lyricist": "Eve",
     "composer": "Eve",
     "arranger": "Numa",
@@ -1957,6 +2287,7 @@
     "infos": [
       {
         "title": "As You Like It",
+        "creator": "Eve",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa"
@@ -1965,13 +2296,16 @@
   },
   {
     "id": 107,
-    "seq": 1301801,
+    "seq": 1300103,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ミルククラウン・オン・ソーネチカ",
     "pronunciation": "みるくくらうんおんそーねちか",
+    "creator": "ユジー",
     "lyricist": "ユジー",
     "composer": "ユジー",
     "arranger": "ユジー",
@@ -1983,6 +2317,7 @@
     "infos": [
       {
         "title": "밀크 크라운 온 소네치카",
+        "creator": "유지",
         "lyricist": "유지",
         "composer": "유지",
         "arranger": "유지"
@@ -1991,13 +2326,16 @@
   },
   {
     "id": 108,
-    "seq": 1100109,
+    "seq": 1300103,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "愛されなくても君がいる",
     "pronunciation": "あいされなくてもきみがいる",
+    "creator": "ピノキオピー",
     "lyricist": "ピノキオピー",
     "composer": "ピノキオピー",
     "arranger": "ピノキオピー",
@@ -2009,6 +2347,7 @@
     "infos": [
       {
         "title": "사랑받지 못해도 네가 있어",
+        "creator": "피노키오피",
         "lyricist": "피노키오피",
         "composer": "피노키오피",
         "arranger": "피노키오피"
@@ -2017,13 +2356,16 @@
   },
   {
     "id": 109,
-    "seq": 1100701,
+    "seq": 1100008,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "ヒビカセ",
     "pronunciation": "ひびかせ",
+    "creator": "GigaReol",
     "lyricist": "れをる",
     "composer": "ギガ",
     "arranger": "ギガ",
@@ -2035,6 +2377,7 @@
     "infos": [
       {
         "title": "Hibikase",
+        "creator": "Reol",
         "lyricist": "Reol",
         "composer": "Giga",
         "arranger": "Giga"
@@ -2043,13 +2386,16 @@
   },
   {
     "id": 111,
-    "seq": 1604501,
+    "seq": 1600003,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "カトラリー",
     "pronunciation": "かとらりー",
+    "creator": "有機酸",
     "lyricist": "有機酸",
     "composer": "有機酸",
     "arranger": "有機酸",
@@ -2061,6 +2407,7 @@
     "infos": [
       {
         "title": "Cutlery",
+        "creator": "Ukisan",
         "lyricist": "Ukisan",
         "composer": "Ukisan",
         "arranger": "Ukisan"
@@ -2069,13 +2416,16 @@
   },
   {
     "id": 112,
-    "seq": 2306301,
+    "seq": 2300003,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "天使のクローバー",
     "pronunciation": "てんしのくろーばー",
+    "creator": "DIVELA",
     "lyricist": "DIVELA",
     "composer": "DIVELA",
     "arranger": "DIVELA",
@@ -2087,6 +2437,7 @@
     "infos": [
       {
         "title": "천사의 클로버",
+        "creator": "DIVELA",
         "lyricist": "DIVELA",
         "composer": "DIVELA",
         "arranger": "DIVELA"
@@ -2095,13 +2446,16 @@
   },
   {
     "id": 113,
-    "seq": 1100110,
+    "seq": 9999962,
     "releaseConditionId": 1,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ローリンガール",
     "pronunciation": "ろーりんがーる",
+    "creator": "wowaka",
     "lyricist": "wowaka",
     "composer": "wowaka",
     "arranger": "wowaka",
@@ -2113,6 +2467,7 @@
     "infos": [
       {
         "title": "Rollin Girl",
+        "creator": "wowaka",
         "lyricist": "wowaka",
         "composer": "wowaka",
         "arranger": "wowaka"
@@ -2121,13 +2476,16 @@
   },
   {
     "id": 114,
-    "seq": 1103101,
+    "seq": 1100010,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "裏表ラバーズ",
     "pronunciation": "うらおもてらばーず",
+    "creator": "wowaka",
     "lyricist": "wowaka",
     "composer": "wowaka",
     "arranger": "wowaka",
@@ -2139,6 +2497,7 @@
     "infos": [
       {
         "title": "Ura-Omote Lovers",
+        "creator": "wowaka",
         "lyricist": "wowaka",
         "composer": "wowaka",
         "arranger": "wowaka"
@@ -2147,13 +2506,16 @@
   },
   {
     "id": 115,
-    "seq": 1101901,
+    "seq": 1100011,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "アンノウン・マザーグース",
     "pronunciation": "あんのうんまざーぐーす",
+    "creator": "wowaka",
     "lyricist": "wowaka",
     "composer": "wowaka",
     "arranger": "wowaka",
@@ -2165,6 +2527,7 @@
     "infos": [
       {
         "title": "Unknown Mother-Goose",
+        "creator": "wowaka",
         "lyricist": "wowaka",
         "composer": "wowaka",
         "arranger": "wowaka"
@@ -2173,13 +2536,19 @@
   },
   {
     "id": 116,
-    "seq": 2606601,
+    "seq": 2600004,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "アイディスマイル",
     "pronunciation": "あいでぃすまいる",
+    "creator": "とあ",
     "lyricist": "とあ",
     "composer": "とあ",
     "arranger": "とあ",
@@ -2191,6 +2560,7 @@
     "infos": [
       {
         "title": "아이디 스마일",
+        "creator": "토아",
         "lyricist": "토아",
         "composer": "토아",
         "arranger": "토아"
@@ -2199,13 +2569,16 @@
   },
   {
     "id": 117,
-    "seq": 1100111,
+    "seq": 9999963,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ODDS＆ENDS",
     "pronunciation": "おっずあんどえんず",
+    "creator": "ryo (supercell)",
     "lyricist": "ryo",
     "composer": "ryo",
     "arranger": "ryo",
@@ -2217,6 +2590,7 @@
     "infos": [
       {
         "title": "ODDS＆ENDS",
+        "creator": "ryo",
         "lyricist": "ryo",
         "composer": "ryo",
         "arranger": "ryo"
@@ -2225,13 +2599,16 @@
   },
   {
     "id": 118,
-    "seq": 1103801,
+    "seq": 9999965,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "＊ハロー、プラネット。",
     "pronunciation": "はろーぷらねっと",
+    "creator": "sasakure.UK",
     "lyricist": "sasakure.UK",
     "composer": "sasakure.UK",
     "arranger": "sasakure.UK",
@@ -2239,10 +2616,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_118",
     "publishedAt": 1632981600000,
-    "fillerSec": 9.0,
+    "fillerSec": 9.013500213623047,
     "infos": [
       {
         "title": "＊헬로, 플래닛.",
+        "creator": "sasakure.UK",
         "lyricist": "sasakure.UK",
         "composer": "sasakure.UK",
         "arranger": "sasakure.UK"
@@ -2251,13 +2629,16 @@
   },
   {
     "id": 119,
-    "seq": 1104401,
+    "seq": 1100012,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ワールズエンド・ダンスホール",
     "pronunciation": "わーるずえんどだんすほーる",
+    "creator": "wowaka",
     "lyricist": "wowaka",
     "composer": "wowaka",
     "arranger": "wowaka",
@@ -2269,6 +2650,7 @@
     "infos": [
       {
         "title": "World’s End Dancehall",
+        "creator": "wowaka",
         "lyricist": "wowaka",
         "composer": "wowaka",
         "arranger": "wowaka"
@@ -2277,13 +2659,16 @@
   },
   {
     "id": 120,
-    "seq": 1207201,
+    "seq": 1200006,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "いかないで",
     "pronunciation": "いかないで",
+    "creator": "想太",
     "lyricist": "想太",
     "composer": "想太",
     "arranger": "-",
@@ -2295,6 +2680,7 @@
     "infos": [
       {
         "title": "가지마",
+        "creator": "소타",
         "lyricist": "소타",
         "composer": "소타",
         "arranger": "-"
@@ -2303,13 +2689,16 @@
   },
   {
     "id": 121,
-    "seq": 1304801,
+    "seq": 1300004,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ロミオとシンデレラ",
     "pronunciation": "ろみおとしんでれら",
+    "creator": "doriko",
     "lyricist": "doriko",
     "composer": "doriko",
     "arranger": "doriko",
@@ -2321,6 +2710,7 @@
     "infos": [
       {
         "title": "로미오와 신데렐라",
+        "creator": "doriko",
         "lyricist": "doriko",
         "composer": "doriko",
         "arranger": "doriko"
@@ -2329,13 +2719,16 @@
   },
   {
     "id": 122,
-    "seq": 9999936,
+    "seq": 9999966,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ポジティブ☆ダンスタイム",
     "pronunciation": "ぽじてぃぶだんすたいむ",
+    "creator": "キノシタ",
     "lyricist": "キノシタ",
     "composer": "キノシタ",
     "arranger": "キノシタ",
@@ -2347,6 +2740,7 @@
     "infos": [
       {
         "title": "Positive☆Dance Time",
+        "creator": "kinoshita",
         "lyricist": "kinoshita",
         "composer": "kinoshita",
         "arranger": "kinoshita"
@@ -2355,14 +2749,19 @@
   },
   {
     "id": 123,
-    "seq": 1302601,
+    "seq": 1300005,
     "releaseConditionId": 5,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "どりーみんチュチュ",
     "pronunciation": "どりーみんちゅちゅ",
+    "creator": "emon(Tes.)",
     "lyricist": "emon(Tes.)",
     "composer": "emon(Tes.)",
     "arranger": "emon(Tes.)",
@@ -2374,6 +2773,7 @@
     "infos": [
       {
         "title": "드리밍 츄츄",
+        "creator": "emon(Tes.)",
         "lyricist": "emon(Tes.)",
         "composer": "emon(Tes.)",
         "arranger": "emon(Tes.)"
@@ -2382,13 +2782,16 @@
   },
   {
     "id": 124,
-    "seq": 1105301,
+    "seq": 1100013,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "みくみくにしてあげる♪【してやんよ】",
     "pronunciation": "みくみくにしてあげるしてやんよ",
+    "creator": "ika",
     "lyricist": "ika_mo",
     "composer": "ika_mo",
     "arranger": "ika_mo",
@@ -2400,6 +2803,7 @@
     "infos": [
       {
         "title": "미쿠미쿠하게 해줄게♪[해줄거야]",
+        "creator": "ika",
         "lyricist": "ika_mo",
         "composer": "ika_mo",
         "arranger": "ika_mo"
@@ -2408,13 +2812,16 @@
   },
   {
     "id": 125,
-    "seq": 1602901,
+    "seq": 1600004,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ボッカデラベリタ",
     "pronunciation": "ぼっかでらべりた",
+    "creator": "柊キライ",
     "lyricist": "柊キライ",
     "composer": "柊キライ",
     "arranger": "柊キライ",
@@ -2426,6 +2833,7 @@
     "infos": [
       {
         "title": "Bocca della Verità",
+        "creator": "Hiiragi Kirai",
         "lyricist": "Hiiragi Kirai",
         "composer": "Hiiragi Kirai",
         "arranger": "Hiiragi Kirai"
@@ -2434,14 +2842,19 @@
   },
   {
     "id": 126,
-    "seq": 9999937,
+    "seq": 9999967,
     "releaseConditionId": 10,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "シネマ",
     "pronunciation": "しねま",
+    "creator": "Ayase",
     "lyricist": "Ayase",
     "composer": "Ayase",
     "arranger": "Ayase",
@@ -2453,6 +2866,7 @@
     "infos": [
       {
         "title": "시네마",
+        "creator": "Ayase",
         "lyricist": "Ayase",
         "composer": "Ayase",
         "arranger": "Ayase"
@@ -2461,13 +2875,19 @@
   },
   {
     "id": 127,
-    "seq": 9999938,
+    "seq": 9999968,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "トンデモワンダーズ",
     "pronunciation": "とんでもわんだーず",
+    "creator": "sasakure.UK",
     "lyricist": "sasakure.UK",
     "composer": "sasakure.UK",
     "arranger": "sasakure.UK(Key 岸田勇気(有形ランペイジ))",
@@ -2479,6 +2899,7 @@
     "infos": [
       {
         "title": "톤데모 원더즈",
+        "creator": "sasakure.UK",
         "lyricist": "sasakure.UK",
         "composer": "sasakure.UK",
         "arranger": "sasakure.UK(Key 키시다 유우키(유형 램페이지))"
@@ -2487,13 +2908,16 @@
   },
   {
     "id": 128,
-    "seq": 1102801,
+    "seq": 2605401,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "Brand New Day",
     "pronunciation": "ぶらんどにゅーでい",
+    "creator": "いるかアイス",
     "lyricist": "いるかアイス",
     "composer": "いるかアイス",
     "arranger": "いるかアイス",
@@ -2505,6 +2929,7 @@
     "infos": [
       {
         "title": "Brand New Day",
+        "creator": "이루카아이스",
         "lyricist": "이루카아이스",
         "composer": "이루카아이스",
         "arranger": "이루카아이스"
@@ -2513,13 +2938,19 @@
   },
   {
     "id": 129,
-    "seq": 1603401,
+    "seq": 1600005,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ビターチョコデコレーション",
     "pronunciation": "びたーちょこでこれーしょん",
+    "creator": "syudou",
     "lyricist": "syudou",
     "composer": "syudou",
     "arranger": "syudou",
@@ -2531,6 +2962,7 @@
     "infos": [
       {
         "title": "비터 초코 데코레이션",
+        "creator": "syudou",
         "lyricist": "syudou",
         "composer": "syudou",
         "arranger": "syudou"
@@ -2539,13 +2971,16 @@
   },
   {
     "id": 130,
-    "seq": 2208901,
+    "seq": 2200003,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "フロムトーキョー",
     "pronunciation": "ふろむとーきょー",
+    "creator": "夏代孝明",
     "lyricist": "夏代孝明",
     "composer": "夏代孝明・渡辺拓也",
     "arranger": "渡辺拓也",
@@ -2557,6 +2992,7 @@
     "infos": [
       {
         "title": "From Tokyo",
+        "creator": "Natsushiro Takaaki",
         "lyricist": "Natsushiro Takaaki",
         "composer": "Natsushiro Takaaki・Watanabe Takuya",
         "arranger": "Watanabe Takuya"
@@ -2565,13 +3001,16 @@
   },
   {
     "id": 131,
-    "seq": 1105501,
+    "seq": 1201801,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "初音ミクの激唱",
     "pronunciation": "はつねみくのげきしょう",
+    "creator": "cosMo@暴走P",
     "lyricist": "GAiA",
     "composer": "cosMo@暴走P",
     "arranger": "cosMo@暴走P",
@@ -2583,6 +3022,7 @@
     "infos": [
       {
         "title": "하츠네 미쿠의 격창",
+        "creator": "cosMo@폭주P",
         "lyricist": "GAiA",
         "composer": "cosMo@폭주P",
         "arranger": "cosMo@폭주P"
@@ -2591,13 +3031,16 @@
   },
   {
     "id": 132,
-    "seq": 2206701,
+    "seq": 1201801,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "「１」",
     "pronunciation": "いち",
+    "creator": "164",
     "lyricist": "164",
     "composer": "164",
     "arranger": "164",
@@ -2609,6 +3052,7 @@
     "infos": [
       {
         "title": "「1」",
+        "creator": "164",
         "lyricist": "164",
         "composer": "164",
         "arranger": "164"
@@ -2617,13 +3061,19 @@
   },
   {
     "id": 133,
-    "seq": 9999939,
+    "seq": 9999969,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "悪魔の踊り方",
     "pronunciation": "あくまのおどりかた",
+    "creator": "キタニタツヤ",
     "lyricist": "キタニタツヤ",
     "composer": "キタニタツヤ",
     "arranger": "-",
@@ -2635,6 +3085,7 @@
     "infos": [
       {
         "title": "악마가 춤추는 법",
+        "creator": "키타니 타츠야",
         "lyricist": "키타니 타츠야",
         "composer": "키타니 타츠야",
         "arranger": "-"
@@ -2643,13 +3094,19 @@
   },
   {
     "id": 134,
-    "seq": 1509801,
+    "seq": 9999971,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "テレキャスタービーボーイ",
     "pronunciation": "てれきゃすたーびーぼーい",
+    "creator": "すりぃ",
     "lyricist": "すりぃ",
     "composer": "すりぃ",
     "arranger": "すりぃ",
@@ -2657,10 +3114,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_134",
     "publishedAt": 1661320800000,
-    "fillerSec": 8.324000358581543,
+    "fillerSec": 8.329000473022461,
     "infos": [
       {
         "title": "텔레캐스터 비보이",
+        "creator": "스리이",
         "lyricist": "스리이",
         "composer": "스리이",
         "arranger": "스리이"
@@ -2669,13 +3127,16 @@
   },
   {
     "id": 135,
-    "seq": 1201301,
+    "seq": 1205901,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "六兆年と一夜物語",
     "pronunciation": "ろくちょうねんといちやものがたり",
+    "creator": "kemu",
     "lyricist": "kemu",
     "composer": "kemu",
     "arranger": "kemu",
@@ -2687,6 +3148,7 @@
     "infos": [
       {
         "title": "육조 년과 하룻밤 이야기",
+        "creator": "kemu",
         "lyricist": "kemu",
         "composer": "kemu",
         "arranger": "kemu"
@@ -2695,13 +3157,16 @@
   },
   {
     "id": 136,
-    "seq": 1408701,
+    "seq": 9999972,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "チルドレンレコード",
     "pronunciation": "0",
+    "creator": "じん",
     "lyricist": "じん",
     "composer": "じん",
     "arranger": "じん",
@@ -2713,6 +3178,7 @@
     "infos": [
       {
         "title": "칠드런 레코드",
+        "creator": "진",
         "lyricist": "진",
         "composer": "진",
         "arranger": "진"
@@ -2721,13 +3187,16 @@
   },
   {
     "id": 137,
-    "seq": 1103301,
+    "seq": 1209401,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "花を唄う",
     "pronunciation": "はなをうたう",
+    "creator": "シノ",
     "lyricist": "シノ",
     "composer": "シノ",
     "arranger": "シノ",
@@ -2739,6 +3208,7 @@
     "infos": [
       {
         "title": "꽃을 노래하다",
+        "creator": "시노",
         "lyricist": "시노",
         "composer": "시노",
         "arranger": "시노"
@@ -2747,13 +3217,16 @@
   },
   {
     "id": 138,
-    "seq": 9999943,
+    "seq": 1209401,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "KING",
     "pronunciation": "きんぐ",
+    "creator": "Kanaria",
     "lyricist": "Kanaria",
     "composer": "Kanaria",
     "arranger": "-",
@@ -2765,6 +3238,7 @@
     "infos": [
       {
         "title": "KING",
+        "creator": "Kanaria",
         "lyricist": "Kanaria",
         "composer": "Kanaria",
         "arranger": "-"
@@ -2773,13 +3247,16 @@
   },
   {
     "id": 139,
-    "seq": 1605201,
+    "seq": 1600006,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "夜に駆ける",
     "pronunciation": "よるにかける",
+    "creator": "Ayase",
     "lyricist": "Ayase",
     "composer": "Ayase",
     "arranger": "Ayase",
@@ -2791,6 +3268,7 @@
     "infos": [
       {
         "title": "Into The Night",
+        "creator": "Ayase",
         "lyricist": "Ayase",
         "composer": "Ayase",
         "arranger": "Ayase"
@@ -2799,13 +3277,16 @@
   },
   {
     "id": 140,
-    "seq": 2309601,
+    "seq": 2300004,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "アイスドロップ",
     "pronunciation": "あいすどろっぷ",
+    "creator": "aqu3ra",
     "lyricist": "aqu3ra",
     "composer": "aqu3ra",
     "arranger": "aqu3ra",
@@ -2817,6 +3298,7 @@
     "infos": [
       {
         "title": "아이스 드롭",
+        "creator": "aqu3ra",
         "lyricist": "aqu3ra",
         "composer": "aqu3ra",
         "arranger": "aqu3ra"
@@ -2825,13 +3307,19 @@
   },
   {
     "id": 141,
-    "seq": 9999944,
+    "seq": 1404001,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "群青讃歌",
     "pronunciation": "ぐんじょうさんか",
+    "creator": "Eve",
     "lyricist": "Eve",
     "composer": "Eve",
     "arranger": "Numa",
@@ -2843,6 +3331,7 @@
     "infos": [
       {
         "title": "Gunjo Sanka",
+        "creator": "Eve",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa"
@@ -2851,13 +3340,16 @@
   },
   {
     "id": 142,
-    "seq": 2610301,
+    "seq": 2600005,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "再生",
     "pronunciation": "さいせい",
+    "creator": "ピコン",
     "lyricist": "Picon",
     "composer": "Picon",
     "arranger": "Picon",
@@ -2869,6 +3361,7 @@
     "infos": [
       {
         "title": "재생",
+        "creator": "피콘",
         "lyricist": "피콘",
         "composer": "피콘",
         "arranger": "피콘"
@@ -2877,14 +3370,19 @@
   },
   {
     "id": 143,
-    "seq": 9999945,
+    "seq": 9999975,
     "releaseConditionId": 5,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "トラフィック・ジャム",
     "pronunciation": "とらふぃっくじゃむ",
+    "creator": "煮ル果実",
     "lyricist": "煮ル果実",
     "composer": "煮ル果実",
     "arranger": "煮ル果実",
@@ -2896,6 +3394,7 @@
     "infos": [
       {
         "title": "트래픽 잼",
+        "creator": "니루 카지츠",
         "lyricist": "니루 카지츠",
         "composer": "니루 카지츠",
         "arranger": "니루 카지츠"
@@ -2904,13 +3403,16 @@
   },
   {
     "id": 144,
-    "seq": 2307201,
+    "seq": 2300005,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "アイノマテリアル",
     "pronunciation": "あいのまてりある",
+    "creator": "Junky",
     "lyricist": "Junky",
     "composer": "Junky",
     "arranger": "Junky",
@@ -2922,6 +3424,7 @@
     "infos": [
       {
         "title": "사랑의 마테리얼",
+        "creator": "Junky",
         "lyricist": "Junky",
         "composer": "Junky",
         "arranger": "Junky"
@@ -2930,13 +3433,16 @@
   },
   {
     "id": 145,
-    "seq": 1609601,
+    "seq": 1600007,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ベノム",
     "pronunciation": "べのむ",
+    "creator": "かいりきベア",
     "lyricist": "かいりきベア",
     "composer": "かいりきベア",
     "arranger": "-",
@@ -2944,10 +3450,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_145",
     "publishedAt": 1661320800000,
-    "fillerSec": 7.799799919128418,
+    "fillerSec": 7.814000129699707,
     "infos": [
       {
         "title": "Venom",
+        "creator": "Kairiki bear",
         "lyricist": "Kairiki bear",
         "composer": "Kairiki bear",
         "arranger": "Kairiki bear"
@@ -2956,13 +3463,16 @@
   },
   {
     "id": 146,
-    "seq": 9999947,
+    "seq": 9999977,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "リモコン",
     "pronunciation": "りもこん",
+    "creator": "ワンダフル☆オポチュニティ！",
     "lyricist": "じーざす",
     "composer": "じーざす",
     "arranger": "ワンダフル☆オポチュニティ！",
@@ -2974,6 +3484,7 @@
     "infos": [
       {
         "title": "리모컨",
+        "creator": "WONDERFUL★OPPORTUNITY!",
         "lyricist": "Jizasu-P",
         "composer": "Jizasu-P",
         "arranger": "WONDERFUL★OPPORTUNITY!"
@@ -2982,13 +3493,19 @@
   },
   {
     "id": 147,
-    "seq": 1309501,
+    "seq": 1300006,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "からくりピエロ",
     "pronunciation": "からくりぴえろ",
+    "creator": "40mP",
     "lyricist": "40mP",
     "composer": "40mP",
     "arranger": "40mP",
@@ -3000,6 +3517,7 @@
     "infos": [
       {
         "title": "꼭두각시 피에로",
+        "creator": "40mP",
         "lyricist": "40mP",
         "composer": "40mP",
         "arranger": "40mP"
@@ -3008,14 +3526,19 @@
   },
   {
     "id": 148,
-    "seq": 1206401,
+    "seq": 1200008,
     "releaseConditionId": 5,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ray",
     "pronunciation": "れい",
+    "creator": "藤原 基央",
     "lyricist": "藤原 基央",
     "composer": "藤原 基央",
     "arranger": "-",
@@ -3027,21 +3550,25 @@
     "infos": [
       {
         "title": "ray",
-        "lyricist": "藤原基央",
-        "composer": "藤原基央",
+        "creator": "MOTOO FUJIWARA",
+        "lyricist": "MOTOO FUJIWARA",
+        "composer": "MOTOO FUJIWARA",
         "arranger": "-"
       }
     ]
   },
   {
     "id": 149,
-    "seq": 2608401,
+    "seq": 2600006,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "カナデトモスソラ",
     "pronunciation": "かなでともすそら",
+    "creator": "ササノマリイ",
     "lyricist": "Sasanomaly",
     "composer": "Sasanomaly",
     "arranger": "Sasanomaly",
@@ -3053,6 +3580,7 @@
     "infos": [
       {
         "title": "카나데토모스소라",
+        "creator": "사사노마리",
         "lyricist": "사사노마리",
         "composer": "사사노마리",
         "arranger": "사사노마리"
@@ -3061,13 +3589,16 @@
   },
   {
     "id": 150,
-    "seq": 1105201,
+    "seq": 1100017,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "トキヲ・ファンカ",
     "pronunciation": "ときをふぁんか",
+    "creator": "takamatt",
     "lyricist": "takamatt",
     "composer": "takamatt",
     "arranger": "takamatt",
@@ -3079,6 +3610,7 @@
     "infos": [
       {
         "title": "토키오 펑카",
+        "creator": "takamatt",
         "lyricist": "takamatt",
         "composer": "takamatt",
         "arranger": "takamatt"
@@ -3087,13 +3619,16 @@
   },
   {
     "id": 151,
-    "seq": 1104101,
+    "seq": 1100018,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "泡沫未来",
     "pronunciation": "うたかたみらい",
+    "creator": "加賀（ネギシャワーＰ）",
     "lyricist": "加賀（ネギシャワーＰ）",
     "composer": "加賀（ネギシャワーＰ）",
     "arranger": "加賀（ネギシャワーＰ）",
@@ -3105,6 +3640,7 @@
     "infos": [
       {
         "title": "거품 미래",
+        "creator": "가가(네기샤워P)",
         "lyricist": "가가(네기샤워P)",
         "composer": "가가(네기샤워P)",
         "arranger": "가가(네기샤워P)"
@@ -3113,13 +3649,16 @@
   },
   {
     "id": 152,
-    "seq": 1105202,
+    "seq": 1100019,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "だれかの心臓になれたなら",
     "pronunciation": "だれかのしんぞうになれたら",
+    "creator": "ユリイ・カノン（月詠み）",
     "lyricist": "ユリイ・カノン",
     "composer": "ユリイ・カノン",
     "arranger": "ユリイ・カノン",
@@ -3131,6 +3670,7 @@
     "infos": [
       {
         "title": "누군가의 심장이 될 수 있다면",
+        "creator": "유리이 카논",
         "lyricist": "유리이 카논",
         "composer": "유리이 카논",
         "arranger": "유리이 카논"
@@ -3139,13 +3679,16 @@
   },
   {
     "id": 153,
-    "seq": 1111101,
+    "seq": 1100020,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "Miku",
     "pronunciation": "みく",
+    "creator": "Anamanaguchi",
     "lyricist": "Peter B, Ary W, Josh K, David M, & Stella M",
     "composer": "Anamanaguchi",
     "arranger": "Anamanaguchi",
@@ -3157,6 +3700,7 @@
     "infos": [
       {
         "title": "Miku",
+        "creator": "Anamanaguchi",
         "lyricist": "Peter B, Ary W, Josh K, David M, & Stella M",
         "composer": "Anamanaguchi",
         "arranger": "Anamanaguchi"
@@ -3165,13 +3709,16 @@
   },
   {
     "id": 154,
-    "seq": 1303701,
+    "seq": 1300007,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "地球最後の告白を",
     "pronunciation": "ちきゅうさいごのこくはくを",
+    "creator": "kemu",
     "lyricist": "kemu",
     "composer": "kemu",
     "arranger": "kemu",
@@ -3183,6 +3730,7 @@
     "infos": [
       {
         "title": "지구 최후의 고백을",
+        "creator": "kemu",
         "lyricist": "kemu",
         "composer": "kemu",
         "arranger": "kemu"
@@ -3191,13 +3739,16 @@
   },
   {
     "id": 155,
-    "seq": 1205101,
+    "seq": 1200009,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "心拍数♯0822",
     "pronunciation": "しんぱくすうしゃーぷぜろはちにーにー",
+    "creator": "蝶々P",
     "lyricist": "蝶々P",
     "composer": "蝶々P",
     "arranger": "蝶々P",
@@ -3209,6 +3760,7 @@
     "infos": [
       {
         "title": "심박수♯0822",
+        "creator": "쵸쵸P",
         "lyricist": "쵸쵸P",
         "composer": "쵸쵸P",
         "arranger": "쵸쵸P"
@@ -3217,13 +3769,16 @@
   },
   {
     "id": 156,
-    "seq": 9999948,
+    "seq": 9999978,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "Beat Eater",
     "pronunciation": "びーといーたー",
+    "creator": "ポリスピカデリー",
     "lyricist": "ポリスピカデリー",
     "composer": "ポリスピカデリー",
     "arranger": "ポリスピカデリー",
@@ -3235,6 +3790,7 @@
     "infos": [
       {
         "title": "Beat Eater",
+        "creator": "폴리스 피카딜리",
         "lyricist": "폴리스 피카딜리",
         "composer": "폴리스 피카딜리",
         "arranger": "폴리스 피카딜리"
@@ -3243,13 +3799,16 @@
   },
   {
     "id": 157,
-    "seq": 1305201,
+    "seq": 1300008,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "マシュマリー",
     "pronunciation": "ましゅまりー",
+    "creator": "MIMI",
     "lyricist": "MIMI",
     "composer": "MIMI",
     "arranger": "MIMI",
@@ -3261,6 +3820,7 @@
     "infos": [
       {
         "title": "마슈마리",
+        "creator": "MIMI",
         "lyricist": "MIMI",
         "composer": "MIMI",
         "arranger": "MIMI"
@@ -3269,14 +3829,19 @@
   },
   {
     "id": 158,
-    "seq": 9999949,
+    "seq": 1103801,
     "releaseConditionId": 5,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ナンセンス文学",
     "pronunciation": "なんせんすぶんがく",
+    "creator": "Eve",
     "lyricist": "Eve",
     "composer": "Eve",
     "arranger": "Numa",
@@ -3288,6 +3853,7 @@
     "infos": [
       {
         "title": "Literary nonsense",
+        "creator": "Eve",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa"
@@ -3296,13 +3862,19 @@
   },
   {
     "id": 159,
-    "seq": 2211001,
+    "seq": 1103801,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "STAGE OF SEKAI",
     "pronunciation": "すてーじおぶせかい",
+    "creator": "針原翼（はりーP）",
     "lyricist": "針原翼（はりーP）",
     "composer": "針原翼（はりーP）",
     "arranger": "棚橋 EDDY テルアキ",
@@ -3314,6 +3886,7 @@
     "infos": [
       {
         "title": "STAGE OF SEKAI",
+        "creator": "Harihara Tsubasa (Harry P)",
         "lyricist": "Harihara Tsubasa (Harry P)",
         "composer": "Harihara Tsubasa (Harry P)",
         "arranger": "Tanahashi EDDY Teruaki"
@@ -3322,13 +3895,16 @@
   },
   {
     "id": 160,
-    "seq": 9999950,
+    "seq": 9999980,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ショウタイム・ルーラー",
     "pronunciation": "しょうたいむるーらー",
+    "creator": "カラスヤサボウ",
     "lyricist": "烏屋茶房",
     "composer": "烏屋茶房",
     "arranger": "烏屋茶房",
@@ -3340,6 +3916,7 @@
     "infos": [
       {
         "title": "Showtime Ruler",
+        "creator": "Karasuya Sabou",
         "lyricist": "Karasuya Sabou",
         "composer": "Karasuya Sabou",
         "arranger": "Karasuya Sabou"
@@ -3348,13 +3925,16 @@
   },
   {
     "id": 161,
-    "seq": 2105001,
+    "seq": 1207201,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "magic number",
     "pronunciation": "まじっくなんばー",
+    "creator": "伊東 健人",
     "lyricist": "伊東 健人",
     "composer": "伊東 健人",
     "arranger": "OSTER project",
@@ -3366,6 +3946,7 @@
     "infos": [
       {
         "title": "magic number",
+        "creator": "이토 켄토",
         "lyricist": "이토 켄토",
         "composer": "이토 켄토",
         "arranger": "OSTER project"
@@ -3374,13 +3955,16 @@
   },
   {
     "id": 162,
-    "seq": 9999951,
+    "seq": 1207201,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "エンドマークに希望と涙を添えて",
     "pronunciation": "えんどまーくにきぼうとなみだをそえて",
+    "creator": "cosMo＠暴走P",
     "lyricist": "-",
     "composer": "cosMo@暴走P",
     "arranger": "cosMo@暴走P",
@@ -3392,22 +3976,25 @@
     "infos": [
       {
         "title": "엔드마크에 희망과 눈물을 더하며",
+        "creator": "cosMo@폭주P",
         "lyricist": "-",
         "composer": "cosMo@폭주P",
         "arranger": "cosMo@폭주P"
       }
-    ],
-    "musicCollaborationId": 1
+    ]
   },
   {
     "id": 163,
-    "seq": 9999952,
+    "seq": 9999982,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "the EmpErroR",
     "pronunciation": "じえんぺらー",
+    "creator": "sasakure.UK",
     "lyricist": "-",
     "composer": "sasakure.UK",
     "arranger": "sasakure.UK",
@@ -3419,22 +4006,25 @@
     "infos": [
       {
         "title": "the EmpErroR",
+        "creator": "sasakure.UK",
         "lyricist": "ー",
         "composer": "sasakure.UK",
         "arranger": "sasakure.UK"
       }
-    ],
-    "musicCollaborationId": 1
+    ]
   },
   {
     "id": 164,
-    "seq": 9999953,
+    "seq": 9999983,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "Don't Fight The Music",
     "pronunciation": "どんとふぁいとざみゅーじっく",
+    "creator": "黒魔",
     "lyricist": "-",
     "composer": "黒魔",
     "arranger": "黒魔",
@@ -3446,22 +4036,25 @@
     "infos": [
       {
         "title": "Don't Fight The Music",
+        "creator": "쿠로마",
         "lyricist": "-",
         "composer": "쿠로마",
         "arranger": "쿠로마"
       }
-    ],
-    "musicCollaborationId": 1
+    ]
   },
   {
     "id": 165,
-    "seq": 1104601,
+    "seq": 1100021,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "そうだった！！",
     "pronunciation": "そうだった",
+    "creator": "タケノコ少年",
     "lyricist": "タケノコ少年",
     "composer": "タケノコ少年",
     "arranger": "タケノコ少年",
@@ -3473,6 +4066,7 @@
     "infos": [
       {
         "title": "그랬지!!",
+        "creator": "죽순소년",
         "lyricist": "죽순소년",
         "composer": "죽순소년",
         "arranger": "죽순소년"
@@ -3481,13 +4075,16 @@
   },
   {
     "id": 166,
-    "seq": 9999954,
+    "seq": 9999984,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "Glory Steady Go!",
     "pronunciation": "ぐろーりーすてでぃごー",
+    "creator": "キノシタ",
     "lyricist": "キノシタ",
     "composer": "キノシタ",
     "arranger": "キノシタ",
@@ -3499,6 +4096,7 @@
     "infos": [
       {
         "title": "Glory Steady Go!",
+        "creator": "kinoshita",
         "lyricist": "kinoshita",
         "composer": "kinoshita",
         "arranger": "kinoshita"
@@ -3507,13 +4105,16 @@
   },
   {
     "id": 167,
-    "seq": 9999955,
+    "seq": 9999985,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "オルターエゴ",
     "pronunciation": "おるたーえご",
+    "creator": "Misumi",
     "lyricist": "Misumi",
     "composer": "Misumi",
     "arranger": "Misumi",
@@ -3525,6 +4126,7 @@
     "infos": [
       {
         "title": "얼터 에고",
+        "creator": "Misumi",
         "lyricist": "Misumi",
         "composer": "Misumi",
         "arranger": "Misumi"
@@ -3533,13 +4135,16 @@
   },
   {
     "id": 168,
-    "seq": 1317701,
+    "seq": 1300009,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ダーリンダンス",
     "pronunciation": "だーりんだんす",
+    "creator": "かいりきベア",
     "lyricist": "かいりきベア",
     "composer": "かいりきベア",
     "arranger": "-",
@@ -3551,6 +4156,7 @@
     "infos": [
       {
         "title": "달링 댄스",
+        "creator": "카이리키 베어",
         "lyricist": "카이리키 베어",
         "composer": "카이리키 베어",
         "arranger": "-"
@@ -3559,14 +4165,19 @@
   },
   {
     "id": 169,
-    "seq": 1309401,
+    "seq": 1300010,
     "releaseConditionId": 5,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "少女レイ",
     "pronunciation": "しょうじょれい",
+    "creator": "みきとP",
     "lyricist": "みきとP",
     "composer": "みきとP",
     "arranger": "-",
@@ -3578,6 +4189,7 @@
     "infos": [
       {
         "title": "소녀 레이",
+        "creator": "미키토P",
         "lyricist": "미키토P",
         "composer": "미키토P",
         "arranger": "-"
@@ -3586,13 +4198,16 @@
   },
   {
     "id": 170,
-    "seq": 1606201,
+    "seq": 1600008,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ヴィラン",
     "pronunciation": "ヴぃらん",
+    "creator": "てにをは",
     "lyricist": "てにをは",
     "composer": "てにをは",
     "arranger": "てにをは",
@@ -3604,6 +4219,7 @@
     "infos": [
       {
         "title": "villain",
+        "creator": "teniwoha",
         "lyricist": "teniwoha",
         "composer": "teniwoha",
         "arranger": "teniwoha"
@@ -3612,13 +4228,16 @@
   },
   {
     "id": 171,
-    "seq": 1205201,
+    "seq": 1200010,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "カゲロウデイズ",
     "pronunciation": "かげろうでいず",
+    "creator": "じん",
     "lyricist": "じん",
     "composer": "じん",
     "arranger": "じん",
@@ -3630,6 +4249,7 @@
     "infos": [
       {
         "title": "카게로우 데이즈",
+        "creator": "진",
         "lyricist": "진",
         "composer": "진",
         "arranger": "진"
@@ -3638,13 +4258,16 @@
   },
   {
     "id": 172,
-    "seq": 1306801,
+    "seq": 1300011,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "Happy Halloween",
     "pronunciation": "はっぴーはろうぃん",
+    "creator": "Junky",
     "lyricist": "Junky",
     "composer": "Junky",
     "arranger": "Junky",
@@ -3656,6 +4279,7 @@
     "infos": [
       {
         "title": "Happy Halloween",
+        "creator": "Junky",
         "lyricist": "Junky",
         "composer": "Junky",
         "arranger": "Junky"
@@ -3664,13 +4288,16 @@
   },
   {
     "id": 173,
-    "seq": 2208901,
+    "seq": 2200006,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "流星のパルス",
     "pronunciation": "りゅうせいのぱるす",
+    "creator": "*Luna",
     "lyricist": "*Luna",
     "composer": "*Luna",
     "arranger": "*Luna",
@@ -3682,6 +4309,7 @@
     "infos": [
       {
         "title": "유성의 펄스",
+        "creator": "*Luna",
         "lyricist": "*Luna",
         "composer": "*Luna",
         "arranger": "*Luna"
@@ -3690,13 +4318,19 @@
   },
   {
     "id": 174,
-    "seq": 9999956,
+    "seq": 9999986,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "いーあるふぁんくらぶ",
     "pronunciation": "いーあるふぁんくらぶ",
+    "creator": "みきとP",
     "lyricist": "みきとP",
     "composer": "みきとP",
     "arranger": "みきとP",
@@ -3708,6 +4342,7 @@
     "infos": [
       {
         "title": "이얼 팬클럽",
+        "creator": "미키토P",
         "lyricist": "미키토P",
         "composer": "미키토P",
         "arranger": "미키토P"
@@ -3716,13 +4351,16 @@
   },
   {
     "id": 175,
-    "seq": 1105203,
+    "seq": 1100022,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "拝啓ドッペルゲンガー",
     "pronunciation": "はいけいどっぺるげんがー",
+    "creator": "kemu",
     "lyricist": "kemu",
     "composer": "kemu",
     "arranger": "kemu",
@@ -3734,6 +4372,7 @@
     "infos": [
       {
         "title": "친애하는 도플갱어에게",
+        "creator": "kemu",
         "lyricist": "kemu",
         "composer": "kemu",
         "arranger": "kemu"
@@ -3742,13 +4381,16 @@
   },
   {
     "id": 176,
-    "seq": 2106101,
+    "seq": 1509801,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "マシンガンポエムドール",
     "pronunciation": "ましんがんぽえむどーる",
+    "creator": "cosMo@暴走P",
     "lyricist": "cosMo@暴走P",
     "composer": "cosMo@暴走P",
     "arranger": "cosMo@暴走P",
@@ -3760,6 +4402,7 @@
     "infos": [
       {
         "title": "머신건 포엠 돌",
+        "creator": "cosMo@폭주P",
         "lyricist": "cosMo@폭주P",
         "composer": "cosMo@폭주P",
         "arranger": "cosMo@폭주P"
@@ -3768,13 +4411,16 @@
   },
   {
     "id": 177,
-    "seq": 1107101,
+    "seq": 1509801,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "右肩の蝶",
     "pronunciation": "みぎかたのちょう",
+    "creator": "のりぴー",
     "lyricist": "水野悠良",
     "composer": "のりぴー",
     "arranger": "のりぴー",
@@ -3786,6 +4432,7 @@
     "infos": [
       {
         "title": "Butterfly on your Right Shoulder",
+        "creator": "noripy",
         "lyricist": "Yura Mizuno",
         "composer": "noripy",
         "arranger": "noripy"
@@ -3794,13 +4441,16 @@
   },
   {
     "id": 178,
-    "seq": 9999957,
+    "seq": 9999987,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "にっこり^^調査隊のテーマ",
     "pronunciation": "にっこりちょうさたいのてーま",
+    "creator": "ワンダフル☆オポチュニティ！",
     "lyricist": "じーざす",
     "composer": "じーざす",
     "arranger": "ワンダフル☆オポチュニティ！",
@@ -3812,6 +4462,7 @@
     "infos": [
       {
         "title": "빙그레^^조사대의 테마",
+        "creator": "WONDERFUL★OPPORTUNITY!",
         "lyricist": "Jizasu-P",
         "composer": "Jizasu-P",
         "arranger": "WONDERFUL★OPPORTUNITY!"
@@ -3820,13 +4471,16 @@
   },
   {
     "id": 179,
-    "seq": 1106501,
+    "seq": 1100024,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "炉心融解",
     "pronunciation": "ろしんゆうかい",
+    "creator": "iroha（sasaki）",
     "lyricist": "kuma(alfred)",
     "composer": "iroha(sasaki)",
     "arranger": "-",
@@ -3838,6 +4492,7 @@
     "infos": [
       {
         "title": "노심융해",
+        "creator": "iroha(sasaki)",
         "lyricist": "kuma(alfred)",
         "composer": "iroha(sasaki)",
         "arranger": "-"
@@ -3846,14 +4501,19 @@
   },
   {
     "id": 180,
-    "seq": 9999958,
+    "seq": 1408701,
     "releaseConditionId": 10,
     "categories": [
-      "mv",
-      "mv_2d"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ミライ",
     "pronunciation": "みらい",
+    "creator": "有機酸",
     "lyricist": "有機酸",
     "composer": "有機酸",
     "arranger": "有機酸",
@@ -3865,6 +4525,7 @@
     "infos": [
       {
         "title": "Mirai",
+        "creator": "uki3",
         "lyricist": "uki3",
         "composer": "uki3",
         "arranger": "uki3"
@@ -3873,13 +4534,19 @@
   },
   {
     "id": 181,
-    "seq": 1610401,
+    "seq": 1600009,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "愛して愛して愛して",
     "pronunciation": "あいしてあいしてあいして",
+    "creator": "きくお",
     "lyricist": "きくお",
     "composer": "きくお",
     "arranger": "きくお",
@@ -3891,6 +4558,7 @@
     "infos": [
       {
         "title": "Love Me, Love Me, Love Me",
+        "creator": "Kikuo",
         "lyricist": "Kikuo",
         "composer": "Kikuo",
         "arranger": "Kikuo"
@@ -3899,13 +4567,19 @@
   },
   {
     "id": 182,
-    "seq": 9999959,
+    "seq": 9999989,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "Flyer!",
     "pronunciation": "ふらいやー",
+    "creator": "Chinozo",
     "lyricist": "Chinozo",
     "composer": "Chinozo",
     "arranger": "Chinozo",
@@ -3917,6 +4591,7 @@
     "infos": [
       {
         "title": "Flyer!",
+        "creator": "Chinozo",
         "lyricist": "Chinozo",
         "composer": "Chinozo",
         "arranger": "Chinozo"
@@ -3925,13 +4600,16 @@
   },
   {
     "id": 183,
-    "seq": 9999960,
+    "seq": 9999990,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "フィクサー",
     "pronunciation": "ふぃくさー",
+    "creator": "ぬゆり",
     "lyricist": "ぬゆり",
     "composer": "ぬゆり",
     "arranger": "ぬゆり",
@@ -3943,6 +4621,7 @@
     "infos": [
       {
         "title": "픽서",
+        "creator": "누유리",
         "lyricist": "누유리",
         "composer": "누유리",
         "arranger": "누유리"
@@ -3951,13 +4630,16 @@
   },
   {
     "id": 184,
-    "seq": 1205701,
+    "seq": 1200011,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "Hello,world!",
     "pronunciation": "はろーわーるど",
+    "creator": "藤原 基央",
     "lyricist": "藤原 基央",
     "composer": "藤原 基央",
     "arranger": "-",
@@ -3969,21 +4651,25 @@
     "infos": [
       {
         "title": "Hello,world!",
-        "lyricist": "藤原基央",
-        "composer": "藤原基央",
+        "creator": "MOTOO FUJIWARA",
+        "lyricist": "MOTOO FUJIWARA",
+        "composer": "MOTOO FUJIWARA",
         "arranger": "-"
       }
     ]
   },
   {
     "id": 185,
-    "seq": 1108001,
+    "seq": 1100025,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "しっくおぶはうす！",
     "pronunciation": "しっくおぶはうす",
+    "creator": "オゾン",
     "lyricist": "オゾン",
     "composer": "オゾン",
     "arranger": "オゾン",
@@ -3995,6 +4681,7 @@
     "infos": [
       {
         "title": "식 오브 하우스!",
+        "creator": "오존",
         "lyricist": "오존",
         "composer": "오존",
         "arranger": "오존"
@@ -4003,13 +4690,16 @@
   },
   {
     "id": 186,
-    "seq": 1105601,
+    "seq": 1100026,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "初音天地開闢神話",
     "pronunciation": "はつねてんちかいびゃくしんわ",
+    "creator": "cosMo＠暴走P",
     "lyricist": "cosMo@暴走P",
     "composer": "cosMo@暴走P",
     "arranger": "cosMo@暴走P",
@@ -4021,6 +4711,7 @@
     "infos": [
       {
         "title": "하츠네 천지개벽 신화",
+        "creator": "cosMo@폭주P",
         "lyricist": "cosMo@폭주P",
         "composer": "cosMo@폭주P",
         "arranger": "cosMo@폭주P"
@@ -4029,13 +4720,16 @@
   },
   {
     "id": 187,
-    "seq": 2610901,
+    "seq": 2600007,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ロウワー",
     "pronunciation": "ろうわー",
+    "creator": "ぬゆり",
     "lyricist": "ぬゆり",
     "composer": "ぬゆり",
     "arranger": "ぬゆり",
@@ -4043,10 +4737,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_187",
     "publishedAt": 1677477600000,
-    "fillerSec": 8.074199676513672,
+    "fillerSec": 8.085000038146973,
     "infos": [
       {
         "title": "로워",
+        "creator": "누유리",
         "lyricist": "누유리",
         "composer": "누유리",
         "arranger": "누유리"
@@ -4055,14 +4750,19 @@
   },
   {
     "id": 188,
-    "seq": 1311201,
+    "seq": 1609601,
     "releaseConditionId": 5,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "心予報",
     "pronunciation": "こころよほう",
+    "creator": "Eve",
     "lyricist": "Eve",
     "composer": "Eve",
     "arranger": "TAKU INOUE、Numa",
@@ -4074,6 +4774,7 @@
     "infos": [
       {
         "title": "Heart Forecast",
+        "creator": "Eve",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "TAKU INOUE, Numa"
@@ -4082,13 +4783,16 @@
   },
   {
     "id": 189,
-    "seq": 2614701,
+    "seq": 1609601,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ノマド",
     "pronunciation": "のまど",
+    "creator": "バルーン",
     "lyricist": "バルーン",
     "composer": "バルーン",
     "arranger": "バルーン",
@@ -4100,6 +4804,7 @@
     "infos": [
       {
         "title": "Nomad",
+        "creator": "balloon",
         "lyricist": "balloon",
         "composer": "balloon",
         "arranger": "balloon"
@@ -4108,13 +4813,16 @@
   },
   {
     "id": 190,
-    "seq": 1107601,
+    "seq": 1100027,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "悪ノ娘",
     "pronunciation": "あくのむすめ",
+    "creator": "mothy",
     "lyricist": "mothy",
     "composer": "mothy",
     "arranger": "mothy",
@@ -4126,6 +4834,7 @@
     "infos": [
       {
         "title": "악의 딸",
+        "creator": "mothy_악의P",
         "lyricist": "mothy_악의P",
         "composer": "mothy_악의P",
         "arranger": "mothy_악의P"
@@ -4134,13 +4843,16 @@
   },
   {
     "id": 191,
-    "seq": 1107701,
+    "seq": 1100028,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "悪ノ召使",
     "pronunciation": "あくのめしつかい",
+    "creator": "mothy",
     "lyricist": "mothy",
     "composer": "mothy",
     "arranger": "mothy",
@@ -4152,6 +4864,7 @@
     "infos": [
       {
         "title": "악의 하인",
+        "creator": "mothy_악의P",
         "lyricist": "mothy_악의P",
         "composer": "mothy_악의P",
         "arranger": "mothy_악의P"
@@ -4160,13 +4873,16 @@
   },
   {
     "id": 192,
-    "seq": 2107801,
+    "seq": 2100003,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "去り人達のワルツ",
     "pronunciation": "さりびとたちのわるつ",
+    "creator": "mothy",
     "lyricist": "mothy",
     "composer": "mothy",
     "arranger": "mothy",
@@ -4178,6 +4894,7 @@
     "infos": [
       {
         "title": "Waltz of the Deceased",
+        "creator": "mothy",
         "lyricist": "mothy",
         "composer": "mothy",
         "arranger": "mothy"
@@ -4186,13 +4903,16 @@
   },
   {
     "id": 193,
-    "seq": 2311401,
+    "seq": 2300006,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ワールドワイドワンダー",
     "pronunciation": "わーるどわいどわんだー",
+    "creator": "TOKOTOKO(西沢さんP)",
     "lyricist": "TOKOTOKO",
     "composer": "TOKOTOKO",
     "arranger": "TOKOTOKO",
@@ -4204,6 +4924,7 @@
     "infos": [
       {
         "title": "월드와이드 원더",
+        "creator": "TOKOTOKO",
         "lyricist": "TOKOTOKO",
         "composer": "TOKOTOKO",
         "arranger": "TOKOTOKO"
@@ -4212,13 +4933,16 @@
   },
   {
     "id": 194,
-    "seq": 1617601,
+    "seq": 1600010,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "妄想感傷代償連盟",
     "pronunciation": "もうそうかんしょうだいしょうれんめい",
+    "creator": "DECO*27",
     "lyricist": "DECO*27",
     "composer": "DECO*27",
     "arranger": "emon(Tes.)",
@@ -4230,6 +4954,7 @@
     "infos": [
       {
         "title": "망상감상대상연맹",
+        "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "emon(Tes.)"
@@ -4238,13 +4963,19 @@
   },
   {
     "id": 195,
-    "seq": 9999962,
+    "seq": 9999992,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "PaⅢ.SENSATION",
     "pronunciation": "ぱっしょねーとすりーどっとせんせーしょん",
+    "creator": "雄之助",
     "lyricist": "牛肉",
     "composer": "雄之助",
     "arranger": "雄之助",
@@ -4256,6 +4987,7 @@
     "infos": [
       {
         "title": "PaⅢ.SENSATION",
+        "creator": "규니쿠",
         "lyricist": "규니쿠",
         "composer": "유노스케",
         "arranger": "유노스케"
@@ -4264,13 +4996,16 @@
   },
   {
     "id": 196,
-    "seq": 2215401,
+    "seq": 2200007,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "オーダーメイド",
     "pronunciation": "おーだーめいど",
+    "creator": "傘村トータ",
     "lyricist": "傘村トータ（LIVE LAB.）",
     "composer": "傘村トータ（LIVE LAB.）",
     "arranger": "村田祐一（LIVE LAB.）",
@@ -4282,6 +5017,7 @@
     "infos": [
       {
         "title": "Made to Order",
+        "creator": "Tota Kasamura",
         "lyricist": "Tota Kasamura (LIVE LAB.)",
         "composer": "Tota Kasamura (LIVE LAB.)",
         "arranger": "Yuichi Murata (LIVE LAB.)"
@@ -4290,13 +5026,16 @@
   },
   {
     "id": 197,
-    "seq": 1111301,
+    "seq": 1100029,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ラストスコア",
     "pronunciation": "らすとすこあ",
+    "creator": "せきこみごはん",
     "lyricist": "せきこみごはん",
     "composer": "せきこみごはん",
     "arranger": "せきこみごはん",
@@ -4308,6 +5047,7 @@
     "infos": [
       {
         "title": "라스트 스코어",
+        "creator": "세키코미고한",
         "lyricist": "세키코미고한",
         "composer": "세키코미고한",
         "arranger": "세키코미고한"
@@ -4316,13 +5056,16 @@
   },
   {
     "id": 198,
-    "seq": 9999963,
+    "seq": 9999993,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "グッバイ宣言",
     "pronunciation": "ぐっばいせんげん",
+    "creator": "Chinozo",
     "lyricist": "Chinozo",
     "composer": "Chinozo",
     "arranger": "Chinozo",
@@ -4334,6 +5077,7 @@
     "infos": [
       {
         "title": "굿바이 선언",
+        "creator": "Chinozo",
         "lyricist": "Chinozo",
         "composer": "Chinozo",
         "arranger": "Chinozo"
@@ -4342,13 +5086,16 @@
   },
   {
     "id": 199,
-    "seq": 1207501,
+    "seq": 1200012,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ゴーストルール",
     "pronunciation": "ごーすとるーる",
+    "creator": "DECO*27",
     "lyricist": "DECO*27",
     "composer": "DECO*27",
     "arranger": "Naoki Itai(MUSIC FOR MUSIC)",
@@ -4360,6 +5107,7 @@
     "infos": [
       {
         "title": "고스트 룰",
+        "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "나오키 이타이"
@@ -4368,13 +5116,16 @@
   },
   {
     "id": 200,
-    "seq": 9999964,
+    "seq": 9999994,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ガランド",
     "pronunciation": "がらんど",
+    "creator": "ピコン",
     "lyricist": "ピコン",
     "composer": "ピコン",
     "arranger": "ピコン",
@@ -4386,6 +5137,7 @@
     "infos": [
       {
         "title": "갈란드",
+        "creator": "피콘",
         "lyricist": "피콘",
         "composer": "피콘",
         "arranger": "피콘"
@@ -4394,13 +5146,16 @@
   },
   {
     "id": 201,
-    "seq": 9999965,
+    "seq": 9999995,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "神のまにまに",
     "pronunciation": "かみのまにまに",
+    "creator": "れるりり",
     "lyricist": "れるりり",
     "composer": "れるりり",
     "arranger": "-",
@@ -4412,6 +5167,7 @@
     "infos": [
       {
         "title": "신의 뜻대로",
+        "creator": "레루리리",
         "lyricist": "레루리리",
         "composer": "레루리리",
         "arranger": "-"
@@ -4420,13 +5176,16 @@
   },
   {
     "id": 203,
-    "seq": 2612401,
+    "seq": 2600009,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "トリコロージュ",
     "pronunciation": "とりころーじゅ",
+    "creator": "煮ル果実",
     "lyricist": "煮ル果実",
     "composer": "煮ル果実",
     "arranger": "煮ル果実",
@@ -4438,6 +5197,7 @@
     "infos": [
       {
         "title": "트리콜로주",
+        "creator": "니루 카지츠",
         "lyricist": "니루 카지츠",
         "composer": "니루 카지츠",
         "arranger": "니루 카지츠"
@@ -4446,13 +5206,16 @@
   },
   {
     "id": 204,
-    "seq": 1609801,
+    "seq": 1600011,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "うっせぇわ",
     "pronunciation": "うっせぇわ",
+    "creator": "Ado×syudou",
     "lyricist": "syudou",
     "composer": "syudou",
     "arranger": "syudou",
@@ -4464,6 +5227,7 @@
     "infos": [
       {
         "title": "시끄러워(Usseewa)",
+        "creator": "Ado×syudou",
         "lyricist": "syudou",
         "composer": "syudou",
         "arranger": "syudou"
@@ -4472,13 +5236,16 @@
   },
   {
     "id": 205,
-    "seq": 1413301,
+    "seq": 9999996,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "踊",
     "pronunciation": "おど",
+    "creator": "Ado×Giga、TeddyLoid & DECO*27",
     "lyricist": "DECO*27",
     "composer": "Giga、TeddyLoid",
     "arranger": "Giga、TeddyLoid",
@@ -4490,6 +5257,7 @@
     "infos": [
       {
         "title": "춤(Odo)",
+        "creator": "Ado×Giga、TeddyLoid & DECO*27",
         "lyricist": "DECO*27",
         "composer": "Giga, TeddyLoid",
         "arranger": "Giga, TeddyLoid"
@@ -4498,13 +5266,16 @@
   },
   {
     "id": 206,
-    "seq": 1110001,
+    "seq": 1100031,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "君色マリンスノウ",
     "pronunciation": "きみいろまりんすのう",
+    "creator": "カルロス袴田(サイゼP)",
     "lyricist": "カルロス袴田(サイゼP)",
     "composer": "カルロス袴田(サイゼP)",
     "arranger": "カルロス袴田(サイゼP)",
@@ -4516,6 +5287,7 @@
     "infos": [
       {
         "title": "너의 색깔 마린 스노우",
+        "creator": "카를로스 하카마다(사이제P)",
         "lyricist": "카를로스 하카마다(사이제P)",
         "composer": "카를로스 하카마다(사이제P)",
         "arranger": "카를로스 하카마다(사이제P)"
@@ -4524,13 +5296,16 @@
   },
   {
     "id": 207,
-    "seq": 2213101,
+    "seq": 2200008,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "Peaky Peaky",
     "pronunciation": "ぴーきーぴーきー",
+    "creator": "みきとＰ",
     "lyricist": "みきとP",
     "composer": "みきとP",
     "arranger": "みきとP",
@@ -4542,6 +5317,7 @@
     "infos": [
       {
         "title": "Peaky Peaky",
+        "creator": "미키토P",
         "lyricist": "미키토P",
         "composer": "미키토P",
         "arranger": "미키토P"
@@ -4550,14 +5326,19 @@
   },
   {
     "id": 208,
-    "seq": 1211001,
+    "seq": 1200013,
     "releaseConditionId": 5,
     "categories": [
-      "original",
-      "mv_2d"
+      {
+        "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "僕らまだアンダーグラウンド",
     "pronunciation": "ぼくらまだあんだーぐらうんど",
+    "creator": "Eve",
     "lyricist": "Eve",
     "composer": "Eve",
     "arranger": "Numa",
@@ -4569,6 +5350,7 @@
     "infos": [
       {
         "title": "We're Still Underground",
+        "creator": "Eve",
         "lyricist": "Eve",
         "composer": "Eve",
         "arranger": "Numa"
@@ -4577,13 +5359,16 @@
   },
   {
     "id": 209,
-    "seq": 2314301,
+    "seq": 2300007,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "メタモリボン",
     "pronunciation": "めたもりぼん",
+    "creator": "emon(Tes.)",
     "lyricist": "emon(Tes.)・Tudiken",
     "composer": "emon(Tes.)",
     "arranger": "emon(Tes.)",
@@ -4595,6 +5380,7 @@
     "infos": [
       {
         "title": "메타모 리본",
+        "creator": "emon(Tes.)",
         "lyricist": "Tudiken",
         "composer": "emon(Tes.)",
         "arranger": "emon(Tes.)"
@@ -4603,13 +5389,16 @@
   },
   {
     "id": 210,
-    "seq": 9999967,
+    "seq": 9999997,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "雨とペトラ",
     "pronunciation": "あめとぺとら",
+    "creator": "バルーン",
     "lyricist": "バルーン",
     "composer": "バルーン",
     "arranger": "バルーン",
@@ -4621,6 +5410,7 @@
     "infos": [
       {
         "title": "Rain and Petra",
+        "creator": "balloon",
         "lyricist": "balloon",
         "composer": "balloon",
         "arranger": "balloon"
@@ -4629,13 +5419,19 @@
   },
   {
     "id": 211,
-    "seq": 2315601,
+    "seq": 2300008,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "イフ",
     "pronunciation": "いふ",
+    "creator": "ユリイ・カノン（月詠み）",
     "lyricist": "ユリイ・カノン",
     "composer": "ユリイ・カノン",
     "arranger": "月詠み",
@@ -4647,6 +5443,7 @@
     "infos": [
       {
         "title": "IF",
+        "creator": "Yurry Canon",
         "lyricist": "Yurry Canon",
         "composer": "Yurry Canon",
         "arranger": "Tsukuyomi"
@@ -4655,13 +5452,16 @@
   },
   {
     "id": 212,
-    "seq": 9999968,
+    "seq": 9999998,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "星空のメロディー",
     "pronunciation": "ほしぞらのめろでぃー",
+    "creator": "ぽりふぉ",
     "lyricist": "ぽりふぉ",
     "composer": "ぽりふぉ",
     "arranger": "ぽりふぉ",
@@ -4673,6 +5473,7 @@
     "infos": [
       {
         "title": "별하늘의 멜로디",
+        "creator": "폴리포",
         "lyricist": "폴리포",
         "composer": "폴리포",
         "arranger": "폴리포"
@@ -4681,13 +5482,19 @@
   },
   {
     "id": 213,
-    "seq": 1317401,
+    "seq": 1300013,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ヴァンパイア",
     "pronunciation": "ヴぁんぱいあ",
+    "creator": "DECO*27",
     "lyricist": "DECO*27",
     "composer": "DECO*27",
     "arranger": "Rockwell",
@@ -4699,6 +5506,7 @@
     "infos": [
       {
         "title": "뱀파이어",
+        "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Rockwell"
@@ -4707,13 +5515,16 @@
   },
   {
     "id": 215,
-    "seq": 1110701,
+    "seq": 1100033,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ジウダス",
     "pronunciation": "じうだす",
+    "creator": "すこやか大聖堂",
     "lyricist": "すこやか大聖堂",
     "composer": "すこやか大聖堂",
     "arranger": "すこやか大聖堂",
@@ -4725,6 +5536,7 @@
     "infos": [
       {
         "title": "쥬다스",
+        "creator": "스코야카 대성당",
         "lyricist": "스코야카 대성당",
         "composer": "스코야카 대성당",
         "arranger": "스코야카 대성당"
@@ -4733,13 +5545,16 @@
   },
   {
     "id": 216,
-    "seq": 1111801,
+    "seq": 1100034,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ルカルカ★ナイトフィーバー",
     "pronunciation": "るかるかないとふぃーばー",
+    "creator": "SAM（samfree）",
     "lyricist": "SAM（samfree）",
     "composer": "SAM（samfree）",
     "arranger": "SAM（samfree）",
@@ -4751,6 +5566,7 @@
     "infos": [
       {
         "title": "Luka Luka★Night Fever",
+        "creator": "SAM（samfree）",
         "lyricist": "SAM（samfree）",
         "composer": "SAM（samfree）",
         "arranger": "SAM（samfree）"
@@ -4759,13 +5575,16 @@
   },
   {
     "id": 217,
-    "seq": 9999969,
+    "seq": 2208901,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "街",
     "pronunciation": "まち",
+    "creator": "jon-YAKITORY",
     "lyricist": "jon-YAKITORY",
     "composer": "jon-YAKITORY",
     "arranger": "jon-YAKITORY",
@@ -4777,6 +5596,7 @@
     "infos": [
       {
         "title": "거리",
+        "creator": "jon-YAKITORY",
         "lyricist": "jon-YAKITORY",
         "composer": "jon-YAKITORY",
         "arranger": "jon-YAKITORY"
@@ -4785,13 +5605,16 @@
   },
   {
     "id": 218,
-    "seq": 1615501,
+    "seq": 2208901,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "メリュー",
     "pronunciation": "めりゅー",
+    "creator": "n-buna",
     "lyricist": "n-buna",
     "composer": "n-buna",
     "arranger": "n-buna",
@@ -4803,6 +5626,7 @@
     "infos": [
       {
         "title": "Meru",
+        "creator": "n-buna",
         "lyricist": "n-buna",
         "composer": "n-buna",
         "arranger": "n-buna"
@@ -4811,13 +5635,16 @@
   },
   {
     "id": 219,
-    "seq": 1111901,
+    "seq": 1100035,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "砂の惑星",
     "pronunciation": "すなのわくせい",
+    "creator": "ハチ",
     "lyricist": "ハチ",
     "composer": "ハチ",
     "arranger": "ハチ",
@@ -4829,6 +5656,7 @@
     "infos": [
       {
         "title": "Suna No Wakusei",
+        "creator": "HACHI",
         "lyricist": "HACHI",
         "composer": "HACHI",
         "arranger": "HACHI"
@@ -4837,13 +5665,16 @@
   },
   {
     "id": 220,
-    "seq": 1112001,
+    "seq": 1100036,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "ドーナツホール",
     "pronunciation": "どーなつほーる",
+    "creator": "ハチ",
     "lyricist": "ハチ",
     "composer": "ハチ",
     "arranger": "ハチ",
@@ -4855,6 +5686,7 @@
     "infos": [
       {
         "title": "DONUT HOLE",
+        "creator": "HACHI",
         "lyricist": "HACHI",
         "composer": "HACHI",
         "arranger": "HACHI"
@@ -4863,13 +5695,16 @@
   },
   {
     "id": 221,
-    "seq": 1111401,
+    "seq": 1100037,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "マトリョシカ",
     "pronunciation": "まとりょしか",
+    "creator": "ハチ",
     "lyricist": "ハチ",
     "composer": "ハチ",
     "arranger": "ハチ",
@@ -4881,6 +5716,7 @@
     "infos": [
       {
         "title": "MATORYOSHKA",
+        "creator": "HACHI",
         "lyricist": "HACHI",
         "composer": "HACHI",
         "arranger": "HACHI"
@@ -4889,13 +5725,16 @@
   },
   {
     "id": 222,
-    "seq": 1111601,
+    "seq": 1100038,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ピアノ×フォルテ×スキャンダル",
     "pronunciation": "ぴあのふぉるてすきゃんだる",
+    "creator": "OSTER project",
     "lyricist": "OSTER project",
     "composer": "OSTER project",
     "arranger": "OSTER project",
@@ -4907,6 +5746,7 @@
     "infos": [
       {
         "title": "피아노×포르테×스캔들",
+        "creator": "OSTER project",
         "lyricist": "OSTER project",
         "composer": "OSTER project",
         "arranger": "OSTER project"
@@ -4915,13 +5755,16 @@
   },
   {
     "id": 223,
-    "seq": 1111701,
+    "seq": 1100039,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "千年の独奏歌",
     "pronunciation": "せんねんのどくそうか",
+    "creator": "yanagi",
     "lyricist": "yanagi",
     "composer": "yanagi",
     "arranger": "-",
@@ -4933,6 +5776,7 @@
     "infos": [
       {
         "title": "천년의 독주가",
+        "creator": "yanagi",
         "lyricist": "yanagi",
         "composer": "yanagi",
         "arranger": "-"
@@ -4941,13 +5785,16 @@
   },
   {
     "id": 224,
-    "seq": 9999970,
+    "seq": 99999100,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "88☆彡",
     "pronunciation": "はちじゅうはち",
+    "creator": "まらしぃ × 堀江晶太(kemu)",
     "lyricist": "まらしぃ",
     "composer": "まらしぃ、堀江晶太(kemu)",
     "arranger": "堀江晶太(kemu)",
@@ -4959,6 +5806,7 @@
     "infos": [
       {
         "title": "88☆彡",
+        "creator": "marasy、shota horie(kemu)",
         "lyricist": "marasy",
         "composer": "marasy、shota horie(kemu)",
         "arranger": "shota horie(kemu)"
@@ -4967,13 +5815,16 @@
   },
   {
     "id": 225,
-    "seq": 9999971,
+    "seq": 99999101,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "エゴロック",
     "pronunciation": "えごろっく",
+    "creator": "すりぃ",
     "lyricist": "すりぃ",
     "composer": "すりぃ",
     "arranger": "すりぃ",
@@ -4985,6 +5836,7 @@
     "infos": [
       {
         "title": "에고 록",
+        "creator": "스리이",
         "lyricist": "스리이",
         "composer": "스리이",
         "arranger": "스리이"
@@ -4993,13 +5845,16 @@
   },
   {
     "id": 226,
-    "seq": 1216401,
+    "seq": 1200014,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ロストエンファウンド",
     "pronunciation": "ろすとえんふぁうんど",
+    "creator": "sasakure.UK",
     "lyricist": "sasakure.UK",
     "composer": "sasakure.UK",
     "arranger": "有形ランペイジ",
@@ -5011,6 +5866,7 @@
     "infos": [
       {
         "title": "로스트 앤 파운드",
+        "creator": "sasakure.UK",
         "lyricist": "sasakure.UK",
         "composer": "sasakure.UK",
         "arranger": "유형 램페이지"
@@ -5019,13 +5875,16 @@
   },
   {
     "id": 227,
-    "seq": 1117501,
+    "seq": 1100040,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ONESELF",
     "pronunciation": "わんせるふ",
+    "creator": "Twinfield",
     "lyricist": "Twinfield",
     "composer": "Twinfield",
     "arranger": "Twinfield",
@@ -5037,6 +5896,7 @@
     "infos": [
       {
         "title": "ONESELF",
+        "creator": "Twinfield",
         "lyricist": "Twinfield",
         "composer": "Twinfield",
         "arranger": "Twinfield"
@@ -5045,13 +5905,16 @@
   },
   {
     "id": 228,
-    "seq": 1123901,
-    "releaseConditionId": 7,
+    "seq": 1100041,
+    "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "Goodbye",
     "pronunciation": "ぐっどばい",
+    "creator": "CircusP",
     "lyricist": "CircusP",
     "composer": "CircusP",
     "arranger": "CircusP",
@@ -5059,10 +5922,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_228",
     "publishedAt": 1680328800000,
-    "fillerSec": 9.0,
+    "fillerSec": 8.993300437927246,
     "infos": [
       {
         "title": "Goodbye",
+        "creator": "CircusP",
         "lyricist": "CircusP",
         "composer": "CircusP",
         "arranger": "CircusP"
@@ -5071,13 +5935,16 @@
   },
   {
     "id": 229,
-    "seq": 1115201,
+    "seq": 1100042,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "脳漿炸裂ガール",
     "pronunciation": "のうしょうさくれつがーる",
+    "creator": "れるりり",
     "lyricist": "れるりり",
     "composer": "れるりり",
     "arranger": "れるりり",
@@ -5089,6 +5956,7 @@
     "infos": [
       {
         "title": "Brain Fluid Explosion Girl",
+        "creator": "rerulili",
         "lyricist": "rerulili",
         "composer": "rerulili",
         "arranger": "rerulili"
@@ -5097,13 +5965,16 @@
   },
   {
     "id": 230,
-    "seq": 9999973,
+    "seq": 99999103,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "サラマンダー",
     "pronunciation": "さらまんだー",
+    "creator": "DECO*27",
     "lyricist": "DECO*27",
     "composer": "DECO*27",
     "arranger": "Rockwell",
@@ -5115,22 +5986,25 @@
     "infos": [
       {
         "title": "Salamander",
+        "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Rockwell"
       }
-    ],
-    "musicCollaborationId": 2
+    ]
   },
   {
     "id": 231,
-    "seq": 9999974,
+    "seq": 2610901,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "アイデンティティ",
     "pronunciation": "あいでんてぃてぃ",
+    "creator": "Kanaria",
     "lyricist": "Kanaria",
     "composer": "Kanaria",
     "arranger": "-",
@@ -5142,22 +6016,25 @@
     "infos": [
       {
         "title": "Identity",
+        "creator": "Kanaria",
         "lyricist": "Kanaria",
         "composer": "Kanaria",
         "arranger": "-"
       }
-    ],
-    "musicCollaborationId": 2
+    ]
   },
   {
     "id": 232,
-    "seq": 9999975,
+    "seq": 2610901,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "青色絵具",
     "pronunciation": "あおいろえのぐ",
+    "creator": "くじら",
     "lyricist": "くじら",
     "composer": "くじら",
     "arranger": "くじら",
@@ -5169,22 +6046,25 @@
     "infos": [
       {
         "title": "blue paint",
+        "creator": "Whale Don't Sleep",
         "lyricist": "Whale Don't Sleep",
         "composer": "Whale Don't Sleep",
         "arranger": "Whale Don't Sleep"
       }
-    ],
-    "musicCollaborationId": 2
+    ]
   },
   {
     "id": 233,
-    "seq": 1716001,
+    "seq": 99999107,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "コスモスパイス",
     "pronunciation": "こすもすぱいす",
+    "creator": "ピノキオピー",
     "lyricist": "ピノキオピー",
     "composer": "ピノキオピー",
     "arranger": "ピノキオピー",
@@ -5192,26 +6072,29 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_233",
     "publishedAt": 1683093600000,
-    "fillerSec": 5.5920000076293945,
+    "fillerSec": 5.603000164031982,
     "infos": [
       {
         "title": "Cosmospice",
+        "creator": "PinocchioP",
         "lyricist": "PinocchioP",
         "composer": "PinocchioP",
         "arranger": "PinocchioP"
       }
-    ],
-    "musicCollaborationId": 2
+    ]
   },
   {
     "id": 234,
-    "seq": 9999978,
+    "seq": 99999108,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "徳川カップヌードル禁止令",
     "pronunciation": "とくがわかっぷぬーどるきんしれい",
+    "creator": "Mitchie M",
     "lyricist": "Mitchie M",
     "composer": "Mitchie M",
     "arranger": "Mitchie M",
@@ -5223,22 +6106,28 @@
     "infos": [
       {
         "title": "Tokugawa Cupnoodle Prohibition",
+        "creator": "Mitchie M",
         "lyricist": "Mitchie M",
         "composer": "Mitchie M",
         "arranger": "Mitchie M"
       }
-    ],
-    "musicCollaborationId": 2
+    ]
   },
   {
     "id": 235,
-    "seq": 9999979,
+    "seq": 99999109,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "Journey",
     "pronunciation": "じゃーにー",
+    "creator": "DECO*27",
     "lyricist": "DECO*27",
     "composer": "DECO*27",
     "arranger": "Rockwell",
@@ -5249,22 +6138,26 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "235",
-        "lyricist": "作詞者1",
-        "composer": "作曲者1",
-        "arranger": "編曲者1"
+        "title": "Journey",
+        "creator": "DECO*27",
+        "lyricist": "DECO*27",
+        "composer": "DECO*27",
+        "arranger": "DECO*27"
       }
     ]
   },
   {
     "id": 236,
-    "seq": 2218101,
+    "seq": 2200009,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "Voices",
     "pronunciation": "ヴぉいしーず",
+    "creator": "ゆよゆっぺ",
     "lyricist": "ゆよゆっぺ",
     "composer": "ゆよゆっぺ",
     "arranger": "ゆよゆっぺ",
@@ -5275,22 +6168,26 @@
     "fillerSec": 9.0,
     "infos": [
       {
-        "title": "236",
-        "lyricist": "作詞者1",
-        "composer": "作曲者1",
-        "arranger": "編曲者1"
+        "title": "Voices",
+        "creator": "Yuyoyuppe",
+        "lyricist": "Yuyoyuppe",
+        "composer": "Yuyoyuppe",
+        "arranger": "Yuyoyuppe"
       }
     ]
   },
   {
     "id": 237,
-    "seq": 2617401,
+    "seq": 2600010,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "君の夜をくれ",
     "pronunciation": "きみのよるをくれ",
+    "creator": "古川本舗",
     "lyricist": "古川本舗",
     "composer": "古川本舗",
     "arranger": "古川本舗・和音正人",
@@ -5302,6 +6199,7 @@
     "infos": [
       {
         "title": "너의 밤을 줘",
+        "creator": "후루카와 본점",
         "lyricist": "후루카와 본점",
         "composer": "후루카와 본점",
         "arranger": "후루카와 본점, 카즈네 마사토"
@@ -5310,13 +6208,16 @@
   },
   {
     "id": 238,
-    "seq": 1116401,
+    "seq": 1100043,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "ブラック★ロックシューター",
     "pronunciation": "ぶらっくろっくしゅーたー",
+    "creator": "ryo (supercell)",
     "lyricist": "ryo",
     "composer": "ryo",
     "arranger": "ryo",
@@ -5328,6 +6229,7 @@
     "infos": [
       {
         "title": "Black★Rock Shooter",
+        "creator": "ryo",
         "lyricist": "ryo",
         "composer": "ryo",
         "arranger": "ryo"
@@ -5336,13 +6238,16 @@
   },
   {
     "id": 239,
-    "seq": 9999980,
+    "seq": 99999110,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "月光",
     "pronunciation": "げっこう",
+    "creator": "キタニタツヤ×はるまきごはん",
     "lyricist": "キタニタツヤ \/ はるまきごはん",
     "composer": "キタニタツヤ \/ はるまきごはん",
     "arranger": "キタニタツヤ \/ はるまきごはん",
@@ -5354,6 +6259,7 @@
     "infos": [
       {
         "title": "Moonlight",
+        "creator": "Tatsuya Kitani \/ Harumaki Gohan",
         "lyricist": "Tatsuya Kitani \/ Harumaki Gohan",
         "composer": "Tatsuya Kitani \/ Harumaki Gohan",
         "arranger": "Tatsuya Kitani \/ Harumaki Gohan"
@@ -5362,13 +6268,16 @@
   },
   {
     "id": 240,
-    "seq": 1518401,
+    "seq": 99999111,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "踊れオーケストラ",
     "pronunciation": "おどれおーけすとら",
+    "creator": "YASUHIRO(康寛)",
     "lyricist": "YASUHIRO(康寛)",
     "composer": "YASUHIRO(康寛)",
     "arranger": "YASUHIRO(康寛)",
@@ -5380,6 +6289,7 @@
     "infos": [
       {
         "title": "춤춰라 오케스트라",
+        "creator": "YASUHIRO",
         "lyricist": "YASUHIRO",
         "composer": "YASUHIRO",
         "arranger": "YASUHIRO"
@@ -5388,13 +6298,16 @@
   },
   {
     "id": 241,
-    "seq": 1212301,
+    "seq": 1200015,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "アサガオの散る頃に",
     "pronunciation": "あさがおのちるころに",
+    "creator": "ぷす(fromツユ)",
     "lyricist": "ぷす(fromツユ)",
     "composer": "ぷす(fromツユ)",
     "arranger": "ぷす(fromツユ)",
@@ -5406,6 +6319,7 @@
     "infos": [
       {
         "title": "나팔꽃 질 무렵에",
+        "creator": "푸스(from 츠유)",
         "lyricist": "푸스(from 츠유)",
         "composer": "푸스(from 츠유)",
         "arranger": "푸스(from 츠유)"
@@ -5414,13 +6328,16 @@
   },
   {
     "id": 242,
-    "seq": 1314201,
+    "seq": 1300014,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "トリノコシティ",
     "pronunciation": "とりのこしてぃ",
+    "creator": "40mP",
     "lyricist": "40mP",
     "composer": "40mP",
     "arranger": "40mP",
@@ -5432,6 +6349,7 @@
     "infos": [
       {
         "title": "Torinokocity",
+        "creator": "40mP",
         "lyricist": "40mP",
         "composer": "40mP",
         "arranger": "40mP"
@@ -5440,13 +6358,16 @@
   },
   {
     "id": 243,
-    "seq": 1217801,
+    "seq": 1200016,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "Calc.",
     "pronunciation": "かるく",
+    "creator": "ジミーサムP",
     "lyricist": "ジミーサムP",
     "composer": "ジミーサムP",
     "arranger": "ジミーサムP",
@@ -5458,6 +6379,7 @@
     "infos": [
       {
         "title": "Calc.",
+        "creator": "Jimmythumb P",
         "lyricist": "Jimmythumb P",
         "composer": "Jimmythumb P",
         "arranger": "Jimmythumb P"
@@ -5466,13 +6388,16 @@
   },
   {
     "id": 244,
-    "seq": 9999982,
+    "seq": 99999112,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "Awake Now",
     "pronunciation": "あうぇいくなう",
+    "creator": "雄之助",
     "lyricist": "牛肉",
     "composer": "雄之助",
     "arranger": "雄之助",
@@ -5484,6 +6409,7 @@
     "infos": [
       {
         "title": "Awake Now",
+        "creator": "규니쿠",
         "lyricist": "규니쿠",
         "composer": "유노스케",
         "arranger": "유노스케"
@@ -5492,13 +6418,16 @@
   },
   {
     "id": 245,
-    "seq": 9999983,
+    "seq": 99999113,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "阿吽のビーツ",
     "pronunciation": "あうんのびーつ",
+    "creator": "羽生まゐご",
     "lyricist": "羽生まゐご",
     "composer": "羽生まゐご",
     "arranger": "羽生まゐご",
@@ -5510,6 +6439,7 @@
     "infos": [
       {
         "title": "Aun no Beats",
+        "creator": "Maigo Hanyuu",
         "lyricist": "Maigo Hanyuu",
         "composer": "Maigo Hanyuu",
         "arranger": "Maigo Hanyuu"
@@ -5518,13 +6448,16 @@
   },
   {
     "id": 246,
-    "seq": 9999984,
+    "seq": 99999114,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "エイリアンエイリアン",
     "pronunciation": "えいりあんえいりあん",
+    "creator": "ナユタン星人",
     "lyricist": "ナユタン星人",
     "composer": "ナユタン星人",
     "arranger": "ナユタン星人",
@@ -5536,6 +6469,7 @@
     "infos": [
       {
         "title": "Alien Alien",
+        "creator": "NayutalieN",
         "lyricist": "NayutalieN",
         "composer": "NayutalieN",
         "arranger": "NayutalieN"
@@ -5544,13 +6478,16 @@
   },
   {
     "id": 247,
-    "seq": 1112201,
+    "seq": 1100044,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "Copycat",
     "pronunciation": "こぴーきゃっと",
+    "creator": "CircusP",
     "lyricist": "CircusP",
     "composer": "CircusP",
     "arranger": "CircusP",
@@ -5562,6 +6499,7 @@
     "infos": [
       {
         "title": "Copycat",
+        "creator": "Circus-P",
         "lyricist": "Circus-P",
         "composer": "Circus-P",
         "arranger": "Circus-P"
@@ -5570,13 +6508,16 @@
   },
   {
     "id": 248,
-    "seq": 2616101,
+    "seq": 2600011,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "バグ",
     "pronunciation": "ばぐ",
+    "creator": "かいりきベア",
     "lyricist": "かいりきベア",
     "composer": "かいりきベア",
     "arranger": "-",
@@ -5588,6 +6529,7 @@
     "infos": [
       {
         "title": "버그",
+        "creator": "Kairiki bear",
         "lyricist": "Kairiki bear",
         "composer": "Kairiki bear",
         "arranger": "ー"
@@ -5596,13 +6538,16 @@
   },
   {
     "id": 249,
-    "seq": 1115301,
+    "seq": 1100045,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "ぼくらの16bit戦争",
     "pronunciation": "ぼくらのしっくすてぃーんびっとうぉーず",
+    "creator": "sasakure.UK",
     "lyricist": "sasakure.UK",
     "composer": "sasakure.UK",
     "arranger": "sasakure.UK(Gt 佐々木秀尚 Ba 二家本亮介(有形ランペイジ))",
@@ -5614,6 +6559,7 @@
     "infos": [
       {
         "title": "우리들의 16bit 전쟁",
+        "creator": "sasakure.UK",
         "lyricist": "sasakure.UK",
         "composer": "sasakure.UK",
         "arranger": "sasakure.UK(Gt 사사키 히데히사, Ba 니카모토 료스케(유형 램페이지))"
@@ -5622,13 +6568,16 @@
   },
   {
     "id": 251,
-    "seq": 1116001,
+    "seq": 1413301,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "フロイライン＝ビブリォチカ",
     "pronunciation": "ふろいらいんびぶりぉちか",
+    "creator": "nyanyannya（大天才P）",
     "lyricist": "nyanyannya（大天才P）",
     "composer": "nyanyannya（大天才P）",
     "arranger": "nyanyannya（大天才P）",
@@ -5640,6 +6589,7 @@
     "infos": [
       {
         "title": "프로일라인=비블리오테카",
+        "creator": "nyanyannya(대천재P)",
         "lyricist": "nyanyannya(대천재P)",
         "composer": "nyanyannya(대천재P)",
         "arranger": "nyanyannya(대천재P)"
@@ -5648,13 +6598,16 @@
   },
   {
     "id": 252,
-    "seq": 2318601,
+    "seq": 2300009,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "DREAM PLACE",
     "pronunciation": "どりーむぷれいす",
+    "creator": "EasyPop",
     "lyricist": "EasyPop",
     "composer": "EasyPop",
     "arranger": "EasyPop",
@@ -5666,6 +6619,7 @@
     "infos": [
       {
         "title": "DREAM PLACE",
+        "creator": "EasyPop",
         "lyricist": "EasyPop",
         "composer": "EasyPop",
         "arranger": "EasyPop"
@@ -5674,13 +6628,19 @@
   },
   {
     "id": 253,
-    "seq": 9999985,
+    "seq": 99999115,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "DAYBREAK FRONTLINE",
     "pronunciation": "でいぶれいくふろんとらいん",
+    "creator": "Orangestar",
     "lyricist": "Orangestar",
     "composer": "Orangestar",
     "arranger": "-",
@@ -5692,6 +6652,7 @@
     "infos": [
       {
         "title": "DAYBREAK FRONTLINE",
+        "creator": "Orangestar",
         "lyricist": "Orangestar",
         "composer": "Orangestar",
         "arranger": "-"
@@ -5700,13 +6661,16 @@
   },
   {
     "id": 254,
-    "seq": 1115101,
+    "seq": 1100048,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "未完成讃歌",
     "pronunciation": "みかんせいさんか",
+    "creator": "しゃいと",
     "lyricist": "しゃいと",
     "composer": "しゃいと",
     "arranger": "しゃいと",
@@ -5718,6 +6682,7 @@
     "infos": [
       {
         "title": "미완성 찬가",
+        "creator": "샤이토",
         "lyricist": "샤이토",
         "composer": "샤이토",
         "arranger": "샤이토"
@@ -5726,13 +6691,16 @@
   },
   {
     "id": 256,
-    "seq": 1113801,
+    "seq": 1100049,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "ダブルラリアット",
     "pronunciation": "だぶるらりあっと",
+    "creator": "アゴアニキ",
     "lyricist": "アゴアニキ",
     "composer": "アゴアニキ",
     "arranger": "アゴアニキ",
@@ -5744,6 +6712,7 @@
     "infos": [
       {
         "title": "Double Lariat",
+        "creator": "Agoaniki",
         "lyricist": "Agoaniki",
         "composer": "Agoaniki",
         "arranger": "Agoaniki"
@@ -5752,13 +6721,16 @@
   },
   {
     "id": 257,
-    "seq": 2216901,
+    "seq": 2200010,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "てらてら",
     "pronunciation": "てらてら",
+    "creator": "和田たけあき",
     "lyricist": "和田たけあき",
     "composer": "和田たけあき",
     "arranger": "和田たけあき",
@@ -5770,6 +6742,7 @@
     "infos": [
       {
         "title": "번질번질",
+        "creator": "와다 타케아키",
         "lyricist": "와다 타케아키",
         "composer": "와다 타케아키",
         "arranger": "와다 타케아키"
@@ -5777,14 +6750,77 @@
     ]
   },
   {
-    "id": 263,
-    "seq": 1111302,
+    "id": 258,
+    "seq": 1300015,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "深海少女",
+    "pronunciation": "しんかいしょうじょ",
+    "creator": "ゆうゆ",
+    "lyricist": "ゆうゆ",
+    "composer": "ゆうゆ",
+    "arranger": "ゆうゆ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_258",
+    "publishedAt": 1696658400000,
+    "fillerSec": 8.124099731445312,
+    "infos": [
+      {
+        "title": "Shinkai Shoujo",
+        "creator": "Yuuyu",
+        "lyricist": "Yuuyu",
+        "composer": "Yuuyu",
+        "arranger": "Yuuyu"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "seq": 99999117,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "帝国少女",
+    "pronunciation": "ていこくしょうじょ",
+    "creator": "R Sound Design",
+    "lyricist": "R Sound Design",
+    "composer": "R Sound Design",
+    "arranger": "R Sound Design",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_262",
+    "publishedAt": 1696140000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Imperial Girl",
+        "creator": "R Sound Design",
+        "lyricist": "R Sound Design",
+        "composer": "R Sound Design",
+        "arranger": "R Sound Design"
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "seq": 1100051,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "Highlight",
     "pronunciation": "はいらいと",
+    "creator": "KIRA",
     "lyricist": "KIRA",
     "composer": "KIRA",
     "arranger": "KIRA",
@@ -5792,10 +6828,11 @@
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_263",
     "publishedAt": 1679292000000,
-    "fillerSec": 9.0,
+    "fillerSec": 8.076899528503418,
     "infos": [
       {
         "title": "Highlight",
+        "creator": "KIRA",
         "lyricist": "KIRA",
         "composer": "KIRA",
         "arranger": "KIRA"
@@ -5804,13 +6841,16 @@
   },
   {
     "id": 264,
-    "seq": 2317201,
+    "seq": 2300010,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "パラソルサイダー",
     "pronunciation": "ぱらそるさいだー",
+    "creator": "ナナホシ管弦楽団",
     "lyricist": "ナナホシ管弦楽団",
     "composer": "岩見 陸",
     "arranger": "ナナホシ管弦楽団",
@@ -5822,6 +6862,7 @@
     "infos": [
       {
         "title": "파라솔 사이다",
+        "creator": "나나호시 관현악단",
         "lyricist": "나나호시 관현악단",
         "composer": "이와미 타카시",
         "arranger": "나나호시 관현악단"
@@ -5830,13 +6871,16 @@
   },
   {
     "id": 266,
-    "seq": 9999988,
+    "seq": 99999118,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "YY",
     "pronunciation": "わいわい",
+    "creator": "23.exe",
     "lyricist": "23.exe",
     "composer": "23.exe",
     "arranger": "23.exe",
@@ -5848,6 +6892,7 @@
     "infos": [
       {
         "title": "YY",
+        "creator": "23.exe",
         "lyricist": "23.exe",
         "composer": "23.exe",
         "arranger": "23.exe"
@@ -5856,13 +6901,16 @@
   },
   {
     "id": 270,
-    "seq": 1617901,
+    "seq": 1600014,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "泥中に咲く",
     "pronunciation": "でいちゅうにさく",
+    "creator": "針原翼（はりーP）",
     "lyricist": "針原翼（はりーP）",
     "composer": "針原翼（はりーP）",
     "arranger": "棚橋 EDDY テルアキ",
@@ -5874,6 +6922,7 @@
     "infos": [
       {
         "title": "진흙 속에 피다」",
+        "creator": "하리하라 츠바사(하리P)",
         "lyricist": "하리하라 츠바사(하리P)",
         "composer": "하리하라 츠바사(하리P)",
         "arranger": "타나하시 EDDY 테루아키"
@@ -5882,13 +6931,16 @@
   },
   {
     "id": 272,
-    "seq": 1617301,
+    "seq": 1600015,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "ジェヘナ",
     "pronunciation": "じぇへな",
+    "creator": "wotaku",
     "lyricist": "wotaku",
     "composer": "wotaku",
     "arranger": "wotaku",
@@ -5900,6 +6952,7 @@
     "infos": [
       {
         "title": "Gehenna",
+        "creator": "wotaku",
         "lyricist": "wotaku",
         "composer": "wotaku",
         "arranger": "wotaku"
@@ -5908,13 +6961,16 @@
   },
   {
     "id": 273,
-    "seq": 1117101,
+    "seq": 1100054,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "フューチャー・イヴ",
     "pronunciation": "ふゅーちゃーいヴ",
+    "creator": "sasakure.UK",
     "lyricist": "sasakure.UK",
     "composer": "sasakure.UK",
     "arranger": "有形ランペイジ",
@@ -5926,6 +6982,7 @@
     "infos": [
       {
         "title": "퓨처 이브",
+        "creator": "sasakure.UK",
         "lyricist": "sasakure.UK",
         "composer": "sasakure.UK",
         "arranger": "유형 램페이지"
@@ -5934,13 +6991,16 @@
   },
   {
     "id": 274,
-    "seq": 1116701,
+    "seq": 1100055,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "それでもいいんだよ",
     "pronunciation": "それでもいいんだよ",
+    "creator": "Ponchi♪",
     "lyricist": "Ponchi♪",
     "composer": "Ponchi♪",
     "arranger": "Ponchi♪",
@@ -5952,6 +7012,7 @@
     "infos": [
       {
         "title": "그래도 괜찮아",
+        "creator": "Ponchi♪",
         "lyricist": "Ponchi♪",
         "composer": "Ponchi♪",
         "arranger": "Ponchi♪"
@@ -5960,13 +7021,16 @@
   },
   {
     "id": 277,
-    "seq": 1613701,
+    "seq": 1600016,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "フォニイ",
     "pronunciation": "ふぉにい",
+    "creator": "ツミキ",
     "lyricist": "ツミキ",
     "composer": "ツミキ",
     "arranger": "ツミキ",
@@ -5978,6 +7042,7 @@
     "infos": [
       {
         "title": "포니",
+        "creator": "츠미키",
         "lyricist": "츠미키",
         "composer": "츠미키",
         "arranger": "츠미키"
@@ -5986,13 +7051,16 @@
   },
   {
     "id": 278,
-    "seq": 1114101,
+    "seq": 1100057,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "Bad ∞ End ∞ Night",
     "pronunciation": "ばっどえんどないと",
+    "creator": "ひとしずく×やま△",
     "lyricist": "ひとしずく×やま△",
     "composer": "ひとしずく×やま△",
     "arranger": "-",
@@ -6004,6 +7072,7 @@
     "infos": [
       {
         "title": "Bad ∞ End ∞ Night",
+        "creator": "Hitoshizuku×Yama△",
         "lyricist": "Hitoshizuku×Yama△",
         "composer": "Hitoshizuku×Yama△",
         "arranger": "ー"
@@ -6012,13 +7081,16 @@
   },
   {
     "id": 279,
-    "seq": 1114301,
+    "seq": 1100058,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "こちら、幸福安心委員会です。",
     "pronunciation": "こちらこうふくあんしんいいんかいです",
+    "creator": "うたたP",
     "lyricist": "鳥居羊",
     "composer": "うたたP",
     "arranger": "うたたP",
@@ -6030,6 +7102,7 @@
     "infos": [
       {
         "title": "This is the Happiness and Peace of Mind Committee",
+        "creator": "UtataP",
         "lyricist": "Tory Hitsuji",
         "composer": "UtataP",
         "arranger": "UtataP"
@@ -6038,13 +7111,16 @@
   },
   {
     "id": 280,
-    "seq": 9999991,
+    "seq": 99999121,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "虚ろを扇ぐ",
     "pronunciation": "うつろをあおぐ",
+    "creator": "獅子志司",
     "lyricist": "獅子志司",
     "composer": "獅子志司",
     "arranger": "獅子志司",
@@ -6055,22 +7131,26 @@
     "fillerSec": 9.48390007019043,
     "infos": [
       {
-        "title": "虚ろを扇ぐ",
-        "lyricist": "獅子志司",
-        "composer": "獅子志司",
-        "arranger": "獅子志司"
+        "title": "Hollow",
+        "creator": "Shishishishi",
+        "lyricist": "Shishishishi",
+        "composer": "Shishishishi",
+        "arranger": "Shishishishi"
       }
     ]
   },
   {
     "id": 284,
-    "seq": 1113901,
+    "seq": 1100060,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "インビジブル",
     "pronunciation": "いんびじぶる",
+    "creator": "kemu",
     "lyricist": "kemu",
     "composer": "kemu",
     "arranger": "-",
@@ -6082,6 +7162,7 @@
     "infos": [
       {
         "title": "Invisible",
+        "creator": "kemu",
         "lyricist": "kemu",
         "composer": "kemu",
         "arranger": "-"
@@ -6090,13 +7171,16 @@
   },
   {
     "id": 285,
-    "seq": 2114501,
+    "seq": 2100004,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "ÅMARA(大未来電脳)",
     "pronunciation": "あまらだいみらいでんのう",
+    "creator": "sasakure.UK",
     "lyricist": "sasakure.UK",
     "composer": "sasakure.UK",
     "arranger": "sasakure.UK",
@@ -6108,6 +7192,7 @@
     "infos": [
       {
         "title": "ÅMARA(The Great Intelligence)",
+        "creator": "sasakure.UK",
         "lyricist": "sasakure.UK",
         "composer": "sasakure.UK",
         "arranger": "sasakure.UK"
@@ -6116,13 +7201,16 @@
   },
   {
     "id": 288,
-    "seq": 1113601,
+    "seq": 1116401,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "アンハッピーリフレイン",
     "pronunciation": "あんはっぴーりふれいん",
+    "creator": "wowaka",
     "lyricist": "wowaka",
     "composer": "wowaka",
     "arranger": "wowaka",
@@ -6134,6 +7222,7 @@
     "infos": [
       {
         "title": "Unhappy Refrain",
+        "creator": "wowaka",
         "lyricist": "wowaka",
         "composer": "wowaka",
         "arranger": "wowaka"
@@ -6142,13 +7231,16 @@
   },
   {
     "id": 289,
-    "seq": 1213301,
+    "seq": 1200019,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "天ノ弱",
     "pronunciation": "あまのじゃく",
+    "creator": "164",
     "lyricist": "164",
     "composer": "164",
     "arranger": "164",
@@ -6160,6 +7252,7 @@
     "infos": [
       {
         "title": "Amanojaku",
+        "creator": "164",
         "lyricist": "164",
         "composer": "164",
         "arranger": "164"
@@ -6168,13 +7261,16 @@
   },
   {
     "id": 290,
-    "seq": 9999993,
+    "seq": 1518401,
     "releaseConditionId": 10,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "どんな結末がお望みだい？",
     "pronunciation": "どんなけつまつがおのぞみだい",
+    "creator": "ツユ",
     "lyricist": "ぷす(fromツユ)",
     "composer": "ぷす(fromツユ)",
     "arranger": "ぷす(fromツユ)",
@@ -6186,6 +7282,7 @@
     "infos": [
       {
         "title": "어떤 결말을 원하니?",
+        "creator": "푸스(from 츠유)",
         "lyricist": "푸스(from 츠유)",
         "composer": "푸스(from 츠유)",
         "arranger": "푸스(from 츠유)"
@@ -6193,14 +7290,77 @@
     ]
   },
   {
-    "id": 302,
-    "seq": 2213401,
+    "id": 292,
+    "seq": 1100062,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "いちにのさんで",
+    "pronunciation": "いちにのさんで",
+    "creator": "nogumi",
+    "lyricist": "nogumi",
+    "composer": "nogumi",
+    "arranger": "nogumi",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_292",
+    "publishedAt": 1698732000000,
+    "fillerSec": 7.554200172424316,
+    "infos": [
+      {
+        "title": "いちにのさんで",
+        "creator": "nogumi",
+        "lyricist": "nogumi",
+        "composer": "nogumi",
+        "arranger": "nogumi"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "seq": 1600017,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "アイロニ",
+    "pronunciation": "あいろに",
+    "creator": "すこっぷ",
+    "lyricist": "すこっぷ",
+    "composer": "すこっぷ",
+    "arranger": "すこっぷ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_293",
+    "publishedAt": 1697176800000,
+    "fillerSec": 7.659999847412109,
+    "infos": [
+      {
+        "title": "293",
+        "creator": "作詞者",
+        "lyricist": "作詞者1",
+        "composer": "作曲者1",
+        "arranger": "編曲者1"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "seq": 2200012,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "mv_2d"
+      }
     ],
     "title": "フレー",
     "pronunciation": "ふれー",
+    "creator": "HoneyWorks",
     "lyricist": "HoneyWorks",
     "composer": "HoneyWorks",
     "arranger": "HoneyWorks",
@@ -6212,6 +7372,7 @@
     "infos": [
       {
         "title": "후레이",
+        "creator": "HoneyWorks",
         "lyricist": "HoneyWorks",
         "composer": "HoneyWorks",
         "arranger": "HoneyWorks"
@@ -6220,13 +7381,16 @@
   },
   {
     "id": 317,
-    "seq": 1112202,
+    "seq": 1100074,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "魔法みたいなミュージック！",
     "pronunciation": "まほうみたいなみゅーじっく",
+    "creator": "OSTER project",
     "lyricist": "OSTER project",
     "composer": "OSTER project",
     "arranger": "OSTER project",
@@ -6238,6 +7402,7 @@
     "infos": [
       {
         "title": "Music Like Magic!",
+        "creator": "OSTER project",
         "lyricist": "OSTER project",
         "composer": "OSTER project",
         "arranger": "OSTER project"
@@ -6246,13 +7411,16 @@
   },
   {
     "id": 318,
-    "seq": 1114001,
+    "seq": 1100075,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "Sharing The World",
     "pronunciation": "しぇありんぐざわーるど",
+    "creator": "BIGHEAD",
     "lyricist": "BIGHEAD",
     "composer": "BIGHEAD",
     "arranger": "Kei Suzuki\/BIGHEAD",
@@ -6264,6 +7432,7 @@
     "infos": [
       {
         "title": "Sharing The World",
+        "creator": "BIGHEAD",
         "lyricist": "BIGHEAD",
         "composer": "BIGHEAD",
         "arranger": "Kei Suzuki\/BIGHEAD"
@@ -6272,13 +7441,16 @@
   },
   {
     "id": 319,
-    "seq": 1115901,
+    "seq": 1100076,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      {
+        "musicCategoryName": "image"
+      }
     ],
     "title": "Decade",
     "pronunciation": "でぃけいど",
+    "creator": "Dixie Flatline",
     "lyricist": "Dixie Flatline",
     "composer": "Dixie Flatline",
     "arranger": "Dixie Flatline",
@@ -6290,6 +7462,7 @@
     "infos": [
       {
         "title": "Decade",
+        "creator": "Dixie Flatline",
         "lyricist": "Dixie Flatline",
         "composer": "Dixie Flatline",
         "arranger": "Dixie Flatline"
@@ -6297,14 +7470,47 @@
     ]
   },
   {
-    "id": 342,
-    "seq": 1114002,
+    "id": 321,
+    "seq": 1200020,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "アトラクトライト",
+    "pronunciation": "あとらくとらいと",
+    "creator": "*Luna",
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "arranger": "*Luna",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_321",
+    "publishedAt": 1698127200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "アトラクトライト",
+        "creator": "作詞者",
+        "lyricist": "作詞者1",
+        "composer": "*Luna",
+        "arranger": "*Luna"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "seq": 1100090,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
     ],
     "title": "Blue Star",
     "pronunciation": "ぶるーすたー",
+    "creator": "八王子P",
     "lyricist": "八王子P",
     "composer": "八王子P",
     "arranger": "八王子P",
@@ -6316,6 +7522,7 @@
     "infos": [
       {
         "title": "Blue Star",
+        "creator": "하치오지P",
         "lyricist": "하치오지P",
         "composer": "하치오지P",
         "arranger": "하치오지P"
@@ -6324,27 +7531,61 @@
   },
   {
     "id": 357,
-    "seq": 99999125,
+    "seq": 1527501,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      {
+        "musicCategoryName": "mv"
+      }
     ],
     "title": "ブループラネット",
     "pronunciation": "ぶるーぷらねっと",
+    "creator": "DECO*27",
     "lyricist": "DECO*27",
     "composer": "DECO*27",
     "arranger": "Rockwell",
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_357",
-    "publishedAt": 1693408200000,
+    "publishedAt": 1695621600000,
     "fillerSec": 9.645000457763672,
     "infos": [
       {
         "title": "Blue Planet",
+        "creator": "DECO*27",
         "lyricist": "DECO*27",
         "composer": "DECO*27",
         "arranger": "Rockwell"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "seq": 11000106,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "ラッキー☆オーブ",
+    "pronunciation": "らっきーおーぶ",
+    "creator": "emon(Tes.)",
+    "lyricist": "emon(Tes.)",
+    "composer": "emon(Tes.)",
+    "arranger": "emon(Tes.)",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_415",
+    "publishedAt": 1695621600000,
+    "fillerSec": 7.571400165557861,
+    "infos": [
+      {
+        "title": "Lucky☆Orb",
+        "creator": "emon(Tes.)",
+        "lyricist": "emon(Tes.)",
+        "composer": "emon(Tes.)",
+        "arranger": "emon(Tes.)"
       }
     ]
   }

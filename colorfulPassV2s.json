@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "colorfulPassTier": "tier_1",
+    "presentSentence": "'컬러풀 패스~BASIC~' 구매 특전입니다.",
+    "expireDays": 30,
+    "livePointRate": 2,
+    "dailyFreeGachaSpinLimit": 0,
+    "dailyPaidGachaSpinLimit": 2
+  },
+  {
+    "id": 3,
+    "colorfulPassTier": "tier_3",
+    "presentSentence": "'컬러풀 패스~PRECIOUS~' 구매 특전입니다.",
+    "expireDays": 30,
+    "livePointRate": 2,
+    "dailyFreeGachaSpinLimit": 1,
+    "dailyPaidGachaSpinLimit": 2,
+    "maxLiveBonusCount": 20,
+    "maxAutoPlayCount": 99
+  }
+]
