@@ -48,16 +48,6 @@
     "endAt": 1698213599000
   },
   {
-    "homeBannerId": 376,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha230",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 230,
-    "startAt": 1695006000000,
-    "endAt": 1695610799000
-  },
-  {
     "homeBannerId": 377,
     "seq": 30,
     "homeBannerType": "general",
@@ -66,6 +56,16 @@
     "transitionDestinationId": 231,
     "startAt": 1695265200000,
     "endAt": 1695869999000
+  },
+  {
+    "homeBannerId": 378,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha234",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 234,
+    "startAt": 1695610800000,
+    "endAt": 1696215599000
   },
   {
     "homeBannerId": 381,
@@ -77,6 +77,16 @@
     "endAt": 1696085940000
   },
   {
+    "homeBannerId": 385,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_faith_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 69,
+    "startAt": 1695621600000,
+    "endAt": 1696161599000
+  },
+  {
     "homeBannerId": 412,
     "seq": 60,
     "homeBannerType": "general",
@@ -84,15 +94,5 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1695603600000,
     "endAt": 4083890399000
-  },
-  {
-    "homeBannerId": 10101,
-    "seq": 5000,
-    "homeBannerType": "return",
-    "assetbundleName": "banner_gacha2001",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1100,
-    "startAt": 1693076400000,
-    "endAt": 1695668399000
   }
 ]

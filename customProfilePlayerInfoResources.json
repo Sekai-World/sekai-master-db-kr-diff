@@ -65,11 +65,12 @@
   {
     "customProfileResourceType": "player_info",
     "id": 11,
-    "seq": 12,
+    "seq": 6,
     "name": "캐릭터 랭크\/챌린지 스테이지",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
-    "fileName": "CharacterRankAndChallengeStage"
+    "fileName": "CharacterRankAndChallengeStage",
+    "groupId": 1
   },
   {
     "customProfileResourceType": "player_info",
@@ -78,7 +79,8 @@
     "name": "악곡 정보",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
-    "fileName": "MusicClearInfo"
+    "fileName": "MusicClearInfo",
+    "groupId": 2
   },
   {
     "customProfileResourceType": "player_info",
@@ -88,5 +90,34 @@
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "EditUserName"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 14,
+    "seq": 12,
+    "name": "스토리 즐겨찾기",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
+    "fileName": "StoryFavorite"
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 15,
+    "seq": 98,
+    "name": "캐릭터 랭크\/챌린지 스테이지",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
+    "fileName": "CharacterRankAndChallengeStage_1",
+    "groupId": 1
+  },
+  {
+    "customProfileResourceType": "player_info",
+    "id": 16,
+    "seq": 99,
+    "name": "악곡 정보",
+    "resourceLoadType": "prefab",
+    "resourceLoadVal": "CustomProfile\/ContentView\/General",
+    "fileName": "MusicClearInfo_1",
+    "groupId": 2
   }
 ]
