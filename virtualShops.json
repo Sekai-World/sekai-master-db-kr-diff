@@ -1673,6 +1673,23 @@
     "virtualShopType": "event"
   },
   {
+    "id": 70,
+    "name": "호나미 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 162,
+        "virtualShopId": 70,
+        "virtualShopItemType": "coordinate",
+        "seq": 99933,
+        "resourceBoxId": 62,
+        "costPaidJewel": 1000,
+        "startAt": 1666677600000,
+        "endAt": 1666936799000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
     "id": 72,
     "name": "제39회 이벤트 판매",
     "virtualShopItems": [
@@ -1688,6 +1705,40 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 73,
+    "name": "MEIKO ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 166,
+        "virtualShopId": 73,
+        "virtualShopItemType": "coordinate",
+        "seq": 99930,
+        "resourceBoxId": 53,
+        "costPaidJewel": 1000,
+        "startAt": 1698991200000,
+        "endAt": 1699250399000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 74,
+    "name": "아키토 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 167,
+        "virtualShopId": 74,
+        "virtualShopItemType": "coordinate",
+        "seq": 99929,
+        "resourceBoxId": 63,
+        "costPaidJewel": 1000,
+        "startAt": 1699596000000,
+        "endAt": 1699855199000
+      }
+    ],
+    "virtualShopType": "birthday"
   },
   {
     "id": 75,
@@ -1738,6 +1789,23 @@
     "virtualShopType": "event"
   },
   {
+    "id": 78,
+    "name": "시즈쿠 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 171,
+        "virtualShopId": 78,
+        "virtualShopItemType": "coordinate",
+        "seq": 99928,
+        "resourceBoxId": 64,
+        "costPaidJewel": 1000,
+        "startAt": 1701669600000,
+        "endAt": 1701928799000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
     "id": 79,
     "name": "제43회 이벤트 판매",
     "virtualShopItems": [
@@ -1782,8 +1850,8 @@
         "seq": 99927,
         "resourceBoxId": 66,
         "costPaidJewel": 1000,
-        "startAt": 1671775200000,
-        "endAt": 1672034340000
+        "startAt": 1703311200000,
+        "endAt": 1703570340000
       },
       {
         "id": 176,
@@ -1793,8 +1861,8 @@
         "resourceBoxId": 67,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1671775200000,
-        "endAt": 1672034340000
+        "startAt": 1703311200000,
+        "endAt": 1703570340000
       },
       {
         "id": 177,
@@ -1803,11 +1871,45 @@
         "seq": 99925,
         "resourceBoxId": 144,
         "costPaidJewel": 1000,
-        "startAt": 1671775200000,
-        "endAt": 1672034340000
+        "startAt": 1703311200000,
+        "endAt": 1703570340000
       }
     ],
     "virtualShopType": "special_live"
+  },
+  {
+    "id": 83,
+    "name": "린 ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 178,
+        "virtualShopId": 83,
+        "virtualShopItemType": "coordinate",
+        "seq": 99924,
+        "resourceBoxId": 68,
+        "costPaidJewel": 1000,
+        "startAt": 1703484000000,
+        "endAt": 1703743199000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 84,
+    "name": "렌 ANNIVERSARY",
+    "virtualShopItems": [
+      {
+        "id": 179,
+        "virtualShopId": 84,
+        "virtualShopItemType": "coordinate",
+        "seq": 99923,
+        "resourceBoxId": 69,
+        "costPaidJewel": 1000,
+        "startAt": 1703484000000,
+        "endAt": 1703743199000
+      }
+    ],
+    "virtualShopType": "birthday"
   },
   {
     "id": 85,
@@ -2942,5 +3044,165 @@
       }
     ],
     "virtualShopType": "special_live"
+  },
+  {
+    "id": 149,
+    "name": "제75회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 295,
+        "virtualShopId": 149,
+        "virtualShopItemType": "coordinate",
+        "seq": 99859,
+        "resourceBoxId": 202,
+        "costPaidJewel": 1000,
+        "startAt": 1699250400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 152,
+    "name": "제76회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 298,
+        "virtualShopId": 152,
+        "virtualShopItemType": "penlight",
+        "seq": 199906,
+        "resourceBoxId": 205,
+        "costPaidJewel": 1000,
+        "startAt": 1699682400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 153,
+    "name": "제77회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 299,
+        "virtualShopId": 153,
+        "virtualShopItemType": "accessory",
+        "seq": 199911,
+        "resourceBoxId": 206,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1700460000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 154,
+    "name": "제78회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 300,
+        "virtualShopId": 154,
+        "virtualShopItemType": "penlight",
+        "seq": 199905,
+        "resourceBoxId": 207,
+        "costPaidJewel": 1000,
+        "startAt": 1701324000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 156,
+    "name": "제79회 이벤트 판매",
+    "virtualShopItems": [
+      {
+        "id": 302,
+        "virtualShopId": 156,
+        "virtualShopItemType": "penlight",
+        "seq": 199903,
+        "resourceBoxId": 209,
+        "costPaidJewel": 1000,
+        "startAt": 1702274400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 157,
+    "name": "第80回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 303,
+        "virtualShopId": 157,
+        "virtualShopItemType": "accessory",
+        "seq": 199910,
+        "resourceBoxId": 210,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703138400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 158,
+    "name": "クリスマス2022ライブ",
+    "virtualShopItems": [
+      {
+        "id": 304,
+        "virtualShopId": 158,
+        "virtualShopItemType": "coordinate",
+        "seq": 99858,
+        "resourceBoxId": 66,
+        "costPaidJewel": 1000,
+        "startAt": 1703224800000
+      },
+      {
+        "id": 305,
+        "virtualShopId": 158,
+        "virtualShopItemType": "accessory",
+        "seq": 199909,
+        "resourceBoxId": 67,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703224800000
+      },
+      {
+        "id": 306,
+        "virtualShopId": 158,
+        "virtualShopItemType": "penlight",
+        "seq": 199902,
+        "resourceBoxId": 144,
+        "costPaidJewel": 1000,
+        "startAt": 1703224800000
+      },
+      {
+        "id": 307,
+        "virtualShopId": 158,
+        "virtualShopItemType": "accessory",
+        "seq": 199908,
+        "resourceBoxId": 211,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703224800000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 163,
+    "name": "第81回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 314,
+        "virtualShopId": 163,
+        "virtualShopItemType": "accessory",
+        "seq": 199907,
+        "resourceBoxId": 217,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1704002400000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]

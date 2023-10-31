@@ -563,5 +563,683 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 10041,
+    "eventId": 75,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 7,
+    "sentence": "누적 7일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10042,
+    "eventId": 75,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10043,
+    "eventId": 75,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10044,
+    "eventId": 75,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10045,
+    "eventId": 75,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '절규?! 늑대의 숲에 어서 오세요!' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10046,
+    "eventId": 75,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '절규?! 늑대의 숲에 어서 오세요!' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10047,
+    "eventId": 75,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'커튼콜에 애틋한 이별을 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10048,
+    "eventId": 75,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 10049,
+    "eventId": 76,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 7,
+    "sentence": "누적 7일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10050,
+    "eventId": 76,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10051,
+    "eventId": 76,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10052,
+    "eventId": 76,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10053,
+    "eventId": 76,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 'Echo my melody' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10054,
+    "eventId": 76,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 'Echo my melody' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10055,
+    "eventId": 76,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'커튼콜에 애틋한 이별을 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10056,
+    "eventId": 76,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 10057,
+    "eventId": 77,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "누적 8일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10058,
+    "eventId": 77,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10059,
+    "eventId": 77,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10060,
+    "eventId": 77,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10061,
+    "eventId": 77,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '소망은, 언젠가 아침을 넘어' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10062,
+    "eventId": 77,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '소망은, 언젠가 아침을 넘어' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10063,
+    "eventId": 77,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'커튼콜에 애틋한 이별을 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10064,
+    "eventId": 77,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 10065,
+    "eventId": 78,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "누적 9일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10066,
+    "eventId": 78,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10067,
+    "eventId": 78,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10068,
+    "eventId": 78,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10069,
+    "eventId": 78,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '그 날의 꿈의, 저 너머로' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10070,
+    "eventId": 78,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '그 날의 꿈의, 저 너머로' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10071,
+    "eventId": 78,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'커튼콜에 애틋한 이별을 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10072,
+    "eventId": 78,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 10073,
+    "eventId": 79,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "누적 8일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10074,
+    "eventId": 79,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10075,
+    "eventId": 79,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10076,
+    "eventId": 79,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10077,
+    "eventId": 79,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 'Find A Way Out' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10078,
+    "eventId": 79,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 'Find A Way Out' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10079,
+    "eventId": 79,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'커튼콜에 애틋한 이별을 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10080,
+    "eventId": 79,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 10081,
+    "eventId": 80,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "누적 8일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10082,
+    "eventId": 80,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10083,
+    "eventId": 80,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10084,
+    "eventId": 80,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10085,
+    "eventId": 80,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '활시위를 당겨, 하얀 세계에서' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10086,
+    "eventId": 80,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '활시위를 당겨, 하얀 세계에서' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10087,
+    "eventId": 80,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'커튼콜에 애틋한 이별을 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 10088,
+    "eventId": 80,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]

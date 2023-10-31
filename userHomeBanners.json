@@ -38,52 +38,64 @@
     "endAt": 4093963199000
   },
   {
-    "homeBannerId": 168,
-    "seq": 10,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_autolive",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 227,
-    "startAt": 1666072800000,
-    "endAt": 1698213599000
-  },
-  {
-    "homeBannerId": 378,
+    "homeBannerId": 397,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha234",
+    "assetbundleName": "banner_gacha253",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 234,
-    "startAt": 1695610800000,
-    "endAt": 1696215599000
+    "transitionDestinationId": 253,
+    "startAt": 1698289200000,
+    "endAt": 1698893999000
   },
   {
-    "homeBannerId": 381,
-    "seq": 110,
+    "homeBannerId": 398,
+    "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_premiummissionpass_2022_10",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1693926000000,
-    "endAt": 1696085940000
+    "assetbundleName": "banner_gacha254",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 254,
+    "startAt": 1698634800000,
+    "endAt": 1699239599000
   },
   {
-    "homeBannerId": 385,
+    "homeBannerId": 400,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha256",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 256,
+    "startAt": 1698332400000,
+    "endAt": 1698937199000
+  },
+  {
+    "homeBannerId": 401,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha257",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 257,
+    "startAt": 1698332400000,
+    "endAt": 1698937199000
+  },
+  {
+    "homeBannerId": 406,
     "seq": 40,
     "homeBannerType": "general",
-    "assetbundleName": "event_faith_2022",
+    "assetbundleName": "event_curtaincall_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 69,
-    "startAt": 1695621600000,
-    "endAt": 1696161599000
+    "transitionDestinationId": 74,
+    "startAt": 1698645600000,
+    "endAt": 1699185599000
   },
   {
-    "homeBannerId": 411,
-    "seq": 60,
+    "homeBannerId": 409,
+    "seq": 50,
     "homeBannerType": "general",
-    "assetbundleName": "banner_midautumn_2023",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1695870000000,
-    "endAt": 1696690799000
+    "assetbundleName": "banner_virtuallive182",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 182,
+    "startAt": 1698559200000,
+    "endAt": 1698904740000
   },
   {
     "homeBannerId": 412,
@@ -93,5 +105,24 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1695603600000,
     "endAt": 4083890399000
+  },
+  {
+    "homeBannerId": 434,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_questionnaire_4",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20316208,
+    "startAt": 1698116400000,
+    "endAt": 1698764340000
+  },
+  {
+    "homeBannerId": 454,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_halloween_2023",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1698678000000,
+    "endAt": 1699628340000
   }
 ]
