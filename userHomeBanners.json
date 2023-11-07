@@ -38,16 +38,6 @@
     "endAt": 4093963199000
   },
   {
-    "homeBannerId": 398,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha254",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 254,
-    "startAt": 1698634800000,
-    "endAt": 1699239599000
-  },
-  {
     "homeBannerId": 412,
     "seq": 60,
     "homeBannerType": "general",
@@ -55,6 +45,16 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1695603600000,
     "endAt": 4083890399000
+  },
+  {
+    "homeBannerId": 416,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha258",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 258,
+    "startAt": 1699239600000,
+    "endAt": 1699844399000
   },
   {
     "homeBannerId": 417,
@@ -76,14 +76,14 @@
     "endAt": 1701356340000
   },
   {
-    "homeBannerId": 433,
-    "seq": 50,
+    "homeBannerId": 429,
+    "seq": 40,
     "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive105",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 105,
-    "startAt": 1698991200000,
-    "endAt": 1699250399000
+    "assetbundleName": "event_scream_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 75,
+    "startAt": 1699250400000,
+    "endAt": 1699790399000
   },
   {
     "homeBannerId": 454,
