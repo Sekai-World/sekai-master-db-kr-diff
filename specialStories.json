@@ -254,5 +254,27 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 24,
+    "assetbundleName": "collaboration-akuno-story",
+    "startAt": 1700449200000,
+    "endAt": 1701658799000,
+    "episodes": [
+      {
+        "id": 29,
+        "specialStoryId": 24,
+        "episodeNo": 1,
+        "title": "[재등장] 악의 대죄 시리즈 도입부 영상",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "assetbundleName": "story_collaboration_akuno",
+        "scenarioId": "collaboration_akuno_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]

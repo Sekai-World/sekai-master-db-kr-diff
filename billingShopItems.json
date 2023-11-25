@@ -2460,6 +2460,36 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 1309,
+    "seq": 400000,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": " 겨울 외투(남성용)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1309",
+    "resourceBoxId": 1314,
+    "startAt": 1701270000000,
+    "endAt": 1702220340000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 1310,
+    "seq": 400001,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": " 겨울 외투(여성용)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1310",
+    "resourceBoxId": 1315,
+    "startAt": 1701270000000,
+    "endAt": 1702220340000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 1311,
     "seq": 1314,
     "billingShopItemType": "jewel",
