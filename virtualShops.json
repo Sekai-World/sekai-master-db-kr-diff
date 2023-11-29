@@ -3189,6 +3189,25 @@
     "virtualShopType": "special_live"
   },
   {
+    "id": 162,
+    "name": "2023甘酒ショップ",
+    "virtualShopItems": [
+      {
+        "id": 313,
+        "virtualShopId": 162,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1704002400000,
+        "endAt": 1704866399000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 163,
     "name": "第81回イベント物販",
     "virtualShopItems": [
