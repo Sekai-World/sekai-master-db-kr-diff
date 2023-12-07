@@ -1840,44 +1840,6 @@
     "virtualShopType": "event"
   },
   {
-    "id": 82,
-    "name": "크리스마스 2022 라이브",
-    "virtualShopItems": [
-      {
-        "id": 175,
-        "virtualShopId": 82,
-        "virtualShopItemType": "coordinate",
-        "seq": 99927,
-        "resourceBoxId": 66,
-        "costPaidJewel": 1000,
-        "startAt": 1703311200000,
-        "endAt": 1703570340000
-      },
-      {
-        "id": 176,
-        "virtualShopId": 82,
-        "virtualShopItemType": "accessory",
-        "seq": 99926,
-        "resourceBoxId": 67,
-        "costVirtualCoin": 3000,
-        "costJewel": 1000,
-        "startAt": 1703311200000,
-        "endAt": 1703570340000
-      },
-      {
-        "id": 177,
-        "virtualShopId": 82,
-        "virtualShopItemType": "penlight",
-        "seq": 99925,
-        "resourceBoxId": 144,
-        "costPaidJewel": 1000,
-        "startAt": 1703311200000,
-        "endAt": 1703570340000
-      }
-    ],
-    "virtualShopType": "special_live"
-  },
-  {
     "id": 83,
     "name": "린 ANNIVERSARY",
     "virtualShopItems": [
@@ -3145,7 +3107,7 @@
   },
   {
     "id": 158,
-    "name": "クリスマス2022ライブ",
+    "name": "크리스마스 2023 라이브",
     "virtualShopItems": [
       {
         "id": 304,
@@ -3189,8 +3151,43 @@
     "virtualShopType": "special_live"
   },
   {
+    "id": 161,
+    "name": "카운트다운 라이브\/해피 뉴 이어 라이브",
+    "virtualShopItems": [
+      {
+        "id": 310,
+        "virtualShopId": 161,
+        "virtualShopItemType": "accessory",
+        "seq": 199906,
+        "resourceBoxId": 214,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1704002400000
+      },
+      {
+        "id": 311,
+        "virtualShopId": 161,
+        "virtualShopItemType": "penlight",
+        "seq": 199899,
+        "resourceBoxId": 215,
+        "costPaidJewel": 1000,
+        "startAt": 1704002400000
+      },
+      {
+        "id": 312,
+        "virtualShopId": 161,
+        "virtualShopItemType": "coordinate",
+        "seq": 99857,
+        "resourceBoxId": 216,
+        "costPaidJewel": 1000,
+        "startAt": 1704002400000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
     "id": 162,
-    "name": "2023甘酒ショップ",
+    "name": "2023감주 상점",
     "virtualShopItems": [
       {
         "id": 313,
