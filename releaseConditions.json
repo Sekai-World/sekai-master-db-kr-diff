@@ -21726,6 +21726,20 @@
     "releaseConditionTypeQuantity": 150000
   },
   {
+    "id": 500001,
+    "sentence": "GOOD 이하 판정 7회 이내로 EXPERT 클리어",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 10004,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 500002,
+    "sentence": "GOOD 이하 판정 7회 이내로 EXPERT 클리어",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 10009,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
     "id": 800001,
     "sentence": "버추얼 라이브 참가",
     "releaseConditionType": "virtual_live_participation",

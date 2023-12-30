@@ -3172,13 +3172,33 @@
         "resourceBoxId": 215,
         "costPaidJewel": 1000,
         "startAt": 1704002400000
+      },
+      {
+        "id": 10003,
+        "virtualShopId": 161,
+        "virtualShopItemType": "coordinate",
+        "seq": 99903,
+        "resourceBoxId": 10003,
+        "costPaidJewel": 1000,
+        "startAt": 1704002400000,
+        "endAt": 1704866400000
+      },
+      {
+        "id": 10004,
+        "virtualShopId": 161,
+        "virtualShopItemType": "coordinate",
+        "seq": 99904,
+        "resourceBoxId": 10004,
+        "costPaidJewel": 1000,
+        "startAt": 1704002400000,
+        "endAt": 1704866400000
       }
     ],
     "virtualShopType": "special_live"
   },
   {
     "id": 162,
-    "name": "감주 상점",
+    "name": "2023감주 상점",
     "virtualShopItems": [
       {
         "id": 313,
@@ -3208,6 +3228,121 @@
         "costVirtualCoin": 3000,
         "costJewel": 1000,
         "startAt": 1704002400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 165,
+    "name": "第82回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 316,
+        "virtualShopId": 165,
+        "virtualShopItemType": "accessory",
+        "seq": 99910,
+        "resourceBoxId": 219,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1704866400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 166,
+    "name": "第83回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 317,
+        "virtualShopId": 166,
+        "virtualShopItemType": "coordinate",
+        "seq": 99856,
+        "resourceBoxId": 220,
+        "costPaidJewel": 1000,
+        "startAt": 1705816800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 169,
+    "name": "第84回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 320,
+        "virtualShopId": 169,
+        "virtualShopItemType": "accessory",
+        "seq": 99909,
+        "resourceBoxId": 223,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1706680800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 171,
+    "name": "第85回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 322,
+        "virtualShopId": 171,
+        "virtualShopItemType": "coordinate",
+        "seq": 99855,
+        "resourceBoxId": 225,
+        "costPaidJewel": 1000,
+        "startAt": 1707544800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 174,
+    "name": "第86回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 327,
+        "virtualShopId": 174,
+        "virtualShopItemType": "accessory",
+        "seq": 99908,
+        "resourceBoxId": 228,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1708322400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 176,
+    "name": "第87回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 329,
+        "virtualShopId": 176,
+        "virtualShopItemType": "penlight",
+        "seq": 199891,
+        "resourceBoxId": 230,
+        "costPaidJewel": 1000,
+        "startAt": 1709100000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 178,
+    "name": "第88回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 331,
+        "virtualShopId": 178,
+        "virtualShopItemType": "coordinate",
+        "seq": 99853,
+        "resourceBoxId": 232,
+        "costPaidJewel": 1000,
+        "startAt": 1710136800000
       }
     ],
     "virtualShopType": "event"

@@ -2730,7 +2730,7 @@
   },
   {
     "id": 1329,
-    "seq": 1329,
+    "seq": 1331,
     "billingShopItemType": "jewel",
     "billingProductGroupId": 1329,
     "name": "[2024 새해 세일] 크리스탈 E",
@@ -2760,7 +2760,7 @@
   },
   {
     "id": 1331,
-    "seq": 1331,
+    "seq": 1329,
     "billingShopItemType": "jewel",
     "billingProductGroupId": 1331,
     "name": "[2024 새해 세일] 크리스탈 G",
@@ -3173,7 +3173,7 @@
     "seq": 300080,
     "billingShopItemType": "costume_3d",
     "saleType": "bundle",
-    "name": "하프 애니버서리' 의상",
+    "name": "'하프 애니버서리' 의상",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
@@ -3194,6 +3194,71 @@
     "assetbundleName": "shop_300210",
     "resourceBoxId": 138,
     "startAt": 1698678000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300260,
+    "seq": 300260,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "'우주' 의상 모든 컬러",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 169,
+    "startAt": 1704034800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300261,
+    "seq": 300261,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "'우주' 의상  오리지널 컬러",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 170,
+    "startAt": 1704034800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300262,
+    "seq": 300262,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "'우주' 의상  어나더 컬러 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 171,
+    "startAt": 1704034800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300263,
+    "seq": 300263,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "'우주' 의상  어나더 컬러 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 172,
+    "startAt": 1704034800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300264,
+    "seq": 300264,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "'우주' 의상  어나더 컬러 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 173,
+    "startAt": 1704034800000,
     "purchaseOption": "exchange"
   }
 ]

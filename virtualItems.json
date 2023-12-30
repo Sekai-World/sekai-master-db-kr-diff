@@ -1529,5 +1529,31 @@
     "cheerPoint": 1500,
     "effectAssetbundleName": "event_new_year_2022_02",
     "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 116,
+    "virtualItemCategory": "normal",
+    "seq": 1160,
+    "priority": 1160,
+    "name": "HAPPY NEW YEAR 2024",
+    "assetbundleName": "event_new_year_2024_01",
+    "costVirtualCoin": 300,
+    "costJewel": 100,
+    "cheerPoint": 300,
+    "effectAssetbundleName": "event_new_year_2024_01",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 1004,
+    "virtualItemCategory": "normal",
+    "seq": 2050,
+    "priority": 2050,
+    "name": "2024 '용' 띠",
+    "assetbundleName": "event_new_year_2024_02",
+    "costVirtualCoin": 450,
+    "costJewel": 150,
+    "cheerPoint": 450,
+    "effectAssetbundleName": "event_new_year_2024_02",
+    "effectExpressionType": "throw_effect"
   }
 ]
