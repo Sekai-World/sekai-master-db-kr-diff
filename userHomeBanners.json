@@ -47,26 +47,6 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 443,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha279",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 279,
-    "startAt": 1704078000000,
-    "endAt": 1706669999000
-  },
-  {
-    "homeBannerId": 464,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha285",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 285,
-    "startAt": 1705806000000,
-    "endAt": 1706669999000
-  },
-  {
     "homeBannerId": 465,
     "seq": 30,
     "homeBannerType": "general",
@@ -97,14 +77,24 @@
     "endAt": 1707145199000
   },
   {
-    "homeBannerId": 476,
-    "seq": 50,
+    "homeBannerId": 470,
+    "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive128",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 128,
-    "startAt": 1706421600000,
-    "endAt": 1706680799000
+    "assetbundleName": "banner_gacha291",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 291,
+    "startAt": 1706670000000,
+    "endAt": 1707533999000
+  },
+  {
+    "homeBannerId": 473,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_candle_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 84,
+    "startAt": 1706680800000,
+    "endAt": 1707393599000
   },
   {
     "homeBannerId": 495,
@@ -117,13 +107,13 @@
     "endAt": 1713063600000
   },
   {
-    "homeBannerId": 497,
-    "seq": 110,
+    "homeBannerId": 498,
+    "seq": 25,
     "homeBannerType": "general",
-    "assetbundleName": "banner_premiummissionpass_2024_01",
+    "assetbundleName": "banner_premiummissionpass_2024_02",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1704466800000,
-    "endAt": 1706713140000
+    "startAt": 1706713200000,
+    "endAt": 1709218799000
   },
   {
     "homeBannerId": 10101,
