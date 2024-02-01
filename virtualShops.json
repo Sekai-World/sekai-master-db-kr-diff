@@ -3201,15 +3201,15 @@
     "name": "2023감주 상점",
     "virtualShopItems": [
       {
-        "id": 313,
+        "id": 10005,
         "virtualShopId": 162,
         "virtualShopItemType": "boost_item",
         "seq": 299999,
         "resourceBoxId": 147,
         "costVirtualCoin": 0,
         "costJewel": 0,
-        "startAt": 1704002400000,
-        "endAt": 1704866399000,
+        "startAt": 1707371999000,
+        "endAt": 1708322399000,
         "limitValue": 1
       }
     ],
@@ -3299,6 +3299,40 @@
     "virtualShopType": "event"
   },
   {
+    "id": 172,
+    "name": "バレンタイン2023ライブ",
+    "virtualShopItems": [
+      {
+        "id": 323,
+        "virtualShopId": 172,
+        "virtualShopItemType": "penlight",
+        "seq": 199893,
+        "resourceBoxId": 226,
+        "costPaidJewel": 1000,
+        "startAt": 1707717600000
+      },
+      {
+        "id": 324,
+        "virtualShopId": 172,
+        "virtualShopItemType": "penlight",
+        "seq": 199894,
+        "resourceBoxId": 157,
+        "costPaidJewel": 1000,
+        "startAt": 1707717600000
+      },
+      {
+        "id": 325,
+        "virtualShopId": 172,
+        "virtualShopItemType": "coordinate",
+        "seq": 99854,
+        "resourceBoxId": 81,
+        "costPaidJewel": 1000,
+        "startAt": 1707717600000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
     "id": 174,
     "name": "第86回イベント物販",
     "virtualShopItems": [
@@ -3343,6 +3377,49 @@
         "resourceBoxId": 232,
         "costPaidJewel": 1000,
         "startAt": 1710136800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 1001,
+    "name": "春节2024",
+    "virtualShopItems": [
+      {
+        "id": 10006,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000009,
+        "resourceBoxId": 10005,
+        "costPaidJewel": 1000,
+        "startAt": 1707458400000
+      },
+      {
+        "id": 10007,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000010,
+        "resourceBoxId": 10003,
+        "costPaidJewel": 1000,
+        "startAt": 1707458400000
+      },
+      {
+        "id": 10008,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000011,
+        "resourceBoxId": 10006,
+        "costPaidJewel": 1000,
+        "startAt": 1707458400000
+      },
+      {
+        "id": 10009,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000012,
+        "resourceBoxId": 216,
+        "costPaidJewel": 1000,
+        "startAt": 1707458400000
       }
     ],
     "virtualShopType": "event"
