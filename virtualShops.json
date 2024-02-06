@@ -3198,7 +3198,7 @@
   },
   {
     "id": 162,
-    "name": "2023감주 상점",
+    "name": "2024감주 상점",
     "virtualShopItems": [
       {
         "id": 10005,
@@ -3419,6 +3419,25 @@
         "seq": 1000012,
         "resourceBoxId": 216,
         "costPaidJewel": 1000,
+        "startAt": 1707458400000
+      },
+      {
+        "id": 10010,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "penlight",
+        "seq": 1000013,
+        "resourceBoxId": 10007,
+        "costPaidJewel": 1000,
+        "startAt": 1707458400000
+      },
+      {
+        "id": 10011,
+        "virtualShopId": 1001,
+        "virtualShopItemType": "accessory",
+        "seq": 1000014,
+        "resourceBoxId": 10008,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
         "startAt": 1707458400000
       }
     ],
