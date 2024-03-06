@@ -3382,6 +3382,107 @@
     "virtualShopType": "event"
   },
   {
+    "id": 179,
+    "name": "ホワイトデー2023ライブ",
+    "virtualShopItems": [
+      {
+        "id": 332,
+        "virtualShopId": 179,
+        "virtualShopItemType": "penlight",
+        "seq": 199889,
+        "resourceBoxId": 233,
+        "costPaidJewel": 1000,
+        "startAt": 1710223200000
+      },
+      {
+        "id": 333,
+        "virtualShopId": 179,
+        "virtualShopItemType": "accessory",
+        "seq": 99907,
+        "resourceBoxId": 161,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1710223200000
+      },
+      {
+        "id": 334,
+        "virtualShopId": 179,
+        "virtualShopItemType": "coordinate",
+        "seq": 99852,
+        "resourceBoxId": 86,
+        "costPaidJewel": 1000,
+        "startAt": 1710223200000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 183,
+    "name": "第89回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 341,
+        "virtualShopId": 183,
+        "virtualShopItemType": "accessory",
+        "seq": 99906,
+        "resourceBoxId": 240,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1711000800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 184,
+    "name": "第90回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 342,
+        "virtualShopId": 184,
+        "virtualShopItemType": "penlight",
+        "seq": 199887,
+        "resourceBoxId": 241,
+        "costPaidJewel": 1000,
+        "startAt": 1711778400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 185,
+    "name": "第91回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 343,
+        "virtualShopId": 185,
+        "virtualShopItemType": "coordinate",
+        "seq": 99851,
+        "resourceBoxId": 242,
+        "costPaidJewel": 1000,
+        "startAt": 1712815200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 187,
+    "name": "第92回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 345,
+        "virtualShopId": 187,
+        "virtualShopItemType": "accessory",
+        "seq": 99905,
+        "resourceBoxId": 244,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1713679200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
     "id": 1001,
     "name": "春节2024",
     "virtualShopItems": [

@@ -791,6 +791,684 @@
     ]
   },
   {
+    "id": 57,
+    "eventId": 88,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "누적 9일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "eventId": 88,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "eventId": 88,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "eventId": 88,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "eventId": 88,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '하늘 끝의 피닉스에게' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "eventId": 88,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '하늘 끝의 피닉스에게' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "eventId": 88,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'하늘 끝의 피닉스에게 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "eventId": 88,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "eventId": 89,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "누적 8일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "eventId": 89,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "eventId": 89,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "eventId": 89,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "eventId": 89,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '이미서블 디스코드' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "eventId": 89,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '이미서블 디스코드' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "eventId": 89,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'이미서블 디스코드 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "eventId": 89,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "eventId": 90,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 11,
+    "sentence": "누적 11일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "eventId": 90,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "eventId": 90,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "eventId": 90,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "eventId": 90,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '교향하는 거리의 한편에서' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "eventId": 90,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '교향하는 거리의 한편에서' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "eventId": 90,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'교향하는 거리의 한편에서 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "eventId": 90,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "eventId": 91,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "누적 9일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "eventId": 91,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "eventId": 91,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "eventId": 91,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "eventId": 91,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 'Get over it.' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "eventId": 91,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 'Get over it.' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "eventId": 91,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'Get over it. 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "eventId": 91,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "eventId": 92,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "누적 8일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "eventId": 92,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "eventId": 92,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "eventId": 92,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "eventId": 92,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 'Re-tie Friendship' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "eventId": 92,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 'Re-tie Friendship' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "eventId": 92,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'Re-tie Friendship 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "eventId": 92,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "eventId": 93,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "누적 10일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "eventId": 93,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "eventId": 93,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "eventId": 93,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "eventId": 93,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '우리들의 생존 도주' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "eventId": 93,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '우리들의 생존 도주' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "eventId": 93,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'우리들의 생존 도주 애프터 라이브'에 참가하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "eventId": 93,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
     "id": 10001,
     "eventId": 70,
     "seq": 1,
