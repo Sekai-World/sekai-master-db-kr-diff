@@ -67,6 +67,16 @@
     "endAt": 1710989999000
   },
   {
+    "homeBannerId": 510,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha305",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 305,
+    "startAt": 1710298800000,
+    "endAt": 1711076399000
+  },
+  {
     "homeBannerId": 517,
     "seq": 40,
     "homeBannerType": "general",
@@ -85,6 +95,15 @@
     "transitionDestinationId": 217,
     "startAt": 1710223200000,
     "endAt": 1710568799000
+  },
+  {
+    "homeBannerId": 536,
+    "seq": 5,
+    "homeBannerType": "general",
+    "assetbundleName": "costume3d_2024_03_01",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1710298800000,
+    "endAt": 1711205999000
   },
   {
     "homeBannerId": 537,
