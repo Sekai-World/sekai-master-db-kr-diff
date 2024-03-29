@@ -756,6 +756,10 @@
     "value": "GameCenter에 연결 중인 플레이어 데이터가 있습니다.\n 연결을 해제하고 현재 플레이어 데이터에 연결하시겠습니까?"
   },
   {
+    "wordingKey": "MSG_CONFIRM_PLAY_LOGIN_STORY_DIALOG",
+    "value": "로그인 스토리를 재생합니다.\n괜찮습니까?"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
     "value": "이 책갈피를 제거하시겠습니까?"
   },
@@ -1120,8 +1124,16 @@
     "value": "EXP {0}배"
   },
   {
+    "wordingKey": "MSG_EX_CHARACTER_MISSION_INFORMATION_DIALOG",
+    "value": "■EX 미션이란\n- '리더 플레이' 미션, '대기실 이동하기' 미션이 최대치에 달했을 때, 추가로 도전할 수 있는 특별한 미션입니다.\n\n\n■EX 미션 달성에 필요한 조건에 관하여\n- EX 미션 달성에 필요한 조건(횟수)은 일반 미션 달성에 필요한 조건(횟수)과 다릅니다.\n\n['리더 플레이' 미션의 달성 조건]\n'{대상 캐릭터}'(을)를 리더로 편성하여 라이브 10,000회 플레이하기\n\n['대기실 이동하기' 미션]\n'{대상 캐릭터}'(을)를 대기실로 500회 이동시키기\n\n\n■EX 미션 달성 시 획득할 수 있는 보상에 관하여\n- EX 미션에서는 달성 횟수에 따라 획득할 수 있는 보상이 달라집니다.\n\n['리더 플레이' 미션]\nEX 미션 30회째까지\n- 1회 달성할 때마다 '캐릭터 EXP +1'을 획득할 수 있습니다.\n\nEX 미션 31회째까지\n- 1회 달성할 때마다 '마음의 조각×10'을 획득할 수 있습니다.\n\n['대기실 이동하기' 미션]\nEX 미션 20회째까지\n- 1회 달성할 때마다 '캐릭터 EXP +1'을 획득할 수 있습니다.\n\nEX 미션 21회째 이후\n- 1회 달성할 때마다 '마음의 조각×10'을 획득할 수 있습니다.\n\n\n■주의 사항\n- 일반 미션이 최대치에 도달한 경우, EX 미션으로 자동 전환됩니다.\n- EX 미션 도전 중에 일반 미션의 최대치가 추가된 경우, 추가된 자동 미션으로 자동 전환됩니다. 이때 진행 중이던 EX 미션 진척도는 저장되며, 다시 일반 미션 최대치에 도달했을 때 저장된 진척도부터 이어서 EX 미션에 재도전할 수 있습니다.\n- EX 미션이 추가되기 전에 최대치를 넘어 축적된 횟수는 EX 미션에 자동으로 반영됩니다. 이 점 양해 부탁드립니다."
+  },
+  {
     "wordingKey": "MSG_EX_GAGE_MAX",
     "value": "엑스트라 게이지가 가득 찼습니다."
+  },
+  {
+    "wordingKey": "MSG_EX_MISSION_LOOPS_INFORMATION",
+    "value": "EX 미션 {0}회째"
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
@@ -2680,6 +2692,10 @@
     "value": "교환소 이용 기한이 지났습니다."
   },
   {
+    "wordingKey": "MSG_TITLE_PLAY_LOGIN_STORY_DIALOG",
+    "value": "알림"
+  },
+  {
     "wordingKey": "MSG_TOP_RANKING",
     "value": "TOP 100"
   },
@@ -2877,11 +2893,11 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
-    "value": "·'<color=#00CCBB>[{0}] {1}<\/color>' 획득 시\n<color=#00CCBB>{1}<\/color>에게 '<color=#00CCBB>{2}<\/color>'(을)를 착용시킬 수 있습니다.\n\n·다른 캐릭터도 착용 가능한 라이브 의상이 '의상 상점'에 추가됩니다.\n'의상 상점'에서 착용 캐릭터를 지정하여 의상을 제작하면 해당 캐릭터에게 착용시킬 수 있습니다."
+    "value": "·'<color=#00CCBB>[{0}] {1}<\/color>' 획득 시\n<color=#00CCBB>{1}<\/color>에게 '<color=#00CCBB>{2}<\/color>'(을)를 착용시킬 수 있습니다."
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-    "value": "·'<color=#00CCBB>[{0}] {1}<\/color>' 획득 시\n의상 상점에 '<color=#00CCBB>{2}<\/color>'(이)가 추가됩니다.\n\n의상 상점에서 '<color=#00CCBB>{2}<\/color>'(을)를 착용 가능한 캐릭터를 지정하여 의상을 제작하면 "
+    "value": "·'<color=#00CCBB>[{0}] {1}<\/color>' 획득 시\n의상 상점에 '<color=#00CCBB>{2}<\/color>'(이)가 추가됩니다.\n\n·의상 상점에서 '<color=#00CCBB>{2}<\/color>'(을)를 착용 가능한 캐릭터를 지정하여 의상을 제작하면 "
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -2894,6 +2910,10 @@
   {
     "wordingKey": "MSG_WEAR_COSTUME_RESULT",
     "value": "라이브 의상을 변경했습니다."
+  },
+  {
+    "wordingKey": "MSG_WEB_LINK_BANNER_CONFIRM_DIALOG_BODY",
+    "value": "외부 사이트로 이동합니다. 괜찮습니까?"
   },
   {
     "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
@@ -3546,6 +3566,10 @@
   {
     "wordingKey": "WORD_BACK",
     "value": "뒤로"
+  },
+  {
+    "wordingKey": "WORD_BANNER_URL_DIALOG_TITLE",
+    "value": "확인"
   },
   {
     "wordingKey": "WORD_BATTERY_ALERT",
@@ -9348,6 +9372,10 @@
     "value": "EXP"
   },
   {
+    "wordingKey": "WORD_EX_CHARACTER_MISSION_INFORMATION_DIALOG_TITLE",
+    "value": "EX 미션에 관해"
+  },
+  {
     "wordingKey": "WORD_FARMAT_MACHING",
     "value": "{0} 매치"
   },
@@ -9412,8 +9440,12 @@
     "value": "첫 참가 보상"
   },
   {
+    "wordingKey": "WORD_FIXED_BONUS_PROVISION_RATIO",
+    "value": "★4 확정 제공 확률"
+  },
+  {
     "wordingKey": "WORD_FIXED_PROVISION_RATIO",
-    "value": "확정 뽑기 제공 확률"
+    "value": "확정 뽑기 확률"
   },
   {
     "wordingKey": "WORD_FONT_COLOR_SELECT",
@@ -9484,6 +9516,10 @@
     "value": "코드 확인"
   },
   {
+    "wordingKey": "WORD_FRIEND_INVITE_FIRST_ANNOTATION",
+    "value": "※본 캠페인에서 '클리어 보너스 1명째' 초회 한정 보상을 받으면 이후 캠페인에서 획득 가능한 '클리어 보너스 1명째' 보상은 초회 보상과 달라집니다."
+  },
+  {
     "wordingKey": "WORD_FRIEND_INVITE_INFORMATION_TITLE",
     "value": "세카이에 초대할게 대작전!!"
   },
@@ -9502,6 +9538,10 @@
   {
     "wordingKey": "WORD_FRIEND_INVITE_REGISTER_FAILURE",
     "value": "입력 실패"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_SECOND_ANNOTATION",
+    "value": "※본 캠페인에서 '클리어 보너스 1명째' 초회 한정 보상을 받았으므로 본 캠페인에서 획득 가능한 보상은 초회 보상과 달라집니다."
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_SEND",
@@ -10976,6 +11016,10 @@
     "value": "기능 점검"
   },
   {
+    "wordingKey": "WORD_MOVE",
+    "value": "이동"
+  },
+  {
     "wordingKey": "WORD_MOVIE_SKIP_TITLE",
     "value": "영상 스킵"
   },
@@ -11849,7 +11893,7 @@
   },
   {
     "wordingKey": "WORD_OMIKUJI_DETAIL",
-    "value": "신년 운세 뽑기 상세 보기"
+    "value": "운세 뽑기 상세 보기"
   },
   {
     "wordingKey": "WORD_OMIKUJI_LIST",
@@ -11985,7 +12029,7 @@
   },
   {
     "wordingKey": "WORD_PAIDVIRTUALLIVE_TICKETS_DETAIL",
-    "value": "※구매 후 Vivid BAD SQUAD 1st CRASH의 공연 영상을 잠금 해제하세요\n"
+    "value": "※구매 후 Vivid BAD SQUAD 1st CRASH의 공연 영상을 잠금 해제하세요"
   },
   {
     "wordingKey": "WORD_PAIDVIRTUALLIVE_WEB",

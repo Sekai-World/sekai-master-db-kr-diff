@@ -256,6 +256,48 @@
     ]
   },
   {
+    "id": 22,
+    "assetbundleName": "aprilfool-story-2023",
+    "startAt": 1711897200000,
+    "endAt": 1711983599000,
+    "episodes": [
+      {
+        "id": 27,
+        "specialStoryId": 22,
+        "episodeNo": 1,
+        "title": "만우절 2024 도입부 영상",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2023",
+        "scenarioId": "aprilfool_2023_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "assetbundleName": "aprilfool-story-2023",
+    "startAt": 1711983600000,
+    "endAt": 1712069999000,
+    "episodes": [
+      {
+        "id": 28,
+        "specialStoryId": 23,
+        "episodeNo": 1,
+        "title": "만우절 2024 후일담 영상",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2023",
+        "scenarioId": "aprilfool_2023_02",
+        "releaseConditionId": 1000131,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
     "id": 24,
     "assetbundleName": "collaboration-akuno-story",
     "startAt": 1700449200000,

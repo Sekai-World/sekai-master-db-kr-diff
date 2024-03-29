@@ -4039,7 +4039,7 @@
     "id": 147,
     "musicId": 99,
     "musicVocalType": "sekai",
-    "seq": 1,
+    "seq": 201,
     "releaseConditionId": 5,
     "caption": "세카이 ver.",
     "characters": [
@@ -19740,6 +19740,27 @@
     "archivePublishedAt": 1684994400000
   },
   {
+    "id": 711,
+    "musicId": 243,
+    "musicVocalType": "another_vocal",
+    "seq": 4,
+    "releaseConditionId": 9,
+    "caption": "어나더 보컬 ver.",
+    "characters": [
+      {
+        "id": 1332,
+        "musicId": 243,
+        "musicVocalId": 711,
+        "characterType": "game_character",
+        "characterId": 4,
+        "seq": 2435
+      }
+    ],
+    "assetbundleName": "an_0243_02",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1695967200000
+  },
+  {
     "id": 712,
     "musicId": 285,
     "musicVocalType": "original_song",
@@ -22155,27 +22176,6 @@
     "archivePublishedAt": 1707458400000
   },
   {
-    "id": 825,
-    "musicId": 336,
-    "musicVocalType": "sekai",
-    "seq": 2,
-    "releaseConditionId": 5,
-    "caption": "세카이 ver.",
-    "characters": [
-      {
-        "id": 1565,
-        "musicId": 336,
-        "musicVocalId": 825,
-        "characterType": "outside_character",
-        "characterId": 14,
-        "seq": 3360
-      }
-    ],
-    "assetbundleName": "se_0336_01",
-    "archiveDisplayType": "normal",
-    "archivePublishedAt": 1711897200000
-  },
-  {
     "id": 826,
     "musicId": 337,
     "musicVocalType": "virtual_singer",
@@ -22427,6 +22427,22 @@
         "characterType": "game_character",
         "characterId": 25,
         "seq": 3490
+      },
+      {
+        "id": 1905,
+        "musicId": 349,
+        "musicVocalId": 853,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 3491
+      },
+      {
+        "id": 1906,
+        "musicId": 349,
+        "musicVocalId": 853,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 3492
       }
     ],
     "assetbundleName": "vs_0349_01",
@@ -22889,6 +22905,27 @@
     "assetbundleName": "an_0248_04",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1690783200000
+  },
+  {
+    "id": 888,
+    "musicId": 363,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 1694,
+        "musicId": 363,
+        "musicVocalId": 888,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 3630
+      }
+    ],
+    "assetbundleName": "vs_0363_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4101429600000
   },
   {
     "id": 904,
