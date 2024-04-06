@@ -57,22 +57,71 @@
     "endAt": 1713063600000
   },
   {
-    "homeBannerId": 513,
+    "homeBannerId": 515,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha309",
+    "assetbundleName": "banner_gacha311",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 309,
-    "startAt": 1710990000000,
-    "endAt": 1711767599000
+    "transitionDestinationId": 311,
+    "startAt": 1711767600000,
+    "endAt": 1712804399000
   },
   {
-    "homeBannerId": 537,
+    "homeBannerId": 516,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha314",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 314,
+    "startAt": 1711767600000,
+    "endAt": 1712804399000
+  },
+  {
+    "homeBannerId": 519,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "event_citycorner_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 90,
+    "startAt": 1711778400000,
+    "endAt": 1712663999000
+  },
+  {
+    "homeBannerId": 523,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha316",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 316,
+    "startAt": 1712199600000,
+    "endAt": 1712804399000
+  },
+  {
+    "homeBannerId": 538,
     "seq": 25,
     "homeBannerType": "general",
-    "assetbundleName": "banner_premiummissionpass_2024_03",
+    "assetbundleName": "banner_premiummissionpass_2024_04",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1709218800000,
-    "endAt": 1711897199000
+    "startAt": 1711897200000,
+    "endAt": 1714489199000
+  },
+  {
+    "homeBannerId": 539,
+    "seq": 40,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha312",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 312,
+    "startAt": 1711767600000,
+    "endAt": 1714445999000
+  },
+  {
+    "homeBannerId": 540,
+    "seq": 5,
+    "homeBannerType": "general",
+    "assetbundleName": "valueset_2024_04_02",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1711767600000,
+    "endAt": 1714489140000
   }
 ]
