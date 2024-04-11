@@ -930,6 +930,68 @@
     ]
   },
   {
+    "id": 66,
+    "startAt": 1714359600000,
+    "endAt": 1715799599000,
+    "assetbundleName": "gw_2023",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 150,
+        "limitedLoginBonusId": 66,
+        "day": 1,
+        "resourceBoxId": 85
+      },
+      {
+        "id": 151,
+        "limitedLoginBonusId": 66,
+        "day": 2,
+        "resourceBoxId": 86
+      },
+      {
+        "id": 152,
+        "limitedLoginBonusId": 66,
+        "day": 3,
+        "resourceBoxId": 87
+      },
+      {
+        "id": 153,
+        "limitedLoginBonusId": 66,
+        "day": 4,
+        "resourceBoxId": 88
+      },
+      {
+        "id": 154,
+        "limitedLoginBonusId": 66,
+        "day": 5,
+        "resourceBoxId": 89
+      },
+      {
+        "id": 155,
+        "limitedLoginBonusId": 66,
+        "day": 6,
+        "resourceBoxId": 90
+      },
+      {
+        "id": 156,
+        "limitedLoginBonusId": 66,
+        "day": 7,
+        "resourceBoxId": 91
+      },
+      {
+        "id": 157,
+        "limitedLoginBonusId": 66,
+        "day": 8,
+        "resourceBoxId": 92
+      },
+      {
+        "id": 158,
+        "limitedLoginBonusId": 66,
+        "day": 9,
+        "resourceBoxId": 93
+      }
+    ]
+  },
+  {
     "id": 67,
     "startAt": 1700449200000,
     "endAt": 1701658799000,
@@ -1784,6 +1846,34 @@
         "limitedLoginBonusId": 1048,
         "day": 7,
         "resourceBoxId": 1068
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "startAt": 1712934000000,
+    "endAt": 1713020340000,
+    "assetbundleName": "wcs_2024",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1128,
+        "limitedLoginBonusId": 1049,
+        "day": 1,
+        "resourceBoxId": 1069
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "startAt": 1714834800000,
+    "endAt": 1714921140000,
+    "assetbundleName": "funday_2024",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1129,
+        "limitedLoginBonusId": 1050,
+        "day": 1,
+        "resourceBoxId": 1070
       }
     ]
   }
