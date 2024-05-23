@@ -47,34 +47,34 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 543,
+    "homeBannerId": 544,
     "seq": 40,
     "homeBannerType": "general",
-    "assetbundleName": "event_trip_2023",
+    "assetbundleName": "event_quagmire_2023",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 94,
-    "startAt": 1715407200000,
-    "endAt": 1716033599000
+    "transitionDestinationId": 95,
+    "startAt": 1716184800000,
+    "endAt": 1716983999000
   },
   {
-    "homeBannerId": 547,
+    "homeBannerId": 549,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha328",
+    "assetbundleName": "banner_gacha331",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 328,
-    "startAt": 1715180400000,
-    "endAt": 1715785199000
+    "transitionDestinationId": 331,
+    "startAt": 1715655600000,
+    "endAt": 1716519599000
   },
   {
-    "homeBannerId": 548,
+    "homeBannerId": 550,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha330",
+    "assetbundleName": "banner_gacha332",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 330,
-    "startAt": 1715396400000,
-    "endAt": 1716173999000
+    "transitionDestinationId": 332,
+    "startAt": 1715871600000,
+    "endAt": 1716476399000
   },
   {
     "homeBannerId": 557,
@@ -86,13 +86,21 @@
     "endAt": 1717167599000
   },
   {
-    "homeBannerId": 10101,
-    "seq": 5000,
-    "homeBannerType": "return",
-    "assetbundleName": "banner_gacha2001",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1100,
-    "startAt": 1713812400000,
-    "endAt": 1716404399000
+    "homeBannerId": 570,
+    "seq": 2,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_valueset_2024_05_01",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1716130800000,
+    "endAt": 1717253999000
+  },
+  {
+    "homeBannerId": 571,
+    "seq": 1,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_cp_invite_friends",
+    "transitionDestinationType": "friend_invitation_campaign",
+    "startAt": 1716174000000,
+    "endAt": 1718290799000
   }
 ]
