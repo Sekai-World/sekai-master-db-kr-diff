@@ -47,50 +47,42 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 551,
-    "seq": 30,
+    "homeBannerId": 558,
+    "seq": 40,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha334",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 334,
-    "startAt": 1716606000000,
-    "endAt": 1717124399000
+    "assetbundleName": "event_fire_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 97,
+    "startAt": 1717999200000,
+    "endAt": 1718711999000
   },
   {
-    "homeBannerId": 552,
+    "homeBannerId": 563,
     "seq": 30,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha335",
+    "assetbundleName": "banner_gacha340",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 335,
-    "startAt": 1716562800000,
-    "endAt": 1717167599000
+    "transitionDestinationId": 340,
+    "startAt": 1717988400000,
+    "endAt": 1718852399000
   },
   {
-    "homeBannerId": 557,
+    "homeBannerId": 564,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha341",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 341,
+    "startAt": 1718334000000,
+    "endAt": 1719197999000
+  },
+  {
+    "homeBannerId": 569,
     "seq": 25,
     "homeBannerType": "general",
-    "assetbundleName": "banner_premiummissionpass_2024_05",
+    "assetbundleName": "banner_premiummissionpass_2024_06",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1714489200000,
-    "endAt": 1717167599000
-  },
-  {
-    "homeBannerId": 570,
-    "seq": 2,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_valueset_2024_05_01",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1716130800000,
-    "endAt": 1717253999000
-  },
-  {
-    "homeBannerId": 571,
-    "seq": 1,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_cp_invite_friends",
-    "transitionDestinationType": "friend_invitation_campaign",
-    "startAt": 1716174000000,
-    "endAt": 1718290799000
+    "startAt": 1717167600000,
+    "endAt": 1719759599000
   }
 ]

@@ -5458,5 +5458,33 @@
     "requirement": 140,
     "exp": 1,
     "quantity": 0
+  },
+  {
+    "id": 101,
+    "seq": 1,
+    "requirement": 10000,
+    "exp": 1,
+    "quantity": 0
+  },
+  {
+    "id": 101,
+    "seq": 31,
+    "requirement": 10000,
+    "exp": 0,
+    "quantity": 10
+  },
+  {
+    "id": 102,
+    "seq": 1,
+    "requirement": 500,
+    "exp": 1,
+    "quantity": 0
+  },
+  {
+    "id": 102,
+    "seq": 21,
+    "requirement": 500,
+    "exp": 0,
+    "quantity": 10
   }
 ]
