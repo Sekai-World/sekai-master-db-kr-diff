@@ -3695,6 +3695,50 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 1398,
+    "seq": 1398,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1398,
+    "name": "화이트 몰토 (남성용) 의상 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1398",
+    "resourceBoxId": 1186,
+    "bonusResourceBoxId": 1398,
+    "startAt": 1723690800000,
+    "endAt": 1724597940000
+  },
+  {
+    "id": 1399,
+    "seq": 1399,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1399,
+    "name": "딜래빗 (여성용) 의상 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1399",
+    "resourceBoxId": 1186,
+    "bonusResourceBoxId": 1399,
+    "startAt": 1723690800000,
+    "endAt": 1724597940000
+  },
+  {
+    "id": 1400,
+    "seq": 1400,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "'칠석' 의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_30079",
+    "resourceBoxId": 1400,
+    "startAt": 1723258800000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 10001,
     "seq": 1012,
     "billingShopItemType": "value_set",
@@ -4073,6 +4117,19 @@
     "assetbundleName": "shop_300080",
     "resourceBoxId": 139,
     "startAt": 1700449200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300090,
+    "seq": 300090,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "'괴도' 의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 88,
+    "startAt": 1722481200000,
     "purchaseOption": "exchange"
   },
   {
@@ -4727,6 +4784,71 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 214,
     "startAt": 1719759600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300360,
+    "seq": 300360,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "'외출복'의상 모든 컬러",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 215,
+    "startAt": 1722438000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300361,
+    "seq": 300361,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "'외출복'의상 오리지널 컬러",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 216,
+    "startAt": 1722438000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300362,
+    "seq": 300362,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "'외출복'의상 어나더 컬러 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 217,
+    "startAt": 1722438000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300363,
+    "seq": 300363,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "'외출복'의상 어나더 컬러 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 218,
+    "startAt": 1722438000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300364,
+    "seq": 300364,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "'외출복'의상 어나더 컬러 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 219,
+    "startAt": 1722438000000,
     "purchaseOption": "exchange"
   }
 ]
