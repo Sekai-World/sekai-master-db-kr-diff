@@ -3919,6 +3919,103 @@
     "virtualShopType": "event"
   },
   {
+    "id": 218,
+    "name": "えむ BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 387,
+        "virtualShopId": 218,
+        "virtualShopItemType": "penlight",
+        "seq": 199868,
+        "resourceBoxId": 284,
+        "costPaidJewel": 1000,
+        "startAt": 1725688800000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 219,
+    "name": "第106回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 388,
+        "virtualShopId": 219,
+        "virtualShopItemType": "accessory",
+        "seq": 99896,
+        "resourceBoxId": 285,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1726034400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 220,
+    "name": "第107回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 389,
+        "virtualShopId": 220,
+        "virtualShopItemType": "accessory",
+        "seq": 99895,
+        "resourceBoxId": 286,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1726812000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 224,
+    "name": "アバターデザインコンテスト作品",
+    "virtualShopItems": [
+      {
+        "id": 396,
+        "virtualShopId": 224,
+        "virtualShopItemType": "costume",
+        "seq": 199998,
+        "resourceBoxId": 293,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725084000000
+      },
+      {
+        "id": 397,
+        "virtualShopId": 224,
+        "virtualShopItemType": "costume",
+        "seq": 199999,
+        "resourceBoxId": 294,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725084000000
+      },
+      {
+        "id": 398,
+        "virtualShopId": 224,
+        "virtualShopItemType": "accessory",
+        "seq": 99897,
+        "resourceBoxId": 295,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725084000000
+      },
+      {
+        "id": 399,
+        "virtualShopId": 224,
+        "virtualShopItemType": "accessory",
+        "seq": 99898,
+        "resourceBoxId": 296,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725084000000
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 1001,
     "name": "春节2024",
     "virtualShopItems": [
@@ -3976,6 +4073,23 @@
         "costVirtualCoin": 3000,
         "costJewel": 1000,
         "startAt": 1707458400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 1002,
+    "name": "kr",
+    "virtualShopItems": [
+      {
+        "id": 10012,
+        "virtualShopId": 1002,
+        "virtualShopItemType": "penlight",
+        "seq": 1000015,
+        "resourceBoxId": 10009,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1726455600000
       }
     ],
     "virtualShopType": "event"
