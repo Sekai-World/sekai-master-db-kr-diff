@@ -1,5492 +1,5492 @@
 [
-  {
-    "id": 1,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"커스텀 프로필\"을 1회 설정해 주세요.",
-    "resourceBoxId": 200001,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "save_custom_profile_data"
-  },
-  {
-    "id": 2,
-    "seq": 1,
-    "requirement": 10,
-    "sentence": "지난 스토리 10챕터를 감상하세요.",
-    "resourceBoxId": 200002,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "read_story_past_event"
-  },
-  {
-    "id": 3,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "버추얼 라이브 3회 참석하기.",
-    "resourceBoxId": 200003,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_virtual_live"
-  },
-  {
-    "id": 4,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200004,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 5,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "챌린지 라이브 3번 통과하기.",
-    "resourceBoxId": 200005,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 6,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200006,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 7,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "연습용 스코어로 멤버의 등급을 3번 업그레이드 하세요.",
-    "resourceBoxId": 200007,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 8,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "이벤트 교환소에서 아이템을 3번 교환하세요.",
-    "resourceBoxId": 200008,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 9,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200009,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 10,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200010,
-    "returnMissionGroupId": 1,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 11,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "멤버의 사이드 스토리를 1번 감상하세요.",
-    "resourceBoxId": 200021,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "read_card_story"
-  },
-  {
-    "id": 12,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200022,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 13,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200023,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 14,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200024,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 15,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 진행하기.",
-    "resourceBoxId": 200025,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 16,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "챌린지 라이브 3번 도전하기.",
-    "resourceBoxId": 200026,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 17,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200027,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 18,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "이벤트 교환소에서 3번 교환하세요.",
-    "resourceBoxId": 200028,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 19,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "복귀 미션 4개 클리어하기.",
-    "resourceBoxId": 200029,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 20,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션 모두 클리어하기.",
-    "resourceBoxId": 200030,
-    "returnMissionGroupId": 2,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 21,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "멤버의 사이드 스토리를 1번 감상하세요.",
-    "resourceBoxId": 200031,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "read_card_story"
-  },
-  {
-    "id": 22,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200032,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 23,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200033,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 24,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200034,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 25,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200035,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 26,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "챌린지 라이브 3번 통과하기.",
-    "resourceBoxId": 200036,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 27,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200037,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 28,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "이벤트 교환소에서 아이템을 3번 교환하세요.",
-    "resourceBoxId": 200038,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 29,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200039,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 30,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200040,
-    "returnMissionGroupId": 3,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 31,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "멤버의 사이드 스토리를 1번 감상하세요.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "read_card_story"
-  },
-  {
-    "id": 32,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 33,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 34,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 35,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 36,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "챌린지 라이브 3번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 37,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 38,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "이벤트 교환소에서 아이템을 3번 교환하세요.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 39,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 40,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 4,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 41,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 42,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 43,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 44,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 45,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 46,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 47,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 48,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 49,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 50,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 5,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 51,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 52,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 53,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 54,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 55,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 56,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 57,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 58,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 59,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 60,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 6,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 61,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 62,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 63,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 64,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 65,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 66,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 67,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 68,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 69,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 70,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 7,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 71,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 72,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 73,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 74,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 75,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 76,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 77,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 78,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 79,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 80,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 8,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 81,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 82,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 83,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 84,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 85,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 86,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 87,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 88,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 89,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 90,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 9,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 91,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 92,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 93,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 94,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 95,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 96,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 97,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 98,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 99,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 100,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 10,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 101,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 102,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 103,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 104,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 105,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 106,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 107,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 108,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 109,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 110,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 11,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 111,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 112,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 113,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 114,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 115,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 116,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 117,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 118,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 119,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 120,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 12,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 121,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 122,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 123,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 124,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 125,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 126,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 127,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 128,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 129,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 130,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 13,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 131,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 132,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 133,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 134,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 135,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 136,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 137,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 138,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 139,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 140,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 14,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 141,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 142,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 143,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 144,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 145,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 146,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 147,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 148,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 149,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 150,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 15,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 151,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 152,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 153,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 154,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 155,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 156,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 157,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 158,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 159,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 160,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 16,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 161,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 162,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 163,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 164,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 165,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 166,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 167,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 168,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 169,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 170,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 17,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 171,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 172,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 173,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 174,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 175,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 176,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 177,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 178,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 179,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 180,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 18,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 181,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 182,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 183,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 184,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 185,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 186,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 187,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 188,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 189,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 190,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 19,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 191,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 192,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 193,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 194,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 195,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 196,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 197,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 198,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 199,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 200,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 20,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 201,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 202,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 203,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 204,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 205,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 206,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 207,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 208,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 209,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 210,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 21,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 211,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 212,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 213,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 214,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 215,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 216,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 217,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 218,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 219,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 220,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 22,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 221,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 222,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 223,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 224,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 225,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 226,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 227,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 228,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 229,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 230,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 23,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 231,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 232,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 233,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 234,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 235,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 236,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 237,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 238,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 239,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 240,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 24,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 241,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 242,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 243,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 244,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 245,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 246,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 247,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 248,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 249,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 250,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 25,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 251,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 252,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 253,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 254,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 255,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 256,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 257,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 258,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 259,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 260,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 26,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 261,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 262,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 263,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 264,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 265,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 266,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 267,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 268,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 269,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 270,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 27,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 271,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 272,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 273,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 274,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 275,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 276,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 277,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 278,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 279,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 280,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 28,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 281,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 282,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 283,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 284,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 285,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 286,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 287,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 288,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 289,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 290,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 29,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 291,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 292,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 293,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 294,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 295,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 296,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 297,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 298,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 299,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 300,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 30,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 301,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 302,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 303,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 304,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 305,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 306,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 307,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 308,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 309,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 310,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 31,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 311,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 312,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 313,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 314,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 315,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 316,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 317,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 318,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 319,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 320,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 32,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 321,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 322,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 323,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 324,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 325,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 326,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 327,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 328,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 329,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 330,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 33,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 331,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 332,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 333,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 334,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 335,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 336,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 337,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 338,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 339,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 340,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 34,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 341,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 342,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 343,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 344,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 345,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 346,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 347,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 348,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 349,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 350,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 35,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 351,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 352,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 353,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 354,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 355,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 356,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 357,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 358,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 359,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 360,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 36,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 361,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 362,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 363,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 364,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 365,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 366,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 367,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 368,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 369,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 370,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 37,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 371,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 372,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 373,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 374,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 375,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 376,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 377,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 378,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 379,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 380,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 38,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 381,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 382,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 383,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 384,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 385,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 386,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 387,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 388,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 389,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 390,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 39,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 391,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 392,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 393,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 394,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 395,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 396,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 397,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 398,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 399,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 400,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 40,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 401,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 402,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 403,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 404,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 405,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 406,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 407,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 408,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 409,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 410,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 41,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 411,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 412,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 413,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 414,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 415,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 416,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 417,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 418,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 419,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 420,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 42,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 421,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 422,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 423,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 424,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 425,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 426,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 427,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 428,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 429,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 430,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 43,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 431,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 432,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 433,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 434,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 435,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 436,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 437,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 438,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 439,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 440,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 44,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 441,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 442,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 443,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 444,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 445,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 446,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 447,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 448,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 449,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 450,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 45,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 451,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 452,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 453,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 454,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 455,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 456,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 457,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 458,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 459,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 460,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 46,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 461,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 462,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 463,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 464,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 465,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 466,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 467,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 468,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 469,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 470,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 47,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 471,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 472,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 473,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 474,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 475,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 476,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 477,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 478,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 479,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 480,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 48,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 481,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 482,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 483,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 484,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 485,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 486,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 487,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 488,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 489,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 490,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 49,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 491,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 492,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 493,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 494,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 495,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 496,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 497,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 498,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 499,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 500,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 50,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 501,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 502,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 503,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 504,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 505,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 506,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 507,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 508,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 509,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 510,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 51,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 511,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 512,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 513,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 514,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 515,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 516,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 517,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 518,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 519,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 520,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 52,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 521,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 522,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 523,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 524,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 525,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 526,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 527,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 528,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 529,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 530,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 53,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 531,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 532,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 533,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 534,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 535,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 536,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 537,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 538,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 539,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 540,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 54,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 541,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 542,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 543,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 544,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 545,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 546,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 547,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 548,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 549,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 550,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 55,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 551,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 552,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 553,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 554,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 555,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 556,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 557,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 558,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 559,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 560,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 56,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 561,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 562,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 563,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 564,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 565,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 566,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 567,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 568,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 569,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 570,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 57,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 571,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 572,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 573,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 574,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 575,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 576,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 577,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 578,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 579,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 580,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 58,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 581,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 582,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 583,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 584,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 585,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 586,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 587,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 588,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 589,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 590,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 59,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 591,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 592,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 593,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 594,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 595,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 596,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 597,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 598,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 599,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 600,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 60,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 601,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "2번 훈련하기.",
-    "resourceBoxId": 200041,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "character_card_level_up"
-  },
-  {
-    "id": 602,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "특훈 1번 하기.",
-    "resourceBoxId": 200042,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "special_training"
-  },
-  {
-    "id": 603,
-    "seq": 1,
-    "requirement": 8,
-    "sentence": "지난 스토리 8챕터 읽기.",
-    "resourceBoxId": 200043,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "read_archive_event_story"
-  },
-  {
-    "id": 604,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "\"대기실\"에 있는 멤버로 한번 교환하세요.",
-    "resourceBoxId": 200044,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "waiting_room_exchange"
-  },
-  {
-    "id": 605,
-    "seq": 1,
-    "requirement": 5,
-    "sentence": "멀티 라이브 5번 플레이 하기.",
-    "resourceBoxId": 200045,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "clear_multi_live"
-  },
-  {
-    "id": 606,
-    "seq": 1,
-    "requirement": 2,
-    "sentence": "챌린지 라이브 2번 통과하기.",
-    "resourceBoxId": 200046,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "clear_solo_challenge_live"
-  },
-  {
-    "id": 607,
-    "seq": 1,
-    "requirement": 3,
-    "sentence": "악곡 3개 교환하기.",
-    "resourceBoxId": 200047,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "buy_music"
-  },
-  {
-    "id": 608,
-    "seq": 1,
-    "requirement": 1,
-    "sentence": "이벤트 교환소에서 1번 교환하기.",
-    "resourceBoxId": 200048,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "buy_event_item"
-  },
-  {
-    "id": 609,
-    "seq": 1,
-    "requirement": 4,
-    "sentence": "한정 복귀 미션 4개를 클리어하세요.",
-    "resourceBoxId": 200049,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "clear_all_return_mission"
-  },
-  {
-    "id": 610,
-    "seq": 1,
-    "requirement": 9,
-    "sentence": "복귀 미션을 모두 클리어하세요.",
-    "resourceBoxId": 200050,
-    "returnMissionGroupId": 61,
-    "returnMissionType": "clear_all_return_mission"
-  }
+  [
+    1,
+    1,
+    1,
+    "save_custom_profile_data",
+    1,
+    "\"커스텀 프로필\"을 1회 설정해 주세요.",
+    200001
+  ],
+  [
+    1,
+    2,
+    1,
+    "read_story_past_event",
+    10,
+    "지난 스토리 10챕터를 감상하세요.",
+    200002
+  ],
+  [
+    1,
+    3,
+    1,
+    "clear_virtual_live",
+    3,
+    "버추얼 라이브 3회 참석하기.",
+    200003
+  ],
+  [
+    1,
+    4,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200004
+  ],
+  [
+    1,
+    5,
+    1,
+    "clear_solo_challenge_live",
+    3,
+    "챌린지 라이브 3번 통과하기.",
+    200005
+  ],
+  [
+    1,
+    6,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200006
+  ],
+  [
+    1,
+    7,
+    1,
+    "character_card_level_up",
+    3,
+    "연습용 스코어로 멤버의 등급을 3번 업그레이드 하세요.",
+    200007
+  ],
+  [
+    1,
+    8,
+    1,
+    "buy_event_item",
+    3,
+    "이벤트 교환소에서 아이템을 3번 교환하세요.",
+    200008
+  ],
+  [
+    1,
+    9,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200009
+  ],
+  [
+    1,
+    10,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200010
+  ],
+  [
+    2,
+    11,
+    1,
+    "read_card_story",
+    1,
+    "멤버의 사이드 스토리를 1번 감상하세요.",
+    200021
+  ],
+  [
+    2,
+    12,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200022
+  ],
+  [
+    2,
+    13,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200023
+  ],
+  [
+    2,
+    14,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200024
+  ],
+  [
+    2,
+    15,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 진행하기.",
+    200025
+  ],
+  [
+    2,
+    16,
+    1,
+    "clear_solo_challenge_live",
+    3,
+    "챌린지 라이브 3번 도전하기.",
+    200026
+  ],
+  [
+    2,
+    17,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200027
+  ],
+  [
+    2,
+    18,
+    1,
+    "buy_event_item",
+    3,
+    "이벤트 교환소에서 3번 교환하세요.",
+    200028
+  ],
+  [
+    2,
+    19,
+    1,
+    "clear_all_return_mission",
+    4,
+    "복귀 미션 4개 클리어하기.",
+    200029
+  ],
+  [
+    2,
+    20,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션 모두 클리어하기.",
+    200030
+  ],
+  [
+    3,
+    21,
+    1,
+    "read_card_story",
+    1,
+    "멤버의 사이드 스토리를 1번 감상하세요.",
+    200031
+  ],
+  [
+    3,
+    22,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200032
+  ],
+  [
+    3,
+    23,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200033
+  ],
+  [
+    3,
+    24,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200034
+  ],
+  [
+    3,
+    25,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200035
+  ],
+  [
+    3,
+    26,
+    1,
+    "clear_solo_challenge_live",
+    3,
+    "챌린지 라이브 3번 통과하기.",
+    200036
+  ],
+  [
+    3,
+    27,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200037
+  ],
+  [
+    3,
+    28,
+    1,
+    "buy_event_item",
+    3,
+    "이벤트 교환소에서 아이템을 3번 교환하세요.",
+    200038
+  ],
+  [
+    3,
+    29,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200039
+  ],
+  [
+    3,
+    30,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200040
+  ],
+  [
+    4,
+    31,
+    1,
+    "read_card_story",
+    1,
+    "멤버의 사이드 스토리를 1번 감상하세요.",
+    200041
+  ],
+  [
+    4,
+    32,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    4,
+    33,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    4,
+    34,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    4,
+    35,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    4,
+    36,
+    1,
+    "clear_solo_challenge_live",
+    3,
+    "챌린지 라이브 3번 통과하기.",
+    200046
+  ],
+  [
+    4,
+    37,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    4,
+    38,
+    1,
+    "buy_event_item",
+    3,
+    "이벤트 교환소에서 아이템을 3번 교환하세요.",
+    200048
+  ],
+  [
+    4,
+    39,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    4,
+    40,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    5,
+    41,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    5,
+    42,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    5,
+    43,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    5,
+    44,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    5,
+    45,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    5,
+    46,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    5,
+    47,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    5,
+    48,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    5,
+    49,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    5,
+    50,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    6,
+    51,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    6,
+    52,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    6,
+    53,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    6,
+    54,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    6,
+    55,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    6,
+    56,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    6,
+    57,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    6,
+    58,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    6,
+    59,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    6,
+    60,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    7,
+    61,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    7,
+    62,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    7,
+    63,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    7,
+    64,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    7,
+    65,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    7,
+    66,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    7,
+    67,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    7,
+    68,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    7,
+    69,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    7,
+    70,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    8,
+    71,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    8,
+    72,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    8,
+    73,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    8,
+    74,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    8,
+    75,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    8,
+    76,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    8,
+    77,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    8,
+    78,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    8,
+    79,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    8,
+    80,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    9,
+    81,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    9,
+    82,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    9,
+    83,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    9,
+    84,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    9,
+    85,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    9,
+    86,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    9,
+    87,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    9,
+    88,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    9,
+    89,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    9,
+    90,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    10,
+    91,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    10,
+    92,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    10,
+    93,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    10,
+    94,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    10,
+    95,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    10,
+    96,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    10,
+    97,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    10,
+    98,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    10,
+    99,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    10,
+    100,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    11,
+    101,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    11,
+    102,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    11,
+    103,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    11,
+    104,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    11,
+    105,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    11,
+    106,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    11,
+    107,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    11,
+    108,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    11,
+    109,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    11,
+    110,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    12,
+    111,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    12,
+    112,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    12,
+    113,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    12,
+    114,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    12,
+    115,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    12,
+    116,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    12,
+    117,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    12,
+    118,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    12,
+    119,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    12,
+    120,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    13,
+    121,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    13,
+    122,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    13,
+    123,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    13,
+    124,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    13,
+    125,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    13,
+    126,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    13,
+    127,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    13,
+    128,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    13,
+    129,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    13,
+    130,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    14,
+    131,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    14,
+    132,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    14,
+    133,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    14,
+    134,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    14,
+    135,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    14,
+    136,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    14,
+    137,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    14,
+    138,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    14,
+    139,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    14,
+    140,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    15,
+    141,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    15,
+    142,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    15,
+    143,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    15,
+    144,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    15,
+    145,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    15,
+    146,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    15,
+    147,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    15,
+    148,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    15,
+    149,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    15,
+    150,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    16,
+    151,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    16,
+    152,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    16,
+    153,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    16,
+    154,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    16,
+    155,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    16,
+    156,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    16,
+    157,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    16,
+    158,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    16,
+    159,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    16,
+    160,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    17,
+    161,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    17,
+    162,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    17,
+    163,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    17,
+    164,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    17,
+    165,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    17,
+    166,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    17,
+    167,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    17,
+    168,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    17,
+    169,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    17,
+    170,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    18,
+    171,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    18,
+    172,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    18,
+    173,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    18,
+    174,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    18,
+    175,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    18,
+    176,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    18,
+    177,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    18,
+    178,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    18,
+    179,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    18,
+    180,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    19,
+    181,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    19,
+    182,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    19,
+    183,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    19,
+    184,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    19,
+    185,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    19,
+    186,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    19,
+    187,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    19,
+    188,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    19,
+    189,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    19,
+    190,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    20,
+    191,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    20,
+    192,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    20,
+    193,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    20,
+    194,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    20,
+    195,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    20,
+    196,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    20,
+    197,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    20,
+    198,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    20,
+    199,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    20,
+    200,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    21,
+    201,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    21,
+    202,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    21,
+    203,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    21,
+    204,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    21,
+    205,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    21,
+    206,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    21,
+    207,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    21,
+    208,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    21,
+    209,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    21,
+    210,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    22,
+    211,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    22,
+    212,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    22,
+    213,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    22,
+    214,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    22,
+    215,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    22,
+    216,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    22,
+    217,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    22,
+    218,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    22,
+    219,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    22,
+    220,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    23,
+    221,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    23,
+    222,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    23,
+    223,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    23,
+    224,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    23,
+    225,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    23,
+    226,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    23,
+    227,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    23,
+    228,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    23,
+    229,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    23,
+    230,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    24,
+    231,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    24,
+    232,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    24,
+    233,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    24,
+    234,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    24,
+    235,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    24,
+    236,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    24,
+    237,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    24,
+    238,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    24,
+    239,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    24,
+    240,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    25,
+    241,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    25,
+    242,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    25,
+    243,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    25,
+    244,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    25,
+    245,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    25,
+    246,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    25,
+    247,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    25,
+    248,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    25,
+    249,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    25,
+    250,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    26,
+    251,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    26,
+    252,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    26,
+    253,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    26,
+    254,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    26,
+    255,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    26,
+    256,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    26,
+    257,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    26,
+    258,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    26,
+    259,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    26,
+    260,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    27,
+    261,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    27,
+    262,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    27,
+    263,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    27,
+    264,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    27,
+    265,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    27,
+    266,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    27,
+    267,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    27,
+    268,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    27,
+    269,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    27,
+    270,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    28,
+    271,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    28,
+    272,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    28,
+    273,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    28,
+    274,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    28,
+    275,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    28,
+    276,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    28,
+    277,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    28,
+    278,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    28,
+    279,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    28,
+    280,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    29,
+    281,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    29,
+    282,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    29,
+    283,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    29,
+    284,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    29,
+    285,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    29,
+    286,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    29,
+    287,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    29,
+    288,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    29,
+    289,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    29,
+    290,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    30,
+    291,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    30,
+    292,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    30,
+    293,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    30,
+    294,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    30,
+    295,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    30,
+    296,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    30,
+    297,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    30,
+    298,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    30,
+    299,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    30,
+    300,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    31,
+    301,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    31,
+    302,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    31,
+    303,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    31,
+    304,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    31,
+    305,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    31,
+    306,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    31,
+    307,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    31,
+    308,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    31,
+    309,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    31,
+    310,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    32,
+    311,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    32,
+    312,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    32,
+    313,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    32,
+    314,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    32,
+    315,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    32,
+    316,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    32,
+    317,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    32,
+    318,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    32,
+    319,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    32,
+    320,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    33,
+    321,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    33,
+    322,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    33,
+    323,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    33,
+    324,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    33,
+    325,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    33,
+    326,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    33,
+    327,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    33,
+    328,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    33,
+    329,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    33,
+    330,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    34,
+    331,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    34,
+    332,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    34,
+    333,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    34,
+    334,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    34,
+    335,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    34,
+    336,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    34,
+    337,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    34,
+    338,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    34,
+    339,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    34,
+    340,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    35,
+    341,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    35,
+    342,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    35,
+    343,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    35,
+    344,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    35,
+    345,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    35,
+    346,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    35,
+    347,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    35,
+    348,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    35,
+    349,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    35,
+    350,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    36,
+    351,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    36,
+    352,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    36,
+    353,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    36,
+    354,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    36,
+    355,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    36,
+    356,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    36,
+    357,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    36,
+    358,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    36,
+    359,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    36,
+    360,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    37,
+    361,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    37,
+    362,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    37,
+    363,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    37,
+    364,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    37,
+    365,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    37,
+    366,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    37,
+    367,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    37,
+    368,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    37,
+    369,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    37,
+    370,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    38,
+    371,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    38,
+    372,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    38,
+    373,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    38,
+    374,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    38,
+    375,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    38,
+    376,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    38,
+    377,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    38,
+    378,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    38,
+    379,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    38,
+    380,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    39,
+    381,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    39,
+    382,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    39,
+    383,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    39,
+    384,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    39,
+    385,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    39,
+    386,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    39,
+    387,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    39,
+    388,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    39,
+    389,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    39,
+    390,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    40,
+    391,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    40,
+    392,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    40,
+    393,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    40,
+    394,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    40,
+    395,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    40,
+    396,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    40,
+    397,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    40,
+    398,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    40,
+    399,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    40,
+    400,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    41,
+    401,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    41,
+    402,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    41,
+    403,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    41,
+    404,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    41,
+    405,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    41,
+    406,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    41,
+    407,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    41,
+    408,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    41,
+    409,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    41,
+    410,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    42,
+    411,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    42,
+    412,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    42,
+    413,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    42,
+    414,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    42,
+    415,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    42,
+    416,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    42,
+    417,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    42,
+    418,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    42,
+    419,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    42,
+    420,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    43,
+    421,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    43,
+    422,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    43,
+    423,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    43,
+    424,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    43,
+    425,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    43,
+    426,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    43,
+    427,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    43,
+    428,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    43,
+    429,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    43,
+    430,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    44,
+    431,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    44,
+    432,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    44,
+    433,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    44,
+    434,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    44,
+    435,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    44,
+    436,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    44,
+    437,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    44,
+    438,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    44,
+    439,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    44,
+    440,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    45,
+    441,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    45,
+    442,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    45,
+    443,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    45,
+    444,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    45,
+    445,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    45,
+    446,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    45,
+    447,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    45,
+    448,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    45,
+    449,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    45,
+    450,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    46,
+    451,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    46,
+    452,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    46,
+    453,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    46,
+    454,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    46,
+    455,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    46,
+    456,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    46,
+    457,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    46,
+    458,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    46,
+    459,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    46,
+    460,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    47,
+    461,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    47,
+    462,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    47,
+    463,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    47,
+    464,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    47,
+    465,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    47,
+    466,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    47,
+    467,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    47,
+    468,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    47,
+    469,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    47,
+    470,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    48,
+    471,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    48,
+    472,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    48,
+    473,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    48,
+    474,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    48,
+    475,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    48,
+    476,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    48,
+    477,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    48,
+    478,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    48,
+    479,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    48,
+    480,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    49,
+    481,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    49,
+    482,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    49,
+    483,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    49,
+    484,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    49,
+    485,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    49,
+    486,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    49,
+    487,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    49,
+    488,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    49,
+    489,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    49,
+    490,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    50,
+    491,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    50,
+    492,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    50,
+    493,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    50,
+    494,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    50,
+    495,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    50,
+    496,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    50,
+    497,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    50,
+    498,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    50,
+    499,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    50,
+    500,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    51,
+    501,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    51,
+    502,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    51,
+    503,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    51,
+    504,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    51,
+    505,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    51,
+    506,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    51,
+    507,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    51,
+    508,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    51,
+    509,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    51,
+    510,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    52,
+    511,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    52,
+    512,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    52,
+    513,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    52,
+    514,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    52,
+    515,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    52,
+    516,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    52,
+    517,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    52,
+    518,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    52,
+    519,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    52,
+    520,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    53,
+    521,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    53,
+    522,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    53,
+    523,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    53,
+    524,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    53,
+    525,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    53,
+    526,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    53,
+    527,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    53,
+    528,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    53,
+    529,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    53,
+    530,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    54,
+    531,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    54,
+    532,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    54,
+    533,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    54,
+    534,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    54,
+    535,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    54,
+    536,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    54,
+    537,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    54,
+    538,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    54,
+    539,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    54,
+    540,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    55,
+    541,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    55,
+    542,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    55,
+    543,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    55,
+    544,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    55,
+    545,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    55,
+    546,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    55,
+    547,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    55,
+    548,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    55,
+    549,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    55,
+    550,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    56,
+    551,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    56,
+    552,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    56,
+    553,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    56,
+    554,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    56,
+    555,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    56,
+    556,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    56,
+    557,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    56,
+    558,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    56,
+    559,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    56,
+    560,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    57,
+    561,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    57,
+    562,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    57,
+    563,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    57,
+    564,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    57,
+    565,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    57,
+    566,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    57,
+    567,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    57,
+    568,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    57,
+    569,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    57,
+    570,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    58,
+    571,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    58,
+    572,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    58,
+    573,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    58,
+    574,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    58,
+    575,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    58,
+    576,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    58,
+    577,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    58,
+    578,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    58,
+    579,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    58,
+    580,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    59,
+    581,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    59,
+    582,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    59,
+    583,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    59,
+    584,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    59,
+    585,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    59,
+    586,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    59,
+    587,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    59,
+    588,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    59,
+    589,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    59,
+    590,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    60,
+    591,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    60,
+    592,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    60,
+    593,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    60,
+    594,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    60,
+    595,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    60,
+    596,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    60,
+    597,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    60,
+    598,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    60,
+    599,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    60,
+    600,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ],
+  [
+    61,
+    601,
+    1,
+    "character_card_level_up",
+    2,
+    "2번 훈련하기.",
+    200041
+  ],
+  [
+    61,
+    602,
+    1,
+    "special_training",
+    1,
+    "특훈 1번 하기.",
+    200042
+  ],
+  [
+    61,
+    603,
+    1,
+    "read_archive_event_story",
+    8,
+    "지난 스토리 8챕터 읽기.",
+    200043
+  ],
+  [
+    61,
+    604,
+    1,
+    "waiting_room_exchange",
+    1,
+    "\"대기실\"에 있는 멤버로 한번 교환하세요.",
+    200044
+  ],
+  [
+    61,
+    605,
+    1,
+    "clear_multi_live",
+    5,
+    "멀티 라이브 5번 플레이 하기.",
+    200045
+  ],
+  [
+    61,
+    606,
+    1,
+    "clear_solo_challenge_live",
+    2,
+    "챌린지 라이브 2번 통과하기.",
+    200046
+  ],
+  [
+    61,
+    607,
+    1,
+    "buy_music",
+    3,
+    "악곡 3개 교환하기.",
+    200047
+  ],
+  [
+    61,
+    608,
+    1,
+    "buy_event_item",
+    1,
+    "이벤트 교환소에서 1번 교환하기.",
+    200048
+  ],
+  [
+    61,
+    609,
+    1,
+    "clear_all_return_mission",
+    4,
+    "한정 복귀 미션 4개를 클리어하세요.",
+    200049
+  ],
+  [
+    61,
+    610,
+    1,
+    "clear_all_return_mission",
+    9,
+    "복귀 미션을 모두 클리어하세요.",
+    200050
+  ]
 ]

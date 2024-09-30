@@ -246,22 +246,22 @@
   },
   {
     "id": 53,
-    "name": "고등학교 1학년",
+    "name": "高校1年生",
     "honorType": "achievement"
   },
   {
     "id": 54,
-    "name": "고등학교 2학년",
+    "name": "高校2年生",
     "honorType": "achievement"
   },
   {
     "id": 55,
-    "name": "미야마스자카 여학원 학생",
+    "name": "宮女生徒",
     "honorType": "achievement"
   },
   {
     "id": 56,
-    "name": "카미야마 고등학교 학생",
+    "name": "神山生徒",
     "honorType": "achievement"
   },
   {
@@ -1150,7 +1150,7 @@
   },
   {
     "id": 231,
-    "name": "HAPPY BIRTHDAY 호나미 2024.10.27",
+    "name": "HAPPY BIRTHDAY 호나미",
     "honorType": "event"
   },
   {
@@ -1165,7 +1165,7 @@
   },
   {
     "id": 234,
-    "name": "HAPPY BIRTHDAY 하루카 2024.10.5",
+    "name": "HAPPY BIRTHDAY 하루카",
     "honorType": "event"
   },
   {
@@ -1566,6 +1566,11 @@
     "honorType": "achievement"
   },
   {
+    "id": 308,
+    "name": "전생부터 있었던 올드비",
+    "honorType": "achievement"
+  },
+  {
     "id": 310,
     "name": "좌충우돌 cafe ●REC!!",
     "honorType": "event",
@@ -1600,6 +1605,293 @@
     "name": "Let's study hard!",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_study"
+  },
+  {
+    "id": 316,
+    "name": "헬로 굿 데이!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_hello"
+  },
+  {
+    "id": 317,
+    "name": "커넥트 라이브 3rd ANNIVERSARY Memorial Stage",
+    "honorType": "event"
+  },
+  {
+    "id": 318,
+    "name": "랭크 매치 2024 AUTUMN",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2023_autumn"
+  },
+  {
+    "id": 321,
+    "name": "HAPPY BIRTHDAY 호나미 2024.10.27",
+    "honorType": "event"
+  },
+  {
+    "id": 324,
+    "name": "HAPPY BIRTHDAY 하루카 2024.10.5",
+    "honorType": "event"
+  },
+  {
+    "id": 329,
+    "name": "HAPPY BIRTHDAY 아키토 2024.11.12",
+    "honorType": "event"
+  },
+  {
+    "id": 343,
+    "name": "HAPPY ANNIVERSARY MEIKO 2024.11.5",
+    "honorType": "event"
+  },
+  {
+    "id": 345,
+    "name": "고등학교 2학년",
+    "honorType": "achievement"
+  },
+  {
+    "id": 346,
+    "name": "고등학교 3학년",
+    "honorType": "achievement"
+  },
+  {
+    "id": 348,
+    "name": "BURN MY SOUL",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_burn"
+  },
+  {
+    "id": 349,
+    "name": "Stick to your faith",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_stickto"
+  },
+  {
+    "id": 350,
+    "name": "핼러윈 2024",
+    "honorType": "event"
+  },
+  {
+    "id": 351,
+    "name": "그 손이 이끄는 온기는",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_warmth"
+  },
+  {
+    "id": 352,
+    "name": "수면 아래로, 그림자를 찾아서 종합",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_underwater"
+  },
+  {
+    "id": 353,
+    "name": "수면 아래로, 그림자를 찾아서 챕터 1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_underwater_cp1",
+    "frameName": "event_underwater_cp1"
+  },
+  {
+    "id": 354,
+    "name": "수면 아래로, 그림자를 찾아서 챕터 2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_underwater_cp2",
+    "frameName": "event_underwater_cp2"
+  },
+  {
+    "id": 355,
+    "name": "수면 아래로, 그림자를 찾아서 챕터 3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_underwater_cp3",
+    "frameName": "event_underwater_cp3"
+  },
+  {
+    "id": 356,
+    "name": "수면 아래로, 그림자를 찾아서 챕터 4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_underwater_cp4",
+    "frameName": "event_underwater_cp4"
+  },
+  {
+    "id": 357,
+    "name": "네가 주인공인 이야기를",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_supporting"
+  },
+  {
+    "id": 358,
+    "name": "최고의 크랭크 업!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_crankup"
+  },
+  {
+    "id": 359,
+    "name": "여기저기 사육사 체험!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_keeper"
+  },
+  {
+    "id": 360,
+    "name": "그날, 연주한 음색을",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_tone"
+  },
+  {
+    "id": 361,
+    "name": "크리스마스 2024",
+    "honorType": "event"
+  },
+  {
+    "id": 362,
+    "name": "카운트다운 2025",
+    "honorType": "event"
+  },
+  {
+    "id": 363,
+    "name": "해피 뉴 이어 2025",
+    "honorType": "event"
+  },
+  {
+    "id": 364,
+    "name": "변함없는 온기 옆에서",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_cuddle"
+  },
+  {
+    "id": 365,
+    "name": "랭크 매치 2024 WINTER",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2024_winter"
+  },
+  {
+    "id": 366,
+    "name": "BREAK DOWN THE WALL 종합",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_breakdown"
+  },
+  {
+    "id": 367,
+    "name": "BREAK DOWN THE WALL 챕터 1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp1",
+    "frameName": "event_breakdown_cp1"
+  },
+  {
+    "id": 368,
+    "name": "BREAK DOWN THE WALL 챕터 2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp2",
+    "frameName": "event_breakdown_cp2"
+  },
+  {
+    "id": 369,
+    "name": "BREAK DOWN THE WALL 챕터 3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp3",
+    "frameName": "event_breakdown_cp3"
+  },
+  {
+    "id": 370,
+    "name": "BREAK DOWN THE WALL 챕터 4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_breakdown_cp4",
+    "frameName": "event_breakdown_cp4"
+  },
+  {
+    "id": 371,
+    "name": "역광의 렌즈 플레어",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_lensflare"
+  },
+  {
+    "id": 372,
+    "name": "Take the Best Shot!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_bestshot"
+  },
+  {
+    "id": 373,
+    "name": "밸런타인 2025",
+    "honorType": "event"
+  },
+  {
+    "id": 374,
+    "name": "이끄는 용기, 다정함을 가슴에",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_lead"
+  },
+  {
+    "id": 375,
+    "name": "새겨진 상처는 이윽고",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_graven"
+  },
+  {
+    "id": 376,
+    "name": "릴랙스 티타임",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_teatime"
+  },
+  {
+    "id": 377,
+    "name": "별을 향해 출항! 종합",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_yosoro"
+  },
+  {
+    "id": 378,
+    "name": "별을 향해 출항! 챕터 1",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp1",
+    "frameName": "event_yosoro_cp1"
+  },
+  {
+    "id": 379,
+    "name": "별을 향해 출항! 챕터 2",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp2",
+    "frameName": "event_yosoro_cp2"
+  },
+  {
+    "id": 380,
+    "name": "별을 향해 출항! 챕터 3",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp3",
+    "frameName": "event_yosoro_cp3"
+  },
+  {
+    "id": 381,
+    "name": "별을 향해 출항! 챕터 4",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_yosoro_cp4",
+    "frameName": "event_yosoro_cp4"
+  },
+  {
+    "id": 382,
+    "name": "화이트데이 2025",
+    "honorType": "event"
+  },
+  {
+    "id": 383,
+    "name": "The first concerto",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_concerto"
+  },
+  {
+    "id": 384,
+    "name": "Rise as ONE!",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_rise"
+  },
+  {
+    "id": 385,
+    "name": "랭크 매치 2025 SPRING",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2024_spring"
+  },
+  {
+    "id": 386,
+    "name": "Knowing the Unseen",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_unseen"
   },
   {
     "id": 387,
@@ -1774,6 +2066,11 @@
   {
     "id": 20003,
     "name": "여름 라이브 카니발 기념 2024",
+    "honorType": "event"
+  },
+  {
+    "id": 20004,
+    "name": "Brand New World 기념",
     "honorType": "event"
   },
   {

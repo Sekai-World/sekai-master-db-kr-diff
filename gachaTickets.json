@@ -66,9 +66,21 @@
     "gachaDisplayType": "having"
   },
   {
+    "id": 12,
+    "name": "[초보자 응원] ★4 멤버 1명 확정 10회 연속 뽑기 티켓",
+    "assetbundleName": "gacha_10_ticket_star4",
+    "gachaDisplayType": "having"
+  },
+  {
     "id": 13,
-    "name": "[3주년 기념] 10회 연속 무료 뽑기 티켓",
+    "name": "[BNW 애니버서리 기념] 10회 연속 무료 뽑기 티켓",
     "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 14,
+    "name": "[2024 새해맞이] 10회 연속 무료 뽑기 티켓",
+    "assetbundleName": "free_gacha_10_ticket",
     "gachaDisplayType": "always"
   },
   {
@@ -76,6 +88,12 @@
     "name": "3900's 10회 연속 무료 뽑기 티켓",
     "assetbundleName": "free_gacha_10_ticket",
     "gachaDisplayType": "always"
+  },
+  {
+    "id": 16,
+    "name": "3900's ★4 멤버 확정 뽑기 티켓",
+    "assetbundleName": "gacha_ticket_star4",
+    "gachaDisplayType": "having"
   },
   {
     "id": 17,

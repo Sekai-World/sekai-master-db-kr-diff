@@ -570,5 +570,26 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 34,
+    "assetbundleName": "special-story",
+    "startAt": 1727622000000,
+    "endAt": 1727708399000,
+    "episodes": [
+      {
+        "id": 39,
+        "specialStoryId": 34,
+        "episodeNo": 1,
+        "title": "3주년 영상",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_3rd_anniversary",
+        "scenarioId": "3rd_anniversary",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]
