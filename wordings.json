@@ -1325,7 +1325,7 @@
   },
   {
     "wordingKey": "MSG_EXP_PLUS",
-    "value": "0"
+    "value": "+{0}"
   },
   {
     "wordingKey": "MSG_EXP_SCALE",
@@ -2470,6 +2470,10 @@
   {
     "wordingKey": "MSG_PRELIMINARY_TOURNAMENT_ENDED",
     "value": "예선 기간이 종료되어 홈으로 돌아갑니다."
+  },
+  {
+    "wordingKey": "MSG_PRELOAD_SHADER",
+    "value": "로딩 중입니다. 잠시만 기다려주세요"
   },
   {
     "wordingKey": "MSG_PREMIUM_BEFORE_SALE",
@@ -12073,7 +12077,7 @@
   },
   {
     "wordingKey": "WORD_GACHA_DETAIL",
-    "value": "뽑기 상세 보기"
+    "value": "뽑기 상세"
   },
   {
     "wordingKey": "WORD_GACHA_EXCHANGE_SHOP",
@@ -13340,6 +13344,10 @@
     "value": "준비 완료"
   },
   {
+    "wordingKey": "WORD_MATCHING_WINS",
+    "value": "연승 중！"
+  },
+  {
     "wordingKey": "WORD_MATCHING_WINS_COUNT",
     "value": "{0}연승 중!"
   },
@@ -13373,7 +13381,7 @@
   },
   {
     "wordingKey": "WORD_MEMBER_DETAIL",
-    "value": "멤버 상세 보기"
+    "value": "멤버 상세"
   },
   {
     "wordingKey": "WORD_MEMBER_DUPLICATE_CONFIRM_TITLE",
