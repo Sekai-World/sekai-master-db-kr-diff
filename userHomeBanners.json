@@ -66,14 +66,14 @@
     "endAt": 1730559599000
   },
   {
-    "homeBannerId": 624,
-    "seq": 30,
+    "homeBannerId": 619,
+    "seq": 40,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha394",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 394,
-    "startAt": 1728702000000,
-    "endAt": 1729565999000
+    "assetbundleName": "event_stickto_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 110,
+    "startAt": 1729576800000,
+    "endAt": 1730203199000
   },
   {
     "homeBannerId": 625,
@@ -84,6 +84,16 @@
     "transitionDestinationId": 395,
     "startAt": 1728961200000,
     "endAt": 1729738799000
+  },
+  {
+    "homeBannerId": 626,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha396",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 396,
+    "startAt": 1729566000000,
+    "endAt": 1730343599000
   },
   {
     "homeBannerId": 633,
