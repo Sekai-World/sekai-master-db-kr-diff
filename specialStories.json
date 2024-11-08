@@ -591,5 +591,48 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 36,
+    "assetbundleName": "collaboration-sanrio-story",
+    "startAt": 1733367600000,
+    "endAt": 1734620399000,
+    "episodes": [
+      {
+        "id": 41,
+        "specialStoryId": 36,
+        "episodeNo": 1,
+        "title": "[프로세카×산리오 캐릭터즈] 컬래버레이션 기념 로그인 스토리 에필로그",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 22,
+        "assetbundleName": "story_collaboration_sanrio",
+        "scenarioId": "collaboration_sanrio_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "assetbundleName": "collaboration-sanrio-story",
+    "startAt": 1734620400000,
+    "endAt": 1734706799000,
+    "episodes": [
+      {
+        "id": 42,
+        "specialStoryId": 37,
+        "episodeNo": 1,
+        "title": "[프로세카×산리오 캐릭터즈] 컬래버레이션 기념 로그인 스토리 에필로그",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_sanrio",
+        "scenarioId": "collaboration_sanrio_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]

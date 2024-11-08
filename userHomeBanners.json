@@ -47,54 +47,14 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 620,
-    "seq": 40,
+    "homeBannerId": 643,
+    "seq": 110,
     "homeBannerType": "general",
-    "assetbundleName": "event_warmth_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 111,
-    "startAt": 1730354400000,
-    "endAt": 1730894399000
-  },
-  {
-    "homeBannerId": 627,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha397",
+    "assetbundleName": "banner_gacha407",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 397,
-    "startAt": 1729911600000,
-    "endAt": 1730689199000
-  },
-  {
-    "homeBannerId": 629,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha401",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 401,
-    "startAt": 1730343600000,
-    "endAt": 1731034799000
-  },
-  {
-    "homeBannerId": 639,
-    "seq": 130,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha405",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 405,
-    "startAt": 1730430000000,
-    "endAt": 1731034799000
-  },
-  {
-    "homeBannerId": 640,
-    "seq": 130,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive263",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 263,
-    "startAt": 1730613600000,
-    "endAt": 1730732399000
+    "transitionDestinationId": 407,
+    "startAt": 1731034800000,
+    "endAt": 1732244399000
   },
   {
     "homeBannerId": 790,
@@ -104,5 +64,15 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1730386800000,
     "endAt": 1732978799000
+  },
+  {
+    "homeBannerId": 10101,
+    "seq": 5000,
+    "homeBannerType": "return",
+    "assetbundleName": "banner_gacha2001",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1100,
+    "startAt": 1730660400000,
+    "endAt": 1733252399000
   }
 ]
