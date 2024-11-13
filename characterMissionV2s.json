@@ -679,7 +679,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 4,
     "parameterGroupId": 102,
-    "sentence": "｢히노모리 시호｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢히노모리 시호｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -841,7 +841,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 5,
     "parameterGroupId": 101,
-    "sentence": "｢하나사토 미노리｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢하나사토 미노리｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -850,7 +850,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 5,
     "parameterGroupId": 102,
-    "sentence": "｢하나사토 미노리｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢하나사토 미노리｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1012,7 +1012,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 6,
     "parameterGroupId": 101,
-    "sentence": "｢키리타니 하루카｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢키리타니 하루카｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1021,7 +1021,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 6,
     "parameterGroupId": 102,
-    "sentence": "｢키리타니 하루카｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢키리타니 하루카｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1534,7 +1534,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 9,
     "parameterGroupId": 102,
-    "sentence": "｢아즈사와 코하네｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢아즈사와 코하네｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1696,7 +1696,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 10,
     "parameterGroupId": 101,
-    "sentence": "｢시라이시 안｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢시라이시 안｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1705,7 +1705,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 10,
     "parameterGroupId": 102,
-    "sentence": "｢시라이시 안｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢시라이시 안｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1867,7 +1867,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 11,
     "parameterGroupId": 101,
-    "sentence": "｢시노노메 아키토｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢시노노메 아키토｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1876,7 +1876,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 11,
     "parameterGroupId": 102,
-    "sentence": "｢시노노메 아키토｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢시노노메 아키토｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2389,7 +2389,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 14,
     "parameterGroupId": 102,
-    "sentence": "｢오오토리 에무｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢오오토리 에무｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2551,7 +2551,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 15,
     "parameterGroupId": 101,
-    "sentence": "｢쿠사나기 네네｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢쿠사나기 네네｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2560,7 +2560,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 15,
     "parameterGroupId": 102,
-    "sentence": "｢쿠사나기 네네｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢쿠사나기 네네｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2722,7 +2722,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 16,
     "parameterGroupId": 101,
-    "sentence": "｢카미시로 루이｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢카미시로 루이｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2731,7 +2731,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 16,
     "parameterGroupId": 102,
-    "sentence": "｢카미시로 루이｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢카미시로 루이｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3244,7 +3244,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 19,
     "parameterGroupId": 102,
-    "sentence": "｢시노노메 에나｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢시노노메 에나｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3406,7 +3406,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 20,
     "parameterGroupId": 101,
-    "sentence": "｢아키야마 미즈키｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢아키야마 미즈키｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3415,7 +3415,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 20,
     "parameterGroupId": 102,
-    "sentence": "｢아키야마 미즈키｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢아키야마 미즈키｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3577,7 +3577,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 21,
     "parameterGroupId": 101,
-    "sentence": "｢하츠네 미쿠｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢하츠네 미쿠｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3586,7 +3586,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 21,
     "parameterGroupId": 102,
-    "sentence": "｢하츠네 미쿠｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢하츠네 미쿠｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4099,7 +4099,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 24,
     "parameterGroupId": 102,
-    "sentence": "｢메구리네 루카｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢메구리네 루카｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4261,7 +4261,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 25,
     "parameterGroupId": 101,
-    "sentence": "｢MEIKO｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢MEIKO｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4270,7 +4270,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 25,
     "parameterGroupId": 102,
-    "sentence": "｢MEIKO｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢MEIKO｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4432,7 +4432,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 26,
     "parameterGroupId": 101,
-    "sentence": "｢KAITO｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "｢KAITO｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4441,7 +4441,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 26,
     "parameterGroupId": 102,
-    "sentence": "｢KAITO｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "｢KAITO｣를 대기실로{requirement}회 이동시키기。",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   }
