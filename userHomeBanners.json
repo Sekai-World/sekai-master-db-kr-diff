@@ -47,26 +47,6 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 643,
-    "seq": 110,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha407",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 407,
-    "startAt": 1731034800000,
-    "endAt": 1732244399000
-  },
-  {
-    "homeBannerId": 645,
-    "seq": 100,
-    "homeBannerType": "event",
-    "assetbundleName": "event_underwater_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 112,
-    "startAt": 1731063600000,
-    "endAt": 1732255199000
-  },
-  {
     "homeBannerId": 651,
     "seq": 150,
     "homeBannerType": "general",
@@ -85,6 +65,16 @@
     "transitionDestinationId": 413,
     "startAt": 1731898800000,
     "endAt": 1732676399000
+  },
+  {
+    "homeBannerId": 655,
+    "seq": 100,
+    "homeBannerType": "event",
+    "assetbundleName": "event_supporting_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 113,
+    "startAt": 1732255200000,
+    "endAt": 1732946399000
   },
   {
     "homeBannerId": 790,
