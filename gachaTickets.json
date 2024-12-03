@@ -97,13 +97,19 @@
   },
   {
     "id": 17,
-    "name": "[2주년 기념] 10회 연속 무료 뽑기 티켓",
-    "assetbundleName": "anniversary_free_gacha_ticket",
-    "gachaDisplayType": "always"
+    "name": "ミッションガチャチケット",
+    "assetbundleName": "mission_gacha_ticket",
+    "gachaDisplayType": "having"
   },
   {
     "id": 1000,
     "name": "[2.5주년 기념] 컬러풀 페스티벌 뽑기 스티커",
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 1001,
+    "name": "[2주년 기념] 10회 연속 무료 뽑기 티켓",
     "assetbundleName": "anniversary_free_gacha_ticket",
     "gachaDisplayType": "always"
   }
