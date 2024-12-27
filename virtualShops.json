@@ -4542,6 +4542,15 @@
         "costVirtualCoin": 3000,
         "costJewel": 1000,
         "startAt": 1734674400000
+      },
+      {
+        "id": 10013,
+        "virtualShopId": 238,
+        "virtualShopItemType": "coordinate",
+        "seq": 1000016,
+        "resourceBoxId": 10010,
+        "costPaidJewel": 1000,
+        "startAt": 1735624800000
       }
     ],
     "virtualShopType": "event"
@@ -4580,7 +4589,7 @@
   },
   {
     "id": 242,
-    "name": "2024甘酒ショップ",
+    "name": "2025감주 상점",
     "virtualShopItems": [
       {
         "id": 419,
@@ -4706,7 +4715,7 @@
         "resourceBoxId": 322,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1738321200000
+        "startAt": 1738303200000
       }
     ],
     "virtualShopType": "event"
