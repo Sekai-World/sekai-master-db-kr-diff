@@ -47,33 +47,73 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 674,
-    "seq": 110,
+    "homeBannerId": 686,
+    "seq": 50,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha426",
+    "assetbundleName": "banner_gacha433",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 426,
-    "startAt": 1734663600000,
-    "endAt": 1735613999000
+    "transitionDestinationId": 433,
+    "startAt": 1735614000000,
+    "endAt": 1735959599000
   },
   {
-    "homeBannerId": 676,
+    "homeBannerId": 689,
     "seq": 100,
     "homeBannerType": "event",
-    "assetbundleName": "event_tone_2023",
+    "assetbundleName": "event_cuddle_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 116,
-    "startAt": 1734674400000,
-    "endAt": 1735624799000
+    "transitionDestinationId": 117,
+    "startAt": 1735624800000,
+    "endAt": 1736420399000
   },
   {
-    "homeBannerId": 723,
-    "seq": 25,
+    "homeBannerId": 691,
+    "seq": 80,
     "homeBannerType": "general",
-    "assetbundleName": "banner_premiummissionpass_2024_12",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1732978800000,
-    "endAt": 1735657199000
+    "assetbundleName": "banner_gacha434",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 434,
+    "startAt": 1735614000000,
+    "endAt": 1736391599000
+  },
+  {
+    "homeBannerId": 692,
+    "seq": 200,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha435",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 435,
+    "startAt": 1735614000000,
+    "endAt": 1735930799000
+  },
+  {
+    "homeBannerId": 693,
+    "seq": 150,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_shop_newyear2024",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1735614000000,
+    "endAt": 1736391599000
+  },
+  {
+    "homeBannerId": 694,
+    "seq": 170,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive274",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 274,
+    "startAt": 1735624800000,
+    "endAt": 1735829999000
+  },
+  {
+    "homeBannerId": 695,
+    "seq": 180,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive276",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 276,
+    "startAt": 1735624800000,
+    "endAt": 1735916399000
   },
   {
     "homeBannerId": 10101,
