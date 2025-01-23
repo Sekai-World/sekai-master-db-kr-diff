@@ -36,6 +36,10 @@
     "value": "https:\/\/lf26-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/GSDK\/8c3b126d-ebd0-42bf-8450-811c95060429.html"
   },
   {
+    "wordingKey": "CHANGE_MUSIC_NAME_ENABLED",
+    "value": "1"
+  },
+  {
     "wordingKey": "CHEERFUL_CARNIVAL_1ST_RESULT_REWARD",
     "value": "'%s' 제1회 중간 발표 보상입니다."
   },
@@ -1565,7 +1569,7 @@
   },
   {
     "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
-    "value": "아이템을 설정하지 않으면\n 해피니스 패키지 뽑기를 진행할 수 없습니다.\n 아이템을 나중에 설정하시겠습니까?\n \n <color=#ff5599>※아이템은\n 뽑기 전까지 몇 번이든 변경할 수 있습니다.<\/color>"
+    "value": "아이템을 설정하지 않으면\n 해피니스 패키지 뽑기를 진행할 수 없습니다.\n 아이템을 나중에 설정하시겠습니까?\n \n <color=#ff5599>※아이템은 뽑기 전까지 \n몇 번이든 변경할 수 있습니다.<\/color>"
   },
   {
     "wordingKey": "MSG_GIFT_SELECT",
@@ -1573,7 +1577,7 @@
   },
   {
     "wordingKey": "MSG_GIFT_SELECT_CONFIRM",
-    "value": "이 아이템을 설정하시겠습니까?\n <color=#ff5599>※아이템은 뽑기 전까지 몇 번이든 변경할 수 있습니다.<\/color>"
+    "value": "이 아이템을 설정하시겠습니까?\n <color=#ff5599>※아이템은 뽑기 전까지\n몇 번이든 변경할 수 있습니다.<\/color>"
   },
   {
     "wordingKey": "MSG_GIFT_SELECT_INDUCTION",
@@ -3509,7 +3513,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RANK",
-    "value": "{0}<color='#00ccbb'>배<\/color>"
+    "value": "{0}<color=#00ccbb>배<\/color>"
   },
   {
     "wordingKey": "SUPPORT_EVENT_LIVE_RESULT",
@@ -3525,7 +3529,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_PERSONAL_REWARD",
-    "value": "'달빛 아래의 추석 응원제!2024' 이벤트의 개인 보상입니다."
+    "value": "'응원제! 2025 세카이의 새해' 이벤트의 개인 보상입니다."
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
@@ -3541,7 +3545,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
-    "value": "'달빛 아래의 추석 응원제!2024' 이벤트의 참여 보상입니다."
+    "value": "'응원제! 2025 세카이의 새해' 이벤트의 참여 보상입니다."
   },
   {
     "wordingKey": "TAB_TITLE_BOX_PROVISION",
@@ -16381,7 +16385,7 @@
   },
   {
     "wordingKey": "WORD_STREAMING_LIVE_SHOP_CONFIRM_DUPLICATE",
-    "value": "이미 구매한 스페셜 굿즈 세트가 포함되어 있습니다.\n세트에 포함된 다음 굿즈는\n다시 구매해도 중복 획득할 수 없습니다."
+    "value": "이미 구매한 스페셜 굿즈 세트가 포함되어 있습니다.\n세트에 포함된 다음 굿즈는n다시 구매해도 중복 획득할 수 없습니다."
   },
   {
     "wordingKey": "WORD_STREAMING_LIVE_TICKET_PURCHASED",
@@ -16429,7 +16433,7 @@
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
-    "value": "'달빛 아래의 추석 응원제!2024' 이벤트의 팔로워 수 {0}억 돌파 보상입니다."
+    "value": "'응원제! 2025 세카이의 새해' 이벤트의 팔로워 수 {0}억 돌파 보상입니다."
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_UNIT_SCORE_REWARD",

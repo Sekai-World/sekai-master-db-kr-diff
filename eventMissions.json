@@ -5198,6 +5198,232 @@
     ]
   },
   {
+    "id": 369,
+    "eventId": 127,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "누적 9일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 370,
+    "eventId": 127,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 371,
+    "eventId": 127,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 372,
+    "eventId": 127,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 373,
+    "eventId": 127,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 'Knowing the Unseen' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 374,
+    "eventId": 127,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 'Knowing the Unseen' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 375,
+    "eventId": 127,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'Knowing the Unseen 애프터 라이브'에 참가하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 376,
+    "eventId": 127,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      [
+        8001
+      ]
+    ]
+  },
+  {
+    "id": 377,
+    "eventId": 128,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 378,
+    "eventId": 128,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 379,
+    "eventId": 128,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 380,
+    "eventId": 128,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 381,
+    "eventId": 128,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Parallel Harmonies」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 382,
+    "eventId": 128,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Parallel Harmonies」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 383,
+    "eventId": 128,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Parallel Harmonies アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 384,
+    "eventId": 128,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": [
+      [
+        8001
+      ]
+    ]
+  },
+  {
     "id": 10001,
     "eventId": 70,
     "seq": 1,

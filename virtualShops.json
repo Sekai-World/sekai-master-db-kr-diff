@@ -2336,25 +2336,6 @@
     "virtualShopType": "event"
   },
   {
-    "id": 118,
-    "name": "커넥트 라이브 본 공연(티켓 상점)",
-    "virtualLiveId": 173,
-    "virtualShopItems": [
-      {
-        "id": 221,
-        "virtualShopId": 118,
-        "virtualShopItemType": "premium_virtual_live_ticket",
-        "seq": 299997,
-        "resourceBoxId": 172,
-        "costPaidJewel": 2000,
-        "startAt": 1696226400000,
-        "endAt": 1696856400000,
-        "limitValue": 1
-      }
-    ],
-    "virtualShopType": "virtual_live_ticket"
-  },
-  {
     "id": 119,
     "name": "커넥트 라이브 본 공연(굿즈 판매 상점)",
     "virtualLiveId": 173,
@@ -4592,15 +4573,15 @@
     "name": "2025감주 상점",
     "virtualShopItems": [
       {
-        "id": 419,
+        "id": 10014,
         "virtualShopId": 242,
         "virtualShopItemType": "boost_item",
         "seq": 299999,
         "resourceBoxId": 147,
         "costVirtualCoin": 0,
         "costJewel": 0,
-        "startAt": 1735624800000,
-        "endAt": 1736420399000,
+        "startAt": 1737957600000,
+        "endAt": 1739015999000,
         "limitValue": 1
       }
     ],
@@ -4813,7 +4794,7 @@
         "seq": 99834,
         "resourceBoxId": 328,
         "costPaidJewel": 1000,
-        "startAt": 1740808800000
+        "startAt": 1740722400000
       }
     ],
     "virtualShopType": "birthday"
@@ -4912,6 +4893,39 @@
         "resourceBoxId": 334,
         "costPaidJewel": 1000,
         "startAt": 1742191200000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 262,
+    "name": "第128回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 439,
+        "virtualShopId": 262,
+        "virtualShopItemType": "accessory",
+        "seq": 99881,
+        "resourceBoxId": 335,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1745128800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 263,
+    "name": "絵名 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 440,
+        "virtualShopId": 263,
+        "virtualShopItemType": "coordinate",
+        "seq": 99831,
+        "resourceBoxId": 336,
+        "costPaidJewel": 1000,
+        "startAt": 1745820000000
       }
     ],
     "virtualShopType": "birthday"
