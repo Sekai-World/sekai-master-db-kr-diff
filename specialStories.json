@@ -634,5 +634,48 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 39,
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1743433200000,
+    "endAt": 1743519599000,
+    "episodes": [
+      {
+        "id": 44,
+        "specialStoryId": 39,
+        "episodeNo": 1,
+        "title": "만우절 2025 도입부 영상",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 23,
+        "assetbundleName": "story_aprilfool_2024",
+        "scenarioId": "aprilfool_2024_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1743519600000,
+    "endAt": 1743605999000,
+    "episodes": [
+      {
+        "id": 45,
+        "specialStoryId": 40,
+        "episodeNo": 1,
+        "title": "만우절 2025 후일담 영상",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2024",
+        "scenarioId": "aprilfool_2024_02",
+        "releaseConditionId": 1000236,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]
