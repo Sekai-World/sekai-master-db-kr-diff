@@ -47,26 +47,6 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 708,
-    "seq": 110,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha446",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 446,
-    "startAt": 1737601200000,
-    "endAt": 1738292399000
-  },
-  {
-    "homeBannerId": 710,
-    "seq": 100,
-    "homeBannerType": "event",
-    "assetbundleName": "event_lensflare_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 119,
-    "startAt": 1737612000000,
-    "endAt": 1738303199000
-  },
-  {
     "homeBannerId": 714,
     "seq": 90,
     "homeBannerType": "general",
@@ -75,5 +55,25 @@
     "transitionDestinationId": 447,
     "startAt": 1737860400000,
     "endAt": 1738637999000
+  },
+  {
+    "homeBannerId": 720,
+    "seq": 110,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha454",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 454,
+    "startAt": 1738292400000,
+    "endAt": 1739156399000
+  },
+  {
+    "homeBannerId": 721,
+    "seq": 100,
+    "homeBannerType": "event",
+    "assetbundleName": "event_bestshot_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 120,
+    "startAt": 1738321200000,
+    "endAt": 1739167199000
   }
 ]
