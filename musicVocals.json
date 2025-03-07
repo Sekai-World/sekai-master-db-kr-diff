@@ -26489,6 +26489,27 @@
     "archivePublishedAt": 1744696800000
   },
   {
+    "id": 980,
+    "musicId": 442,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 1813,
+        "musicId": 442,
+        "musicVocalId": 980,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 4420
+      }
+    ],
+    "assetbundleName": "vs_0442_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1745845500000
+  },
+  {
     "id": 982,
     "musicId": 444,
     "musicVocalType": "virtual_singer",
@@ -30022,6 +30043,59 @@
     "assetbundleName": "se_0441_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1744696800000
+  },
+  {
+    "id": 1476,
+    "musicId": 442,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "세카이 ver.",
+    "characters": [
+      {
+        "id": 2604,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 2,
+        "seq": 4420
+      },
+      {
+        "id": 2605,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 25,
+        "seq": 4421
+      },
+      {
+        "id": 2606,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 1,
+        "seq": 4422
+      },
+      {
+        "id": 2607,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 3,
+        "seq": 4423
+      },
+      {
+        "id": 2608,
+        "musicId": 442,
+        "musicVocalId": 1476,
+        "characterType": "game_character",
+        "characterId": 4,
+        "seq": 4424
+      }
+    ],
+    "assetbundleName": "se_0442_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1745845500000
   },
   {
     "id": 10001,
