@@ -47,24 +47,24 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 754,
-    "seq": 180,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha482",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 482,
-    "startAt": 1742612400000,
-    "endAt": 1743303599000
-  },
-  {
-    "homeBannerId": 755,
+    "homeBannerId": 761,
     "seq": 170,
     "homeBannerType": "event",
-    "assetbundleName": "event_concerto_2024",
+    "assetbundleName": "event_rise_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 125,
-    "startAt": 1742623200000,
-    "endAt": 1743314399000
+    "transitionDestinationId": 126,
+    "startAt": 1743314400000,
+    "endAt": 1744264799000
+  },
+  {
+    "homeBannerId": 912,
+    "seq": 50,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha_2038",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 2038,
+    "startAt": 1743303600000,
+    "endAt": 1744426799000
   },
   {
     "homeBannerId": 913,
@@ -74,6 +74,15 @@
     "transitionDestinationType": "friend_invitation_campaign",
     "startAt": 1743087600000,
     "endAt": 1747925999000
+  },
+  {
+    "homeBannerId": 914,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_shop_world_3900_anniversary",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1743303600000,
+    "endAt": 1744469999000
   },
   {
     "homeBannerId": 10101,
