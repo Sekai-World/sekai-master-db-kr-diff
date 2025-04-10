@@ -5424,6 +5424,232 @@
     ]
   },
   {
+    "id": 385,
+    "eventId": 129,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "누적 8일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 386,
+    "eventId": 129,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 387,
+    "eventId": 129,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 388,
+    "eventId": 129,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 389,
+    "eventId": 129,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 'Whip the wimp girl!!' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 390,
+    "eventId": 129,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 'Whip the wimp girl!!' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 391,
+    "eventId": 129,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'Whip the wimp girl!! 애프터 라이브'에 참가하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 392,
+    "eventId": 129,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      [
+        8001
+      ]
+    ]
+  },
+  {
+    "id": 393,
+    "eventId": 130,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 13,
+    "sentence": "누적 13일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 394,
+    "eventId": 130,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 395,
+    "eventId": 130,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 396,
+    "eventId": 130,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 397,
+    "eventId": 130,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '언젠가 꽃피는 스테이지로' 이벤트 스토리 제8화 읽기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 398,
+    "eventId": 130,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '언젠가 꽃피는 스테이지로' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 399,
+    "eventId": 130,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'언젠가 꽃피는 스테이지로 애프터 라이브'에 참가하기",
+    "rewards": [
+      [
+        8000
+      ]
+    ]
+  },
+  {
+    "id": 400,
+    "eventId": 130,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete",
+    "requirement1": 7,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": [
+      [
+        8001
+      ]
+    ]
+  },
+  {
     "id": 10001,
     "eventId": 70,
     "seq": 1,
