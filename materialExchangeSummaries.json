@@ -29375,5 +29375,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": 4001,
+    "seq": 2,
+    "exchangeCategory": "common_ticket",
+    "materialExchangeType": "normal",
+    "name": "[劇場版]交換所B",
+    "assetbundleName": "icon_movie_ticket",
+    "startAt": 1748358000000,
+    "endAt": 1767193199000,
+    "materialExchanges": [
+      {
+        "id": 4001028,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3160,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001028,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001028,
+            "costGroupId": 4001028,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001029,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3170,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001029,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001029,
+            "costGroupId": 4001029,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001030,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3180,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001030,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001030,
+            "costGroupId": 4001030,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001031,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3190,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001031,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001031,
+            "costGroupId": 4001031,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001032,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3200,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001032,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001032,
+            "costGroupId": 4001032,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 4001033,
+        "materialExchangeSummaryId": 4001,
+        "seq": 3210,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 4001033,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 4001033,
+            "costGroupId": 4001033,
+            "seq": 1,
+            "resourceId": 4001,
+            "quantity": 1
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -5593,7 +5593,7 @@
     "id": 1535,
     "seq": 1535,
     "billingShopItemType": "costume_3d",
-    "name": "WCS 2024 EDITION' 의상",
+    "name": "'WCS 2024 EDITION' 의상",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
@@ -5615,6 +5615,20 @@
     "resourceBoxId": 1475,
     "startAt": 1744556400000,
     "endAt": 1745161199000
+  },
+  {
+    "id": 1537,
+    "seq": 1537,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1532,
+    "name": "[시노노메 에나] 생일 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_bd_ena1",
+    "resourceBoxId": 1476,
+    "startAt": 1745938800000,
+    "endAt": 1746543599000
   },
   {
     "id": 300000,
