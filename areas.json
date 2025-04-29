@@ -192,6 +192,20 @@
     "releaseConditionId": 1
   },
   {
+    "id": 17,
+    "assetbundleName": "area17",
+    "groupId": 50,
+    "isBaseArea": false,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
+    "name": "교실 세카이",
+    "subName": "역",
+    "startAt": 1753786800000,
+    "releaseConditionId": 113605
+  },
+  {
     "id": 18,
     "assetbundleName": "area18",
     "groupId": 60,
@@ -290,5 +304,20 @@
     "startAt": 1743433200000,
     "endAt": 1743519599000,
     "releaseConditionId": 1
+  },
+  {
+    "id": 25,
+    "assetbundleName": "area25",
+    "groupId": 200,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "collaboration",
+    "name": "NONE",
+    "subName": "열린 창의 세카이",
+    "startAt": 1748358000000,
+    "endAt": 4102412399000,
+    "releaseConditionId": 2000000
   }
 ]

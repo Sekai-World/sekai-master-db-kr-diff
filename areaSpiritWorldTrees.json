@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "areaId": 17,
+    "seq": 1,
+    "displayAssetbundleName": "bud_leo",
+    "releaseConditionId1": 1,
+    "releaseConditionId2": 1
+  },
+  {
+    "id": 2,
+    "areaId": 18,
+    "seq": 1,
+    "displayAssetbundleName": "bud_mmj",
+    "releaseConditionId1": 1,
+    "releaseConditionId2": 1
+  },
+  {
+    "id": 3,
+    "areaId": 19,
+    "seq": 1,
+    "displayAssetbundleName": "bud_vbs",
+    "releaseConditionId1": 1,
+    "releaseConditionId2": 1
+  },
+  {
+    "id": 4,
+    "areaId": 20,
+    "seq": 1,
+    "displayAssetbundleName": "bud_wnd",
+    "releaseConditionId1": 1,
+    "releaseConditionId2": 1
+  },
+  {
+    "id": 5,
+    "areaId": 21,
+    "seq": 1,
+    "displayAssetbundleName": "bud_nig",
+    "releaseConditionId1": 1,
+    "releaseConditionId2": 1
+  },
+  {
+    "id": 6,
+    "areaId": 17,
+    "seq": 2,
+    "displayAssetbundleName": "seedling_leo",
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 9999999,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 101,
+        "areaSpiritWorldTreeId": 6,
+        "flavorText": "바람에 흔들리고 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 102,
+        "areaSpiritWorldTreeId": 6,
+        "flavorText": "조용히 서 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 103,
+        "areaSpiritWorldTreeId": 6,
+        "flavorText": "기운차 보인다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 104,
+        "areaSpiritWorldTreeId": 6,
+        "flavorText": "환호성이 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 105,
+        "areaSpiritWorldTreeId": 6,
+        "flavorText": "힘찬 음악이 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 106,
+        "areaSpiritWorldTreeId": 6,
+        "flavorText": "활기찬\n소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      },
+      {
+        "id": 107,
+        "areaSpiritWorldTreeId": 6,
+        "flavorText": "쓸쓸한 듯한\n소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "areaId": 18,
+    "seq": 2,
+    "displayAssetbundleName": "seedling_mmj",
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 9999999,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 201,
+        "areaSpiritWorldTreeId": 7,
+        "flavorText": "바람에 흔들리고 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 202,
+        "areaSpiritWorldTreeId": 7,
+        "flavorText": "조용히 서 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 203,
+        "areaSpiritWorldTreeId": 7,
+        "flavorText": "기운차 보인다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 204,
+        "areaSpiritWorldTreeId": 7,
+        "flavorText": "악기 소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 205,
+        "areaSpiritWorldTreeId": 7,
+        "flavorText": "힘찬 음악이 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 206,
+        "areaSpiritWorldTreeId": 7,
+        "flavorText": "활기찬\n소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      },
+      {
+        "id": 207,
+        "areaSpiritWorldTreeId": 7,
+        "flavorText": "쓸쓸한 듯한\n소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "areaId": 19,
+    "seq": 2,
+    "displayAssetbundleName": "seedling_vbs",
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 9999999,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 301,
+        "areaSpiritWorldTreeId": 8,
+        "flavorText": "바람에 흔들리고 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 302,
+        "areaSpiritWorldTreeId": 8,
+        "flavorText": "조용히 서 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 303,
+        "areaSpiritWorldTreeId": 8,
+        "flavorText": "기운차 보인다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 304,
+        "areaSpiritWorldTreeId": 8,
+        "flavorText": "악기 소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 305,
+        "areaSpiritWorldTreeId": 8,
+        "flavorText": "환호성이 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 306,
+        "areaSpiritWorldTreeId": 8,
+        "flavorText": "활기찬\n소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      },
+      {
+        "id": 307,
+        "areaSpiritWorldTreeId": 8,
+        "flavorText": "쓸쓸한 듯한\n소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "areaId": 20,
+    "seq": 2,
+    "displayAssetbundleName": "seedling_wnd",
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 9999999,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 401,
+        "areaSpiritWorldTreeId": 9,
+        "flavorText": "바람에 흔들리고 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 402,
+        "areaSpiritWorldTreeId": 9,
+        "flavorText": "조용히 서 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 403,
+        "areaSpiritWorldTreeId": 9,
+        "flavorText": "기운차 보인다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 404,
+        "areaSpiritWorldTreeId": 9,
+        "flavorText": "악기 소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 405,
+        "areaSpiritWorldTreeId": 9,
+        "flavorText": "환호성이 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 406,
+        "areaSpiritWorldTreeId": 9,
+        "flavorText": "힘찬 음악이 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 407,
+        "areaSpiritWorldTreeId": 9,
+        "flavorText": "쓸쓸한 듯한\n소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "areaId": 21,
+    "seq": 2,
+    "displayAssetbundleName": "seedling_nig",
+    "releaseConditionId1": 113908,
+    "releaseConditionId2": 9999999,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 501,
+        "areaSpiritWorldTreeId": 10,
+        "flavorText": "바람에 흔들리고 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 502,
+        "areaSpiritWorldTreeId": 10,
+        "flavorText": "조용히 서 있다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 503,
+        "areaSpiritWorldTreeId": 10,
+        "flavorText": "기운차 보인다.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 504,
+        "areaSpiritWorldTreeId": 10,
+        "flavorText": "악기 소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 505,
+        "areaSpiritWorldTreeId": 10,
+        "flavorText": "환호성이 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 506,
+        "areaSpiritWorldTreeId": 10,
+        "flavorText": "힘찬 음악이 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 507,
+        "areaSpiritWorldTreeId": 10,
+        "flavorText": "활기찬\n소리가 들린다.",
+        "weight": 25,
+        "assetbundleName": "seedling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      }
+    ]
+  }
+]
