@@ -5631,6 +5631,34 @@
     "endAt": 1746543599000
   },
   {
+    "id": 50003,
+    "seq": 300611,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50003,
+    "name": "[텐마 사키]생일 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_birthdayfood_0509_25",
+    "resourceBoxId": 50003,
+    "startAt": 1746716400000,
+    "endAt": 1747321199000
+  },
+  {
+    "id": 50013,
+    "seq": 300611,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50013,
+    "name": "[텐마 츠카사]생일 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_birthdayfood_0517_25",
+    "resourceBoxId": 50013,
+    "startAt": 1747407600000,
+    "endAt": 1748012399000
+  },
+  {
     "id": 300000,
     "seq": 300000,
     "billingShopItemType": "costume_3d",
