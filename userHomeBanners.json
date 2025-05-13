@@ -94,5 +94,15 @@
     "transitionDestinationType": "friend_invitation_campaign",
     "startAt": 1743087600000,
     "endAt": 1747925999000
+  },
+  {
+    "homeBannerId": 10101,
+    "seq": 5000,
+    "homeBannerType": "return",
+    "assetbundleName": "banner_gacha2001",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1100,
+    "startAt": 1746212400000,
+    "endAt": 1748804399000
   }
 ]
