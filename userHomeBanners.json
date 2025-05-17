@@ -87,14 +87,34 @@
     "endAt": 1747710000000
   },
   {
-    "homeBannerId": 806,
+    "homeBannerId": 804,
+    "seq": 150,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha511",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 511,
+    "startAt": 1747364400000,
+    "endAt": 1748142000000
+  },
+  {
+    "homeBannerId": 805,
+    "seq": 155,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha512",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 512,
+    "startAt": 1747364400000,
+    "endAt": 1748142000000
+  },
+  {
+    "homeBannerId": 807,
     "seq": 130,
     "homeBannerType": "general",
-    "assetbundleName": "banner_virtuallive302",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 302,
-    "startAt": 1747288800000,
-    "endAt": 1747407600000
+    "assetbundleName": "banner_gacha513",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 513,
+    "startAt": 1747407600000,
+    "endAt": 1747494000000
   },
   {
     "homeBannerId": 913,
