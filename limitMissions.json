@@ -654,7 +654,7 @@
     "limitMissionType": "clear_solo_challenge_live",
     "requirement": 5,
     "sentence": " '챌린지 라이브 ' 5회 플레이하기.",
-    "resourceBoxId": 100003
+    "resourceBoxId": 100041
   },
   {
     "limitMissionGroupId": 14,
@@ -678,9 +678,9 @@
     "limitMissionGroupId": 14,
     "id": 84,
     "seq": 1,
-    "limitMissionType": "friend_share",
-    "requirement": 1,
-    "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": " 라이브 보너스 30개 사용하기\n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
     "resourceBoxId": 100019
   },
   {
@@ -699,6 +699,6 @@
     "limitMissionType": "clear_all_limit_mission",
     "requirement": 5,
     "sentence": "위 미션들을 모두 통과하세요.",
-    "resourceBoxId": 100041
+    "resourceBoxId": 100042
   }
 ]
