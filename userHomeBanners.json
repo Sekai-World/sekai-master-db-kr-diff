@@ -47,36 +47,6 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 798,
-    "seq": 130,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha504",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 504,
-    "startAt": 1746154800000,
-    "endAt": 1747969200000
-  },
-  {
-    "homeBannerId": 801,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_blooming_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 130,
-    "startAt": 1746788400000,
-    "endAt": 1747980000000
-  },
-  {
-    "homeBannerId": 802,
-    "seq": 180,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha509",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 509,
-    "startAt": 1746759600000,
-    "endAt": 1747969200000
-  },
-  {
     "homeBannerId": 804,
     "seq": 150,
     "homeBannerType": "general",
@@ -95,6 +65,56 @@
     "transitionDestinationId": 512,
     "startAt": 1747364400000,
     "endAt": 1748142000000
+  },
+  {
+    "homeBannerId": 808,
+    "seq": 180,
+    "homeBannerType": "event",
+    "assetbundleName": "event_smile_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 131,
+    "startAt": 1747980000000,
+    "endAt": 1748671200000
+  },
+  {
+    "homeBannerId": 811,
+    "seq": 130,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive304",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 304,
+    "startAt": 1747980000000,
+    "endAt": 1748098800000
+  },
+  {
+    "homeBannerId": 915,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_questionnaire_4",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20318867,
+    "startAt": 1747969200000,
+    "endAt": 1749049199000
+  },
+  {
+    "homeBannerId": 916,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_questionnaire_4",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20318866,
+    "startAt": 1747969200000,
+    "endAt": 1749049199000
+  },
+  {
+    "homeBannerId": 917,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_questionnaire_4",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20318868,
+    "startAt": 1747969200000,
+    "endAt": 1749049199000
   },
   {
     "homeBannerId": 10101,
