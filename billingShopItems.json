@@ -5999,6 +5999,45 @@
     "startAt": 1747710000000
   },
   {
+    "id": 1564,
+    "seq": 1564,
+    "billingShopItemType": "costume_3d",
+    "name": "'파스텔 컬러'의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1567",
+    "resourceBoxId": 1493,
+    "startAt": 1750302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 1565,
+    "seq": 1565,
+    "billingShopItemType": "costume_3d",
+    "name": "'여름옷'의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1568",
+    "resourceBoxId": 1494,
+    "startAt": 1752721200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 1566,
+    "seq": 1566,
+    "billingShopItemType": "costume_3d",
+    "name": "'자유'의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1569",
+    "resourceBoxId": 1495,
+    "startAt": 1754622000000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 40003,
     "seq": 300611,
     "billingShopItemType": "value_set",
@@ -6011,6 +6050,20 @@
     "resourceBoxId": 50003,
     "startAt": 1746716400000,
     "endAt": 1747321199000
+  },
+  {
+    "id": 40010,
+    "seq": 300611,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 40010,
+    "name": "[시라이시 안]생일 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_birthdayfood_0726_25",
+    "resourceBoxId": 50010,
+    "startAt": 1753455600000,
+    "endAt": 1754060399000
   },
   {
     "id": 40012,
@@ -6041,6 +6094,20 @@
     "endAt": 1748012399000
   },
   {
+    "id": 40015,
+    "seq": 300611,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 40015,
+    "name": "[쿠사나기 네네]생일 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_birthdayfood_0720_25",
+    "resourceBoxId": 50015,
+    "startAt": 1752937200000,
+    "endAt": 1753541999000
+  },
+  {
     "id": 40016,
     "seq": 300611,
     "billingShopItemType": "value_set",
@@ -6051,8 +6118,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_birthdayfood_0624_25",
     "resourceBoxId": 50016,
-    "startAt": 1782226800000,
-    "endAt": 1782831599000
+    "startAt": 1750690800000,
+    "endAt": 1751295599000
   },
   {
     "id": 300000,
