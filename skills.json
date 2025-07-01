@@ -1906,7 +1906,7 @@
   },
   {
     "id": 22,
-    "description": "{{53;d}}초 동안 스코어가 {{53;v}}% 상승하며, 추가로 '{{0;c}}'의 캐릭터 랭크에 의해 {{54,103;r}}% 상승한다. (랭크 2마다 +1%, 현재의 합계 {{53,103;s}}%\/최대 {{53,103;v}}%)",
+    "description": "{{53;d}}초 동안 스코어가 {{53;v}}% 상승하며, 추가로 '{{0;c}}'의 캐릭터 랭크에 의해 {{54,103;r}}% 상승한다. (랭크 2마다 +1%, 현재의 합계 {{53,103;s}}%\/최대 {{53,103;v}}%까지 추가 가능함)",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
@@ -1949,6 +1949,7 @@
         "id": 54,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 2,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -1985,6 +1986,7 @@
         "id": 55,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 4,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2021,6 +2023,7 @@
         "id": 56,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 6,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2057,6 +2060,7 @@
         "id": 57,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 8,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2093,6 +2097,7 @@
         "id": 58,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 10,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2129,6 +2134,7 @@
         "id": 59,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 12,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2165,6 +2171,7 @@
         "id": 60,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 14,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2201,6 +2208,7 @@
         "id": 61,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 16,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2237,6 +2245,7 @@
         "id": 62,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 18,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2273,6 +2282,7 @@
         "id": 63,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 20,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2309,6 +2319,7 @@
         "id": 64,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 22,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2345,6 +2356,7 @@
         "id": 65,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 24,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2381,6 +2393,7 @@
         "id": 66,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 26,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2417,6 +2430,7 @@
         "id": 67,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 28,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2453,6 +2467,7 @@
         "id": 68,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 30,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2489,6 +2504,7 @@
         "id": 69,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 32,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2525,6 +2541,7 @@
         "id": 70,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 34,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2561,6 +2578,7 @@
         "id": 71,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 36,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2597,6 +2615,7 @@
         "id": 72,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 38,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2633,6 +2652,7 @@
         "id": 73,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 40,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2669,6 +2689,7 @@
         "id": 74,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 42,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2705,6 +2726,7 @@
         "id": 75,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 44,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2741,6 +2763,7 @@
         "id": 76,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 46,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2777,6 +2800,7 @@
         "id": 77,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 48,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2813,6 +2837,7 @@
         "id": 78,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 50,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2849,6 +2874,7 @@
         "id": 79,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 52,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2885,6 +2911,7 @@
         "id": 80,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 54,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2921,6 +2948,7 @@
         "id": 81,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 56,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2957,6 +2985,7 @@
         "id": 82,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 58,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -2993,6 +3022,7 @@
         "id": 83,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 60,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3029,6 +3059,7 @@
         "id": 84,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 62,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3065,6 +3096,7 @@
         "id": 85,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 64,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3101,6 +3133,7 @@
         "id": 86,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 66,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3137,6 +3170,7 @@
         "id": 87,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 68,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3173,6 +3207,7 @@
         "id": 88,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 70,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3209,6 +3244,7 @@
         "id": 89,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 72,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3245,6 +3281,7 @@
         "id": 90,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 74,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3281,6 +3318,7 @@
         "id": 91,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 76,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3317,6 +3355,7 @@
         "id": 92,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 78,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3353,6 +3392,7 @@
         "id": 93,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 80,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3389,6 +3429,7 @@
         "id": 94,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 82,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3425,6 +3466,7 @@
         "id": 95,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 84,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3461,6 +3503,7 @@
         "id": 96,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 86,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3497,6 +3540,7 @@
         "id": 97,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 88,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3533,6 +3577,7 @@
         "id": 98,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 90,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3569,6 +3614,7 @@
         "id": 99,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 92,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3605,6 +3651,7 @@
         "id": 100,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 94,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3641,6 +3688,7 @@
         "id": 101,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 96,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3677,6 +3725,7 @@
         "id": 102,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 98,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3713,6 +3762,7 @@
         "id": 103,
         "skillEffectType": "score_up_character_rank",
         "activateNotesJudgmentType": "good",
+        "activateCharacterRank": 100,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3749,7 +3799,7 @@
   },
   {
     "id": 23,
-    "description": "5초 동안 스코어가 {{104;v}}% 상승하며, 추가로 편성에서 무작위로 선정한 다른 멤버 1명의 스킬 스코어 상승 최대치의 {{105;v}}%만큼 상승한다.(최대 합계 {{104,105;o}}%)",
+    "description": "5초 동안 스코어가 {{104;v}}% 상승하며, 추가로 편성에서 무작위로 선정한 다른 멤버 1명의 스킬 스코어 상승 최대치의 {{105;v}}%만큼 상승한다.(최대 합계 {{104,105;o}}%까지 추가 가능함)",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
@@ -3827,7 +3877,7 @@
   },
   {
     "id": 24,
-    "description": "5초 동안 스코어가 {{106;v}}% 상승한다.\n자신과 다른 유닛을 1종류 편성할 때마다 스코어가 30% 상승하며, 최대 2종류까지 적용된다.(최대 {{106,108;u}}%)",
+    "description": "5초 동안 스코어가 {{106;v}}% 상승한다.\n자신과 다른 유닛을 1종류 편성할 때마다 스코어가 30% 상승하며, 최대 2종류까지 적용된다.(최대 {{106,108;u}}%까지 추가 가능함)",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
@@ -3870,6 +3920,7 @@
         "id": 107,
         "skillEffectType": "score_up_unit_count",
         "activateNotesJudgmentType": "good",
+        "activateUnitCount": 1,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
@@ -3906,6 +3957,7 @@
         "id": 108,
         "skillEffectType": "score_up_unit_count",
         "activateNotesJudgmentType": "good",
+        "activateUnitCount": 2,
         "conditionType": "equals_or_over",
         "skillEffectDetails": [
           {
