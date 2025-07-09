@@ -634,5 +634,47 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 49,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1752386400000,
+    "endAt": 1753189199000,
+    "episodes": [
+      {
+        "id": 54,
+        "specialStoryId": 49,
+        "episodeNo": 1,
+        "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー プロローグ",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1753189200000,
+    "endAt": 1753801199000,
+    "episodes": [
+      {
+        "id": 55,
+        "specialStoryId": 50,
+        "episodeNo": 1,
+        "title": "[プロセカ×あんさんぶるスターズ！！]コラボ記念ログインストーリー エピローグ",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]

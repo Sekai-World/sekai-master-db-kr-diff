@@ -3848,28 +3848,32 @@
             "level": 1,
             "activateEffectDuration": 5.0,
             "activateEffectValueType": "reference_rate",
-            "activateEffectValue": 50
+            "activateEffectValue": 50,
+            "activateEffectValue2": 60
           },
           {
             "id": 418,
             "level": 2,
             "activateEffectDuration": 5.0,
             "activateEffectValueType": "reference_rate",
-            "activateEffectValue": 50
+            "activateEffectValue": 50,
+            "activateEffectValue2": 65
           },
           {
             "id": 419,
             "level": 3,
             "activateEffectDuration": 5.0,
             "activateEffectValueType": "reference_rate",
-            "activateEffectValue": 50
+            "activateEffectValue": 50,
+            "activateEffectValue2": 70
           },
           {
             "id": 420,
             "level": 4,
             "activateEffectDuration": 5.0,
             "activateEffectValueType": "reference_rate",
-            "activateEffectValue": 50
+            "activateEffectValue": 50,
+            "activateEffectValue2": 70
           }
         ]
       }

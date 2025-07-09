@@ -5439,6 +5439,176 @@
     "virtualShopType": "event"
   },
   {
+    "id": 299,
+    "name": "第149回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 484,
+        "virtualShopId": 299,
+        "virtualShopItemType": "coordinate",
+        "seq": 99818,
+        "resourceBoxId": 380,
+        "costPaidJewel": 1000,
+        "startAt": 1763618400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 300,
+    "name": "第150回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 485,
+        "virtualShopId": 300,
+        "virtualShopItemType": "penlight",
+        "seq": 99902,
+        "resourceBoxId": 381,
+        "costPaidJewel": 1000,
+        "startAt": 1764482400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 301,
+    "name": "第151回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 486,
+        "virtualShopId": 301,
+        "virtualShopItemType": "penlight",
+        "seq": 99901,
+        "resourceBoxId": 382,
+        "costPaidJewel": 1000,
+        "startAt": 1765432800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 302,
+    "name": "第152回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 487,
+        "virtualShopId": 302,
+        "virtualShopItemType": "coordinate",
+        "seq": 99817,
+        "resourceBoxId": 383,
+        "costPaidJewel": 1000,
+        "startAt": 1766296800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 303,
+    "name": "第153回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 488,
+        "virtualShopId": 303,
+        "virtualShopItemType": "penlight",
+        "seq": 99900,
+        "resourceBoxId": 384,
+        "costPaidJewel": 1000,
+        "startAt": 1767160800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 304,
+    "name": "カウントダウンライブ\/ハッピーニューイヤーライブ",
+    "virtualShopItems": [
+      {
+        "id": 489,
+        "virtualShopId": 304,
+        "virtualShopItemType": "coordinate",
+        "seq": 99816,
+        "resourceBoxId": 385,
+        "costPaidJewel": 1000,
+        "startAt": 1767160800000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 305,
+    "name": "2025甘酒ショップ",
+    "virtualShopItems": [
+      {
+        "id": 490,
+        "virtualShopId": 305,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1767160800000,
+        "endAt": 1768111199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
+    "id": 308,
+    "name": "「Eコラボ」チケットショップ_物販",
+    "virtualShopItems": [
+      {
+        "id": 497,
+        "virtualShopId": 308,
+        "virtualShopItemType": "costume",
+        "seq": 99873,
+        "resourceBoxId": 392,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1752040800000,
+        "endAt": 1753941599000,
+        "limitValue": 1
+      },
+      {
+        "id": 498,
+        "virtualShopId": 308,
+        "virtualShopItemType": "costume",
+        "seq": 99874,
+        "resourceBoxId": 393,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1752040800000,
+        "endAt": 1753941599000,
+        "limitValue": 1
+      },
+      {
+        "id": 499,
+        "virtualShopId": 308,
+        "virtualShopItemType": "accessory",
+        "seq": 99875,
+        "resourceBoxId": 394,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1752040800000,
+        "endAt": 1753941599000,
+        "limitValue": 1
+      },
+      {
+        "id": 500,
+        "virtualShopId": 308,
+        "virtualShopItemType": "costume",
+        "seq": 99872,
+        "resourceBoxId": 395,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1752040800000,
+        "endAt": 1753941599000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 1001,
     "name": "春节2024",
     "virtualShopItems": [

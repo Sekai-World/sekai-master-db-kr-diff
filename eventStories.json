@@ -16536,7 +16536,7 @@
         "id": 1001093,
         "eventStoryId": 135,
         "episodeNo": 5,
-        "title": "나의 이기심",
+        "title": "나의 고집 ",
         "assetbundleName": "event_overrad_2024_05",
         "scenarioId": "event_135_05",
         "releaseConditionId": 113404,
@@ -16699,7 +16699,7 @@
         "id": 1001104,
         "eventStoryId": 136,
         "episodeNo": 8,
-        "title": "정신력, 기술, 체력",
+        "title": "마음, 기술, 몸",
         "assetbundleName": "event_torimonothou_2024_08",
         "scenarioId": "event_136_08",
         "releaseConditionId": 113507,
@@ -18318,6 +18318,611 @@
         "episodeRewards": [
           {
             "resourceBoxId": 101
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "eventId": 149,
+    "outline": "드디어 마지막 수행을 하러 '모리노미야 가극단'에 가게 된 네네와 멤버들. 네네는 이곳에서도 좋은 경험을 쌓고 성장하겠다는 의욕을 불태우지만, 남녀로 팀이 분리되고 에무가 운영을 배우러 가게 되는 바람에 혼자서 연습에 참여하게 되는데……?!",
+    "bannerGameCharacterUnitId": 15,
+    "assetbundleName": "event_regret_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001211,
+        "eventStoryId": 149,
+        "episodeNo": 1,
+        "title": "간다! 모리노미야 가극단!",
+        "assetbundleName": "event_regret_2024_01",
+        "scenarioId": "event_149_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001212,
+        "eventStoryId": 149,
+        "episodeNo": 2,
+        "title": "모리노미야 음악 학원",
+        "assetbundleName": "event_regret_2024_02",
+        "scenarioId": "event_149_02",
+        "releaseConditionId": 114801,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001213,
+        "eventStoryId": 149,
+        "episodeNo": 3,
+        "title": "혼자서 도전하는 오디션",
+        "assetbundleName": "event_regret_2024_03",
+        "scenarioId": "event_149_03",
+        "releaseConditionId": 114802,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001214,
+        "eventStoryId": 149,
+        "episodeNo": 4,
+        "title": "긴장감이 감도는 분위기",
+        "assetbundleName": "event_regret_2024_04",
+        "scenarioId": "event_149_04",
+        "releaseConditionId": 114803,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001215,
+        "eventStoryId": 149,
+        "episodeNo": 5,
+        "title": "탈락자",
+        "assetbundleName": "event_regret_2024_05",
+        "scenarioId": "event_149_05",
+        "releaseConditionId": 114804,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001216,
+        "eventStoryId": 149,
+        "episodeNo": 6,
+        "title": "부딪칠 각오",
+        "assetbundleName": "event_regret_2024_06",
+        "scenarioId": "event_149_06",
+        "releaseConditionId": 114805,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001217,
+        "eventStoryId": 149,
+        "episodeNo": 7,
+        "title": "마지막 날",
+        "assetbundleName": "event_regret_2024_07",
+        "scenarioId": "event_149_07",
+        "releaseConditionId": 114806,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001218,
+        "eventStoryId": 149,
+        "episodeNo": 8,
+        "title": "진심이기에 더욱",
+        "assetbundleName": "event_regret_2024_08",
+        "scenarioId": "event_149_08",
+        "releaseConditionId": 114807,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 102
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "eventId": 150,
+    "outline": "文化祭以降、瑞希と連絡が取れず、会うこともできていない絵名。『あの時』のことを後悔し、悩みながらも「会ってもう一度話がしたい」という想いで瑞希を探すが——。",
+    "bannerGameCharacterUnitId": 19,
+    "assetbundleName": "event_scratch_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001219,
+        "eventStoryId": 150,
+        "episodeNo": 1,
+        "title": "後悔",
+        "assetbundleName": "event_scratch_2024_01",
+        "scenarioId": "event_150_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001220,
+        "eventStoryId": 150,
+        "episodeNo": 2,
+        "title": "託された願い",
+        "assetbundleName": "event_scratch_2024_02",
+        "scenarioId": "event_150_02",
+        "releaseConditionId": 114901,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001221,
+        "eventStoryId": 150,
+        "episodeNo": 3,
+        "title": "迷う心",
+        "assetbundleName": "event_scratch_2024_03",
+        "scenarioId": "event_150_03",
+        "releaseConditionId": 114902,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001222,
+        "eventStoryId": 150,
+        "episodeNo": 4,
+        "title": "信じたい未来",
+        "assetbundleName": "event_scratch_2024_04",
+        "scenarioId": "event_150_04",
+        "releaseConditionId": 114903,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001223,
+        "eventStoryId": 150,
+        "episodeNo": 5,
+        "title": "仲間だから",
+        "assetbundleName": "event_scratch_2024_05",
+        "scenarioId": "event_150_05",
+        "releaseConditionId": 114904,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001224,
+        "eventStoryId": 150,
+        "episodeNo": 6,
+        "title": "怖い",
+        "assetbundleName": "event_scratch_2024_06",
+        "scenarioId": "event_150_06",
+        "releaseConditionId": 114905,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001225,
+        "eventStoryId": 150,
+        "episodeNo": 7,
+        "title": "逃走",
+        "assetbundleName": "event_scratch_2024_07",
+        "scenarioId": "event_150_07",
+        "releaseConditionId": 114906,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001226,
+        "eventStoryId": 150,
+        "episodeNo": 8,
+        "title": "友達",
+        "assetbundleName": "event_scratch_2024_08",
+        "scenarioId": "event_150_08",
+        "releaseConditionId": 114907,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 103
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "eventId": 151,
+    "outline": "相変わらず仕事の依頼が来ないMORE MORE JUMP！。そんな中、雫宛てに１件のメールが届く。それは、大手化粧品メーカー『グラン・フルール』のCM出演をかけたオーディションの案内で——。",
+    "bannerGameCharacterUnitId": 8,
+    "assetbundleName": "event_grow_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001227,
+        "eventStoryId": 151,
+        "episodeNo": 1,
+        "title": "舞い込んだチャンス",
+        "assetbundleName": "event_grow_2024_01",
+        "scenarioId": "event_151_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001228,
+        "eventStoryId": 151,
+        "episodeNo": 2,
+        "title": "圧倒的な光",
+        "assetbundleName": "event_grow_2024_02",
+        "scenarioId": "event_151_02",
+        "releaseConditionId": 115001,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001229,
+        "eventStoryId": 151,
+        "episodeNo": 3,
+        "title": "大きな差",
+        "assetbundleName": "event_grow_2024_03",
+        "scenarioId": "event_151_03",
+        "releaseConditionId": 115002,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001230,
+        "eventStoryId": 151,
+        "episodeNo": 4,
+        "title": "高みの覚悟",
+        "assetbundleName": "event_grow_2024_04",
+        "scenarioId": "event_151_04",
+        "releaseConditionId": 115003,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001231,
+        "eventStoryId": 151,
+        "episodeNo": 5,
+        "title": "あの頃の私は",
+        "assetbundleName": "event_grow_2024_05",
+        "scenarioId": "event_151_05",
+        "releaseConditionId": 115004,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001232,
+        "eventStoryId": 151,
+        "episodeNo": 6,
+        "title": "かつての面影",
+        "assetbundleName": "event_grow_2024_06",
+        "scenarioId": "event_151_06",
+        "releaseConditionId": 115005,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001233,
+        "eventStoryId": 151,
+        "episodeNo": 7,
+        "title": "オーラ",
+        "assetbundleName": "event_grow_2024_07",
+        "scenarioId": "event_151_07",
+        "releaseConditionId": 115006,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001234,
+        "eventStoryId": 151,
+        "episodeNo": 8,
+        "title": "たしかな一歩",
+        "assetbundleName": "event_grow_2024_08",
+        "scenarioId": "event_151_08",
+        "releaseConditionId": 115007,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 104
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "eventId": 152,
+    "outline": "クリスマスも近づくある日、「ゲレンデのクリスマスショー」の演出依頼が舞い込み、久々に脚本を手掛けることになった類。今回のショーは、子供の頃の類がクリスマスに経験したことが元になっているようで……？",
+    "bannerGameCharacterUnitId": 16,
+    "assetbundleName": "event_specialpresent_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001235,
+        "eventStoryId": 152,
+        "episodeNo": 1,
+        "title": "クリスマスの予定は",
+        "assetbundleName": "event_specialpresent_2024_01",
+        "scenarioId": "event_152_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001236,
+        "eventStoryId": 152,
+        "episodeNo": 2,
+        "title": "楽しみな理由は？",
+        "assetbundleName": "event_specialpresent_2024_02",
+        "scenarioId": "event_152_02",
+        "releaseConditionId": 115101,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001237,
+        "eventStoryId": 152,
+        "episodeNo": 3,
+        "title": "ゲレンデでこんにちは",
+        "assetbundleName": "event_specialpresent_2024_03",
+        "scenarioId": "event_152_03",
+        "releaseConditionId": 115102,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001238,
+        "eventStoryId": 152,
+        "episodeNo": 4,
+        "title": "いつかのクリスマス",
+        "assetbundleName": "event_specialpresent_2024_04",
+        "scenarioId": "event_152_04",
+        "releaseConditionId": 115103,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001239,
+        "eventStoryId": 152,
+        "episodeNo": 5,
+        "title": "最高のショーのために",
+        "assetbundleName": "event_specialpresent_2024_05",
+        "scenarioId": "event_152_05",
+        "releaseConditionId": 115104,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001240,
+        "eventStoryId": 152,
+        "episodeNo": 6,
+        "title": "みんなでランタン作り！",
+        "assetbundleName": "event_specialpresent_2024_06",
+        "scenarioId": "event_152_06",
+        "releaseConditionId": 115105,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001241,
+        "eventStoryId": 152,
+        "episodeNo": 7,
+        "title": "ショーという名のプレゼント",
+        "assetbundleName": "event_specialpresent_2024_07",
+        "scenarioId": "event_152_07",
+        "releaseConditionId": 115106,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001242,
+        "eventStoryId": 152,
+        "episodeNo": 8,
+        "title": "楽しんでくれた君達に",
+        "assetbundleName": "event_specialpresent_2024_08",
+        "scenarioId": "event_152_08",
+        "releaseConditionId": 115107,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 105
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "eventId": 153,
+    "outline": "アメリカ行きが目前に迫り、練習にも力が入る彰人。久しぶりの休みということで元日に出かけた彰人だが、そこでとある人物と偶然会うことになり……？",
+    "bannerGameCharacterUnitId": 11,
+    "assetbundleName": "event_unfading_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001243,
+        "eventStoryId": 153,
+        "episodeNo": 1,
+        "title": "いつも通りの大晦日",
+        "assetbundleName": "event_unfading_2024_01",
+        "scenarioId": "event_153_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001244,
+        "eventStoryId": 153,
+        "episodeNo": 2,
+        "title": "お正月配信に向けて！",
+        "assetbundleName": "event_unfading_2024_02",
+        "scenarioId": "event_153_02",
+        "releaseConditionId": 115201,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001245,
+        "eventStoryId": 153,
+        "episodeNo": 3,
+        "title": "まさかの遭遇",
+        "assetbundleName": "event_unfading_2024_03",
+        "scenarioId": "event_153_03",
+        "releaseConditionId": 115202,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001246,
+        "eventStoryId": 153,
+        "episodeNo": 4,
+        "title": "思い起こすはあの日の",
+        "assetbundleName": "event_unfading_2024_04",
+        "scenarioId": "event_153_04",
+        "releaseConditionId": 115203,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001247,
+        "eventStoryId": 153,
+        "episodeNo": 5,
+        "title": "親友として",
+        "assetbundleName": "event_unfading_2024_05",
+        "scenarioId": "event_153_05",
+        "releaseConditionId": 115204,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001248,
+        "eventStoryId": 153,
+        "episodeNo": 6,
+        "title": "お互いに感謝を",
+        "assetbundleName": "event_unfading_2024_06",
+        "scenarioId": "event_153_06",
+        "releaseConditionId": 115205,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001249,
+        "eventStoryId": 153,
+        "episodeNo": 7,
+        "title": "元日の締めくくりは",
+        "assetbundleName": "event_unfading_2024_07",
+        "scenarioId": "event_153_07",
+        "releaseConditionId": 115206,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001250,
+        "eventStoryId": 153,
+        "episodeNo": 8,
+        "title": "エールを胸に",
+        "assetbundleName": "event_unfading_2024_08",
+        "scenarioId": "event_153_08",
+        "releaseConditionId": 115207,
+        "episodeRewards": [
+          {
+            "resourceBoxId": 106
           }
         ]
       }

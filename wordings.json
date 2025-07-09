@@ -208,6 +208,10 @@
     "value": "GB"
   },
   {
+    "wordingKey": "GOOGLE_POINTS_PRESENT_REASON",
+    "value": "GooglePlay 포인트로 교환한 보상입니다."
+  },
+  {
     "wordingKey": "HARD",
     "value": "HARD"
   },
@@ -694,6 +698,10 @@
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_CONFIRM",
     "value": "{0}x{1}\n\n이 보상을 받으시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_CONFIRM_NO_COUNT",
+    "value": "{0}\n이 보상을 받으시겠습니까?"
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_INFO",
@@ -2768,6 +2776,10 @@
     "value": "아직 수령하지 않은 보너스 미션 보상을 획득했습니다."
   },
   {
+    "wordingKey": "MSG_RECEIVE_LIMIT_MISSION_EXPIRED_REWARD",
+    "value": "아직 수령하지 않은 보너스 미션 보상을 획득했습니다."
+  },
+  {
     "wordingKey": "MSG_RECOLLECTION_APPEAL_SELECT_CARD",
     "value": "이번에 뽑기 보너스 {0} 달성!\n보너스 멤버를 선택해 주세요."
   },
@@ -3606,6 +3618,10 @@
   {
     "wordingKey": "MUSIC_ACHIEVEMENTS_REWARD_CLEAR",
     "value": "달성 보상"
+  },
+  {
+    "wordingKey": "MUTE_DIALOG_TEXT",
+    "value": "채팅이 금지되어 메시지를 보낼 수 없습니다. %s 후에 다시 시도해 주세요."
   },
   {
     "wordingKey": "NORMAL",
@@ -4774,6 +4790,10 @@
   {
     "wordingKey": "WORD_CAN_ENTRY_OFFLINE_EVENT_DIALOG_TITLE",
     "value": "확인"
+  },
+  {
+    "wordingKey": "WORD_CAN_GET",
+    "value": "획득 시 오픈"
   },
   {
     "wordingKey": "WORD_CAPACITY_SETTING",
@@ -12576,12 +12596,20 @@
     "value": "어나더 보컬\n 상점으로 이동"
   },
   {
+    "wordingKey": "WORD_GO_ARCHIVE_EVENT",
+    "value": "스토리로 이동"
+  },
+  {
     "wordingKey": "WORD_GO_AREA",
     "value": "에어리어로 이동"
   },
   {
     "wordingKey": "WORD_GO_AREA_SHOP",
     "value": "에어리어 상점으로 이동"
+  },
+  {
+    "wordingKey": "WORD_GO_BOOST_RECOVERY",
+    "value": "라이브 에너지 설정으로 이동"
   },
   {
     "wordingKey": "WORD_GO_CARD_LEVEL_UP",
@@ -12614,6 +12642,10 @@
   {
     "wordingKey": "WORD_GO_EVENT_EXCHANGE",
     "value": "교환소로 이동"
+  },
+  {
+    "wordingKey": "WORD_GO_EVENT_MISSION",
+    "value": "미션으로 이동"
   },
   {
     "wordingKey": "WORD_GO_EXCHANGE",
@@ -12656,6 +12688,10 @@
     "value": "멤버 목록으로 이동"
   },
   {
+    "wordingKey": "WORD_GO_MEMBER_TOP",
+    "value": "멤버로 이동"
+  },
+  {
     "wordingKey": "WORD_GO_MULTI_LIVE",
     "value": "멀티 라이브로 이동"
   },
@@ -12668,8 +12704,16 @@
     "value": "MV 시청으로"
   },
   {
+    "wordingKey": "WORD_GO_MYLIST",
+    "value": "악곡 마이 리스트로 이동"
+  },
+  {
     "wordingKey": "WORD_GO_PRACTICE",
     "value": "연습으로 이동"
+  },
+  {
+    "wordingKey": "WORD_GO_PRESENT",
+    "value": "선물 상자로 이동"
   },
   {
     "wordingKey": "WORD_GO_PROFILE",
@@ -12734,6 +12778,14 @@
   {
     "wordingKey": "WORD_GO_WAITING_ROOM",
     "value": "대기실로"
+  },
+  {
+    "wordingKey": "Word_GPFail",
+    "value": "교환 실패"
+  },
+  {
+    "wordingKey": "Word_GPMessage",
+    "value": "GooglePlay 포인트 교환 성공! 현재 계정으로 수령하시겠습니까?"
   },
   {
     "wordingKey": "WORD_GRATE_FORTUNE",
@@ -13296,8 +13348,16 @@
     "value": "기간 한정 오픈 중"
   },
   {
+    "wordingKey": "WORD_LIMIT_MISSION_COMPLETE_REWARD",
+    "value": "보너스 미션 컴플리트 보상"
+  },
+  {
     "wordingKey": "WORD_LIMIT_MISSION_TIME",
     "value": "{0}까지"
+  },
+  {
+    "wordingKey": "WORD_LIMIT_MISSION_TIP",
+    "value": "한정 미션"
   },
   {
     "wordingKey": "WORD_LINE_SPACE",
@@ -14684,6 +14744,10 @@
     "value": "MV 시청"
   },
   {
+    "wordingKey": "Word_MyListOverwriteNotice",
+    "value": "악곡 리스트를 커버하시겠습니까?"
+  },
+  {
     "wordingKey": "WORD_MYLIST_MUSIC_NUM",
     "value": "악곡 수"
   },
@@ -15164,6 +15228,10 @@
     "value": "유료"
   },
   {
+    "wordingKey": "WORD_PAID_CHARGE_TIP",
+    "value": "유료"
+  },
+  {
     "wordingKey": "WORD_PAID_JEWEL",
     "value": "유료 크리스탈"
   },
@@ -15378,6 +15446,50 @@
   {
     "wordingKey": "WORD_PLAY_LIST_BIRTHDAY_ARCHIVE",
     "value": "생일\n기념일"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_IMPORT",
+    "value": "가져오기"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_IsNull",
+    "value": "악곡 리스트가 비어 있어 공유할 수 없습니다."
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD",
+    "value": "플레이리스트 가져오기"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD_DEFAULT",
+    "value": "플레이리스트 가져오기를 실패했어요."
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD_DETAIL",
+    "value": "플레이리스트를 가져왔어요."
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD_NOUSE",
+    "value": "플레이리스트 공유 코드가 유효하지 않으니 다시 가져와 주세요."
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_LOAD_SAME",
+    "value": "기존의 플레이리스트는 중복해서 가져오기 불가해요."
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_NOMUSIC",
+    "value": "악곡 리스트에 미해제 악곡이 포함되어 있으니, 악곡을 구매한 후 다시 넣어 주세요."
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_SHARE",
+    "value": "플레이리스트 공유하기"
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_SHARE_DETAIL",
+    "value": "플레이리스트 공유 코드가 생성되어 클립보드에 자동 저장되었어요."
+  },
+  {
+    "wordingKey": "WORD_PLAY_LIST_SHARE_NOUSE",
+    "value": "이 플레이리스트는 현재 사용 불가능하니 편집 후 다시 공유해 주세요."
   },
   {
     "wordingKey": "WORD_PLAY_MUSIC_VIDEO_FROM_EVENT_STORY",
@@ -16680,6 +16792,10 @@
     "value": "특훈 완료"
   },
   {
+    "wordingKey": "WORD_SPLIT_CHAR",
+    "value": "「{0}」"
+  },
+  {
     "wordingKey": "WORD_SPRING_EVENT",
     "value": "설날 이벤트"
   },
@@ -16773,7 +16889,7 @@
   },
   {
     "wordingKey": "WORD_STARTDASH",
-    "value": "스타트\n대시"
+    "value": "「세카이」 입주 퀘스트"
   },
   {
     "wordingKey": "WORD_START_CHEERFUL_CARNIVAL_EVENT_ANNOUNCE_TITLE",
@@ -16890,6 +17006,14 @@
   {
     "wordingKey": "WORD_SUDOKU",
     "value": "초보자 응원 미션!"
+  },
+  {
+    "wordingKey": "WORD_SUDOKU_GO_CN",
+    "value": "이동하기"
+  },
+  {
+    "wordingKey": "WORD_SUDOKU_MISSION_PROGRESS",
+    "value": "（{0}\/{1}）"
   },
   {
     "wordingKey": "WORD_SUDOKU_TIP",
@@ -17246,6 +17370,18 @@
   {
     "wordingKey": "WORD_TURN_INFO",
     "value": "초보자 미션 라운드 {0}"
+  },
+  {
+    "wordingKey": "WORD_TURN_INFO_SCH_CN",
+    "value": "「세카이」 입주 퀘스트"
+  },
+  {
+    "wordingKey": "WORD_TURN_REWARD_CN",
+    "value": "{0}라운드 추가 보상"
+  },
+  {
+    "wordingKey": "WORD_TURN_STG_CN",
+    "value": "{0}라운드 완료"
   },
   {
     "wordingKey": "WORD_TWITTER",
