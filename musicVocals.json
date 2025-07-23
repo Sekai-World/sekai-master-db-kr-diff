@@ -28504,6 +28504,48 @@
     "archivePublishedAt": 1750744800000
   },
   {
+    "id": 1072,
+    "musicId": 515,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 1940,
+        "musicId": 515,
+        "musicVocalId": 1072,
+        "characterType": "outside_character",
+        "characterId": 24,
+        "seq": 5150
+      }
+    ],
+    "assetbundleName": "vs_0515_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1754200800000
+  },
+  {
+    "id": 1076,
+    "musicId": 519,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 1944,
+        "musicId": 519,
+        "musicVocalId": 1076,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5190
+      }
+    ],
+    "assetbundleName": "vs_0519_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1755928800000
+  },
+  {
     "id": 1081,
     "musicId": 524,
     "musicVocalType": "original_song",
@@ -28523,6 +28565,27 @@
     "assetbundleName": "vs_0524_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1758348000000
+  },
+  {
+    "id": 1082,
+    "musicId": 525,
+    "musicVocalType": "original_song",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 1950,
+        "musicId": 525,
+        "musicVocalId": 1082,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 5250
+      }
+    ],
+    "assetbundleName": "vs_0525_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1756533600000
   },
   {
     "id": 1093,
@@ -34320,6 +34383,67 @@
     "archivePublishedAt": 1674140400000
   },
   {
+    "id": 1581,
+    "musicId": 536,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "세카이 ver.",
+    "characters": [
+      {
+        "id": 2981,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 23,
+        "seq": 5361
+      },
+      {
+        "id": 2982,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 5362
+      },
+      {
+        "id": 2983,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 5363
+      },
+      {
+        "id": 2984,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 5364
+      },
+      {
+        "id": 2985,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 13,
+        "seq": 5365
+      },
+      {
+        "id": 2986,
+        "musicId": 536,
+        "musicVocalId": 1581,
+        "characterType": "game_character",
+        "characterId": 16,
+        "seq": 5366
+      }
+    ],
+    "assetbundleName": "se_0536_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1753768800000
+  },
+  {
     "id": 10001,
     "musicId": 10001,
     "musicVocalType": "virtual_singer",
@@ -34364,7 +34488,7 @@
   {
     "id": 10003,
     "musicId": 10003,
-    "musicVocalType": "original_song",
+    "musicVocalType": "virtual_singer",
     "seq": 101,
     "releaseConditionId": 5,
     "caption": "버추얼 싱어 ver.",
@@ -34385,7 +34509,7 @@
   {
     "id": 10004,
     "musicId": 10004,
-    "musicVocalType": "original_song",
+    "musicVocalType": "virtual_singer",
     "seq": 101,
     "releaseConditionId": 5,
     "caption": "버추얼 싱어 ver.",
@@ -34406,7 +34530,7 @@
   {
     "id": 10005,
     "musicId": 10005,
-    "musicVocalType": "original_song",
+    "musicVocalType": "virtual_singer",
     "seq": 101,
     "releaseConditionId": 5,
     "caption": "버추얼 싱어 ver.",
@@ -34431,5 +34555,84 @@
     "assetbundleName": "vs_10005_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1748152800000
+  },
+  {
+    "id": 10006,
+    "musicId": 10006,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 10007,
+        "musicId": 10006,
+        "musicVocalId": 10006,
+        "characterType": "outside_character",
+        "characterId": 1002,
+        "seq": 100070
+      },
+      {
+        "id": 10008,
+        "musicId": 10006,
+        "musicVocalId": 10006,
+        "characterType": "outside_character",
+        "characterId": 1001,
+        "seq": 100080
+      }
+    ],
+    "assetbundleName": "vs_10006_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1753423200000
+  },
+  {
+    "id": 10007,
+    "musicId": 10007,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 10009,
+        "musicId": 10007,
+        "musicVocalId": 10007,
+        "characterType": "outside_character",
+        "characterId": 1002,
+        "seq": 100090
+      },
+      {
+        "id": 10010,
+        "musicId": 10007,
+        "musicVocalId": 10007,
+        "characterType": "outside_character",
+        "characterId": 1001,
+        "seq": 100100
+      }
+    ],
+    "assetbundleName": "vs_10007_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1755237600000
+  },
+  {
+    "id": 10008,
+    "musicId": 10008,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 10011,
+        "musicId": 10008,
+        "musicVocalId": 10008,
+        "characterType": "outside_character",
+        "characterId": 1002,
+        "seq": 100110
+      }
+    ],
+    "assetbundleName": "vs_10008_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1756447200000
   }
 ]
