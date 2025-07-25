@@ -34571,14 +34571,6 @@
         "characterType": "outside_character",
         "characterId": 1002,
         "seq": 100070
-      },
-      {
-        "id": 10008,
-        "musicId": 10006,
-        "musicVocalId": 10006,
-        "characterType": "outside_character",
-        "characterId": 1001,
-        "seq": 100080
       }
     ],
     "assetbundleName": "vs_10006_01",
@@ -34594,20 +34586,20 @@
     "caption": "버추얼 싱어 ver.",
     "characters": [
       {
+        "id": 10008,
+        "musicId": 10007,
+        "musicVocalId": 10007,
+        "characterType": "outside_character",
+        "characterId": 1001,
+        "seq": 100080
+      },
+      {
         "id": 10009,
         "musicId": 10007,
         "musicVocalId": 10007,
         "characterType": "outside_character",
         "characterId": 1002,
         "seq": 100090
-      },
-      {
-        "id": 10010,
-        "musicId": 10007,
-        "musicVocalId": 10007,
-        "characterType": "outside_character",
-        "characterId": 1001,
-        "seq": 100100
       }
     ],
     "assetbundleName": "vs_10007_01",
@@ -34622,6 +34614,14 @@
     "releaseConditionId": 5,
     "caption": "버추얼 싱어 ver.",
     "characters": [
+      {
+        "id": 10010,
+        "musicId": 10008,
+        "musicVocalId": 10008,
+        "characterType": "outside_character",
+        "characterId": 1001,
+        "seq": 100100
+      },
       {
         "id": 10011,
         "musicId": 10008,
