@@ -3137,7 +3137,7 @@
   },
   {
     "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
-    "value": "스탬프 카드 설정이 완료되지 않았습니다.\n 스탬프 미션은 스탬프 카드 3장을 선택해\n '미션 스타트'를 누르면 시작할 수 있습니다.\n 스탬프 카드를 나중에 설정하시겠습니까?\n \n <color=#ff5588>※스탬프 카드는 '미션 스타트'를 누르기 전까지\n 몇 번이든 변경할 수 있습니다.<\/color>"
+    "value": "스탬프 카드 설정이 완료되지 않았습니다.\n스탬프 미션은 스탬프 카드 1장을 선택해\n '미션 스타트'를 누르면 시작할 수 있습니다.\n스탬프 카드를 나중에 설정하시겠습니까?\n \n <color=#ff5588>※스탬프 카드는 '미션 스타트'를 누르기 전까지\n 몇 번이든 변경할 수 있습니다.<\/color>"
   },
   {
     "wordingKey": "MSG_STAMP_CARD_CHOOSE_TO_REQUEST",
@@ -3513,7 +3513,7 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
-    "value": "에게 착용시킬 수 있습니다."
+    "value": "해당 캐리터에게 착용시킬 수 있습니다."
   },
   {
     "wordingKey": "MSG_WEAR_COSTUME_BOUGHT",
@@ -13652,6 +13652,10 @@
     "value": "로그인에 실패하였습니다. 다시 시도해 주세요."
   },
   {
+    "wordingKey": "Word_Login_Monthly",
+    "value": "이달의 로그인 보너스"
+  },
+  {
     "wordingKey": "WORD_LOGPOUT",
     "value": "계정 삭제"
   },
@@ -16982,10 +16986,6 @@
   {
     "wordingKey": "WORD_STREAMING_LIVE_RE_ENTER_TITLE",
     "value": "재입장 확인"
-  },
-  {
-    "wordingKey": "WORD_STREAMING_LIVE_SHOP_CONFIRM_DUPLICATE",
-    "value": "이미 구매한 스페셜 굿즈 세트가 포함되어 있습니다.\n세트에 포함된 다음 굿즈는n다시 구매해도 중복 획득할 수 없습니다."
   },
   {
     "wordingKey": "WORD_STREAMING_LIVE_TICKET_PURCHASED",

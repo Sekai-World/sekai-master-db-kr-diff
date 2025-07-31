@@ -5328,6 +5328,147 @@
     ]
   },
   {
+    "id": 9,
+    "name": "[페르소나 5 더 로열 컬래버레이션 기념] 스탬프 미션",
+    "assetbundleName": "persona5royal_collab_2025_pm",
+    "bgmAssetbundleName": "persona5royal_collab_2025_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1754276400000,
+    "progressEndAt": 1755097199000,
+    "closedAt": 1755097199000,
+    "distributionEndAt": 1756306799000,
+    "informationId": 1978,
+    "panelMissionSheetGroups": [
+      {
+        "id": 901,
+        "panelMissionCampaignId": 9,
+        "name": "컬래버레이션",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 90101,
+            "panelMissionSheetGroupId": 901,
+            "name": "컬래버레이션 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_persona5royal_collab",
+            "panelMissions": [
+              {
+                "id": 9010101,
+                "panelMissionSheetId": 90101,
+                "name": "악곡\n'Life Will Change'를\n1회 클리어",
+                "description": "악곡 'Life Will Change'를 1회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010102,
+                "panelMissionSheetId": 90101,
+                "name": "3종류의 악곡\n클리어",
+                "description": "3종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010103,
+                "panelMissionSheetId": 90101,
+                "name": "5종류의 악곡\n클리어",
+                "description": "5종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010104,
+                "panelMissionSheetId": 90101,
+                "name": "10종류의 악곡\n클리어",
+                "description": "10종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010105,
+                "panelMissionSheetId": 90101,
+                "name": "15종류의 악곡\n클리어",
+                "description": "15종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010106,
+                "panelMissionSheetId": 90101,
+                "name": "20종류의 악곡\n클리어",
+                "description": "20종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              },
+              {
+                "id": 9010107,
+                "panelMissionSheetId": 90101,
+                "name": "25종류의 악곡\n클리어",
+                "description": "25종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1767
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1768
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 101,
     "name": "2주년 기념 애니버서리 스탬프 미션",
     "assetbundleName": "2nd_anniv_pm",
