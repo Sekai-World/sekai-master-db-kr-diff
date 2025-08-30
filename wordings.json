@@ -2604,6 +2604,10 @@
     "value": "뽑기를 1회 이용할 때마다 각종 아이템을 상품으로 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 개별 추첨을 진행합니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득할 수 있는 '[4주년 기념] 블룸 페스티벌 뽑기 전용 티켓'은 9월 30일 12시 개최 예정인 '[4주년 기념] 블룸 페스티벌 뽑기 드림 픽'에서만 사용할 수 있는 뽑기 티켓입니다. 아울러 개최 기한이 지나면 '[4주년 기념] 블룸 페스티벌 뽑기 전용 티켓'은 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득할 수 있는 '[4주년 기념] 10회 연속 무료 뽑기 티켓'은 9월 30일 12시 개최 예정인 '[4주년 기념] 10회 연속 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 아울러 개최 기한이 지난 경우 '[4주년 기념] 10회 연속 무료 뽑기 티켓'은 이용할 수 없으니 주의하시기 바랍니다."
   },
   {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_2",
+    "value": "뽑기를 1회 이용할 때마다 각종 아이템을 상품으로 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 개별 추첨을 진행합니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득할 수 있는 '[2025 새해맞이] 블룸 페스티벌 뽑기 전용 티켓'은 '[2025 새해맞이] 블룸 페스티벌 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 아울러 개최 기한이 지나면 '[2025 새해맞이] 블룸 페스티벌 뽑기 전용 티켓'은 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득할 수 있는 '[2025 새해맞이] 설날 무료 뽑기 티켓'은 '[2025 새해맞이] 설날 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 아울러 개최 기한이 지난 경우 '[2025 새해맞이] 설날 무료 뽑기 티켓'은 이용할 수 없으니 주의하시기 바랍니다."
+  },
+  {
     "wordingKey": "MSG_PRODUCT_IS_PENDING",
     "value": "결제가 완료되지 않은 상품이 있어 상품을 구매할 수 없습니다."
   },
@@ -3513,7 +3517,7 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
-    "value": "해당 캐리터에게 착용시킬 수 있습니다."
+    "value": " 해당 캐릭터에게 착용시킬 수 있습니다."
   },
   {
     "wordingKey": "MSG_WEAR_COSTUME_BOUGHT",
@@ -4738,6 +4742,14 @@
   {
     "wordingKey": "WORD_BROWSED",
     "value": "열람 완료"
+  },
+  {
+    "wordingKey": "WORD_BTN_PV",
+    "value": "유닛 PV"
+  },
+  {
+    "wordingKey": "WORD_BTN_RELATION",
+    "value": "관계도"
   },
   {
     "wordingKey": "WORD_BUG",
@@ -11528,6 +11540,10 @@
     "value": "네트워크 끊김"
   },
   {
+    "wordingKey": "WORD_DISCOUNT_SPLITCHAR",
+    "value": " → "
+  },
+  {
     "wordingKey": "WORD_DISPLAY_DIFFICULTY",
     "value": "표시 난이도"
   },
@@ -12660,6 +12676,10 @@
     "value": "뽑기로 이동"
   },
   {
+    "wordingKey": "WORD_GO_GET",
+    "value": "획득하기"
+  },
+  {
     "wordingKey": "WORD_GO_LIVE",
     "value": "라이브로 이동"
   },
@@ -12902,6 +12922,10 @@
   {
     "wordingKey": "WORD_GUIDE_ALPHA",
     "value": "가이드 불투명도"
+  },
+  {
+    "wordingKey": "WORD_GUIDE_URL",
+    "value": "https:\/\/www.kr-pjsekai.com\/faq.html"
   },
   {
     "wordingKey": "WORD_HAIR",
@@ -15516,6 +15540,10 @@
     "value": "'12:00 ~ 23:59',"
   },
   {
+    "wordingKey": "WORD_POINT_EXCHANGE",
+    "value": "교환"
+  },
+  {
     "wordingKey": "Word_PolicyUpdateContent",
     "value": "더 나은 서비스를 위해 이용약관과 개인정보처리방침을 업데이트했습니다. 업데이트된 내용은 타이틀 화면에서 확인해 주세요."
   },
@@ -16294,6 +16322,22 @@
   {
     "wordingKey": "WORD_SEE_CONTENT",
     "value": "내용 확인"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_ECHO",
+    "value": "사이드 스토리 보기"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_ECHO_CARD_MISSION",
+    "value": "이벤트 카드 미션"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_ECHO_MISSION",
+    "value": "에코 스토리 미션"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_ECHO_STAMP",
+    "value": "이벤트 스탬프"
   },
   {
     "wordingKey": "WORD_SEKAI_VERSION",

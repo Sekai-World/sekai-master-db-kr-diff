@@ -47,63 +47,52 @@
     "endAt": 4083890399000
   },
   {
-    "homeBannerId": 837,
-    "seq": 150,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha539",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 539,
-    "startAt": 1752548400000,
-    "endAt": 1753326000000
-  },
-  {
-    "homeBannerId": 838,
-    "seq": 155,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha540",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 540,
-    "startAt": 1752548400000,
-    "endAt": 1753326000000
-  },
-  {
-    "homeBannerId": 839,
+    "homeBannerId": 856,
     "seq": 180,
     "homeBannerType": "event",
-    "assetbundleName": "event_nightsky_2024",
+    "assetbundleName": "event_beginning_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 137,
-    "startAt": 1752750000000,
-    "endAt": 1753941600000
+    "transitionDestinationId": 140,
+    "startAt": 1755428400000,
+    "endAt": 1756620000000
   },
   {
-    "homeBannerId": 840,
+    "homeBannerId": 857,
     "seq": 170,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha541",
+    "assetbundleName": "banner_gacha559",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 541,
-    "startAt": 1752721200000,
-    "endAt": 1753930800000
+    "transitionDestinationId": 559,
+    "startAt": 1755399600000,
+    "endAt": 1756609200000
   },
   {
-    "homeBannerId": 918,
-    "seq": 20,
+    "homeBannerId": 860,
+    "seq": 130,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha685",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 685,
-    "startAt": 1752386400000,
-    "endAt": 1753801199000
+    "assetbundleName": "banner_virtuallive322",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 322,
+    "startAt": 1756447200000,
+    "endAt": 1756566000000
   },
   {
-    "homeBannerId": 919,
+    "homeBannerId": 921,
     "seq": 20,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha686",
+    "assetbundleName": "banner_shop_magicalmirai_costume_2024",
+    "transitionDestinationType": "billing_shop_for_costume_3d",
+    "startAt": 1756436400000,
+    "endAt": 1756954799000
+  },
+  {
+    "homeBannerId": 923,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha794",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 686,
-    "startAt": 1752386400000,
-    "endAt": 1753801199000
+    "transitionDestinationId": 794,
+    "startAt": 1756436400000,
+    "endAt": 1756954799000
   }
 ]

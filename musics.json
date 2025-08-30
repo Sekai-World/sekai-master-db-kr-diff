@@ -1188,6 +1188,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "needLe",
@@ -15557,7 +15560,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_525",
-    "publishedAt": 1756533600000,
+    "publishedAt": 1756447200000,
     "releasedAt": 1713538800000,
     "fillerSec": 9.004199981689453,
     "infos": [
@@ -16135,8 +16138,41 @@
     "isFullLength": false
   },
   {
+    "id": 654,
+    "seq": 1154801,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "ラストラス",
+    "pronunciation": "らすとらす",
+    "creatorArtistId": 99,
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "arranger": "-",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_654",
+    "publishedAt": 1756447200000,
+    "releasedAt": 1750950000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Lustrous",
+        "creator": "*Luna",
+        "lyricist": "*Luna",
+        "composer": "*Luna",
+        "arranger": "-"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 10001,
-    "seq": 99999579,
+    "seq": 99999583,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16169,7 +16205,7 @@
   },
   {
     "id": 10002,
-    "seq": 99999580,
+    "seq": 99999584,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16202,7 +16238,7 @@
   },
   {
     "id": 10003,
-    "seq": 99999581,
+    "seq": 99999585,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16235,7 +16271,7 @@
   },
   {
     "id": 10004,
-    "seq": 99999582,
+    "seq": 99999586,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16268,7 +16304,7 @@
   },
   {
     "id": 10005,
-    "seq": 99999583,
+    "seq": 99999587,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16304,7 +16340,7 @@
   },
   {
     "id": 10006,
-    "seq": 99999584,
+    "seq": 99999588,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16337,7 +16373,7 @@
   },
   {
     "id": 10007,
-    "seq": 99999585,
+    "seq": 99999589,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16373,11 +16409,14 @@
   },
   {
     "id": 10008,
-    "seq": 99999586,
+    "seq": 99999590,
     "releaseConditionId": 5,
     "categories": [
       {
         "musicCategoryName": "image"
+      },
+      {
+        "musicCategoryName": "original"
       }
     ],
     "title": "둔갑",

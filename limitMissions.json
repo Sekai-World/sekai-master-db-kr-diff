@@ -838,5 +838,65 @@
     "sentence": "위 미션들을 모두 통과하세요.",
     "resourceBoxId": 100043,
     "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 16,
+    "id": 93,
+    "seq": 1,
+    "limitMissionType": "clear_live_miku_leader",
+    "requirement": 15,
+    "sentence": " '하츠네 미쿠'를 리더로 편성하여 \n 라이브 15회 플레이하기",
+    "resourceBoxId": 100021,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 16,
+    "id": 94,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "resourceBoxId": 100022,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 16,
+    "id": 95,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": " 이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100023,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 16,
+    "id": 96,
+    "seq": 1,
+    "limitMissionType": "character_rank_miku",
+    "requirement": 5,
+    "sentence": " 하츠네 미쿠 캐릭터 레벨 5 달성하기",
+    "resourceBoxId": 100024,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 16,
+    "id": 97,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_miku",
+    "requirement": 3,
+    "sentence": " 하츠네 미쿠로 챌린지 라이브 3회 플레이하기",
+    "resourceBoxId": 100025,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 16,
+    "id": 98,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": " 하츠네 미쿠의 모든 기념일 한정 미션 완료하기",
+    "resourceBoxId": 100026,
+    "selectableRewardGroupId": 1000
   }
 ]
