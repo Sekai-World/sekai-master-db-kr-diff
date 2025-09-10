@@ -28871,7 +28871,7 @@
     "seq": 10,
     "exchangeCategory": "common_ticket",
     "materialExchangeType": "normal",
-    "name": "3900's\n交換所",
+    "name": "3900's 교환소",
     "assetbundleName": "icon_3900sTicket",
     "startAt": 1711767600000,
     "endAt": 1715698799000,
@@ -29178,7 +29178,7 @@
     "seq": 10,
     "exchangeCategory": "consume_material",
     "materialExchangeType": "normal",
-    "name": "想いの小瓶交換",
+    "name": "마음의 작은 병 교환",
     "assetbundleName": "icon_smallBottle",
     "startAt": 1756465200000,
     "materialExchanges": [
@@ -29678,6 +29678,1117 @@
       }
     ],
     "materialExchangeDisplayResourceGroups": []
+  },
+  {
+    "id": 15,
+    "seq": 40,
+    "exchangeCategory": "common_ticket",
+    "materialExchangeType": "normal",
+    "name": "한정\n뽑기 스티커",
+    "assetbundleName": "icon_gachaSealTicket_Limited",
+    "startAt": 1759028400000,
+    "materialExchanges": [
+      {
+        "id": 150001,
+        "materialExchangeSummaryId": 15,
+        "seq": 10,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 150001,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 150001,
+            "costGroupId": 1,
+            "seq": 1,
+            "resourceId": 48,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "materialExchangeDisplayResourceGroups": []
+  },
+  {
+    "id": 17,
+    "seq": 1,
+    "exchangeCategory": "home_exchange",
+    "materialExchangeType": "normal",
+    "name": "포춘 \n플라워",
+    "assetbundleName": "icon_fortuneFlower",
+    "startAt": 1758985200000,
+    "endAt": 1761890399000,
+    "materialExchanges": [
+      {
+        "id": 170001,
+        "materialExchangeSummaryId": 17,
+        "seq": 10,
+        "displayName": "4周年記念衣装セット",
+        "isDisplayQuantity": false,
+        "thumbnailAssetbundleName": "item_cosSet_4th",
+        "resourceBoxId": 170001,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170001,
+            "costGroupId": 170001,
+            "seq": 1,
+            "resourceId": 95,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170001,
+            "costGroupId": 170001,
+            "seq": 2,
+            "resourceId": 96,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170001,
+            "costGroupId": 170001,
+            "seq": 3,
+            "resourceId": 97,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170001,
+            "costGroupId": 170001,
+            "seq": 4,
+            "resourceId": 98,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170001,
+            "costGroupId": 170001,
+            "seq": 5,
+            "resourceId": 99,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170001,
+            "costGroupId": 170001,
+            "seq": 6,
+            "resourceId": 100,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170002,
+        "materialExchangeSummaryId": 17,
+        "seq": 20,
+        "displayName": "スキルアップ用スコア（コンプリート）",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170002,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170002,
+            "costGroupId": 170002,
+            "seq": 1,
+            "resourceId": 95,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170002,
+            "costGroupId": 170002,
+            "seq": 2,
+            "resourceId": 96,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170002,
+            "costGroupId": 170002,
+            "seq": 3,
+            "resourceId": 97,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170002,
+            "costGroupId": 170002,
+            "seq": 4,
+            "resourceId": 98,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170002,
+            "costGroupId": 170002,
+            "seq": 5,
+            "resourceId": 99,
+            "quantity": 1
+          },
+          {
+            "materialExchangeId": 170002,
+            "costGroupId": 170002,
+            "seq": 6,
+            "resourceId": 100,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170003,
+        "materialExchangeSummaryId": 17,
+        "seq": 30,
+        "displayName": "VSの想いの小瓶セット",
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": "item_expSet_vs",
+        "resourceBoxId": 170003,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170003,
+            "costGroupId": 170003,
+            "seq": 1,
+            "resourceId": 95,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170004,
+        "materialExchangeSummaryId": 17,
+        "seq": 40,
+        "displayName": "VSの想いの純結晶",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170004,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170004,
+            "costGroupId": 170004,
+            "seq": 1,
+            "resourceId": 95,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170005,
+        "materialExchangeSummaryId": 17,
+        "seq": 50,
+        "displayName": "レオニの想いの小瓶セット",
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": "item_expSet_ln",
+        "resourceBoxId": 170005,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170005,
+            "costGroupId": 170005,
+            "seq": 1,
+            "resourceId": 96,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170006,
+        "materialExchangeSummaryId": 17,
+        "seq": 60,
+        "displayName": "レオニの想いの純結晶",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170006,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170006,
+            "costGroupId": 170006,
+            "seq": 1,
+            "resourceId": 96,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170007,
+        "materialExchangeSummaryId": 17,
+        "seq": 70,
+        "displayName": "モモジャンの想いの小瓶セット",
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": "item_expSet_mj",
+        "resourceBoxId": 170007,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170007,
+            "costGroupId": 170007,
+            "seq": 1,
+            "resourceId": 97,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170008,
+        "materialExchangeSummaryId": 17,
+        "seq": 80,
+        "displayName": "モモジャンの想いの純結晶",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170008,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170008,
+            "costGroupId": 170008,
+            "seq": 1,
+            "resourceId": 97,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170009,
+        "materialExchangeSummaryId": 17,
+        "seq": 90,
+        "displayName": "ビビバスの想いの小瓶セット",
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": "item_expSet_vb",
+        "resourceBoxId": 170009,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170009,
+            "costGroupId": 170009,
+            "seq": 1,
+            "resourceId": 98,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170010,
+        "materialExchangeSummaryId": 17,
+        "seq": 100,
+        "displayName": "ビビバスの想いの純結晶",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170010,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170010,
+            "costGroupId": 170010,
+            "seq": 1,
+            "resourceId": 98,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170011,
+        "materialExchangeSummaryId": 17,
+        "seq": 110,
+        "displayName": "ワンダショの想いの小瓶セット",
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": "item_expSet_ws",
+        "resourceBoxId": 170011,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170011,
+            "costGroupId": 170011,
+            "seq": 1,
+            "resourceId": 99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170012,
+        "materialExchangeSummaryId": 17,
+        "seq": 120,
+        "displayName": "ワンダショの想いの純結晶",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170012,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170012,
+            "costGroupId": 170012,
+            "seq": 1,
+            "resourceId": 99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170013,
+        "materialExchangeSummaryId": 17,
+        "seq": 130,
+        "displayName": "ニーゴの想いの小瓶セット",
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": "item_expSet_25",
+        "resourceBoxId": 170013,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170013,
+            "costGroupId": 170013,
+            "seq": 1,
+            "resourceId": 100,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170014,
+        "materialExchangeSummaryId": 17,
+        "seq": 140,
+        "displayName": "ニーゴの想いの純結晶",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170014,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170014,
+            "costGroupId": 170014,
+            "seq": 1,
+            "resourceId": 100,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170015,
+        "materialExchangeSummaryId": 17,
+        "seq": 150,
+        "displayName": "白色の花びら",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170015,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170015,
+            "costGroupId": 170015,
+            "seq": 1,
+            "resourceId": 95,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170016,
+        "materialExchangeSummaryId": 17,
+        "seq": 160,
+        "displayName": "青色の花びら",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170016,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170016,
+            "costGroupId": 170016,
+            "seq": 1,
+            "resourceId": 96,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170017,
+        "materialExchangeSummaryId": 17,
+        "seq": 170,
+        "displayName": "緑色の花びら",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170017,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170017,
+            "costGroupId": 170017,
+            "seq": 1,
+            "resourceId": 97,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170018,
+        "materialExchangeSummaryId": 17,
+        "seq": 180,
+        "displayName": "赤色の花びら",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170018,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170018,
+            "costGroupId": 170018,
+            "seq": 1,
+            "resourceId": 98,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170019,
+        "materialExchangeSummaryId": 17,
+        "seq": 190,
+        "displayName": "橙色の花びら",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170019,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170019,
+            "costGroupId": 170019,
+            "seq": 1,
+            "resourceId": 99,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 170020,
+        "materialExchangeSummaryId": 17,
+        "seq": 200,
+        "displayName": "紫色の花びら",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 170020,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 170020,
+            "costGroupId": 170020,
+            "seq": 1,
+            "resourceId": 100,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "materialExchangeDisplayResourceGroupId": 1,
+    "materialExchangeDisplayResourceGroups": [
+      {
+        "id": 1,
+        "groupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 95,
+        "assetbundleName": "icon_fortuneFlower_wh"
+      },
+      {
+        "id": 2,
+        "groupId": 1,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 96,
+        "assetbundleName": "icon_fortuneFlower_bl"
+      },
+      {
+        "id": 3,
+        "groupId": 1,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 97,
+        "assetbundleName": "icon_fortuneFlower_gn"
+      },
+      {
+        "id": 4,
+        "groupId": 1,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 98,
+        "assetbundleName": "icon_fortuneFlower_rd"
+      },
+      {
+        "id": 5,
+        "groupId": 1,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 99,
+        "assetbundleName": "icon_fortuneFlower_yw"
+      },
+      {
+        "id": 6,
+        "groupId": 1,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 100,
+        "assetbundleName": "icon_fortuneFlower_pr"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "seq": 1,
+    "exchangeCategory": "home_exchange",
+    "materialExchangeType": "normal",
+    "name": "꽃잎",
+    "assetbundleName": "icon_fortuneGrass",
+    "startAt": 1758985200000,
+    "endAt": 1761890399000,
+    "materialExchanges": [
+      {
+        "id": 180001,
+        "materialExchangeSummaryId": 18,
+        "seq": 10,
+        "displayName": "願いの雫",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180001,
+        "refreshCycle": "none",
+        "exchangeLimit": 5,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180001,
+            "costGroupId": 180001,
+            "seq": 1,
+            "resourceId": 89,
+            "quantity": 25
+          }
+        ]
+      },
+      {
+        "id": 180002,
+        "materialExchangeSummaryId": 18,
+        "seq": 20,
+        "displayName": "スキルアップ用スコア（上級）",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180002,
+        "refreshCycle": "none",
+        "exchangeLimit": 5,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180002,
+            "costGroupId": 180002,
+            "seq": 2,
+            "resourceId": 90,
+            "quantity": 25
+          }
+        ]
+      },
+      {
+        "id": 180003,
+        "materialExchangeSummaryId": 18,
+        "seq": 30,
+        "displayName": "練習用スコア（上級）",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180003,
+        "refreshCycle": "none",
+        "exchangeLimit": 5,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180003,
+            "costGroupId": 180003,
+            "seq": 3,
+            "resourceId": 91,
+            "quantity": 25
+          }
+        ]
+      },
+      {
+        "id": 180004,
+        "materialExchangeSummaryId": 18,
+        "seq": 40,
+        "displayName": "クリスタル",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180004,
+        "refreshCycle": "none",
+        "exchangeLimit": 5,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180004,
+            "costGroupId": 180004,
+            "seq": 4,
+            "resourceId": 92,
+            "quantity": 25
+          }
+        ]
+      },
+      {
+        "id": 180005,
+        "materialExchangeSummaryId": 18,
+        "seq": 50,
+        "displayName": "バーチャルコイン",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180005,
+        "refreshCycle": "none",
+        "exchangeLimit": 5,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180005,
+            "costGroupId": 180005,
+            "seq": 5,
+            "resourceId": 93,
+            "quantity": 25
+          }
+        ]
+      },
+      {
+        "id": 180006,
+        "materialExchangeSummaryId": 18,
+        "seq": 60,
+        "displayName": "ライブボーナスドリンク（大）",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180006,
+        "refreshCycle": "none",
+        "exchangeLimit": 5,
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180006,
+            "costGroupId": 180006,
+            "seq": 6,
+            "resourceId": 94,
+            "quantity": 25
+          }
+        ]
+      },
+      {
+        "id": 180007,
+        "materialExchangeSummaryId": 18,
+        "seq": 70,
+        "displayName": "ホワイトフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180007,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180007,
+            "costGroupId": 180007,
+            "seq": 1,
+            "resourceId": 89,
+            "quantity": 100
+          }
+        ]
+      },
+      {
+        "id": 180008,
+        "materialExchangeSummaryId": 18,
+        "seq": 80,
+        "displayName": "ブルーフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180008,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180008,
+            "costGroupId": 180008,
+            "seq": 1,
+            "resourceId": 90,
+            "quantity": 100
+          }
+        ]
+      },
+      {
+        "id": 180009,
+        "materialExchangeSummaryId": 18,
+        "seq": 90,
+        "displayName": "グリーンフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180009,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180009,
+            "costGroupId": 180009,
+            "seq": 1,
+            "resourceId": 91,
+            "quantity": 100
+          }
+        ]
+      },
+      {
+        "id": 180010,
+        "materialExchangeSummaryId": 18,
+        "seq": 100,
+        "displayName": "レッドフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180010,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180010,
+            "costGroupId": 180010,
+            "seq": 1,
+            "resourceId": 92,
+            "quantity": 100
+          }
+        ]
+      },
+      {
+        "id": 180011,
+        "materialExchangeSummaryId": 18,
+        "seq": 110,
+        "displayName": "オレンジフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180011,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180011,
+            "costGroupId": 180011,
+            "seq": 1,
+            "resourceId": 93,
+            "quantity": 100
+          }
+        ]
+      },
+      {
+        "id": 180012,
+        "materialExchangeSummaryId": 18,
+        "seq": 120,
+        "displayName": "パープルフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180012,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180012,
+            "costGroupId": 180012,
+            "seq": 1,
+            "resourceId": 94,
+            "quantity": 100
+          }
+        ]
+      },
+      {
+        "id": 180013,
+        "materialExchangeSummaryId": 18,
+        "seq": 130,
+        "displayName": "VSの想いのカケラ",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180013,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180013,
+            "costGroupId": 180013,
+            "seq": 1,
+            "resourceId": 89,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 180014,
+        "materialExchangeSummaryId": 18,
+        "seq": 140,
+        "displayName": "レオニの想いのカケラ",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180014,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180014,
+            "costGroupId": 180014,
+            "seq": 1,
+            "resourceId": 90,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 180015,
+        "materialExchangeSummaryId": 18,
+        "seq": 150,
+        "displayName": "モモジャンの想いのカケラ",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180015,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180015,
+            "costGroupId": 180015,
+            "seq": 1,
+            "resourceId": 91,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 180016,
+        "materialExchangeSummaryId": 18,
+        "seq": 160,
+        "displayName": "ビビバスの想いのカケラ",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180016,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180016,
+            "costGroupId": 180016,
+            "seq": 1,
+            "resourceId": 92,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 180017,
+        "materialExchangeSummaryId": 18,
+        "seq": 170,
+        "displayName": "ワンダショの想いのカケラ",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180017,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180017,
+            "costGroupId": 180017,
+            "seq": 1,
+            "resourceId": 93,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 180018,
+        "materialExchangeSummaryId": 18,
+        "seq": 180,
+        "displayName": "ニーゴの想いのカケラ",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 180018,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 180018,
+            "costGroupId": 180018,
+            "seq": 1,
+            "resourceId": 94,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "materialExchangeDisplayResourceGroupId": 2,
+    "materialExchangeDisplayResourceGroups": [
+      {
+        "id": 7,
+        "groupId": 2,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 89,
+        "assetbundleName": "icon_fortuneGrass_wh"
+      },
+      {
+        "id": 8,
+        "groupId": 2,
+        "seq": 2,
+        "resourceType": "material",
+        "resourceId": 90,
+        "assetbundleName": "icon_fortuneGrass_bl"
+      },
+      {
+        "id": 9,
+        "groupId": 2,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 91,
+        "assetbundleName": "icon_fortuneGrass_gn"
+      },
+      {
+        "id": 10,
+        "groupId": 2,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 92,
+        "assetbundleName": "icon_fortuneGrass_rd"
+      },
+      {
+        "id": 11,
+        "groupId": 2,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 93,
+        "assetbundleName": "icon_fortuneGrass_yw"
+      },
+      {
+        "id": 12,
+        "groupId": 2,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 94,
+        "assetbundleName": "icon_fortuneGrass_pr"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 1,
+    "exchangeCategory": "home_exchange",
+    "materialExchangeType": "normal",
+    "name": "와일드\n포춘 \n플라워",
+    "assetbundleName": "icon_miracleFortuneFlower",
+    "startAt": 1758985200000,
+    "endAt": 1761890399000,
+    "materialExchanges": [
+      {
+        "id": 190001,
+        "materialExchangeSummaryId": 19,
+        "seq": 10,
+        "displayName": "ホワイトフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 190001,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 190001,
+            "costGroupId": 190001,
+            "seq": 1,
+            "resourceId": 166,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 190002,
+        "materialExchangeSummaryId": 19,
+        "seq": 20,
+        "displayName": "ブルーフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 190002,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 190002,
+            "costGroupId": 190002,
+            "seq": 1,
+            "resourceId": 166,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 190003,
+        "materialExchangeSummaryId": 19,
+        "seq": 30,
+        "displayName": "グリーンフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 190003,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 190003,
+            "costGroupId": 190003,
+            "seq": 1,
+            "resourceId": 166,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 190004,
+        "materialExchangeSummaryId": 19,
+        "seq": 40,
+        "displayName": "レッドフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 190004,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 190004,
+            "costGroupId": 190004,
+            "seq": 1,
+            "resourceId": 166,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 190005,
+        "materialExchangeSummaryId": 19,
+        "seq": 50,
+        "displayName": "オレンジフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 190005,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 190005,
+            "costGroupId": 190005,
+            "seq": 1,
+            "resourceId": 166,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 190006,
+        "materialExchangeSummaryId": 19,
+        "seq": 60,
+        "displayName": "パープルフォーチュンフラワー",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 190006,
+        "refreshCycle": "none",
+        "startAt": 1758985200000,
+        "costs": [
+          {
+            "materialExchangeId": 190006,
+            "costGroupId": 190006,
+            "seq": 1,
+            "resourceId": 166,
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "materialExchangeDisplayResourceGroupId": 3,
+    "materialExchangeDisplayResourceGroups": [
+      {
+        "id": 13,
+        "groupId": 3,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 166,
+        "assetbundleName": "icon_fortuneFlower_mi"
+      }
+    ]
   },
   {
     "id": 2000,

@@ -909,7 +909,7 @@
   },
   {
     "wordingKey": "MSG_CONFIRM_CACHE_CLEAR_DIALOG",
-    "value": "캐시를 지우시겠습니까?"
+    "value": "플레이어 데이터를 제외한\\n악곡과 보이스, 옵션 설정 등\\n단말기에 저장된 데이터가 모두 삭제됩니다.\\n\\n캐시 삭제를 진행하시겠습니까?\\n\\n<color=#FF3366>※다음 로그인 시 데이터를 다시 다운로드하게 됩니다.\\nWi-Fi 환경에서 이용하시기를 권장합니다.<\/color>"
   },
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
@@ -3332,6 +3332,10 @@
     "value": "아직 보상을 받지 않았습니다."
   },
   {
+    "wordingKey": "MSG_UNIT_NAME_SETTING_HOLDER",
+    "value": " "
+  },
+  {
     "wordingKey": "MSG_UNLOCK_AREAITEM",
     "value": "에어리어 '{0}'의 상점에 입고되었습니다."
   },
@@ -3517,7 +3521,7 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
-    "value": " 해당 캐릭터에게 착용시킬 수 있습니다."
+    "value": "해당 캐릭터에게 착용시킬 수 있습니다."
   },
   {
     "wordingKey": "MSG_WEAR_COSTUME_BOUGHT",
@@ -3954,10 +3958,6 @@
   {
     "wordingKey": "WORD_ACCESSORIES_CHANGE_CONFIRM_TITLE",
     "value": "액세서리 변경"
-  },
-  {
-    "wordingKey": "WORD_ACCESSORIES_FURNITURE",
-    "value": "소품 가구"
   },
   {
     "wordingKey": "WORD_ACCESSORY",
@@ -4858,10 +4858,6 @@
   {
     "wordingKey": "WORD_CARD_TYPE",
     "value": "멤버 종류"
-  },
-  {
-    "wordingKey": "WORD_CARPET",
-    "value": "카펫"
   },
   {
     "wordingKey": "WORD_CCU_BUSY",
@@ -9105,7 +9101,7 @@
   },
   {
     "wordingKey": "Word_Custom_2568",
-    "value": "중도 퇴장한 '이벤트명 이벤트"
+    "value": "중도 퇴장한 '이벤트명 이벤트'"
   },
   {
     "wordingKey": "Word_Custom_2569",
@@ -9741,7 +9737,7 @@
   },
   {
     "wordingKey": "Word_Custom_2718",
-    "value": "커넥트 라이브 MORE MORE JUMP"
+    "value": "'커넥트 라이브 MORE MORE JUMP"
   },
   {
     "wordingKey": "Word_Custom_2719",
@@ -9873,7 +9869,7 @@
   },
   {
     "wordingKey": "Word_Custom_2748",
-    "value": "<size=80>'참치와 연어'<\/size>\\n<color=white><size=52>꼬치구이라고 하면?<\/size><\/color>"
+    "value": "<size=80>'''참치와 연어'<\/size>\\n<color=white><size=52>꼬치구이라고 하면?<\/size><\/color>"
   },
   {
     "wordingKey": "Word_Custom_2749",
@@ -10033,7 +10029,7 @@
   },
   {
     "wordingKey": "Word_Custom_2784",
-    "value": "이벤트 TOP으로"
+    "value": "이벤트 TOP으로 이동"
   },
   {
     "wordingKey": "Word_Custom_2785",
@@ -11624,10 +11620,6 @@
     "value": "편집 취소"
   },
   {
-    "wordingKey": "WORD_EDIT_MODE",
-    "value": "편집 모드"
-  },
-  {
     "wordingKey": "WORD_EDIT_MYLIST",
     "value": "마이 리스트 편집"
   },
@@ -11856,6 +11848,14 @@
     "value": "랭킹 보상"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_another_vocal_shop",
+    "value": "어나더 보컬 상점"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_area",
+    "value": "에어리어로"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_billing_shop_for_colorful_pass",
     "value": "컬러풀 패스"
   },
@@ -11880,36 +11880,184 @@
     "value": "할인 세트"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_billing_shop_item",
+    "value": "크리스탈 상점"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_bonus_event",
+    "value": "라이브 카니발"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_CANCEL",
     "value": "닫기"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_card_list",
+    "value": "멤버 목록"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_challenge_live",
+    "value": "챌린지 라이브"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_character_rank",
+    "value": "캐릭터 랭크"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_colorful_pass",
     "value": "컬러풀 패스"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_costume",
+    "value": "라이브 의상"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_costume3d_shop",
+    "value": "의상 상점"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_custom_profile",
+    "value": "프로필"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_edit",
+    "value": "편성"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_event",
     "value": "이벤트로 이동"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_event_exchange",
+    "value": "이벤트 교환소"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_external",
     "value": "규칙 설명"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_first_recharge",
+    "value": "초회 구입 보상"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_flower",
+    "value": "포춘 플라워 퍼레이드 교환소"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_friend",
+    "value": "친구"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_friend_invitation_campaign",
+    "value": "세카이에 초대할게 대작전!!"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_gacha",
     "value": "뽑기로 이동"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_gacha_item_exchange",
+    "value": "뽑기 스티커 교환소"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_gift",
+    "value": "선물"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_information",
     "value": "알림"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_jewel_show_dialogue",
+    "value": "추천 상품"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_live",
+    "value": "라이브"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_master_lesson_material_exchange",
+    "value": "마음의 조각 교환소"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_member",
+    "value": "멤버"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_member_exchange",
+    "value": "멤버 교환소"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_mission",
+    "value": "미션"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_multi_live",
+    "value": "멀티 라이브"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_music_shop",
+    "value": "음반 상점"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_mv",
+    "value": "MV"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_mysekai",
+    "value": "마이세카이"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_panel_mission",
+    "value": "스탬프 미션"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_questionnaire",
     "value": "설문조사"
   },
   {
+    "wordingKey": "WORD_EVENT_SHOW_rank_match",
+    "value": "랭크 매치"
+  },
+  {
     "wordingKey": "WORD_EVENT_SHOW_return",
     "value": "복귀 미션"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_sekai_echo",
+    "value": "세카이의 에코"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_shop",
+    "value": "상점"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_solo_live",
+    "value": "솔로 라이브"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_stamp_shop",
+    "value": "스탬프 상점"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_story",
+    "value": "스토리"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_sudoku",
+    "value": "'세카이' 입주 퀘스트"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_support_event",
+    "value": "응원제"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_ticket_exchange",
+    "value": "티켓 교환소"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SHOW_training",
+    "value": "육성"
   },
   {
     "wordingKey": "WORD_EVENT_SHOW_virtual_live",
@@ -12108,10 +12256,6 @@
     "value": "소중한 의견을 보내 주세요."
   },
   {
-    "wordingKey": "WORD_FENCE",
-    "value": "울타리"
-  },
-  {
     "wordingKey": "WORD_FEVER_EFFECT",
     "value": "FEVER 연출"
   },
@@ -12186,10 +12330,6 @@
   {
     "wordingKey": "WORD_FLICK",
     "value": "플릭"
-  },
-  {
-    "wordingKey": "WORD_FLOOR",
-    "value": "바닥"
   },
   {
     "wordingKey": "WORD_FONT",
@@ -12398,10 +12538,6 @@
   {
     "wordingKey": "WORD_FULL_HONOR_SIZE",
     "value": "메인"
-  },
-  {
-    "wordingKey": "WORD_FURNITURE",
-    "value": "가구"
   },
   {
     "wordingKey": "WORD_GACHA",
@@ -12776,10 +12912,6 @@
     "value": "이벤트 TOP으로"
   },
   {
-    "wordingKey": "WORD_GO_TO_MY_SEKAI",
-    "value": "마이세카이로 이동"
-  },
-  {
     "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
     "value": "티켓 구매"
   },
@@ -12814,10 +12946,6 @@
   {
     "wordingKey": "WORD_GRATE_MISFORTUNE",
     "value": "대흉"
-  },
-  {
-    "wordingKey": "WORD_GROUND",
-    "value": "지면"
   },
   {
     "wordingKey": "WORD_GROUP_DECIDE",
@@ -14792,6 +14920,10 @@
     "value": "마이 리스트가 저장되지 않았습니다.\n저장하고 돌아가시겠습니까?"
   },
   {
+    "wordingKey": "Word_MysekaiChat_Punish",
+    "value": "이용 제한으로 인해 대화가 불가능합니다."
+  },
+  {
     "wordingKey": "WORD_MY_FAVORITE_STORY",
     "value": "최애 스토리"
   },
@@ -14850,10 +14982,6 @@
   {
     "wordingKey": "WORD_NONPARTICIPATION",
     "value": "미참가"
-  },
-  {
-    "wordingKey": "WORD_NORMAL_FURNITURE",
-    "value": "일반 가구"
   },
   {
     "wordingKey": "WORD_NORMAL_MISSION",
@@ -15014,6 +15142,10 @@
   {
     "wordingKey": "WORD_NO_MORE_SHOW",
     "value": "다시 표시 안함"
+  },
+  {
+    "wordingKey": "WORD_NO_MORE_TODAY",
+    "value": "不再显示"
   },
   {
     "wordingKey": "WORD_NO_PLACE_CONTENT",
@@ -16340,6 +16472,10 @@
     "value": "이벤트 스탬프"
   },
   {
+    "wordingKey": "WORD_SEKAI_ECHO_SUPPORT",
+    "value": "{\n \"title\": \"'세카이'의 에코,\n \"list\": [\n {\n \"head\": \" \",\n \"desc\": \"·“세카이'의 에코”에는 혼합 멤버 이벤트, '세카이' 연결 이벤트가 수록되지 않습니다.\"\n },\n {\n \"head\": \"■이벤트 카드 및 카드 퀘스트\",\n \"desc\": \"\\n·이벤트 카드에는 해당 시즌 이벤트에 해당하는 자료가 수록돼 있으며, 이벤트 카드를 통해 관련 퀘스트로 빠르게 이동하거나 자료 획득 정보를 확인할 수 있습니다. \\n·“'세카이'의 에코”에 수록된 각 시즌 이벤트에는 해당하는 이벤트 카드 퀘스트가 있습니다. 이벤트 카드 퀘스트 완료 시 \"CLEAR\/COMPLETE\" 상태를 해제하고 이벤트 카드와 관련된 보상을 획득할 수 있습니다.\\n카미시로 루이의 '커튼콜에 애틋한 이별을' 이벤트의 경우, 대응되는 이벤트 악곡이 없기 때문에 'Becoming Potatoes', 'Showtime Ruler', '사이버펑크 데드 보이' 중 하나를 선택해 퀘스트 진행 횟수를 채울 수 있습니다.\"\n },\n \n ]\n}"
+  },
+  {
     "wordingKey": "WORD_SEKAI_VERSION",
     "value": "세카이 ver."
   },
@@ -17544,7 +17680,7 @@
     "value": "라이브까지"
   },
   {
-    "wordingKey": "Word_Use",
+    "wordingKey": "WORD_USE",
     "value": "사용"
   },
   {
@@ -17926,10 +18062,6 @@
   {
     "wordingKey": "WORD_WAIT_APPROVAL_LIST",
     "value": "승인 대기 목록"
-  },
-  {
-    "wordingKey": "WORD_WALL",
-    "value": "벽"
   },
   {
     "wordingKey": "WORD_WAN",
@@ -20644,12 +20776,108 @@
     "value": "따끈따끈한 팬케이크를 통해\\n라이브 보너스×10를 획득했습니다"
   },
   {
+    "wordingKey": "W_C_676",
+    "value": "대사대사"
+  },
+  {
+    "wordingKey": "W_C_677",
+    "value": "<color=#FFFFFFFF>\\xA5480<\/color>"
+  },
+  {
+    "wordingKey": "W_C_678",
+    "value": "가구 설계도명 16자 이상 스크롤"
+  },
+  {
+    "wordingKey": "W_C_679",
+    "value": "보상 기록 보기"
+  },
+  {
     "wordingKey": "W_C_68",
     "value": "298.8MB의 추가 데이터를 다운로드하시겠습니까?"
   },
   {
+    "wordingKey": "W_C_680",
+    "value": "부스트 스태미나를 5 회복합니다. 계속하시겠습니까?"
+  },
+  {
+    "wordingKey": "W_C_681",
+    "value": "퍼포먼스 보너스"
+  },
+  {
+    "wordingKey": "W_C_682",
+    "value": "(홈 사이트에서 환경을 통해 설정할 수 있습니다)\\n"
+  },
+  {
+    "wordingKey": "W_C_683",
+    "value": "나무판자"
+  },
+  {
+    "wordingKey": "W_C_684",
+    "value": "재료를 사용하여 아래 멤버로 캔버스를 제작합니다.\\\\n계속하시겠습니까?"
+  },
+  {
+    "wordingKey": "W_C_685",
+    "value": "<color=#ffffff>000<\/color>"
+  },
+  {
+    "wordingKey": "W_C_686",
+    "value": "가구명"
+  },
+  {
+    "wordingKey": "W_C_687",
+    "value": "코인"
+  },
+  {
+    "wordingKey": "W_C_688",
+    "value": "\\xD71"
+  },
+  {
+    "wordingKey": "W_C_689",
+    "value": "획득"
+  },
+  {
     "wordingKey": "W_C_69",
     "value": "닫기"
+  },
+  {
+    "wordingKey": "W_C_690",
+    "value": "재료 보유 수"
+  },
+  {
+    "wordingKey": "W_C_691",
+    "value": "선택한 재료를 재활용합니다. 계속하시겠습니까?"
+  },
+  {
+    "wordingKey": "W_C_692",
+    "value": "재활용 재료"
+  },
+  {
+    "wordingKey": "W_C_693",
+    "value": "보유 수량"
+  },
+  {
+    "wordingKey": "W_C_694",
+    "value": "매일 05시에 회복"
+  },
+  {
+    "wordingKey": "W_C_695",
+    "value": "보상"
+  },
+  {
+    "wordingKey": "W_C_696",
+    "value": "세카이 미션"
+  },
+  {
+    "wordingKey": "W_C_697",
+    "value": "정원 사이즈가 확장되었습니다."
+  },
+  {
+    "wordingKey": "W_C_698",
+    "value": "<color=#F59>프리셋 2<\/color>의 레이아웃을 마이세카이에 배치합니다."
+  },
+  {
+    "wordingKey": "W_C_699",
+    "value": "라이브 보너스를 <color=#ff5599>1<\/color> 사용하여 스태미나를 <color=#ff5599>1<\/color>칸 회복하고,\\n추가로 가속합니다."
   },
   {
     "wordingKey": "W_C_7",
@@ -20660,40 +20888,440 @@
     "value": "세카이 쨩과 카후 쨩의 장보기 합소곡"
   },
   {
+    "wordingKey": "W_C_700",
+    "value": "이 설계도는 이미 보유 중이므로,\\n구매 시 '남은 설계도'로 변환됩니다."
+  },
+  {
+    "wordingKey": "W_C_701",
+    "value": "구매"
+  },
+  {
+    "wordingKey": "W_C_702",
+    "value": "푹신푹신한 침대 설계도"
+  },
+  {
+    "wordingKey": "W_C_703",
+    "value": "남은 설계도\\n"
+  },
+  {
+    "wordingKey": "W_C_704",
+    "value": "월드 패스에 가입하지 않았으므로\\n비밀 상점에 로그인할 수 없습니다."
+  },
+  {
+    "wordingKey": "W_C_705",
+    "value": "비밀 상점.com"
+  },
+  {
+    "wordingKey": "W_C_706",
+    "value": "백지 설계도를 사용해서 이 가구의 설계도를 스케치합니다."
+  },
+  {
+    "wordingKey": "W_C_707",
+    "value": "푹신푹신한 싱글 침대 가구명"
+  },
+  {
+    "wordingKey": "W_C_708",
+    "value": "레이아웃을 삭제했습니다."
+  },
+  {
+    "wordingKey": "W_C_709",
+    "value": "1F"
+  },
+  {
     "wordingKey": "W_C_71",
     "value": "Vo."
+  },
+  {
+    "wordingKey": "W_C_710",
+    "value": "2F"
+  },
+  {
+    "wordingKey": "W_C_711",
+    "value": "3F"
+  },
+  {
+    "wordingKey": "W_C_712",
+    "value": "지금은 말을 걸 수 없습니다."
+  },
+  {
+    "wordingKey": "W_C_713",
+    "value": "99999 남음"
+  },
+  {
+    "wordingKey": "W_C_714",
+    "value": "선택 중"
+  },
+  {
+    "wordingKey": "W_C_715",
+    "value": "그 외 4건"
+  },
+  {
+    "wordingKey": "W_C_716",
+    "value": "(으)로 검색 중"
+  },
+  {
+    "wordingKey": "W_C_717",
+    "value": "보유 중"
+  },
+  {
+    "wordingKey": "W_C_718",
+    "value": "배치 중"
+  },
+  {
+    "wordingKey": "W_C_719",
+    "value": "99\\xD799"
   },
   {
     "wordingKey": "W_C_72",
     "value": "Brand"
   },
   {
+    "wordingKey": "W_C_720",
+    "value": "푹신푹신한 침대"
+  },
+  {
+    "wordingKey": "W_C_721",
+    "value": "마이 사이트 설정 중"
+  },
+  {
+    "wordingKey": "W_C_722",
+    "value": "설계도"
+  },
+  {
+    "wordingKey": "W_C_723",
+    "value": "세팅 중"
+  },
+  {
+    "wordingKey": "W_C_724",
+    "value": "수령"
+  },
+  {
+    "wordingKey": "W_C_725",
+    "value": "COMPLETE!!"
+  },
+  {
+    "wordingKey": "W_C_726",
+    "value": "잠금 중…"
+  },
+  {
+    "wordingKey": "W_C_727",
+    "value": "제작할 물건을 선택"
+  },
+  {
+    "wordingKey": "W_C_728",
+    "value": "아이템 변환 중"
+  },
+  {
+    "wordingKey": "W_C_729",
+    "value": "aaaaaaaa"
+  },
+  {
     "wordingKey": "W_C_73",
     "value": "Vo"
+  },
+  {
+    "wordingKey": "W_C_730",
+    "value": "PHOTO BOARD"
+  },
+  {
+    "wordingKey": "W_C_731",
+    "value": "himitsunoshop\/mysekai"
+  },
+  {
+    "wordingKey": "W_C_732",
+    "value": "주문해 주셔서 감사합니다."
+  },
+  {
+    "wordingKey": "W_C_733",
+    "value": "CONNECTING"
+  },
+  {
+    "wordingKey": "W_C_734",
+    "value": "□□□□■□□□□◆□□□□■□의 설계도"
+  },
+  {
+    "wordingKey": "W_C_735",
+    "value": "METEOR SHOWER"
+  },
+  {
+    "wordingKey": "W_C_736",
+    "value": "날씨"
+  },
+  {
+    "wordingKey": "W_C_737",
+    "value": "색 선택"
+  },
+  {
+    "wordingKey": "W_C_738",
+    "value": "필요 재료"
+  },
+  {
+    "wordingKey": "W_C_739",
+    "value": "서양식"
   },
   {
     "wordingKey": "W_C_74",
     "value": "어나더 보컬"
   },
   {
+    "wordingKey": "W_C_740",
+    "value": "깜짝 놀랄 만큼 푹신푹신한 침대. 설치하면 피로 회복 효과 덕분에 힘이 솟아난다."
+  },
+  {
+    "wordingKey": "W_C_741",
+    "value": "1.0\\xD71.0"
+  },
+  {
+    "wordingKey": "W_C_742",
+    "value": "이미 제작했으므로 변화 없음"
+  },
+  {
+    "wordingKey": "W_C_743",
+    "value": "재료가 부족합니다."
+  },
+  {
+    "wordingKey": "W_C_744",
+    "value": "- 획득하는 설계도 종류 -"
+  },
+  {
+    "wordingKey": "W_C_745",
+    "value": "월드 패스 구매 시 오픈"
+  },
+  {
+    "wordingKey": "W_C_746",
+    "value": "- 획득하는 레코드 종류 -"
+  },
+  {
+    "wordingKey": "W_C_747",
+    "value": "26명"
+  },
+  {
+    "wordingKey": "W_C_748",
+    "value": "디스플레이 가구명 중앙 정렬□■□□□□◆"
+  },
+  {
+    "wordingKey": "W_C_749",
+    "value": "굿즈를 배치할 디스플레이를 선택해 주세요."
+  },
+  {
     "wordingKey": "W_C_75",
     "value": "츠카사\\n라는\\n선물\\n아아아"
+  },
+  {
+    "wordingKey": "W_C_750",
+    "value": "디스플레이"
+  },
+  {
+    "wordingKey": "W_C_751",
+    "value": "먼저 작업 테이블을 제작해 주세요."
+  },
+  {
+    "wordingKey": "W_C_752",
+    "value": "초대장"
+  },
+  {
+    "wordingKey": "W_C_753",
+    "value": "MORE"
+  },
+  {
+    "wordingKey": "W_C_754",
+    "value": "레벨 업 재료"
+  },
+  {
+    "wordingKey": "W_C_755",
+    "value": "게이트 레벨"
+  },
+  {
+    "wordingKey": "W_C_756",
+    "value": "다음 초대까지"
+  },
+  {
+    "wordingKey": "W_C_757",
+    "value": "마이세카이에 초대할 캐릭터를 선택해 주세요.\\n"
+  },
+  {
+    "wordingKey": "W_C_758",
+    "value": "\\xD749"
+  },
+  {
+    "wordingKey": "W_C_759",
+    "value": "레이아웃"
   },
   {
     "wordingKey": "W_C_76",
     "value": "Lv.1"
   },
   {
+    "wordingKey": "W_C_760",
+    "value": "마이세카이 랭크 경험치"
+  },
+  {
+    "wordingKey": "W_C_761",
+    "value": "마이세카이 랭크"
+  },
+  {
+    "wordingKey": "W_C_762",
+    "value": "재활용"
+  },
+  {
+    "wordingKey": "W_C_763",
+    "value": "이 가구는 재활용할 수 없습니다."
+  },
+  {
+    "wordingKey": "W_C_764",
+    "value": "시점\\r\\n전환"
+  },
+  {
+    "wordingKey": "W_C_765",
+    "value": "상단에 설정할 사진을 선택해 주세요."
+  },
+  {
+    "wordingKey": "W_C_766",
+    "value": "손\\n"
+  },
+  {
+    "wordingKey": "W_C_767",
+    "value": "액자의 종류를 선택한 후 사진을 포토 앨범에 저장해 주세요."
+  },
+  {
+    "wordingKey": "W_C_768",
+    "value": "삼각대"
+  },
+  {
+    "wordingKey": "W_C_769",
+    "value": "2023\/02\/31 23:59까지"
+  },
+  {
     "wordingKey": "W_C_77",
     "value": "(을)를 획득했습니다.\\n"
+  },
+  {
+    "wordingKey": "W_C_770",
+    "value": "아아아아아아"
+  },
+  {
+    "wordingKey": "W_C_771",
+    "value": "PASS:'"
+  },
+  {
+    "wordingKey": "W_C_772",
+    "value": "- 설계도 1장으로 해당 가구의 모든 색상을 제작할 수 있습니다.\\n- 한 상품당 한 개만 구매하실 수 있습니다.\\n- 상품은 구매 즉시 지급됩니다."
+  },
+  {
+    "wordingKey": "W_C_773",
+    "value": "TOP>WEEKLY PICKUP"
+  },
+  {
+    "wordingKey": "W_C_774",
+    "value": "멜로디 레인"
+  },
+  {
+    "wordingKey": "W_C_775",
+    "value": "스케치할 가구를 선택해 주세요."
+  },
+  {
+    "wordingKey": "W_C_776",
+    "value": "mysekai 애셋 삭제"
+  },
+  {
+    "wordingKey": "W_C_777",
+    "value": "마이세카이 Tutorial 돌파 유저"
+  },
+  {
+    "wordingKey": "W_C_778",
+    "value": "미제작"
+  },
+  {
+    "wordingKey": "W_C_779",
+    "value": "제작 완료"
   },
   {
     "wordingKey": "W_C_78",
     "value": "미션 내용 중앙 정렬 32p"
   },
   {
+    "wordingKey": "W_C_780",
+    "value": "마이세카이 랭크 10 달성"
+  },
+  {
+    "wordingKey": "W_C_781",
+    "value": "E 컬래버레이션 세카이(가칭)"
+  },
+  {
+    "wordingKey": "W_C_782",
+    "value": "00\/00 00:00까지"
+  },
+  {
+    "wordingKey": "W_C_783",
+    "value": "낮음"
+  },
+  {
+    "wordingKey": "W_C_784",
+    "value": "일괄 다운로드"
+  },
+  {
+    "wordingKey": "W_C_785",
+    "value": "누구나"
+  },
+  {
+    "wordingKey": "W_C_786",
+    "value": "친구만"
+  },
+  {
+    "wordingKey": "W_C_787",
+    "value": "거부"
+  },
+  {
+    "wordingKey": "W_C_788",
+    "value": "변환 머신 설정"
+  },
+  {
+    "wordingKey": "W_C_789",
+    "value": "잊힌 비경"
+  },
+  {
     "wordingKey": "W_C_79",
     "value": "아이템명 왼쪽 정렬 32px #557 중앙 정렬"
+  },
+  {
+    "wordingKey": "W_C_790",
+    "value": "해제"
+  },
+  {
+    "wordingKey": "W_C_791",
+    "value": "설정"
+  },
+  {
+    "wordingKey": "W_C_792",
+    "value": "기타"
+  },
+  {
+    "wordingKey": "W_C_793",
+    "value": "프로세카"
+  },
+  {
+    "wordingKey": "W_C_794",
+    "value": "저장했습니다."
+  },
+  {
+    "wordingKey": "W_C_795",
+    "value": "어나더 보컬 상점에서 교환\\n"
+  },
+  {
+    "wordingKey": "W_C_796",
+    "value": "조합할 가구가\\n없습니다."
+  },
+  {
+    "wordingKey": "W_C_797",
+    "value": "설치"
+  },
+  {
+    "wordingKey": "W_C_798",
+    "value": "커스텀 광고 스위치"
+  },
+  {
+    "wordingKey": "W_C_799",
+    "value": "프리미엄 미션 패스 구매 시 오픈"
   },
   {
     "wordingKey": "W_C_8",
@@ -20704,12 +21332,104 @@
     "value": "００００００ 남음"
   },
   {
+    "wordingKey": "W_C_800",
+    "value": "마이세카이 미션 패스 구매 시 오픈"
+  },
+  {
+    "wordingKey": "W_C_801",
+    "value": "초대 중!"
+  },
+  {
+    "wordingKey": "W_C_802",
+    "value": "월드 패스\\n구매"
+  },
+  {
+    "wordingKey": "W_C_803",
+    "value": "<color=#FFFFFFFF>¥480<\/color>"
+  },
+  {
+    "wordingKey": "W_C_804",
+    "value": "기본값"
+  },
+  {
+    "wordingKey": "W_C_805",
+    "value": "손"
+  },
+  {
+    "wordingKey": "W_C_806",
+    "value": "백지 설계도를 사용해서 이 가구의 설계도를 스케치합니다.\\n계속하시겠습니까?"
+  },
+  {
+    "wordingKey": "W_C_807",
+    "value": "푹신푹신한 싱글 침대 가구명■의 설계도"
+  },
+  {
+    "wordingKey": "W_C_808",
+    "value": "스케치"
+  },
+  {
+    "wordingKey": "W_C_809",
+    "value": "PASS:"
+  },
+  {
     "wordingKey": "W_C_81",
     "value": "RANK UP!"
   },
   {
+    "wordingKey": "W_C_810",
+    "value": "머신 Lv.3 달성"
+  },
+  {
+    "wordingKey": "W_C_811",
+    "value": "변경 불가"
+  },
+  {
+    "wordingKey": "W_C_812",
+    "value": "시점\\n전환"
+  },
+  {
+    "wordingKey": "W_C_813",
+    "value": "재료를 사용하여 아래 멤버로 캔버스를 제작합니다.\\n계속하시겠습니까?"
+  },
+  {
+    "wordingKey": "W_C_814",
+    "value": "레이아웃01​"
+  },
+  {
+    "wordingKey": "W_C_815",
+    "value": "<color=#F59>프리셋 2<\/color>의 레이아웃을 마이세카이에 배치합니다.\\n현재 배치 중인 가구는 정리됩니다. 계속하시겠습니까?\\n\\n<color=#F36>※레이아웃에 포함된 현재 보유하지 않은 가구는 배치되지 않습니다.<\/color>"
+  },
+  {
+    "wordingKey": "W_C_816",
+    "value": "초대장 보내기"
+  },
+  {
+    "wordingKey": "W_C_817",
+    "value": "초대 취소"
+  },
+  {
+    "wordingKey": "W_C_818",
+    "value": "원판"
+  },
+  {
+    "wordingKey": "W_C_819",
+    "value": "레벨 업"
+  },
+  {
     "wordingKey": "W_C_82",
     "value": "x100"
+  },
+  {
+    "wordingKey": "W_C_820",
+    "value": "hh:mm:ss 후 변경 가능"
+  },
+  {
+    "wordingKey": "W_C_821",
+    "value": "오픈"
+  },
+  {
+    "wordingKey": "W_C_822",
+    "value": "변경"
   },
   {
     "wordingKey": "W_C_83",

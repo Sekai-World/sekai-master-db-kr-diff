@@ -5356,6 +5356,49 @@
     "virtualShopType": "event"
   },
   {
+    "id": 293,
+    "name": "「コネクトライブ 4th ANNIVERSARY Brilliant Stage」グッズショップ",
+    "virtualShopItems": [
+      {
+        "id": 476,
+        "virtualShopId": 293,
+        "virtualShopItemType": "costume",
+        "seq": 99876,
+        "resourceBoxId": 372,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1759212000000,
+        "endAt": 1760259599000,
+        "limitValue": 1
+      },
+      {
+        "id": 477,
+        "virtualShopId": 293,
+        "virtualShopItemType": "costume",
+        "seq": 99877,
+        "resourceBoxId": 373,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1759212000000,
+        "endAt": 1760259599000,
+        "limitValue": 1
+      },
+      {
+        "id": 478,
+        "virtualShopId": 293,
+        "virtualShopItemType": "accessory",
+        "seq": 99873,
+        "resourceBoxId": 374,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1759212000000,
+        "endAt": 1760259599000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 294,
     "name": "第144回イベント物販",
     "virtualShopItems": [
