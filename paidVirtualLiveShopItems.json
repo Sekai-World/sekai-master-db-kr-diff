@@ -68,6 +68,57 @@
     "assetbundleName": "vl_archive_thumbnail_10004"
   },
   {
+    "id": 10011,
+    "seq": 10012,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "제1 공연",
+    "resourceBoxId": 10011,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100111,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "startAt": 1727665200000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10011"
+  },
+  {
+    "id": 10012,
+    "seq": 10011,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "제2 공연",
+    "resourceBoxId": 10012,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100121,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "startAt": 1727665200000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10012"
+  },
+  {
+    "id": 10013,
+    "seq": 10013,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "모든 공연 묶음 구매",
+    "resourceBoxId": 10013,
+    "paidVirtualLiveShopItemPurchaseType": "bundle",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100131,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 5000,
+        "startAt": 1727665200000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10013"
+  },
+  {
     "id": 20001,
     "seq": 20001,
     "name": "하루카 2022",
