@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "mysekaiItemType": "white_blueprint",
+    "name": "백지 설계도",
+    "pronunciation": "はくしのせっけいず",
+    "description": "아직 새하얀 설계도. 다른 사람의 세카이에 있는 가구를 스케치할 수 있다.",
+    "iconAssetbundleName": "item_blank_blueprint"
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "mysekaiItemType": "surplus_blueprint",
+    "name": "남은 설계도",
+    "pronunciation": "あまったせっけいず",
+    "description": "이미 가지고 있던 설계도의 흔적. 변환 머신에서 다른 설계도로 변환할 수 있다.",
+    "iconAssetbundleName": "item_surplus_blueprint"
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "mysekaiItemType": "surplus_music_record",
+    "name": "남은 레코드",
+    "pronunciation": "あまったれこーど",
+    "description": "이미 가지고 있던 레코드의 흔적. 변환 머신에서 다른 레코드로 변환할 수 있다.",
+    "iconAssetbundleName": "item_surplus_music_record"
+  },
+  {
+    "id": 6,
+    "seq": 6,
+    "mysekaiItemType": "mysekai_photo_film",
+    "name": "사진 필름",
+    "pronunciation": "ふぉとふぃるむ",
+    "description": "사진 현상에 필요한 필름. 사진을 찍을 때 필요하다.",
+    "iconAssetbundleName": "item_photofilm"
+  },
+  {
+    "id": 7,
+    "seq": 7,
+    "mysekaiItemType": "blueprint_fragment",
+    "name": "설계도 조각",
+    "pronunciation": "せっけいずのきれはし",
+    "description": "설계도의 조각. 모으면 변환 머신에서 무작위 설계도로 변환할 수 있다.",
+    "iconAssetbundleName": "item_blueprint_fragment"
+  }
+]

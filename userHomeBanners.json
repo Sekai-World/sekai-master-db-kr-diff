@@ -20,24 +20,6 @@
     "endAt": 4102412399000
   },
   {
-    "homeBannerId": 8,
-    "seq": 5000,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_sodokumission",
-    "transitionDestinationType": "sudoku",
-    "startAt": 1649257200000,
-    "endAt": 4102412399000
-  },
-  {
-    "homeBannerId": 35,
-    "seq": 5000,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_cp4",
-    "transitionDestinationType": "billing_shop_for_colorful_pass",
-    "startAt": 1654009200000,
-    "endAt": 4093963199000
-  },
-  {
     "homeBannerId": 412,
     "seq": 60,
     "homeBannerType": "general",
@@ -45,66 +27,6 @@
     "transitionDestinationType": "billing_shop_for_first_recharge",
     "startAt": 1695603600000,
     "endAt": 4083890399000
-  },
-  {
-    "homeBannerId": 873,
-    "seq": 180,
-    "homeBannerType": "event",
-    "assetbundleName": "event_moment_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 143,
-    "startAt": 1758348000000,
-    "endAt": 1759212000000
-  },
-  {
-    "homeBannerId": 874,
-    "seq": 170,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha577",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 577,
-    "startAt": 1758337200000,
-    "endAt": 1759201200000
-  },
-  {
-    "homeBannerId": 876,
-    "seq": 20,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha581",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 581,
-    "startAt": 1759028400000,
-    "endAt": 1759546800000
-  },
-  {
-    "homeBannerId": 877,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha588",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 588,
-    "startAt": 1759028400000,
-    "endAt": 1761879600000
-  },
-  {
-    "homeBannerId": 878,
-    "seq": 40,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha589",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 589,
-    "startAt": 1759028400000,
-    "endAt": 1761879600000
-  },
-  {
-    "homeBannerId": 879,
-    "seq": 50,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha_tab32",
-    "transitionDestinationType": "gacha_tab_parent",
-    "transitionDestinationId": 67,
-    "startAt": 1759028400000,
-    "endAt": 1761879600000
   },
   {
     "homeBannerId": 880,
@@ -115,5 +37,53 @@
     "transitionDestinationId": 590,
     "startAt": 1759028400000,
     "endAt": 1764471600000
+  },
+  {
+    "homeBannerId": 899,
+    "seq": 180,
+    "homeBannerType": "event",
+    "assetbundleName": "event_enjoymusic_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 147,
+    "startAt": 1761890400000,
+    "endAt": 1762754400000
+  },
+  {
+    "homeBannerId": 900,
+    "seq": 170,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha609",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 609,
+    "startAt": 1761879600000,
+    "endAt": 1762743600000
+  },
+  {
+    "homeBannerId": 902,
+    "seq": 130,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha611",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 611,
+    "startAt": 1762268400000,
+    "endAt": 1762354800000
+  },
+  {
+    "homeBannerId": 922,
+    "seq": 530,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_sekaiecho",
+    "transitionDestinationType": "sekai_echo",
+    "startAt": 1760238000000,
+    "endAt": 4101375600000
+  },
+  {
+    "homeBannerId": 925,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_mysekaimissionpass_2025_01",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1761922800000,
+    "endAt": 1764514799000
   }
 ]

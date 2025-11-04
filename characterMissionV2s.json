@@ -148,7 +148,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 1,
     "parameterGroupId": 19,
-    "sentence": "｢호시노 이치카」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'호시노 이치카'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 1,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 호시노 이치카의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 1,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 호시노 이치카의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 1,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 호시노 이치카의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -157,7 +184,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 1,
     "parameterGroupId": 101,
-    "sentence": "｢호시노 이치카｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'호시노 이치카'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -166,7 +193,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 1,
     "parameterGroupId": 102,
-    "sentence": "｢호시노 이치카｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'호시노 이치카'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -319,7 +346,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 2,
     "parameterGroupId": 19,
-    "sentence": "｢텐마 사키」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'텐마 사키'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 2,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 텐마 사키의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 2,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 텐마 사키의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 2,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 텐마 사키의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -328,7 +382,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 2,
     "parameterGroupId": 101,
-    "sentence": "｢텐마 사키｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'텐마 사키'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -337,7 +391,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 2,
     "parameterGroupId": 102,
-    "sentence": "｢텐마 사키｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'텐마 사키'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -490,7 +544,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 3,
     "parameterGroupId": 19,
-    "sentence": "｢모치즈키 호나미」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'모치즈키 호나미'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 3,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 모치즈키 호나미의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 3,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 모치즈키 호나미의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 3,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 모치즈키 호나미의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -499,7 +580,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 3,
     "parameterGroupId": 101,
-    "sentence": "｢모치즈키 호나미｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'모치즈키 호나미'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -508,7 +589,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 3,
     "parameterGroupId": 102,
-    "sentence": "｢모치즈키 호나미｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'모치즈키 호나미'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -661,7 +742,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 4,
     "parameterGroupId": 19,
-    "sentence": "｢히노모리 시호」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'히노모리 시호'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 4,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 히노모리 시호의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 4,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 히노모리 시호의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 4,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 히노모리 시호의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -670,7 +778,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 4,
     "parameterGroupId": 101,
-    "sentence": "｢히노모리 시호｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'히노모리 시호'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -679,7 +787,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 4,
     "parameterGroupId": 102,
-    "sentence": "｢히노모리 시호｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'히노모리 시호'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -832,7 +940,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 5,
     "parameterGroupId": 19,
-    "sentence": "｢하나사토 미노리」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'하나사토 미노리'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 5,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 하나사토 미노리의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 5,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 하나사토 미노리의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 5,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 하나사토 미노리의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -841,7 +976,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 5,
     "parameterGroupId": 101,
-    "sentence": "｢하나사토 미노리｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'하나사토 미노리'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -850,7 +985,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 5,
     "parameterGroupId": 102,
-    "sentence": "｢하나사토 미노리｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'하나사토 미노리'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1003,7 +1138,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 6,
     "parameterGroupId": 19,
-    "sentence": "｢키리타니 하루카」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'키리타니 하루카'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 6,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 키리타니 하루카의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 6,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 키리타니 하루카의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 6,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 키리타니 하루카의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -1012,7 +1174,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 6,
     "parameterGroupId": 101,
-    "sentence": "｢키리타니 하루카｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'키리타니 하루카'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1021,7 +1183,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 6,
     "parameterGroupId": 102,
-    "sentence": "｢키리타니 하루카｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'키리타니 하루카'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1174,7 +1336,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 7,
     "parameterGroupId": 19,
-    "sentence": "｢모모이 아이리」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'모모이 아이리'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 7,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 모모이 아이리의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 7,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 모모이 아이리의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 7,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 모모이 아이리의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -1183,7 +1372,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 7,
     "parameterGroupId": 101,
-    "sentence": "｢모모이 아이리｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'모모이 아이리'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1192,7 +1381,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 7,
     "parameterGroupId": 102,
-    "sentence": "｢모모이 아이리｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'모모이 아이리'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1345,7 +1534,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 8,
     "parameterGroupId": 19,
-    "sentence": "｢히노모리 시즈쿠」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'히노모리 시즈쿠'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 8,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 히노모리 시즈쿠의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 8,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 히노모리 시즈쿠의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 8,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 히노모리 시즈쿠의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -1354,7 +1570,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 8,
     "parameterGroupId": 101,
-    "sentence": "｢히노모리 시즈쿠｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'히노모리 시즈쿠'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1363,7 +1579,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 8,
     "parameterGroupId": 102,
-    "sentence": "｢히노모리 시즈쿠｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'히노모리 시즈쿠'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1516,7 +1732,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 9,
     "parameterGroupId": 19,
-    "sentence": "｢아즈사와 코하네」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'아즈사와 코하네'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 9,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 아즈사와 코하네의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 9,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 아즈사와 코하네의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 9,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 아즈사와 코하네의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -1525,7 +1768,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 9,
     "parameterGroupId": 101,
-    "sentence": "｢아즈사와 코하네｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'아즈사와 코하네'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1534,7 +1777,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 9,
     "parameterGroupId": 102,
-    "sentence": "｢아즈사와 코하네｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'아즈사와 코하네'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1687,7 +1930,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 10,
     "parameterGroupId": 19,
-    "sentence": "｢시라이시 안」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'시라이시 안'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 10,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 시라이시 안의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 10,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 시라이시 안의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 10,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 시라이시 안의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -1696,7 +1966,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 10,
     "parameterGroupId": 101,
-    "sentence": "｢시라이시 안｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'시라이시 안'을 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1705,7 +1975,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 10,
     "parameterGroupId": 102,
-    "sentence": "｢시라이시 안｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'시라이시 안'을 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1858,7 +2128,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 11,
     "parameterGroupId": 19,
-    "sentence": "｢시노노메 아키토」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'시노노메 아키토'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 11,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 시노노메 아키토의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 11,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 시노노메 아키토의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 11,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 시노노메 아키토의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -1867,7 +2164,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 11,
     "parameterGroupId": 101,
-    "sentence": "｢시노노메 아키토｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'시노노메 아키토'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -1876,7 +2173,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 11,
     "parameterGroupId": 102,
-    "sentence": "｢시노노메 아키토｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'시노노메 아키토'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2029,7 +2326,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 12,
     "parameterGroupId": 19,
-    "sentence": "｢아오야기 토우야」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'아오야기 토우야'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 12,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 아오야기 토우야의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 12,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 아오야기 토우야의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 12,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 아오야기 토우야의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -2038,7 +2362,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 12,
     "parameterGroupId": 101,
-    "sentence": "｢아오야기 토우야｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'아오야기 토우야'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2047,7 +2371,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 12,
     "parameterGroupId": 102,
-    "sentence": "｢아오야기 토우야｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'아오야기 토우야'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2200,7 +2524,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 13,
     "parameterGroupId": 19,
-    "sentence": "｢텐마 츠카사」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'텐마 츠카사'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 13,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 텐마 츠카사의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 13,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 텐마 츠카사의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 13,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 텐마 츠카사의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -2209,7 +2560,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 13,
     "parameterGroupId": 101,
-    "sentence": "｢텐마 츠카사｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'텐마 츠카사'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2218,7 +2569,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 13,
     "parameterGroupId": 102,
-    "sentence": "｢텐마 츠카사｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'텐마 츠카사'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2371,7 +2722,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 14,
     "parameterGroupId": 19,
-    "sentence": "｢오오토리 에무」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'오오토리 에무'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 14,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 오오토리 에무의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 14,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 오오토리 에무의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 14,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 오오토리 에무의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -2380,7 +2758,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 14,
     "parameterGroupId": 101,
-    "sentence": "｢오오토리 에무｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'오오토리 에무'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2389,7 +2767,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 14,
     "parameterGroupId": 102,
-    "sentence": "｢오오토리 에무｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'오오토리 에무'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2542,7 +2920,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 15,
     "parameterGroupId": 19,
-    "sentence": "｢쿠사나기 네네」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'쿠사나기 네네'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 15,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 쿠사나기 네네의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 15,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 쿠사나기 네네의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 15,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 쿠사나기 네네의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -2551,7 +2956,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 15,
     "parameterGroupId": 101,
-    "sentence": "｢쿠사나기 네네｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'쿠사나기 네네'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2560,7 +2965,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 15,
     "parameterGroupId": 102,
-    "sentence": "｢쿠사나기 네네｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'쿠사나기 네네'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2713,7 +3118,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 16,
     "parameterGroupId": 19,
-    "sentence": "｢카미시로 루이」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'카미시로 루이'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 16,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 카미시로 루이의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 16,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 카미시로 루이의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 16,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 카미시로 루이의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -2722,7 +3154,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 16,
     "parameterGroupId": 101,
-    "sentence": "｢카미시로 루이｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'카미시로 루이'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2731,7 +3163,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 16,
     "parameterGroupId": 102,
-    "sentence": "｢카미시로 루이｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'카미시로 루이'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2884,7 +3316,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 17,
     "parameterGroupId": 19,
-    "sentence": "｢요이사키 카나데」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'요이사키 카나데'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 17,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 요이사키 카나데의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 17,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 요이사키 카나데의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 17,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 요이사키 카나데의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -2893,7 +3352,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 17,
     "parameterGroupId": 101,
-    "sentence": "｢요이사키 카나데｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'요이사키 카나데'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -2902,7 +3361,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 17,
     "parameterGroupId": 102,
-    "sentence": "｢요이사키 카나데｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'요이사키 카나데'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3055,7 +3514,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 18,
     "parameterGroupId": 19,
-    "sentence": "｢아사히나 마후유」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'아사히나 마후유'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 18,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 아사히나 마후유의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 18,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 아사히나 마후유의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 18,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 아사히나 마후유의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -3064,7 +3550,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 18,
     "parameterGroupId": 101,
-    "sentence": "｢아사히나 마후유｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'아사히나 마후유'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3073,7 +3559,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 18,
     "parameterGroupId": 102,
-    "sentence": "｢아사히나 마후유｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'아사히나 마후유'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3226,7 +3712,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 19,
     "parameterGroupId": 19,
-    "sentence": "｢시노노메 에나」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'시노노메 에나'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 19,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 시노노메 에나의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 19,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 시노노메 에나의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 19,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 시노노메 에나의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -3235,7 +3748,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 19,
     "parameterGroupId": 101,
-    "sentence": "｢시노노메 에나｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'시노노메 에나'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3244,7 +3757,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 19,
     "parameterGroupId": 102,
-    "sentence": "｢시노노메 에나｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'시노노메 에나'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3397,7 +3910,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 20,
     "parameterGroupId": 19,
-    "sentence": "｢아키야마 미즈키」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'아키야마 미즈키'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 20,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 아키야마 미즈키의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 20,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 아키야마 미즈키의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 20,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 아키야마 미즈키의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -3406,7 +3946,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 20,
     "parameterGroupId": 101,
-    "sentence": "｢아키야마 미즈키｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'아키야마 미즈키'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3415,7 +3955,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 20,
     "parameterGroupId": 102,
-    "sentence": "｢아키야마 미즈키｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'아키야마 미즈키'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3568,7 +4108,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 21,
     "parameterGroupId": 19,
-    "sentence": "｢하츠네 미쿠」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'하츠네 미쿠'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 21,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 하츠네 미쿠의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 21,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 하츠네 미쿠의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 21,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 하츠네 미쿠의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -3577,7 +4144,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 21,
     "parameterGroupId": 101,
-    "sentence": "｢하츠네 미쿠｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'하츠네 미쿠'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3586,7 +4153,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 21,
     "parameterGroupId": 102,
-    "sentence": "｢하츠네 미쿠｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'하츠네 미쿠'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3739,7 +4306,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 22,
     "parameterGroupId": 19,
-    "sentence": "｢카가미네 린」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'카가미네 린'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 22,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 카가미네 린의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 22,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 카가미네 린의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 22,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 카가미네 린의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -3748,7 +4342,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 22,
     "parameterGroupId": 101,
-    "sentence": "｢카가미네 린｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'카가미네 린'을 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3757,7 +4351,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 22,
     "parameterGroupId": 102,
-    "sentence": "｢카가미네 린｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'카가미네 린'을 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3910,7 +4504,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 23,
     "parameterGroupId": 19,
-    "sentence": "｢카가미네 렌」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'카가미네 렌'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 23,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 카가미네 렌의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 23,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 카가미네 렌의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 23,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 카가미네 렌의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -3919,7 +4540,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 23,
     "parameterGroupId": 101,
-    "sentence": "｢카가미네 렌｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'카가미네 렌'을 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -3928,7 +4549,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 23,
     "parameterGroupId": 102,
-    "sentence": "｢카가미네 렌｣를 대기실로{requirement}회 이동시키기",
+    "sentence": "'카가미네 렌'을 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4081,7 +4702,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 24,
     "parameterGroupId": 19,
-    "sentence": "｢메구리네 루카」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'메구리네 루카'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 24,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 메구리네 루카의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 24,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 메구리네 루카의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 24,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 메구리네 루카의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -4090,7 +4738,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 24,
     "parameterGroupId": 101,
-    "sentence": "｢메구리네 루카｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기。",
+    "sentence": "'메구리네 루카'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4099,7 +4747,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 24,
     "parameterGroupId": 102,
-    "sentence": "｢메구리네 루카｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'메구리네 루카'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4252,7 +4900,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 25,
     "parameterGroupId": 19,
-    "sentence": "｢MEIKO」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'MEIKO'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 25,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 MEIKO의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 25,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 MEIKO의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 25,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 MEIKO의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -4261,7 +4936,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 25,
     "parameterGroupId": 101,
-    "sentence": "｢MEIKO｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'MEIKO'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4270,7 +4945,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 25,
     "parameterGroupId": 102,
-    "sentence": "｢MEIKO｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'MEIKO'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4423,7 +5098,34 @@
     "characterMissionType": "collect_character_archive_voice",
     "characterId": 26,
     "parameterGroupId": 19,
-    "sentence": "｢KAITO」의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "sentence": "'KAITO'의 라이브 대사\/뽑기 대사를 총 {requirement}종류 획득하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26020,
+    "characterMissionType": "collect_mysekai_fixture",
+    "characterId": 26,
+    "parameterGroupId": 20,
+    "sentence": "마이세카이에서 KAITO의 태그가 붙은 가구를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26021,
+    "characterMissionType": "collect_mysekai_canvas",
+    "characterId": 26,
+    "parameterGroupId": 21,
+    "sentence": "마이세카이에서 KAITO의 멤버의 캔버스를 {requirement}종류 제작하기",
+    "progressSentence": "{progress}유형",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26022,
+    "characterMissionType": "read_mysekai_fixture_unique_character_talk",
+    "characterId": 26,
+    "parameterGroupId": 22,
+    "sentence": "마이세카이에서 KAITO의 대화가 발생하는 가구를 제작하고 대화 {requirement}종류 보기",
     "progressSentence": "{progress}유형",
     "isAchievementMission": false
   },
@@ -4432,7 +5134,7 @@
     "characterMissionType": "play_live_ex",
     "characterId": 26,
     "parameterGroupId": 101,
-    "sentence": "｢KAITO｣(을)를 리더로 편성하여 라이브{requirement}회 클리어하기",
+    "sentence": "'KAITO'를 리더로 편성하여\n라이브 {requirement}회 플레이하기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   },
@@ -4441,7 +5143,7 @@
     "characterMissionType": "waiting_room_ex",
     "characterId": 26,
     "parameterGroupId": 102,
-    "sentence": "｢KAITO｣를 대기실로{requirement}회 이동시키기。",
+    "sentence": "'KAITO'를 대기실로\n{requirement}회 이동시키기",
     "progressSentence": "{progress}회",
     "isAchievementMission": true
   }

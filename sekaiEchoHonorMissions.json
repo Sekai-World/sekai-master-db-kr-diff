@@ -1,0 +1,51 @@
+[
+  {
+    "sekaiLevel": 1,
+    "sekaiEchoHonorMissionType": "read_event_story",
+    "seq": 1,
+    "requirement": 1,
+    "sentence": "스킵 또는 배속 기능을 사용하지 않고 모든 이벤트 스토리를 시청하세요."
+  },
+  {
+    "sekaiLevel": 2,
+    "sekaiEchoHonorMissionType": "echo_point",
+    "seq": 3,
+    "requirement": 5000,
+    "sentence": "이번 이벤트에서 5000 에코 포인트를 누적 사용하세요."
+  },
+  {
+    "sekaiLevel": 2,
+    "sekaiEchoHonorMissionType": "event_card_get",
+    "seq": 1,
+    "requirement": 2,
+    "sentence": "해당 이벤트 카드를 2장 획득하세요."
+  },
+  {
+    "sekaiLevel": 2,
+    "sekaiEchoHonorMissionType": "event_music_pass",
+    "seq": 2,
+    "requirement": 5,
+    "sentence": "오리지널 곡을 5회 완료하세요."
+  },
+  {
+    "sekaiLevel": 3,
+    "sekaiEchoHonorMissionType": "echo_point",
+    "seq": 3,
+    "requirement": 25000,
+    "sentence": "이번 이벤트에서 25000 에코 포인트를 누적 사용하세요."
+  },
+  {
+    "sekaiLevel": 3,
+    "sekaiEchoHonorMissionType": "event_card_get",
+    "seq": 1,
+    "requirement": 4,
+    "sentence": "해당 이벤트의 4종 캐릭터 멤버 카드를 획득하세요."
+  },
+  {
+    "sekaiLevel": 3,
+    "sekaiEchoHonorMissionType": "event_music_pass",
+    "seq": 2,
+    "requirement": 30,
+    "sentence": "오리지널 곡을 30회 완료하세요."
+  }
+]

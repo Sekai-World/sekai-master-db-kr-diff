@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "sekaiEchoMissionType": "read_main_story",
+    "seq": 1,
+    "sentence": "임의 유닛의 모든 메인 스토리를 시청하세요.",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222223
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sekaiEchoMissionType": "read_character_box_story",
+    "seq": 2,
+    "sentence": "스킵 또는 배속 기능을 사용하지 않고 임의 캐릭터의 1학년 핵심 스토리를 시청하세요.",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222224
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sekaiEchoMissionType": "read_unit_box_story",
+    "seq": 3,
+    "sentence": "스킵 또는 배속 기능을 사용하지 않고 임의 유닛의 1학년 핵심 스토리를 시청하세요.",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222225
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sekaiEchoMissionType": "get_box_story_honor_stamp",
+    "seq": 4,
+    "sentence": "1개의 핵심 스토리 칭호 및 스탬프를 획득하세요. (버추얼 라이브를 통해 획득 가능함)",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222226
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sekaiEchoMissionType": "clear_event_music",
+    "seq": 5,
+    "sentence": "이벤트 카드의 이벤트 창작곡을 클릭해 공연을 1회 진행해 보세요.",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222227
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sekaiEchoMissionType": "read_graph",
+    "seq": 6,
+    "sentence": "임의 유닛의 캐릭터 관계도를 확인하세요.",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222228
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sekaiEchoMissionType": "read_all_pv",
+    "seq": 7,
+    "sentence": "모든 유닛의 PV를 시청하세요.",
+    "requirement": 1,
+    "rewards": [
+      {
+        "resourceBoxId": 22222229
+      }
+    ]
+  }
+]

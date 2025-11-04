@@ -1,0 +1,793 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "mysekaiMaterialType": "wood",
+    "name": "마음의 목재",
+    "pronunciation": "おもいのもくざい",
+    "description": "당신의 마음에서 생긴 듯한 목재.\n나무를 베면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_1",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "mysekaiMaterialType": "wood",
+    "name": "무거운 목재",
+    "pronunciation": "おもたいもくざい",
+    "description": "매우 단단해서 웬만한 무게로는 부러지지 않는 목재.\n활엽수를 베면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_2",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop03",
+    "mysekaiSiteIds": [
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "mysekaiMaterialType": "wood",
+    "name": "가벼운 목재",
+    "pronunciation": "かるいもくざい",
+    "description": "부드러워 가공하기 쉬운 목재.\n종이 재료로도 좋다.\n침엽수를 베면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_3",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop02",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "mysekaiMaterialType": "wood",
+    "name": "끈적끈적 수액",
+    "pronunciation": "べたべたのじゅえき",
+    "description": "끈적끈적하고 금방 굳는 액체.\n고무 대신 쓸 수 있다.\n열대수를 베면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      6
+    ]
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "mysekaiMaterialType": "wood",
+    "name": "저녁 오동나무",
+    "pronunciation": "ゆうぎり",
+    "description": "귀중한 고급 목재.\n저녁에 가끔 보이는 저녁 오동나무를 베면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_wood_5",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop04",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": 6,
+    "seq": 101,
+    "mysekaiMaterialType": "mineral",
+    "name": "마음의 작은 돌",
+    "pronunciation": "おもいのいしころ",
+    "description": "어디에나 있는 돌멩이로 보이지만, 당신의 마음에서 생겨났다.\n바위를 캐면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_1",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 7,
+    "seq": 102,
+    "mysekaiMaterialType": "mineral",
+    "name": "구리",
+    "pronunciation": "どう",
+    "description": "전기가 통하는 광석.\n구리 광석을 캐면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_2",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop02",
+    "mysekaiSiteIds": [
+      5,
+      8
+    ]
+  },
+  {
+    "id": 8,
+    "seq": 103,
+    "mysekaiMaterialType": "mineral",
+    "name": "철",
+    "pronunciation": "てつ",
+    "description": "무척 튼튼한 광석.\n철광석을 캐면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_3",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop03",
+    "mysekaiSiteIds": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 9,
+    "seq": 104,
+    "mysekaiMaterialType": "mineral",
+    "name": "점토",
+    "pronunciation": "ねんど",
+    "description": "다양한 용도로 쓸 수 있는 점토.\n바위를 캐면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_4",
+    "modelAssetbundleName": "mdl_site_rock_common_claydrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 10,
+    "seq": 105,
+    "mysekaiMaterialType": "mineral",
+    "name": "깨끗한 유리",
+    "pronunciation": "きれいながらす",
+    "description": "투명한 유리.\n유리석을 캐면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_5",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop04",
+    "mysekaiSiteIds": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 106,
+    "mysekaiMaterialType": "mineral",
+    "name": "반짝반짝 쿼츠",
+    "pronunciation": "きらきらくぉーつ",
+    "description": "신비로운 분위기의 천연 수정.\n수정석을 캐면 획득할 수 있다.\n밤에 찾기 쉽다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_6",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop05",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 12,
+    "seq": 107,
+    "mysekaiMaterialType": "mineral",
+    "name": "다이아몬드",
+    "pronunciation": "だいやもんど",
+    "description": "매력적인 빛을 내뿜는 귀중한 보석.\n광석을 캐면 매우 낮은 확률로 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_3",
+    "iconAssetbundleName": "item_mineral_7",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop03",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 13,
+    "seq": 201,
+    "mysekaiMaterialType": "junk",
+    "name": "나사",
+    "pronunciation": "ねじ",
+    "description": "다양한 가전제품에 사용되는 부품.\n공구함을 열면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_1",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 14,
+    "seq": 202,
+    "mysekaiMaterialType": "junk",
+    "name": "못",
+    "pronunciation": "くぎ",
+    "description": "가구 접합에는 바로 이것.\n공구함을 열면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_2",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 15,
+    "seq": 203,
+    "mysekaiMaterialType": "junk",
+    "name": "플라스틱",
+    "pronunciation": "ぷらすちっく",
+    "description": "모양을 바꾸기 쉽고 물도 튕겨 내는 만능 재료.\n공구함을 열면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_3",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 16,
+    "seq": 204,
+    "mysekaiMaterialType": "junk",
+    "name": "모터",
+    "pronunciation": "もーたー",
+    "description": "다양한 물건을 전기로 움직이게 하는 심장부.\n공구함을 열면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 17,
+    "seq": 205,
+    "mysekaiMaterialType": "junk",
+    "name": "건전지",
+    "pronunciation": "でんち",
+    "description": "전기 제품에는 필수품.\n공구함을 열면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_5",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 18,
+    "seq": 206,
+    "mysekaiMaterialType": "junk",
+    "name": "전구",
+    "pronunciation": "らいと",
+    "description": "전기가 통하면 빛이 나는 부품.\n공구함을 열면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_6",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 207,
+    "mysekaiMaterialType": "junk",
+    "name": "전자 기판",
+    "pronunciation": "でんしきばん",
+    "description": "복잡한 전자 제어를 하는 기판.\n공구함을 열면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_7",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 20,
+    "seq": 301,
+    "mysekaiMaterialType": "plant",
+    "name": "네잎클로버",
+    "pronunciation": "よつばのくろーばー",
+    "description": "찾아내면 행운을 가져다준다.\n식물을 채집하면 매우 희귀한 확률로 획득할 수 있다.\n비 오는 날에 찾기 쉽다.",
+    "mysekaiMaterialRarityType": "rarity_3",
+    "iconAssetbundleName": "item_plant_1",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop03",
+    "mysekaiSiteIds": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "seq": 302,
+    "mysekaiMaterialType": "plant",
+    "name": "부드러운 리넨",
+    "pronunciation": "さらさらりねん",
+    "description": "천의 원료. 부드러운 감촉.\n식물을 채집하면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_2",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "seq": 303,
+    "mysekaiMaterialType": "plant",
+    "name": "푹신한 솜",
+    "pronunciation": "ふわふわこっとん",
+    "description": "푹신푹신한 솜. 햇볕에 말리면 효과는 두 배.\n식물을 채집하면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_3",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5
+    ]
+  },
+  {
+    "id": 23,
+    "seq": 304,
+    "mysekaiMaterialType": "plant",
+    "name": "꽃잎",
+    "pronunciation": "はなびら",
+    "description": "다양한 꽃의 꽃잎. 일상생활을 장식해 보자.\n꽃을 채집하면 획득할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "seq": 401,
+    "mysekaiMaterialType": "tone",
+    "name": "새하얀 음색",
+    "pronunciation": "まっさらなねいろ",
+    "description": "어떤 것에도 물들지 않은 음색.\n잊혀진 장소에서 귀를 기울이면 획득할 수 있다.\n변환 머신에서 다양한 재료로 변환할 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_tone_8",
+    "modelAssetbundleName": "mdl_site_tone_common_tonedrop08",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 32,
+    "seq": 501,
+    "mysekaiMaterialType": "junk",
+    "name": "푸른 하늘 바다 유리",
+    "pronunciation": "あおぞらしーぐらす",
+    "description": "햇빛을 듬뿍 머금은 유리.\n여름날에 떨어져 있을 때가 있다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_8",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 4,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 33,
+    "seq": 502,
+    "mysekaiMaterialType": "mineral",
+    "name": "월광석",
+    "pronunciation": "げっこうせき",
+    "description": "달빛처럼 아름답게 빛나는 신비로운 돌.\n보름달이 뜬 밤에 떨어져 있을 때가 있다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_8",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 5,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 34,
+    "seq": 503,
+    "mysekaiMaterialType": "junk",
+    "name": "별똥별 조각",
+    "pronunciation": "ながれぼしのかけら",
+    "description": "별똥별에서 떨어져 나온 로맨틱한 조각.\n유성군이 보이는 밤에 떨어져 있을 때가 있다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_9",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 9,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 35,
+    "seq": 601,
+    "mysekaiMaterialType": "game_character",
+    "name": "스카이블루 메모리아",
+    "pronunciation": "すかいぶるーめもりあ",
+    "description": "호시노 이치카의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_1",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 36,
+    "seq": 602,
+    "mysekaiMaterialType": "game_character",
+    "name": "패션옐로 메모리아",
+    "pronunciation": "ぱっしょんいえろーめもりあ",
+    "description": "텐마 사키의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_2",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 37,
+    "seq": 603,
+    "mysekaiMaterialType": "game_character",
+    "name": "포피레드 메모리아",
+    "pronunciation": "ぽぴーれっどめもりあ",
+    "description": "모치즈키 호나미의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_3",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 38,
+    "seq": 604,
+    "mysekaiMaterialType": "game_character",
+    "name": "옐로그린 메모리아",
+    "pronunciation": "いえろーぐりーんめもりあ",
+    "description": "히노모리 시호의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_4",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 39,
+    "seq": 605,
+    "mysekaiMaterialType": "game_character",
+    "name": "애프리콧 메모리아",
+    "pronunciation": "あぷりこっとめもりあ",
+    "description": "하나사토 미노리의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_5",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 40,
+    "seq": 606,
+    "mysekaiMaterialType": "game_character",
+    "name": "스트릭트블루 메모리아",
+    "pronunciation": "すとりくとぶるーめもりあ",
+    "description": "키리타니 하루카의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_6",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 41,
+    "seq": 607,
+    "mysekaiMaterialType": "game_character",
+    "name": "러블리핑크 메모리아",
+    "pronunciation": "らぶりーぴんくめもりあ",
+    "description": "모모이 아이리의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_7",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 42,
+    "seq": 608,
+    "mysekaiMaterialType": "game_character",
+    "name": "오팔그린 메모리아",
+    "pronunciation": "おぱーるぐりーんめもりあ",
+    "description": "히노모리 시즈쿠의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_8",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 43,
+    "seq": 609,
+    "mysekaiMaterialType": "game_character",
+    "name": "세리스 메모리아",
+    "pronunciation": "すりーずめもりあ",
+    "description": "아즈사와 코하네의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_9",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 44,
+    "seq": 610,
+    "mysekaiMaterialType": "game_character",
+    "name": "튀르쿠아즈블루 메모리아",
+    "pronunciation": "たーこいずぶるーめもりあ",
+    "description": "시라이시 안의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_10",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 45,
+    "seq": 611,
+    "mysekaiMaterialType": "game_character",
+    "name": "졸리코랄 메모리아",
+    "pronunciation": "じょりーこーらるめもりあ",
+    "description": "시노노메 아키토의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_11",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 46,
+    "seq": 612,
+    "mysekaiMaterialType": "game_character",
+    "name": "로열블루 메모리아",
+    "pronunciation": "ろいやるぶるーめもりあ",
+    "description": "아오야기 토우야의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_12",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 47,
+    "seq": 613,
+    "mysekaiMaterialType": "game_character",
+    "name": "선플라워 메모리아",
+    "pronunciation": "さんふらわーめもりあ",
+    "description": "텐마 츠카사의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_13",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 48,
+    "seq": 614,
+    "mysekaiMaterialType": "game_character",
+    "name": "따끈따끈핑크 메모리아",
+    "pronunciation": "ぽかぽかぴんくめもりあ",
+    "description": "오오토리 에무의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_14",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 49,
+    "seq": 615,
+    "mysekaiMaterialType": "game_character",
+    "name": "스프링그린 메모리아",
+    "pronunciation": "すぷりんぐぐりーんめもりあ",
+    "description": "쿠사나기 네네의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_15",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 50,
+    "seq": 616,
+    "mysekaiMaterialType": "game_character",
+    "name": "캄파눌라퍼플 메모리아",
+    "pronunciation": "かんぱぬらぱーぷるめもりあ",
+    "description": "카미시로 루이의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_16",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 51,
+    "seq": 617,
+    "mysekaiMaterialType": "game_character",
+    "name": "파리다 메모리아",
+    "pronunciation": "ふぁりだめもりあ",
+    "description": "요이사키 카나데의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_17",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 52,
+    "seq": 618,
+    "mysekaiMaterialType": "game_character",
+    "name": "위스테리아 메모리아",
+    "pronunciation": "うぃすたりあめもりあ",
+    "description": "아사히나 마후유의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_18",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 53,
+    "seq": 619,
+    "mysekaiMaterialType": "game_character",
+    "name": "카멜 메모리아",
+    "pronunciation": "きゃらめるめもりあ",
+    "description": "시노노메 에나의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_19",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 54,
+    "seq": 620,
+    "mysekaiMaterialType": "game_character",
+    "name": "씨슬 메모리아",
+    "pronunciation": "しっするめもりあ",
+    "description": "아키야마 미즈키의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_20",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 55,
+    "seq": 621,
+    "mysekaiMaterialType": "game_character",
+    "name": "블루그린 메모리아",
+    "pronunciation": "ぶるーぐりーんめもりあ",
+    "description": "하츠네 미쿠의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_21",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 56,
+    "seq": 622,
+    "mysekaiMaterialType": "game_character",
+    "name": "오렌지 메모리아",
+    "pronunciation": "おれんじめもりあ",
+    "description": "카가미네 린의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_22",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 57,
+    "seq": 623,
+    "mysekaiMaterialType": "game_character",
+    "name": "옐로 메모리아",
+    "pronunciation": "いえろーめもりあ",
+    "description": "카가미네 렌의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_23",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 58,
+    "seq": 624,
+    "mysekaiMaterialType": "game_character",
+    "name": "핑크 메모리아",
+    "pronunciation": "ぴんくめもりあ",
+    "description": "메구리네 루카의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_24",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 59,
+    "seq": 625,
+    "mysekaiMaterialType": "game_character",
+    "name": "레드 메모리아",
+    "pronunciation": "れっどめもりあ",
+    "description": "MEIKO의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_25",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 60,
+    "seq": 626,
+    "mysekaiMaterialType": "game_character",
+    "name": "블루 메모리아",
+    "pronunciation": "ぶるーめもりあ",
+    "description": "KAITO의 마음의 조각.\n특정 가구 제작에 쓸 수 있다.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_26",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 61,
+    "seq": 504,
+    "mysekaiMaterialType": "junk",
+    "name": "눈의 결정",
+    "pronunciation": "ゆきのけっしょう",
+    "description": "내린 눈이 녹지 않고 뭉쳐진 결정.\n눈 내리는 날에 떨어져 있을 때가 있다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_10",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 10,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 62,
+    "seq": 701,
+    "mysekaiMaterialType": "junk",
+    "name": "최고의 도끼날",
+    "pronunciation": "さいこうのおののは",
+    "description": "최고의 도끼를 만드는 데 필요하다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_11",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 63,
+    "seq": 702,
+    "mysekaiMaterialType": "junk",
+    "name": "최고의 곡괭이 끝부분",
+    "pronunciation": "さいこうのつるはしのせんたん",
+    "description": "최고의 곡괭이를 만드는 데 필요하다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_12",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 64,
+    "seq": 505,
+    "mysekaiMaterialType": "junk",
+    "name": "뇌광석",
+    "pronunciation": "らいこうせき",
+    "description": "번개의 힘을 머금은 신비로운 돌.\n천둥이 치는 날에 떨어져 있을 때가 있다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_9",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 8,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 65,
+    "seq": 506,
+    "mysekaiMaterialType": "junk",
+    "name": "무지개색 비드로",
+    "pronunciation": "さいこうのびーどろ",
+    "description": "무지개에서 떨어져 나온 물방울이 뭉쳐진 유리.\n무지개가 뜬 날에 떨어져 있을 때가 있다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_10",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 17,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  }
+]
