@@ -1380,6 +1380,46 @@
     "materialType": "common"
   },
   {
+    "id": 167,
+    "seq": 165167,
+    "name": "[극장판] ★2 멤버 티켓",
+    "flavorText": "[극장판] ★2 멤버 티켓 교환소에서 원하는 ★1 멤버로 교환할 수 있다.",
+    "canUse": false,
+    "materialType": "card_ticket"
+  },
+  {
+    "id": 168,
+    "seq": 200000,
+    "name": "무지개색 메모리아",
+    "flavorText": "무지개색으로 빛나는 마음의 조각.\n특정 메모리아와 교환하는 데 쓸 수 있다.",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 169,
+    "seq": 200001,
+    "name": "'커넥트 라이브 Ensemble in SEKAI' 커넥트 라이브 ver. 보컬 교환 카드",
+    "flavorText": "'커넥트 라이브 특별판 프로젝트 세카이 × 앙상블스타즈!! Ensemble in SEKAI'의 공연에서 선보인 악곡의 커넥트 라이브 ver. 보컬로 교환할 수 있다.",
+    "canUse": false,
+    "materialType": "auto_exchange_music_vocal_ticket"
+  },
+  {
+    "id": 170,
+    "seq": 10615,
+    "name": "월드 피스",
+    "flavorText": "월드 피스 교환소에서 보상과 교환할 수 있다.\n사용 기한: 2026\/04\/22 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 171,
+    "seq": 10616,
+    "name": "[4.5주년 기념] 선물 티켓",
+    "flavorText": "[4.5주년 기념] 선물 티켓으로 보상과 교환할 수 있다.\n사용 기한: 2026\/04\/22 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "컬러풀 패스(베이직) 교환권",
@@ -1408,6 +1448,38 @@
     "seq": 1004,
     "name": "프리미엄 미션 패스(골드) 교환권",
     "flavorText": "프리미엄 미션 패스(골드) 교환권",
+    "canUse": false,
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1005,
+    "seq": 1005,
+    "name": "마이세카이 미션 패스 교환권",
+    "flavorText": "마이세카이 미션 패스 교환권",
+    "canUse": false,
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1006,
+    "seq": 1006,
+    "name": "프리미엄 미션 패스(레벨 업 팩) 교환권",
+    "flavorText": "프리미엄 미션 패스(레벨 업 팩) 교환권",
+    "canUse": false,
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1009,
+    "seq": 1009,
+    "name": "[패스 세트 팩] 프리미엄 미션 패스+마이세카이 미션 패스 교환권",
+    "flavorText": "[패스 세트 팩] 프리미엄 미션 패스+마이세카이 미션 패스 교환권",
+    "canUse": false,
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1010,
+    "seq": 1010,
+    "name": "월드 패스 교환권",
+    "flavorText": "월드 패스 교환권",
     "canUse": false,
     "materialType": "web_ticket"
   },

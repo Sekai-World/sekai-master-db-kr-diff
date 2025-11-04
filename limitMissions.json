@@ -898,5 +898,60 @@
     "sentence": " 하츠네 미쿠의 모든 기념일 한정 미션 완료하기",
     "resourceBoxId": 100026,
     "selectableRewardGroupId": 1000
+  },
+  {
+    "limitMissionGroupId": 17,
+    "id": 99,
+    "seq": 1,
+    "limitMissionType": "clear_live_meiko_leader",
+    "requirement": 15,
+    "sentence": "MEIKO를 리더로 편성하여\n라이브 15회 플레이하기",
+    "resourceBoxId": 100016
+  },
+  {
+    "limitMissionGroupId": 17,
+    "id": 100,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
+    "resourceBoxId": 100045
+  },
+  {
+    "limitMissionGroupId": 17,
+    "id": 101,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100044
+  },
+  {
+    "limitMissionGroupId": 17,
+    "id": 102,
+    "seq": 1,
+    "limitMissionType": "character_rank_meiko",
+    "requirement": 5,
+    "sentence": "MEIKO의 캐릭터 랭크 5 달성하기",
+    "resourceBoxId": 100028
+  },
+  {
+    "limitMissionGroupId": 17,
+    "id": 103,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_meiko",
+    "requirement": 3,
+    "sentence": "MEIKO로 챌린지 라이브 1회 클리어하기",
+    "resourceBoxId": 100025
+  },
+  {
+    "limitMissionGroupId": 17,
+    "id": 104,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "MEIKO의 기념일 축제 한정 미션 모두 클리어하기",
+    "resourceBoxId": 100026,
+    "selectableRewardGroupId": 1001
   }
 ]
