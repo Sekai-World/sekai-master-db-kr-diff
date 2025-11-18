@@ -14922,7 +14922,11 @@
     "id": 482,
     "seq": 99999381,
     "releaseConditionId": 5,
-    "categories": [],
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
     "title": "だめにんげんだ!",
     "pronunciation": "だめにんげんだ!",
     "creatorArtistId": 245,
@@ -15349,13 +15353,10 @@
   {
     "id": 498,
     "seq": 99999395,
-    "releaseConditionId": 5,
+    "releaseConditionId": 10,
     "categories": [
       {
         "musicCategoryName": "mv"
-      },
-      {
-        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "はしる! とおく! とどく!",
@@ -15367,7 +15368,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_498",
-    "publishedAt": 1766070000000,
+    "publishedAt": 1766149500000,
     "releasedAt": 1601391600000,
     "fillerSec": 8.01099967956543,
     "infos": [
@@ -15383,9 +15384,42 @@
     "isFullLength": false
   },
   {
+    "id": 499,
+    "seq": 99999396,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      }
+    ],
+    "title": "混沌ブギ",
+    "pronunciation": "こんとんぶぎ",
+    "creatorArtistId": 119,
+    "lyricist": "jon-YAKITORY",
+    "composer": "jon-YAKITORY",
+    "arranger": "jon-YAKITORY",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_499",
+    "publishedAt": 1766988000000,
+    "releasedAt": 1693321200000,
+    "fillerSec": 9.315799713134766,
+    "infos": [
+      {
+        "title": "혼돈 부기",
+        "creator": "jon-YAKITORY",
+        "lyricist": "jon-YAKITORY",
+        "composer": "jon-YAKITORY",
+        "arranger": "jon-YAKITORY"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 500,
     "seq": 99999397,
-    "releaseConditionId": 5,
+    "releaseConditionId": 10,
     "categories": [
       {
         "musicCategoryName": "mv"
@@ -15400,7 +15434,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_500",
-    "publishedAt": 1765206000000,
+    "publishedAt": 1765285500000,
     "releasedAt": 1601391600000,
     "fillerSec": 9.0,
     "infos": [
@@ -16481,6 +16515,39 @@
     "isFullLength": false
   },
   {
+    "id": 552,
+    "seq": 99999448,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+    "pronunciation": "まじかる　きゅあ　らぶ　しょっと",
+    "creatorArtistId": 284,
+    "lyricist": "Sena Kiryuin & SAWTOWNE",
+    "composer": "SAWTOWNE",
+    "arranger": "SAWTOWNE",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_552",
+    "publishedAt": 1764482400000,
+    "releasedAt": 1715871600000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+        "creator": "SAWTOWNE",
+        "lyricist": "Sena Kiryuin & SAWTOWNE",
+        "composer": "SAWTOWNE",
+        "arranger": "SAWTOWNE"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 553,
     "seq": 99999449,
     "releaseConditionId": 5,
@@ -16547,6 +16614,39 @@
     "isFullLength": false
   },
   {
+    "id": 557,
+    "seq": 1147301,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "花溺れ",
+    "pronunciation": "はなおぼれ",
+    "creatorArtistId": 266,
+    "lyricist": "shikisai",
+    "composer": "shikisai",
+    "arranger": "shikisai",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_557",
+    "publishedAt": 1766469600000,
+    "releasedAt": 1699196400000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "HANAOBORE",
+        "creator": "shikisai",
+        "lyricist": "shikisai",
+        "composer": "shikisai",
+        "arranger": "shikisai"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 564,
     "seq": 2648201,
     "releaseConditionId": 10,
@@ -16578,6 +16678,105 @@
     ],
     "musicCollaborationId": 8,
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 566,
+    "seq": 1147901,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "パンダヒーロー",
+    "pronunciation": "ぱんだひーろー",
+    "creatorArtistId": 120,
+    "lyricist": "ハチ",
+    "composer": "ハチ",
+    "arranger": "ハチ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_566",
+    "publishedAt": 1767160800000,
+    "releasedAt": 1767160800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "パンダヒーロー",
+        "creator": "ハチ",
+        "lyricist": "ハチ",
+        "composer": "ハチ",
+        "arranger": "ハチ"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 567,
+    "seq": 1148001,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "結ンデ開イテ羅刹ト骸",
+    "pronunciation": "むすんでひらいてらせつとむくろ",
+    "creatorArtistId": 120,
+    "lyricist": "ハチ",
+    "composer": "ハチ",
+    "arranger": "ハチ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_567",
+    "publishedAt": 1767247200000,
+    "releasedAt": 1767247200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "結ンデ開イテ羅刹ト骸",
+        "creator": "ハチ",
+        "lyricist": "ハチ",
+        "composer": "ハチ",
+        "arranger": "ハチ"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 569,
+    "seq": 1146301,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "シークレット・シーカー",
+    "pronunciation": "しーくれっと・しーかー",
+    "creatorArtistId": 265,
+    "lyricist": "ヤマギシコージ",
+    "composer": "ヤマギシコージ",
+    "arranger": "ヤマギシコージ",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_569",
+    "publishedAt": 1765864800000,
+    "releasedAt": 1727449200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "シークレット・シーカー",
+        "creator": "ヤマギシコージ",
+        "lyricist": "ヤマギシコージ",
+        "composer": "ヤマギシコージ",
+        "arranger": "ヤマギシコージ"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
