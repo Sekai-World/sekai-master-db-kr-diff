@@ -953,5 +953,69 @@
     "sentence": "MEIKO의 기념일 축제 한정 미션 모두 클리어하기",
     "resourceBoxId": 100026,
     "selectableRewardGroupId": 1001
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 105,
+    "seq": 1,
+    "limitMissionType": "clear_live_kagamine_leader",
+    "requirement": 15,
+    "sentence": "카가미네 린과 카가미네 렌을 리더로 편성하여 라이브 15회 플레이하기",
+    "resourceBoxId": 100016
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 106,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
+    "resourceBoxId": 100045
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 107,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100044
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 108,
+    "seq": 1,
+    "limitMissionType": "character_rank_kagamine",
+    "requirement": 5,
+    "sentence": "카가미네 린과 카가미네 렌의 캐릭터 랭크 5 달성하기",
+    "resourceBoxId": 100047
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 109,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "멤버의 마스터 랭크 누적 1회 랭크 업 하기",
+    "resourceBoxId": 100046
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 110,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "sentence": "'버추얼 라이브' 1회 참가하기",
+    "resourceBoxId": 100025
+  },
+  {
+    "limitMissionGroupId": 18,
+    "id": 111,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "sentence": "카가미네 린 또는 카가미네 렌의 기념일 축제 한정 미션 모두 클리어하기",
+    "resourceBoxId": 100026,
+    "selectableRewardGroupId": 1002
   }
 ]
