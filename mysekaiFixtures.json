@@ -23738,6 +23738,68 @@
     "assetbundleName": "mdl_clb1103_fixture_morgana1"
   },
   {
+    "id": 90001,
+    "mysekaiFixtureType": "house_plant",
+    "name": "DXkuma",
+    "pronunciation": "Chuni Penguin",
+    "flavorText": "DXkuma",
+    "seq": 91001003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90001,
+      "mysekaiFixtureTagId1": 90001,
+      "mysekaiFixtureTagId2": 75
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb9001_fixture_bear1large"
+  },
+  {
+    "id": 90002,
+    "mysekaiFixtureType": "house_plant",
+    "name": "Chuni Penguin",
+    "pronunciation": "Chuni Penguin",
+    "flavorText": "Chuni Penguin",
+    "seq": 91001004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90002,
+      "mysekaiFixtureTagId1": 90002,
+      "mysekaiFixtureTagId2": 75
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb9002_fixture_penguin1large"
+  },
+  {
     "id": 900002,
     "mysekaiFixtureType": "gate",
     "name": "게이트",

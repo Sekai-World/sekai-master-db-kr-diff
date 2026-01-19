@@ -1005,7 +1005,7 @@
     "seq": 1,
     "limitMissionType": "clear_virtual_live",
     "requirement": 1,
-    "sentence": "'버추얼 라이브' 1회 참가하기",
+    "sentence": "버추얼 라이브' 1회 참가하기",
     "resourceBoxId": 100025
   },
   {
@@ -1013,9 +1013,127 @@
     "id": 111,
     "seq": 1,
     "limitMissionType": "clear_all_limit_mission",
-    "requirement": 6,
+    "requirement": 7,
     "sentence": "카가미네 린 또는 카가미네 렌의 기념일 축제 한정 미션 모두 클리어하기",
     "resourceBoxId": 100026,
     "selectableRewardGroupId": 1002
+  },
+  {
+    "limitMissionGroupId": 19,
+    "id": 112,
+    "seq": 1,
+    "limitMissionType": "clear_live_luka_leader",
+    "requirement": 15,
+    "sentence": "메구리네 루카를 리더로 편성하여\n라이브 15회 플레이하기",
+    "resourceBoxId": 100016
+  },
+  {
+    "limitMissionGroupId": 19,
+    "id": 113,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
+    "resourceBoxId": 100045
+  },
+  {
+    "limitMissionGroupId": 19,
+    "id": 114,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100044
+  },
+  {
+    "limitMissionGroupId": 19,
+    "id": 115,
+    "seq": 1,
+    "limitMissionType": "character_rank_luka",
+    "requirement": 5,
+    "sentence": "메구리네 루카의 캐릭터 랭크 5 달성하기",
+    "resourceBoxId": 100036
+  },
+  {
+    "limitMissionGroupId": 19,
+    "id": 116,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_luka",
+    "requirement": 3,
+    "sentence": "메구리네 루카로 챌린지 라이브 3회 클리어하기",
+    "resourceBoxId": 100025
+  },
+  {
+    "limitMissionGroupId": 19,
+    "id": 117,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "메구리네 루카의 기념일 축제 한정 미션 모두 클리어하기",
+    "resourceBoxId": 100026,
+    "selectableRewardGroupId": 1003
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 118,
+    "seq": 1,
+    "limitMissionType": "buy_music",
+    "requirement": 1,
+    "sentence": "음반 상점에서 악곡 1회 교환하기",
+    "resourceBoxId": 100027
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 119,
+    "seq": 1,
+    "limitMissionType": "clear_maimai_music",
+    "requirement": 10,
+    "sentence": "컬래버레이션 악곡 10회 플레이하기",
+    "resourceBoxId": 100048
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 120,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 3,
+    "sentence": "'챌린지 라이브' 3회 플레이하기",
+    "resourceBoxId": 100015
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 121,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 5,
+    "sentence": "'멀티 라이브' 5회 플레이하기",
+    "resourceBoxId": 100049
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 122,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "sentence": "'버추얼 라이브' 1회 참가하기",
+    "resourceBoxId": 100003
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 123,
+    "seq": 1,
+    "limitMissionType": "friend_share",
+    "requirement": 1,
+    "sentence": "공유 기능 1회 사용하기(공유 버튼은 '라이브 결제 페이지', '멤버 상세 보기', '뽑기 결과' 등 화면의 상단에 있습니다.)",
+    "resourceBoxId": 100019
+  },
+  {
+    "limitMissionGroupId": 20,
+    "id": 124,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "sentence": "위 미션들 모두 통과하기",
+    "resourceBoxId": 100050
   }
 ]
