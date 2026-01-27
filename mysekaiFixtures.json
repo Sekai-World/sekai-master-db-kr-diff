@@ -23800,6 +23800,186 @@
     "assetbundleName": "mdl_clb9002_fixture_penguin1large"
   },
   {
+    "id": 90003,
+    "mysekaiFixtureType": "house_plant",
+    "name": "설 복주머니 벽걸이",
+    "pronunciation": "설 복주머니 벽걸이",
+    "flavorText": "설 복주머니 벽걸이",
+    "seq": 91001005,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90003,
+      "mysekaiFixtureTagId1": 90003
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_room1"
+  },
+  {
+    "id": 90004,
+    "mysekaiFixtureType": "house_plant",
+    "name": "설 병풍",
+    "pronunciation": "설 병풍",
+    "flavorText": "설 병풍",
+    "seq": 91001006,
+    "gridSize": {
+      "width": 6,
+      "depth": 1,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 33,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90004,
+      "mysekaiFixtureTagId1": 90004
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_room2"
+  },
+  {
+    "id": 90005,
+    "mysekaiFixtureType": "house_plant",
+    "name": "설 다과상",
+    "pronunciation": "설 다과상",
+    "flavorText": "설 다과상",
+    "seq": 91001007,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90005,
+      "mysekaiFixtureTagId1": 90005
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_room3"
+  },
+  {
+    "id": 90006,
+    "mysekaiFixtureType": "house_plant",
+    "name": "천마연",
+    "pronunciation": "천마연",
+    "flavorText": "천마연",
+    "seq": 91001008,
+    "gridSize": {
+      "width": 5,
+      "depth": 3,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 33,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90006,
+      "mysekaiFixtureTagId1": 90006
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_niwa1"
+  },
+  {
+    "id": 90007,
+    "mysekaiFixtureType": "house_plant",
+    "name": "설연담",
+    "pronunciation": "설연담",
+    "flavorText": "설연담",
+    "seq": 91001009,
+    "gridSize": {
+      "width": 13,
+      "depth": 12,
+      "height": 7
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 33,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90007,
+      "mysekaiFixtureTagId1": 90007
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_niwa2"
+  },
+  {
+    "id": 90008,
+    "mysekaiFixtureType": "house_plant",
+    "name": "동백각",
+    "pronunciation": "동백각",
+    "flavorText": "동백각",
+    "seq": 91001010,
+    "gridSize": {
+      "width": 8,
+      "depth": 8,
+      "height": 10
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 33,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90008,
+      "mysekaiFixtureTagId1": 90008
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_niwa3"
+  },
+  {
     "id": 900002,
     "mysekaiFixtureType": "gate",
     "name": "게이트",
