@@ -1135,5 +1135,60 @@
     "requirement": 6,
     "sentence": "위 미션들 모두 통과하기",
     "resourceBoxId": 100050
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 125,
+    "seq": 1,
+    "limitMissionType": "clear_live_kaito_leader",
+    "requirement": 15,
+    "sentence": "KAITO를 리더로 편성하여\n라이브 15회 플레이하기",
+    "resourceBoxId": 100016
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 126,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
+    "resourceBoxId": 100045
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 127,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100044
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 128,
+    "seq": 1,
+    "limitMissionType": "character_rank_kaito",
+    "requirement": 5,
+    "sentence": "KAITO의 캐릭터 랭크 5 달성하기",
+    "resourceBoxId": 100038
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 129,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_kaito",
+    "requirement": 3,
+    "sentence": "KAITO로 챌린지 라이브 3회 클리어하기",
+    "resourceBoxId": 100025
+  },
+  {
+    "limitMissionGroupId": 21,
+    "id": 130,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "KAITO의 기념일 축제 한정 미션 모두 클리어하기",
+    "resourceBoxId": 100026,
+    "selectableRewardGroupId": 1004
   }
 ]

@@ -23892,9 +23892,9 @@
   {
     "id": 90006,
     "mysekaiFixtureType": "house_plant",
-    "name": "천마연",
-    "pronunciation": "천마연",
-    "flavorText": "천마연",
+    "name": "천마연（빨강）",
+    "pronunciation": "천마연（빨강）",
+    "flavorText": "천마연（빨강）",
     "seq": 91001008,
     "gridSize": {
       "width": 5,
@@ -23978,6 +23978,76 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_krcollect_fixture_niwa3"
+  },
+  {
+    "id": 90009,
+    "mysekaiFixtureType": "house_plant",
+    "name": "천마연（노랑）",
+    "pronunciation": "천마연（노랑）",
+    "flavorText": "천마연（노랑）",
+    "seq": 91001011,
+    "gridSize": {
+      "width": 5,
+      "depth": 3,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 33,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFA300"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90009,
+      "mysekaiFixtureTagId1": 90009
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_niwa1_1"
+  },
+  {
+    "id": 90010,
+    "mysekaiFixtureType": "house_plant",
+    "name": "천마연（파랑）",
+    "pronunciation": "천마연（파랑）",
+    "flavorText": "천마연（파랑）",
+    "seq": 91001012,
+    "gridSize": {
+      "width": 5,
+      "depth": 3,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 33,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 3,
+        "colorCode": "#0092FF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90010,
+      "mysekaiFixtureTagId1": 90010
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_niwa1_2"
   },
   {
     "id": 900002,
