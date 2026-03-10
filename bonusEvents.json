@@ -13,10 +13,6 @@
         "value": 3.0
       },
       {
-        "bonusType": "exp_unit",
-        "value": 2.0
-      },
-      {
         "bonusType": "exp_card",
         "value": 2.0
       }
@@ -57,10 +53,6 @@
         "value": 3.0
       },
       {
-        "bonusType": "exp_unit",
-        "value": 2.0
-      },
-      {
         "bonusType": "exp_card",
         "value": 2.0
       }
@@ -99,10 +91,6 @@
         "resourceType": "material",
         "resourceId": 14,
         "value": 3.0
-      },
-      {
-        "bonusType": "exp_unit",
-        "value": 2.0
       },
       {
         "bonusType": "exp_card",
@@ -149,10 +137,6 @@
         "resourceType": "material",
         "resourceId": 17,
         "value": 3.0
-      },
-      {
-        "bonusType": "exp_unit",
-        "value": 2.0
       },
       {
         "bonusType": "exp_card",
@@ -205,8 +189,54 @@
         "value": 3.0
       },
       {
-        "bonusType": "exp_unit",
+        "bonusType": "exp_card",
         "value": 2.0
+      }
+    ],
+    "normalBoxDailyLimit": 6,
+    "exBoxDailyLimit": 2,
+    "normalBoxResourceBoxIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      15,
+      16
+    ],
+    "exBoxResourceBoxIds": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      17,
+      18
+    ],
+    "limitMissionGroupId": 15
+  },
+  {
+    "id": 6,
+    "startAt": 1772938800000,
+    "endAt": 1773802799000,
+    "url": "https:\/\/lf3-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/mk-korea\/3cb4daa9-447b-42fe-9fff-6216235c66dd.html",
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceType": "material",
+        "resourceId": 14,
+        "value": 3.0
+      },
+      {
+        "bonusType": "rate",
+        "resourceType": "material",
+        "resourceId": 17,
+        "value": 3.0
       },
       {
         "bonusType": "exp_card",
@@ -237,6 +267,6 @@
       17,
       18
     ],
-    "limitMissionGroupId": 15
+    "limitMissionGroupId": 22
   }
 ]

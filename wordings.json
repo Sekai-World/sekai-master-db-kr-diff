@@ -4424,6 +4424,10 @@
     "value": "삭제하고\n마이세카이로 이동"
   },
   {
+    "wordingKey": "MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_REWARD",
+    "value": "테마 '%s'의 백경에 선정된 보상입니다."
+  },
+  {
     "wordingKey": "NORMAL",
     "value": "NORMAL"
   },
@@ -5234,6 +5238,10 @@
   {
     "wordingKey": "WORD_BEFORE",
     "value": "비포"
+  },
+  {
+    "wordingKey": "WORD_BEGINNERGCHA_PASSTIME",
+    "value": "1774584000000"
   },
   {
     "wordingKey": "WORD_BEGINNER_MISSION",
@@ -8602,6 +8610,10 @@
   {
     "wordingKey": "WORD_GACHA_SELECT_LIST",
     "value": "셀렉트 리스트 뽑기"
+  },
+  {
+    "wordingKey": "WORD_GACHA_STEP",
+    "value": "STEP"
   },
   {
     "wordingKey": "WORD_GACHA_SUMMARY",
@@ -13220,6 +13232,14 @@
     "value": "설정 중"
   },
   {
+    "wordingKey": "WORD_SETUPGACHA_CURRENTSTEP",
+    "value": "현재 진도"
+  },
+  {
+    "wordingKey": "WORD_SETUPGACHA_OPEN",
+    "value": "true"
+  },
+  {
     "wordingKey": "WORD_SET_IT_LATER",
     "value": "나중에 설정"
   },
@@ -13976,6 +13996,10 @@
     "value": "서포트 유닛"
   },
   {
+    "wordingKey": "WORD_SURETURN_PASSTIME",
+    "value": "1774584000000"
+  },
+  {
     "wordingKey": "WORD_SUSPENSION",
     "value": "중단"
   },
@@ -14537,7 +14561,7 @@
   },
   {
     "wordingKey": "WORD_UP_TO_START",
-    "value": "라이브까지"
+    "value": "입장까지"
   },
   {
     "wordingKey": "WORD_USE",
@@ -16513,7 +16537,7 @@
   },
   {
     "wordingKey": "W_C_412",
-    "value": "라이브까지"
+    "value": "공연까지"
   },
   {
     "wordingKey": "W_C_413",
@@ -18336,24 +18360,216 @@
     "value": "변경"
   },
   {
+    "wordingKey": "W_C_823",
+    "value": "10w 이상은 축소\\n10w 이상은 축소\\nLeo\/need\\xD7Vivi"
+  },
+  {
+    "wordingKey": "W_C_824",
+    "value": "복사할 카드"
+  },
+  {
+    "wordingKey": "W_C_825",
+    "value": "개최 시기"
+  },
+  {
+    "wordingKey": "W_C_826",
+    "value": "년"
+  },
+  {
+    "wordingKey": "W_C_827",
+    "value": "아래 가구가 정상적으로 배치되지 않았습니다.\\n해당 가구를 삭제하고 레이아웃을 저장하시겠습니까?"
+  },
+  {
+    "wordingKey": "W_C_828",
+    "value": "가구 목록"
+  },
+  {
+    "wordingKey": "W_C_829",
+    "value": "'ABCDEABCDEABCDEABCDE"
+  },
+  {
     "wordingKey": "W_C_83",
     "value": "보상을 받지 않았습니다.\\r\\n받을 보상을 하나 선택해 주세요."
+  },
+  {
+    "wordingKey": "W_C_830",
+    "value": "업로드 내용을 확인한 후 작품명과 한마디를 입력해 주세요."
+  },
+  {
+    "wordingKey": "W_C_831",
+    "value": "ABCDEABCDEABCDEABCDE"
+  },
+  {
+    "wordingKey": "W_C_832",
+    "value": "<color=#F59>□□□□■□□□□◆<\/color>의 프리셋을 마이세카이에 배치합니다."
+  },
+  {
+    "wordingKey": "W_C_833",
+    "value": "[프레임]"
+  },
+  {
+    "wordingKey": "W_C_834",
+    "value": "사진 촬영 중입니다…"
+  },
+  {
+    "wordingKey": "W_C_835",
+    "value": "테마"
+  },
+  {
+    "wordingKey": "W_C_836",
+    "value": "테마□■마□■마"
+  },
+  {
+    "wordingKey": "W_C_837",
+    "value": "작품명 최대 16글자◆□□□□■□"
+  },
+  {
+    "wordingKey": "W_C_838",
+    "value": "2023\/09\/30 20:59까지"
+  },
+  {
+    "wordingKey": "W_C_839",
+    "value": "2025\/03\/09 23:59까지"
   },
   {
     "wordingKey": "W_C_84",
     "value": "제8화"
   },
   {
+    "wordingKey": "W_C_840",
+    "value": "\\xD799999"
+  },
+  {
+    "wordingKey": "W_C_841",
+    "value": "패션옐로 이슬"
+  },
+  {
+    "wordingKey": "W_C_842",
+    "value": "I"
+  },
+  {
+    "wordingKey": "W_C_843",
+    "value": "그 외 3종류"
+  },
+  {
+    "wordingKey": "W_C_844",
+    "value": "마이세카이 백경에 업로드할 사진을 촬영해 주세요."
+  },
+  {
+    "wordingKey": "W_C_845",
+    "value": "미업로드"
+  },
+  {
+    "wordingKey": "W_C_846",
+    "value": "업로드 완료"
+  },
+  {
+    "wordingKey": "W_C_847",
+    "value": "테마 '１２３４５６７８９０１２３４５６７８'"
+  },
+  {
+    "wordingKey": "W_C_848",
+    "value": "TODO: 백 넘버 업데이트"
+  },
+  {
+    "wordingKey": "W_C_849",
+    "value": "17명"
+  },
+  {
     "wordingKey": "W_C_85",
     "value": "aaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+    "wordingKey": "W_C_850",
+    "value": "설치 수"
+  },
+  {
+    "wordingKey": "W_C_851",
+    "value": "Leader"
+  },
+  {
+    "wordingKey": "W_C_852",
+    "value": "랭킹"
+  },
+  {
+    "wordingKey": "W_C_853",
+    "value": "세트 내용과 상세 확인"
+  },
+  {
+    "wordingKey": "W_C_854",
+    "value": "로그인"
+  },
+  {
+    "wordingKey": "W_C_855",
+    "value": "플레이어 랭크 30 도달"
+  },
+  {
+    "wordingKey": "W_C_856",
+    "value": "검색"
+  },
+  {
+    "wordingKey": "W_C_857",
+    "value": "초기화"
+  },
+  {
+    "wordingKey": "W_C_858",
+    "value": "최신 호"
+  },
+  {
+    "wordingKey": "W_C_859",
+    "value": "콘테스트 개최 중"
   },
   {
     "wordingKey": "W_C_86",
     "value": "이벤트 기간에는 사용 수를 <color=#ff5599>최대 {0}<\/color>까지 설정할 수 있습니다."
   },
   {
+    "wordingKey": "W_C_860",
+    "value": "콘테스트 개최 중 아아아아아아아아아아아아아아아아아아아아아아"
+  },
+  {
+    "wordingKey": "W_C_861",
+    "value": "작품명을 입력해 주세요."
+  },
+  {
+    "wordingKey": "W_C_862",
+    "value": "한마디를 입력해 주세요."
+  },
+  {
+    "wordingKey": "W_C_863",
+    "value": "파티는 기념일\\n당일부터 개최할 수 있습니다"
+  },
+  {
+    "wordingKey": "W_C_864",
+    "value": "출발"
+  },
+  {
+    "wordingKey": "W_C_866",
+    "value": "상세"
+  },
+  {
+    "wordingKey": "W_C_867",
+    "value": "이 테마에\\n업로드"
+  },
+  {
+    "wordingKey": "W_C_868",
+    "value": "10w 이상은 축소\\n10w 이상은 축소\\nLeo\/need×Vivid Bad SQUAD"
+  },
+  {
+    "wordingKey": "W_C_869",
+    "value": "<color=#F59>□□□□■□□□□◆<\/color> 프리셋을 마이세카이에 배치합니다.\\n현재 배치 중인 가구는 정리됩니다. 계속하시겠습니까?\\n\\n<color=#F36>※현재 마이세카이에 있는 가구는 정리 후 배치됩니다.<\/color>"
+  },
+  {
     "wordingKey": "W_C_87",
     "value": "크리스탈 990개를 사용하여\\n라이브 보너스를 99 회복하시겠습니까?"
+  },
+  {
+    "wordingKey": "W_C_870",
+    "value": "의상 이름"
+  },
+  {
+    "wordingKey": "W_C_871",
+    "value": "플레이어 랭크 30 달성\\n"
   },
   {
     "wordingKey": "W_C_88",
