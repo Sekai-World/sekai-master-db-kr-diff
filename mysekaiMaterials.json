@@ -789,5 +789,65 @@
       6,
       8
     ]
+  },
+  {
+    "id": 66,
+    "seq": 507,
+    "mysekaiMaterialType": "junk",
+    "name": "포근한 뭉게구름",
+    "pronunciation": "ふわもこわたぐも",
+    "description": "잘라 낸 구름의 단편을 재료로 삼은 솜.\n구름이 낀 날에 떨어져 있을 때가 있다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_13",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 15,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 69,
+    "seq": 703,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "호나미의 셀러브레이션 플라워",
+    "pronunciation": "ほなみのせれぶれーしょんふらわー",
+    "description": "호나미의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_3",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop103",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 72,
+    "seq": 706,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "하루카의 셀러브레이션 플라워",
+    "pronunciation": "はるかのせれぶれーしょんふらわー",
+    "description": "하루카의 생일을 축하하는 가구를 만들 때 사용하는 재료.\n※2027년 생일 이벤트에서만 이용 가능",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_6",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop106",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 93,
+    "seq": 508,
+    "mysekaiMaterialType": "junk",
+    "name": "세카이의 파편",
+    "pronunciation": "せかいびっつ",
+    "description": "마이세카이에서 지내면서 생긴 마음이 파편으로 결정화된 것.\n세카이의 날에 떨어져 있을 때가 있다.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_14",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 14,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
   }
 ]

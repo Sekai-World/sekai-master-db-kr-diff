@@ -549,6 +549,9 @@
       },
       {
         "musicCategoryName": "mv_2d"
+      },
+      {
+        "musicCategoryName": "mv"
       }
     ],
     "title": "ミラクルペイント",
@@ -1188,6 +1191,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "needLe",
@@ -2007,6 +2013,9 @@
     "categories": [
       {
         "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv"
       }
     ],
     "title": "ドラマツルギー",
@@ -2313,6 +2322,9 @@
     "categories": [
       {
         "musicCategoryName": "mv_2d"
+      },
+      {
+        "musicCategoryName": "mv"
       }
     ],
     "title": "ECHO",
@@ -3054,6 +3066,9 @@
       },
       {
         "musicCategoryName": "mv_2d"
+      },
+      {
+        "musicCategoryName": "mv"
       }
     ],
     "title": "どりーみんチュチュ",
@@ -5295,6 +5310,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "ノマド",
@@ -8202,6 +8220,9 @@
     "categories": [
       {
         "musicCategoryName": "mv_2d"
+      },
+      {
+        "musicCategoryName": "mv"
       }
     ],
     "title": "フォニイ",
@@ -9198,6 +9219,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "ももいろの鍵",
@@ -11757,6 +11781,9 @@
     "categories": [
       {
         "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "神っぽいな",
@@ -11955,6 +11982,9 @@
     "categories": [
       {
         "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "春嵐",
@@ -12567,6 +12597,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "マーシャル・マキシマイザー",
@@ -12669,6 +12702,9 @@
     "categories": [
       {
         "musicCategoryName": "original"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "さよならプリンセス",
@@ -15477,6 +15513,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "はしる! とおく! とどく!",
@@ -15612,7 +15651,7 @@
     "releaseConditionId": 5,
     "categories": [
       {
-        "musicCategoryName": "mv_2d"
+        "musicCategoryName": "original"
       }
     ],
     "title": "Help me, ERINNNNNN!!",
@@ -15813,6 +15852,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "ヘイヴン",
@@ -16057,7 +16099,7 @@
     "assetbundleName": "jacket_s_520",
     "publishedAt": 1773727200000,
     "releasedAt": 1601391600000,
-    "fillerSec": 9.0,
+    "fillerSec": 8.18179988861084,
     "infos": [
       {
         "title": "투명 엘레지",
@@ -16473,6 +16515,9 @@
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "Fire◎Flower (Rerec)",
@@ -16500,12 +16545,48 @@
     "isFullLength": false
   },
   {
+    "id": 537,
+    "seq": 99999436,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      }
+    ],
+    "title": "花に風",
+    "pronunciation": "はなにかぜ",
+    "creatorArtistId": 11,
+    "lyricist": "バルーン",
+    "composer": "バルーン",
+    "arranger": "バルーン",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_537",
+    "publishedAt": 1775628000000,
+    "releasedAt": 1601391600000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "꽃에 바람",
+        "creator": "balloon",
+        "lyricist": "balloon",
+        "composer": "balloon",
+        "arranger": "balloon"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 538,
     "seq": 99999437,
     "releaseConditionId": 10,
     "categories": [
       {
         "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "オールセーブチャレンジ",
@@ -16517,7 +16598,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_538",
-    "publishedAt": 4104961200000,
+    "publishedAt": 1777381500000,
     "releasedAt": 1601391600000,
     "fillerSec": 9.361700057983398,
     "infos": [
@@ -16527,6 +16608,42 @@
         "lyricist": "카시이 모이미",
         "composer": "카시이 모이미",
         "arranger": "카시이 모이미"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 540,
+    "seq": 99999438,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      },
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "虚無さん",
+    "pronunciation": "にひるさん",
+    "creatorArtistId": 279,
+    "lyricist": "¿?shimon",
+    "composer": "¿?shimon",
+    "arranger": "¿?shimon",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_540",
+    "publishedAt": 4104961200000,
+    "releasedAt": 1461337200000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "니힐 씨",
+        "creator": "¿?shimon",
+        "lyricist": "¿?shimon",
+        "composer": "¿?shimon",
+        "arranger": "¿?shimon"
       }
     ],
     "isNewlyWrittenMusic": false,
@@ -17621,6 +17738,39 @@
     "isFullLength": false
   },
   {
+    "id": 585,
+    "seq": 2755501,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      }
+    ],
+    "title": "ペンタトニック",
+    "pronunciation": "ぺんたとにっく",
+    "creatorArtistId": 299,
+    "lyricist": "syudou・バルーン",
+    "composer": "syudou・バルーン",
+    "arranger": "syudou・バルーン",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_585",
+    "publishedAt": 1790694000000,
+    "releasedAt": 1759158000000,
+    "fillerSec": 8.25469970703125,
+    "infos": [
+      {
+        "title": "585",
+        "creator": "かっこかり",
+        "lyricist": "作詞者1",
+        "composer": "作曲者1",
+        "arranger": "編曲者1"
+      }
+    ],
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 588,
     "seq": 1149901,
     "releaseConditionId": 5,
@@ -17654,6 +17804,39 @@
     "isFullLength": false
   },
   {
+    "id": 589,
+    "seq": 1150801,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "バレリーコ",
+    "pronunciation": "ばれりーこ",
+    "creatorArtistId": 2,
+    "lyricist": "みきとP",
+    "composer": "みきとP",
+    "arranger": "-",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_589",
+    "publishedAt": 1775109600000,
+    "releasedAt": 1406473200000,
+    "fillerSec": 7.800000190734863,
+    "infos": [
+      {
+        "title": "Balleriko",
+        "creator": "미키토P",
+        "lyricist": "미키토P",
+        "composer": "미키토P",
+        "arranger": "ー"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 590,
     "seq": 1150601,
     "releaseConditionId": 5,
@@ -17671,7 +17854,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_590",
-    "publishedAt": 1774764000000,
+    "publishedAt": 1774850400000,
     "releasedAt": 1691679600000,
     "fillerSec": 9.0,
     "infos": [
@@ -17704,7 +17887,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_591",
-    "publishedAt": 1774677600000,
+    "publishedAt": 1774764000000,
     "releasedAt": 1692284400000,
     "fillerSec": 8.983400344848633,
     "infos": [
@@ -17803,7 +17986,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_594",
-    "publishedAt": 1774591200000,
+    "publishedAt": 1774677600000,
     "releasedAt": 1685372400000,
     "fillerSec": 9.0,
     "infos": [
@@ -17935,7 +18118,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_605",
-    "publishedAt": 1774850400000,
+    "publishedAt": 1774580400000,
     "releasedAt": 1743260400000,
     "fillerSec": 9.32610034942627,
     "infos": [
@@ -17948,6 +18131,105 @@
       }
     ],
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 606,
+    "seq": 1651001,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "スーサイドパレヱド",
+    "pronunciation": "すーさいどぱれえど",
+    "creatorArtistId": 277,
+    "lyricist": "ユリイ・カノン",
+    "composer": "ユリイ・カノン",
+    "arranger": "ユリイ・カノン",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_606",
+    "publishedAt": 1776146400000,
+    "releasedAt": 1500303600000,
+    "fillerSec": 8.659000396728516,
+    "infos": [
+      {
+        "title": "수어사이드 퍼레이드",
+        "creator": "YurryCanon",
+        "lyricist": "YurryCanon",
+        "composer": "YurryCanon",
+        "arranger": "YurryCanon"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 607,
+    "seq": 1351201,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "回る空うさぎ",
+    "pronunciation": "まわるそらうさぎ",
+    "creatorArtistId": 10,
+    "lyricist": "Orangestar",
+    "composer": "Orangestar",
+    "arranger": "Orangestar",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_607",
+    "publishedAt": 1776837600000,
+    "releasedAt": 1479049200000,
+    "fillerSec": 7.5,
+    "infos": [
+      {
+        "title": "회전하는 하늘 토끼",
+        "creator": "Orangestar",
+        "lyricist": "Orangestar",
+        "composer": "Orangestar",
+        "arranger": "Orangestar"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 608,
+    "seq": 1151101,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "星宙メランコリア",
+    "pronunciation": "ほしぞらめらんこりあ",
+    "creatorArtistId": 278,
+    "lyricist": "yuichi NAGAO",
+    "composer": "yuichi NAGAO",
+    "arranger": "yuichi NAGAO",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_608",
+    "publishedAt": 1776492000000,
+    "releasedAt": 1737558000000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "Starry Melancolia",
+        "creator": "yuichi NAGAO",
+        "lyricist": "yuichi NAGAO",
+        "composer": "yuichi NAGAO",
+        "arranger": "yuichi NAGAO"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
@@ -18255,6 +18537,9 @@
     "categories": [
       {
         "musicCategoryName": "image"
+      },
+      {
+        "musicCategoryName": "mv_2d"
       }
     ],
     "title": "とうほう☆ワンダーランド",
@@ -18289,6 +18574,9 @@
     "categories": [
       {
         "musicCategoryName": "image"
+      },
+      {
+        "musicCategoryName": "original"
       }
     ],
     "title": "チルノのパーフェクトさんすう学園",

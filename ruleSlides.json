@@ -375,6 +375,16 @@
     "assetbundleName": "mysekai\/rule_slide\/tutorial_fixture_bonus"
   },
   {
+    "id": 63,
+    "ruleSlideType": "PLAYER_FRAME",
+    "assetbundleName": "tutorial\/slide\/player_frame"
+  },
+  {
+    "id": 64,
+    "ruleSlideType": "MYSEKAI_DELIVERY",
+    "assetbundleName": "mysekai\/rule_slide\/tutorial_birthday"
+  },
+  {
     "id": 1000,
     "ruleSlideType": "EVENT_PERSONAL",
     "assetbundleName": "event\/{0}\/slide\/personal",
@@ -444,5 +454,10 @@
     "id": 10000016,
     "ruleSlideType": "STORY_TOP",
     "assetbundleName": "tutorial\/slide\/story_top"
+  },
+  {
+    "id": 20000000,
+    "ruleSlideType": "GACHA_SETUP",
+    "assetbundleName": "tutorial\/slide\/gacha_setup"
   }
 ]

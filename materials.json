@@ -1414,8 +1414,104 @@
   {
     "id": 171,
     "seq": 10616,
-    "name": "[4.5주년 기념] 선물 티켓",
-    "flavorText": "[4.5주년 기념] 선물 티켓으로 보상과 교환할 수 있다.\n사용 기한: 2026\/04\/22 11:59",
+    "name": "[700만 명 돌파 기념] 선물 티켓",
+    "flavorText": "[700만 명 돌파 기념] 선물 티켓으로 보상과 교환할 수 있다.\n사용 기한: 2026\/04\/22 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 172,
+    "seq": 20002,
+    "name": "'커넥트 라이브 Dreamscape' 커넥트 라이브 ver. 보컬 교환 카드",
+    "flavorText": "'커넥트 라이브 25시, 나이트 코드에서. × 버추얼 싱어 Dreamscape'의 공연에서 선보인 악곡의 커넥트 라이브 ver. 보컬로 교환할 수 있다.",
+    "canUse": false,
+    "materialType": "auto_exchange_music_vocal_ticket"
+  },
+  {
+    "id": 173,
+    "seq": 10617,
+    "name": "고치 피스",
+    "flavorText": "고치 피스 교환소에서 보상과 교환할 수 있다.\n사용 기한: 2026\/10\/12 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 176,
+    "seq": 30003,
+    "name": "축제의 이슬(포피레드)",
+    "flavorText": "호나미의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 179,
+    "seq": 30006,
+    "name": "축제의 이슬(스트릭트블루)",
+    "flavorText": "하루카의 생일을 축하하는 꽃을 키울 때 필요한 이슬.\n※2026년 생일 이벤트에서만 이용 가능",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 200,
+    "seq": 10618,
+    "name": "레드 메모리 피스",
+    "flavorText": "브라이트 메모리즈 캠페인 교환소에서 보상과 교환할 수 있다.\n사용 기한: 2026\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 201,
+    "seq": 10619,
+    "name": "블루 메모리 피스",
+    "flavorText": "브라이트 메모리즈 캠페인 교환소에서 보상과 교환할 수 있다.\n사용 기한: 2026\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 202,
+    "seq": 10620,
+    "name": "퍼플 메모리 피스",
+    "flavorText": "브라이트 메모리즈 캠페인 교환소에서 보상과 교환할 수 있다.\n사용 기한: 2026\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 203,
+    "seq": 10621,
+    "name": "레인보우 메모리 피스",
+    "flavorText": "브라이트 메모리즈 캠페인 교환소에서 보상과 교환할 수 있다.\n사용 기한: 2026\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 204,
+    "seq": 10622,
+    "name": "레인보우 멜로디",
+    "flavorText": "기간 한정으로 마이세카이의 '변환 머신'에서 사용할 수 있다.\n사용 기한: 2026\/10\/25 11:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 211,
+    "seq": 10623,
+    "name": "골드 메달",
+    "flavorText": "골드 메달 교환소에서 보상과 교환할 수 있다.\n사용 기한: 2026\/10\/31 23:59",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
+    "id": 214,
+    "seq": 214,
+    "name": "메모리얼 ★4 멤버 티켓",
+    "flavorText": "메모리얼 ★4 멤버 티켓 교환소에서 원하는 ★4 멤버로 교환할 수 있다.",
+    "canUse": false,
+    "materialType": "card_ticket"
+  },
+  {
+    "id": 215,
+    "seq": 10625,
+    "name": "메모리얼 선물 티켓",
+    "flavorText": "메모리얼 선물 티켓 교환소에서 보상과 교환할 수 있다.\n사용 기한: 2026\/11\/30 11:59",
     "canUse": false,
     "materialType": "common"
   },

@@ -804,6 +804,111 @@
     ]
   },
   {
+    "id": 52,
+    "assetbundleName": "wl-2nd-event-pre-story",
+    "startAt": 1774839600000,
+    "endAt": 1776682799000,
+    "episodes": [
+      {
+        "id": 57,
+        "specialStoryId": 52,
+        "episodeNo": 1,
+        "title": "월드 링크 이벤트 전일담 로그인 스토리",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_wl_2nd_pre",
+        "scenarioId": "wl_2nd_pre_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1774969200000,
+    "endAt": 1775055599000,
+    "episodes": [
+      {
+        "id": 58,
+        "specialStoryId": 53,
+        "episodeNo": 1,
+        "title": "만우절 2026 도입부 영상",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1775055600000,
+    "endAt": 1775141999000,
+    "episodes": [
+      {
+        "id": 59,
+        "specialStoryId": 54,
+        "episodeNo": 1,
+        "title": "만우절 2026 후일담 영상",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_02",
+        "releaseConditionId": 1000300,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "startAt": 1789786800000,
+    "endAt": 1790607599000,
+    "episodes": [
+      {
+        "id": 61,
+        "specialStoryId": 56,
+        "episodeNo": 1,
+        "title": "[프로세카×다마고치] 컬래버레이션 기념 로그인 스토리 프롤로그",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "scenarioId": "collaboration_tamagotchi_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "startAt": 1790607600000,
+    "endAt": 1790780399000,
+    "episodes": [
+      {
+        "id": 62,
+        "specialStoryId": 57,
+        "episodeNo": 1,
+        "title": "[프로세카×다마고치] 컬래버레이션 기념 로그인 스토리 에필로그",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "scenarioId": "collaboration_tamagotchi_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
     "id": 62,
     "assetbundleName": "collaboration-sanrio-story",
     "startAt": 1770433200000,

@@ -232,6 +232,30 @@
     "value": "×{0}"
   },
   {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_NEW_ARRIVAL",
+    "value": "{0} 갱신"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_NEW_ARRIVAL_LATEST",
+    "value": "{0} 신착 공개!"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_PAGE_COUNT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_PERIOD_END_AT",
+    "value": "{0}까지"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_SUBMIT_PERIOD",
+    "value": "{0} ~ {1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HOUSING_COMPETITION_SUBMIT_THEME",
+    "value": "테마 '{0}'"
+  },
+  {
     "wordingKey": "FORMAT_MYSEKAI_PHOTO_ALBUM_PAGE_COUNT",
     "value": "{0}\/{1}"
   },
@@ -592,12 +616,28 @@
     "value": "다른 컬러풀 패스가 결제 대기 상태입니다.\n결제를 완료하거나 취소할 때까지\n구매할 수 없습니다."
   },
   {
+    "wordingKey": "MSG_ANOTHER_COLORFUL_PASS_WEB_PAYMENT_PURCHASE_LOCK",
+    "value": "정상적으로 배치되지 않은 가구가 있습니다.\n해당 가구를 레이아웃에서 삭제하고 저장하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_COLORFUL_PASS_WEB_PAYMENT_REFLECTION_AWAITING",
+    "value": "달성률순"
+  },
+  {
     "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
     "value": "'{0} {1}'의\n<color=#FF3366>마스터 랭크<\/color>를 올리면\n어나더 컬러가 오픈됩니다."
   },
   {
     "wordingKey": "MSG_ANOTHER_PRODUCT_WEB_PAYMENT_AWAITING",
     "value": "세트 대상 상품이 결제 대기 상태입니다.\n결제를 완료하거나 취소할 때까지\n구매할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_PRODUCT_WEB_PAYMENT_PURCHASE_LOCK",
+    "value": "다른 컬러풀 패스가 결제 대기 상태입니다.\n결제를 완료하거나 취소할 때까지\n구매할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_PRODUCT_WEB_PAYMENT_REFLECTION_AWAITING",
+    "value": "달성률"
   },
   {
     "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
@@ -622,6 +662,10 @@
   {
     "wordingKey": "MSG_AREA_ITEM_EFFECT",
     "value": "서브 유닛이 설정된 멤버의 경우,\n퍼포먼스가 높아지는 유닛의\n에어리어 아이템 효과가 자동으로 적용됩니다.\n\n또한, 여러 유닛의 에어리어 아이템 효과가\n중복으로 적용되지 않습니다."
+  },
+  {
+    "wordingKey": "MSG_AREA_RELEASED_WITH_THUMBNAIL",
+    "value": "새로운 세카이가 나타났습니다."
   },
   {
     "wordingKey": "MSG_AROUND_MB",
@@ -682,6 +726,10 @@
   {
     "wordingKey": "MSG_BILLING_REFUND_ERROR",
     "value": "스토어에서 환불 요청이 승인되어 환불 처리를 진행합니다"
+  },
+  {
+    "wordingKey": "MSG_BIRTHDAY_MISSION_TEXT",
+    "value": "셀러브레이션 플라워\n누적 {0}송이 모으기"
   },
   {
     "wordingKey": "MSG_BLOCKED_USER_CHAT",
@@ -1005,19 +1053,19 @@
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_CHARACTER",
-    "value": "캐릭터와 유닛을 향한 괴롭힘 또는 공격적인 발언"
+    "value": "캐릭터와 유닛을 향한 괴롭힘 또는 공격적인 발언 및 표현"
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_OTHERS",
-    "value": "타인을 향한 괴롭힘 또는 공격적인 발언"
+    "value": "타인을 향한 괴롭힘 또는 공격적인 발언 및 표현"
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_SELF",
-    "value": "자신을 향한 괴롭힘 또는 공격적인 발언"
+    "value": "자신을 향한 괴롭힘 또는 공격적인 발언 및 표현"
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_OBSCENE_REMARKS",
-    "value": "외설적이거나 성적인 발언"
+    "value": "외설적이거나 성적인 발언 및 표현"
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_OTHER",
@@ -1304,6 +1352,10 @@
     "value": "소지품에 수납할 수 있는 최대 수량에 도달했습니다."
   },
   {
+    "wordingKey": "MSG_CRAFT_TERM_LIMIT_DIALOG_BODY",
+    "value": "이벤트 기간이 종료되었기 때문에\n제작할 수 없습니다."
+  },
+  {
     "wordingKey": "MSG_CREATE_COMPETITION_PHOTO",
     "value": "사진 촬영 중입니다…"
   },
@@ -1334,6 +1386,10 @@
   {
     "wordingKey": "MSG_CRYSTAL_SHOP_PURCHASE_ERROR",
     "value": "구매에 실패했습니다.\n잠시 후에 다시 시도해 주시기 바랍니다."
+  },
+  {
+    "wordingKey": "MSG_CS_BAN",
+    "value": "접속하신 플레이어 데이터는\n조사를 위해 일시적으로 데이터 이용이 정지되었습니다."
   },
   {
     "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
@@ -1632,6 +1688,10 @@
     "value": "{0}(으)로 교환"
   },
   {
+    "wordingKey": "MSG_EXCHANGE_MEANS_FORMAT",
+    "value": "{0}(으)로 교환"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_OUT_OF_DATE",
     "value": "기한이 지나 교환할 수 없었습니다."
   },
@@ -1694,6 +1754,10 @@
   {
     "wordingKey": "MSG_FEEDBACK_THANKS",
     "value": "소중한 의견 감사합니다.\n앞으로도 \"프로젝트 세카이\"에 많은 사랑 부탁드립니다."
+  },
+  {
+    "wordingKey": "MSG_FINALE_SUPPORT_DECK_RESET",
+    "value": "서포트 유닛을 초기화합니다.\n계속하시겠습니까?"
   },
   {
     "wordingKey": "MSG_FINAL_CHARA_TICKET_CONFIRM",
@@ -2208,6 +2272,10 @@
     "value": "<color=#ff55AA>{0}<\/color>(을)를 획득했습니다!"
   },
   {
+    "wordingKey": "MSG_LOGIN_BAN",
+    "value": "접속 중인 플레이어 데이터에서 위반 행위가 확인되어\n데이터 이용이 정지되었습니다."
+  },
+  {
     "wordingKey": "MSG_LV_TEXT",
     "value": "{0}"
   },
@@ -2276,6 +2344,10 @@
     "value": "매칭에 실패했습니다. ({0})"
   },
   {
+    "wordingKey": "MSG_MATCHING_MYSEKAI_HOUSING_COMPETITION_SUBMIT",
+    "value": "마이세카이 백경 신청 작품을 찾는 중입니다…"
+  },
+  {
     "wordingKey": "MSG_MATCHING_NOW_DESCRIPTION",
     "value": "룸을 찾고 있습니다…"
   },
@@ -2290,6 +2362,10 @@
   {
     "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
     "value": "{0} <color=#FF5599>{1}<\/color>장을 사용하여\n아이템으로 교환하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_MATERIAL_EXCHANGE_COST_SELECT_DIALOG",
+    "value": "교환에 사용할 아이템을 1종류 선택해 주세요."
   },
   {
     "wordingKey": "MSG_MATERIAL_POSSESSION",
@@ -2536,6 +2612,46 @@
     "value": "방 사이즈가 확장되었습니다."
   },
   {
+    "wordingKey": "MSG_MYSEKAI_ANNIVERSARY_PARTY_BEFORE_TERM",
+    "value": "파티는 기념일\n당일부터 개최할 수 있습니다"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_AREA_OVERLAP",
+    "value": "축하 파티 개최에 필요한 에어리어에 다른 가구가 배치되어 있거나\n레이아웃 범위 바깥에 있기 때문에 초대할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_BEFORE_TERM",
+    "value": "파티는 생일\n당일부터 개최할 수 있습니다"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_CANT_OPEN",
+    "value": "축하 파티 개최에 필요한 에어리어에 다른 가구가 배치되어 있거나\n레이아웃 범위 바깥에 있기 때문에 초대할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_CLOSED",
+    "value": "이벤트 기간이 종료되었기 때문에\n축하 파티에 초대할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_END",
+    "value": "종료되었습니다"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_NPC_LEAVED",
+    "value": "파티를 준비하기 위해\n마이세카이에서 퇴장했습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_RULE_HADER_TEXT",
+    "value": "파티 전에 할 일"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_BIRTHDAY_PARTY_SAVE_CONFIRMATION",
+    "value": "축하 파티 개최에 필요한 에어리어에 다른 가구가 배치되어 있거나\n레이아웃 범위 바깥에 있기 때문에, 이대로 저장하면 초대할 수 없습니다.\n저장하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_CATEGORY_REPORT_PART_TYPE",
+    "value": "신고하는 부분을 상세하게 알려 주세요."
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_COLORFUL_PASS_ALERT",
     "value": "월드 패스의 유효 기간이 지났습니다.\n새로 구매하시겠습니까?"
   },
@@ -2550,6 +2666,14 @@
   {
     "wordingKey": "MSG_MYSEKAI_COMPETITION_POST_DIALOG_TEXT",
     "value": "현재 마이세카이를 39에 올립니다.\n올릴 사진을 선택하고 작품명을 입력해 주세요."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_CONFIRM_REMOVE_FIXTURE_INVALID_LAYOUT",
+    "value": "정상적으로 배치되지 않은 가구가 있습니다.\n해당 가구를 정리하고 저장하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_DELIVERY_HARVEST_REFRESH",
+    "value": "새싹이 다시 자라 채집이 가능해졌습니다"
   },
   {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
@@ -2614,6 +2738,150 @@
   {
     "wordingKey": "MSG_MYSEKAI_GATE_VISIT_COUNT",
     "value": "방문하는 캐릭터 수"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_NONE",
+    "value": "표시할 수 있는 마이세카이 백경이 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_CALCULATING",
+    "value": "콘테스트 집계 중입니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_CAPTURE_NPC_LEAVED",
+    "value": "촬영 준비를 하러 갔습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_CONFIRM_CAPTURE",
+    "value": "이 사진으로 계속하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_CONFIRM_RESUBMIT",
+    "value": "이번 테마에 이미 올렸습니다.\n다시 올리시겠습니까?\n<color=#F36>※다시 올릴 경우, 이전에 올린 작품의 '좋아요' 수가 초기화됩니다.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_DISCARD_SUBMISSION",
+    "value": "올릴 내용을 삭제합니다.\n계속하시겠습니까?\n<color=#F36>※촬영한 사진은 삭제됩니다.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_FORCE_LOTTERY_COOLDOWN",
+    "value": "페이지 새로 고침이 가능해질 때까지 잠시 기다려 주세요."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INPUT_SUBMIT_ID",
+    "value": "작품 ID를 입력해 주세요."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INVALID_ENTRY",
+    "value": "이 작품에는 현재 방문할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INVALID_SEARCH_ID",
+    "value": "입력한 ID에 해당하는 작품을 찾을 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INVALID_SEARCH_ID_FOR_BACK_NUMBER",
+    "value": "이 작품 ID는 개최 중인 콘테스트의 ID기 때문에 마이세카이 백경에서는 검색할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_INVALID_SEARCH_ID_FOR_COMPETITION",
+    "value": "이 작품 ID는 마이세카이 백경의 ID기 때문에 콘테스트에서는 검색할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LEAVE_CONFIRM",
+    "value": "{0}에서 퇴장합니다.\n계속하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LOADING_PAGE",
+    "value": "페이지 정보를 불러오고 있습니다…"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LOTTERY_RESULT_EXIT_OUT_OF_PERIOD",
+    "value": "콘테스트 기간이 종료되었습니다.\n방문 메인 화면으로 돌아갑니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_LOTTERY_RESULT_REFRESH_OUT_OF_PERIOD",
+    "value": "콘테스트 기간이 종료되었습니다.\n페이지를 갱신합니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_NONE",
+    "value": "개최 중인 콘테스트가\n없습니다"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_NO_LOTTERY_SUBMIT",
+    "value": "표시할 수 있는 마이세카이가 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_OUT_OF_PERIOD",
+    "value": "개최 중인 콘테스트가\n없습니다"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_OUT_OF_TERM_SEARCH_ID",
+    "value": "입력된 ID에 해당하는 작품은 콘테스트 개최 기간이 종료되었기 때문에 방문할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_PERIOD_END",
+    "value": "종료되었습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEWED_NOTICE",
+    "value": "마이세카이 백경에 올린 작품에\n'좋아요'가 도착했습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEW_INVALID",
+    "value": "이 작품은 갱신되었기 때문에 좋아요를 할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEW_OUT_OF_PERIOD",
+    "value": "현재 좋아요 기간이 아니기 때문에 표시할 수 있는 마이세카이가 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_REVIEW_OUT_OF_TERM",
+    "value": "콘테스트가 갱신되었기 때문에 좋아요를 할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SELECT_SUBMISSION_SITE",
+    "value": "현재 마이 홈의 상태를 마이세카이 백경에 올립니다.\n올릴 사진을 촬영할 에어리어를 선택해 주세요."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SELECT_SUBMISSION_SITE_RELEASE_ROOM",
+    "value": "현재 마이 홈의 상태를 마이세카이 백경에 올립니다.\n올릴 범위와 촬영할 에어리어를 선택해 주세요."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SKETCH_INVALID",
+    "value": "이 작품은 갱신되었기 때문에 스케치를 할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SKETCH_OUT_OF_TERM",
+    "value": "콘테스트가 갱신되었기 때문에 스케치를 할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_COMPLETED",
+    "value": "마이세카이 백경에 작품 올리기를 완료했습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_ID_COPY_COMPLETED",
+    "value": "작품 ID를 복사했습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_ID_NOT_FOUND",
+    "value": "입력한 ID에 해당하는 작품을 찾을 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_INVALID_FOR_SITE_LEVEL",
+    "value": "방 확장, 오픈을 했기 때문에 올릴 수 없습니다.\n집 안에 한 번 들어간 후에 다시 올려 주세요."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_OUT_OF_PERIOD",
+    "value": "올리기 기간이 종료되었기 때문에\n이 테마에 올릴 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_SUBMIT_UPDATED",
+    "value": "올린 작품이 갱신되었습니다. 홈으로 돌아갑니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_HOUSING_COMPETITION_VISITING_CHARACTER_FROM_GATE",
+    "value": "캐릭터가 게이트를 사용 중인 동안에는 올릴 수 없습니다."
   },
   {
     "wordingKey": "MSG_MYSEKAI_INVALID_TO_TRIPOD_MODE",
@@ -2776,6 +3044,14 @@
     "value": "{0}의 스토리\n<color=#ff77AA>{1:MM\/dd HH:mm} 오픈<\/color>"
   },
   {
+    "wordingKey": "MSG_NEXT_PLAYER_EXP",
+    "value": "다음 랭크까지 <color=#FF5599>{0}<\/color> 남음"
+  },
+  {
+    "wordingKey": "MSG_NEXT_PLAYER_EXP_MAX",
+    "value": "최대 플레이어 랭크에\n도달했습니다"
+  },
+  {
     "wordingKey": "MSG_NGWORD_BALLOON",
     "value": "사용할 수 없는 단어가 포함되어 있습니다"
   },
@@ -2826,6 +3102,10 @@
   {
     "wordingKey": "MSG_NOTHING_AREA_ITEM",
     "value": "에어리어 아이템이 없습니다."
+  },
+  {
+    "wordingKey": "MSG_NOTHING_BIRTHDAY_DIALOG_BODY",
+    "value": "개최 기간이 종료되었기 때문에 축제의 정원에 들어갈 수 없습니다."
   },
   {
     "wordingKey": "MSG_NOTHING_COORDINATE_ITEM",
@@ -3072,6 +3352,14 @@
     "value": "※추첨 신청 사이트에서는 신청 ID가 필요합니다.\n<color=#ff5588>※신청 ID는 개인 전용 ID니\n절대로 다른 사람에게 알려 주지 마세요. <\/color>"
   },
   {
+    "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_EXPIRED_DIALOG_BODY",
+    "value": "이벤트 신청 기간이 종료되었습니다.\n홈 화면으로 돌아갑니다."
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_NOTFOUND_DIALOG_BODY",
+    "value": "신청할 수 있는 이벤트가 없습니다.\n홈 화면으로 돌아갑니다."
+  },
+  {
     "wordingKey": "MSG_OFFLINE_EVENT_EVALUATION_PERIOD",
     "value": "{0}~{1}\n<color=#ff5588>※해당 기한 내에 필요 유지 기간을<\/color>\n<color=#ff5588>충족해야 합니다.<\/color>"
   },
@@ -3210,6 +3498,10 @@
   {
     "wordingKey": "MSG_PLACEMENT_MATCH_COUNT",
     "value": "스타트 랭크 결정까지 \n매치<color=#F45BA9><size=56> {0} <\/size><\/color>회 남음"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_FRAME_NONE",
+    "value": "프레임이 없습니다."
   },
   {
     "wordingKey": "MSG_PLAYER_KICKOUT_AND_BLOCK_RESULT",
@@ -3428,12 +3720,20 @@
     "value": "공연장 상황을 확인하고 있습니다…"
   },
   {
+    "wordingKey": "MSG_RECEIVED_BIRTHDAY_HONOR",
+    "value": "잔뜩 핀 셀러브레이션 플라워가 칭호를 장식했습니다."
+  },
+  {
     "wordingKey": "MSG_RECEIVED_CONVERT_REWARD",
     "value": "변환된 아이템을 수령했습니다."
   },
   {
     "wordingKey": "MSG_RECEIVED_COSTUME",
     "value": "획득했습니다."
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_DELIVERY_TOTAL_REWARD",
+    "value": "셀러브레이션 플라워가 모여 보상을 획득했습니다."
   },
   {
     "wordingKey": "MSG_RECEIVED_HAIRSTYLE",
@@ -3594,6 +3894,10 @@
   {
     "wordingKey": "MSG_RESULT_DAILY_BONUS_COUNT",
     "value": "오늘 {0}회 남음"
+  },
+  {
+    "wordingKey": "MSG_RETURN_TO_PLAYER_MYSEKAI",
+    "value": "나의 마이세카이로 돌아갑니다"
   },
   {
     "wordingKey": "MSG_REVIEW_GIFT",
@@ -4220,6 +4524,26 @@
     "value": "공연 시작까지 {0}분"
   },
   {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_CHARACTER_SELECT",
+    "value": "''5주년 스페셜 메시지'를 보고 싶은 캐릭터를 선택해 주세요."
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_CHARACTER_SELECTION_CONFIRM",
+    "value": "''5주년 스페셜 메시지 티켓'을 사용해서\n{0}의 5주년 스페셜 메시지를 확인합니다.\n계속하시겠습니까?\n\n<color=#FF3366>※이후에는 변경할 수 없습니다.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_EXIT_FROM_HOME_CONFIRM",
+    "value": "5주년 스페셜 메시지 확인을 취소하시겠습니까?\n※기간 동안에는 다시 확인할 수 있습니다."
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_EXIT_FROM_ITEM_CONFIRM",
+    "value": "5주년 스페셜 메시지 확인을 취소하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_REWATCH_CONFIRM",
+    "value": "{0}의 5주년 스페셜 메시지를 다시 확인하시겠습니까?"
+  },
+  {
     "wordingKey": "MSG_VISIT_CHARACTER",
     "value": "{0}에서\n{1}(이)가 방문했습니다."
   },
@@ -4316,8 +4640,16 @@
     "value": "결제 대기 상태입니다.\n결제를 완료하거나 취소할 때까지\n구매할 수 없습니다."
   },
   {
+    "wordingKey": "MSG_WEB_PAYMENT_PURCHASE_LOCK",
+    "value": "결제 대기 상태입니다.\n결제를 완료하거나 취소할 때까지\n구매할 수 없습니다."
+  },
+  {
     "wordingKey": "MSG_WEB_PAYMENT_REFLECT",
     "value": "공식 스토어에서 구매한 다음 아이템이 반영되었습니다."
+  },
+  {
+    "wordingKey": "MSG_WEB_PAYMENT_REFLECTION_AWAITING",
+    "value": "세트 대상 상품이 결제 대기 상태입니다.\n결제를 완료하거나 취소할 때까지\n구매할 수 없습니다."
   },
   {
     "wordingKey": "MSG_WEB_PAYMENT_TERM_PRODUCT_REFLECT",
@@ -4382,6 +4714,10 @@
   {
     "wordingKey": "MSG_WORLD_BLOOM_INHERIT_LIMIT_START",
     "value": "이벤트 종합 랭킹 <color=#ff5588>{0}위<\/color> 이내에 진입했습니다.\n\n이벤트의 공정성 확보를 위해,\n종합 랭킹 <color=#ff5588>{1}위<\/color> 이내에 진입한 플레이어는\n해당 이벤트 기간에 데이터 연동 횟수가 제한됩니다.\n\n제한 기간: 이벤트 종료({2})까지\n제한 횟수: 앞으로 {3}회\n<color=#ff3366>※제한 횟수는 챕터별 랭킹과 공유됩니다.<\/color>\n\n여러분의 양해를 부탁드립니다."
+  },
+  {
+    "wordingKey": "MSG_WORLD_BLOOM_LEADER_CHANGE",
+    "value": "리더 캐릭터를 변경하면\n편성한 서포트 유닛이 초기화됩니다.\n계속하시겠습니까?"
   },
   {
     "wordingKey": "MSG_WORLD_BLOOM_YOUR_TOTAL_EVENT_POINT",
@@ -4944,6 +5280,10 @@
     "value": "전체"
   },
   {
+    "wordingKey": "WORD_ALL_CHARACTER",
+    "value": "모든 캐릭터"
+  },
+  {
     "wordingKey": "WORD_ALL_PERFECT",
     "value": "ALL PERFECT"
   },
@@ -5241,7 +5581,7 @@
   },
   {
     "wordingKey": "WORD_BEGINNERGCHA_PASSTIME",
-    "value": "1774584000000"
+    "value": "1773892800000"
   },
   {
     "wordingKey": "WORD_BEGINNER_MISSION",
@@ -5318,6 +5658,26 @@
   {
     "wordingKey": "WORD_BIRTHDAY_ARCHIVE_TITLE",
     "value": "생일\/기념일 라이브"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_CRAFT_FIXTURE_TITLE",
+    "value": "축하용 한정 가구"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_HAPPY_ANNIVERSARY",
+    "value": "{0} HAPPY ANNIVERSARY"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_HAPPY_BIRTHDAY",
+    "value": "{0} HAPPY BIRTHDAY"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_MISSION_REWARD_TITLE",
+    "value": "{0}송이"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_MISSION_TITLE",
+    "value": "모은 셀러브레이션 플라워"
   },
   {
     "wordingKey": "WORD_BLOCK",
@@ -6645,7 +7005,7 @@
   },
   {
     "wordingKey": "WORD_CONVERT_COMPLETE_FORMAT",
-    "value": "<size=28><color=#ff5588>{0}<\/color>\/<\/size><size=24>{1}<\/size>"
+    "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
   },
   {
     "wordingKey": "WORD_CONVERT_COMPLETE_STATUS",
@@ -6713,7 +7073,7 @@
   },
   {
     "wordingKey": "WORD_CONVERT_PROGRESS_FORMAT",
-    "value": "<size=28>{0}\/<\/size><size=24>{1}<\/size>"
+    "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
   },
   {
     "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_ALL",
@@ -6834,6 +7194,10 @@
   {
     "wordingKey": "WORD_CRAFT_REACHED_POSSESSION_LIMIT",
     "value": "제작 불가"
+  },
+  {
+    "wordingKey": "WORD_CRAFT_TERM_PERIOD",
+    "value": "제작 기간"
   },
   {
     "wordingKey": "WORD_CREATE",
@@ -7542,6 +7906,10 @@
   {
     "wordingKey": "WORD_END_AT_WITHOUT_YEAR_FORMAT",
     "value": "{0:00}\/{1:00} {2:00}:{3:00}까지"
+  },
+  {
+    "wordingKey": "WORD_END_BIRTHDAY_CUTSCENE",
+    "value": "파티 끝내기"
   },
   {
     "wordingKey": "WORD_ENTER_LIMIT",
@@ -8361,7 +8729,7 @@
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_CAMPAIGN_DETAIL_JSON",
-    "value": "{\n \"title\": \"[Brand New Your World 기념] 세카이에 어서 와 대작전!!\",\n \"list\" : [ \n {\n \"head\" : \"■개최 기간\",\n \"desc\" : \"[캠페인 개최 기간]\n2025\/10\/12 12:00  ~ 2025\/11\/04 23:59\n \n[미션 달성 보상 수령 기간]\n2025\/10\/12 12:00  ~ 2025\/11\/14 23:59\n \n[친구 초대] ★4 멤버 확정 뽑기 개최 기간]\n2025\/10\/12 12:00 ~ 2026\/01\/01 23:59\"\n },\n {\n\"head\" : \"■미션 진행 방법\",\n\"desc\" : \" ▼초대하는 플레이어\n초대한 친구가 초대 미션을 달성하면 풍성한 보너스를 획득할 수 있습니다.\n \n[대상 플레이어]\n2025\/10\/12 11:59까지 튜토리얼을 클리어한 플레이어\n \n[순서]\n[1] 초대 캠페인 화면에 있는 자신의 초대 코드를 친구에게 보내자!\n[2] 초대 코드를 입력한 친구가 초대 미션을 모두 클리어하면 보너스 GET!\n \n[보너스]\n클리어 보너스 1명\n- 초회 한정: [친구 초대] ★4 멤버 확정 뽑기 티켓x1\n※과거에 개최한 '세카이에 어서 와 대작전!!'에서 초회 한정 보상을 받은 경우, 미션 보상 '마음의 조각×1,000'이 됩니다.\n \n클리어 보너스 2~10명\n- 1명이 클리어할 때마다 마음의 조각x50\n \n▼초대받은 플레이어\n초대 미션에 도전하면 미션 진행도에 따라 풍성한 보너스를 획득할 수 있습니다.\n \n[대상 플레이어]\n10\/12 11:59 이후에 튜토리얼을 클리어한 플레이어\n \n[순서]\n[1] 이미 프로세카를 즐기고 있는 친구에게 초대 코드를 받아 초대 캠페인 화면에 입력하자!\n[2] 메인 스토리를 메인 스토리 스킵하거나 배속하지 않고 읽자!\n \n[보너스]\n총 5화 분의 메인 스토리 독파\n- 마음의 조각×300\n \n총 10화 분의 메인 스토리 독파\n- 크리스탈×300\n \n총 20화 분의 메인 스토리 독파\n- [친구 초대] ★4 멤버 확정 뽑기 티켓x1\n \n■주의사항\n- 개최 일정은 예고 없이 변경될 수 있습니다.\n- [친구 초대]★4 멤버 확정 뽑기 티켓은 이후 개최되는 [친구 초대] ★4 멤버 확정 뽑기에서는 사용할 수 없습니다.\n- 본 캠페인으로 초회 한정 보상을 받을 경우, 향후 초대 캠페인으로 획득할 수 있는 보상이 다를 수 있습니다.\n- 초대받은 플레이어가 초대 미션을 모두 달성할 경우, 초대한 플레이어에게 어떤 유닛의 스토리를 독파했는지 공유됩니다.\n- 미션 보상은 미션 달성 보상 수령 기간에 수령하지 않을 경우 획득할 수 없으니 주의해 주시기 바랍니다.\n\"\n },\n {\n\"head\" : \" ■[친구 초대] ★4 멤버 확정 뽑기 안내\",\n\"desc\" : \" [친구 초대] ★4 멤버 확정 뽑기 티켓으로 진행할 수 있는 전용 뽑기입니다.\n[친구 초대] ★4 멤버 확정 뽑기 티켓을 1장 사용하여 뽑기를 1회 진행할 수 있습니다.\n \n■개최 기간\n10\/12 12:00 ～ 2026\/1\/1 23:59\n  \n■출현하는 ★4 멤버\n출현하는 ★4 멤버는 2024\/9\/20 12:00까지에 등장했던 일반 멤버입니다.\n※기간 한정, 컬러풀 페스티벌 한정, 생일 한정, 기념일 한정, 컬래버레이션 한정 멤버는 출현하지 않습니다.\n  \n처음 획득하는 일부 ★4 멤버는 '라이브 의상'이 포함되어 있습니다.\n또한, '라이브 의상'을 획득하면 다른 캐릭터가 착용할 수 있는 의상을 '의상 상점'에서 제작할 수 있게 됩니다.\n다른 캐릭터가 착용하는 '라이브 의상'은 일부 디자인과 액세서리에서 차이가 있을 수 있습니다.\n자세한 내용은 [멤버]→[라이브 의상] 화면에서 확인할 수 있습니다.\n  \n■주의 사항\n- 출현하는 멤버는 모두 특훈 전 상태입니다.\n- 뽑기에서 출현하는 멤버는 중복될 수 있습니다.\n- 중복으로 획득한 멤버는 대기실로 자동 이동됩니다.\n- 뽑기는 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 멤버라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n- 뽑기 페이지의 멤버 상세 정보에 기재된 내용은 레벨 MAX, 스킬 레벨 MAX 상태입니다.\n- 출현하는 멤버의 제공 확률은 제공 확률 탭에서 확인할 수 있습니다.\n- 출현하는 멤버의 능력치와 스킬은 뽑기 페이지의 멤버 상세 보기에서 확인할 수 있습니다.\n- 라이브 의상 포함 멤버는 제공 확률 탭에서 확인할 수 있습니다.\n- 뽑기 실행 후 게임을 강제 종료하거나 네트워크가 끊겨 뽑기 결과 화면이 정상적으로 표시되지 않더라도 멤버 획득이 반영됩니다. 멤버 목록이나 대기실을 확인해 주세요.\n- 본 뽑기에서는 뽑기 스티커를 획득할 수 없습니다.\n- 이 뽑기에는 컬러풀 페스티벌 한정, 기간 한정, 생일 한정, 기념일 한정, 컬래버레이션 한정 멤버는 출현하지 않습니다.\n- 개최 일정은 예고 없이 변경될 수 있습니다.\n  \n앞으로도 '프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠'에 많은 사랑 부탁드립니다.\"\n },\n ] \n}"
+    "value": "{\n \"title\": \"[700만 명 돌파 기념세카이에 어서 와 대작전!!\",\n \"list\" : [ \n {\n \"head\" : \"■개최 기간\",\n \"desc\" : \"[캠페인 개최 기간]\n2026\/03\/27 12:00  ~ 2026\/04\/08 11:59\n \n[미션 달성 보상 수령 기간]\n2026\/03\/27 12:00  ~ 2026\/04\/30 23:59\n \n[친구 초대] ★4 멤버 확정 뽑기 개최 기간]\n2026\/03\/27 12:00 ~ 2026\/05\/31 23:59\"\n },\n {\n\"head\" : \"■미션 진행 방법\",\n\"desc\" : \" ▼초대하는 플레이어\n초대한 친구가 초대 미션을 달성하면 풍성한 보너스를 획득할 수 있습니다.\n \n[대상 플레이어]\n2026\/03\/27 11:59까지 튜토리얼을 클리어한 플레이어\n \n[순서]\n[1] 초대 캠페인 화면에 있는 자신의 초대 코드를 친구에게 보내자!\n[2] 초대 코드를 입력한 친구가 초대 미션을 모두 클리어하면 보너스 GET!\n \n[보너스]\n클리어 보너스 1명\n- 초회 한정: [친구 초대] ★4 멤버 확정 뽑기 티켓x1\n※과거에 개최한 '세카이에 어서 와 대작전!!'에서 초회 한정 보상을 받은 경우, 미션 보상 '마음의 조각×1,000'이 됩니다.\n \n클리어 보너스 2~10명\n- 1명이 클리어할 때마다 마음의 조각x50\n \n▼초대받은 플레이어\n초대 미션에 도전하면 미션 진행도에 따라 풍성한 보너스를 획득할 수 있습니다.\n \n[대상 플레이어]\n03\/27 11:59 이후에 튜토리얼을 클리어한 플레이어\n \n[순서]\n[1] 이미 프로세카를 즐기고 있는 친구에게 초대 코드를 받아 초대 캠페인 화면에 입력하자!\n[2] 메인 스토리를 메인 스토리 스킵하거나 배속하지 않고 읽자!\n \n[보너스]\n총 5화 분의 메인 스토리 독파\n- 마음의 조각×300\n \n총 10화 분의 메인 스토리 독파\n- 크리스탈×300\n \n총 20화 분의 메인 스토리 독파\n- [친구 초대] ★4 멤버 확정 뽑기 티켓x1\n \n■주의사항\n- 개최 일정은 예고 없이 변경될 수 있습니다.\n- [친구 초대]★4 멤버 확정 뽑기 티켓은 이후 개최되는 [친구 초대] ★4 멤버 확정 뽑기에서는 사용할 수 없습니다.\n- 본 캠페인으로 초회 한정 보상을 받을 경우, 향후 초대 캠페인으로 획득할 수 있는 보상이 다를 수 있습니다.\n- 초대받은 플레이어가 초대 미션을 모두 달성할 경우, 초대한 플레이어에게 어떤 유닛의 스토리를 독파했는지 공유됩니다.\n- 미션 보상은 미션 달성 보상 수령 기간에 수령하지 않을 경우 획득할 수 없으니 주의해 주시기 바랍니다.\n\"\n },\n {\n\"head\" : \" ■[친구 초대] ★4 멤버 확정 뽑기 안내\",\n\"desc\" : \" [친구 초대] ★4 멤버 확정 뽑기 티켓으로 진행할 수 있는 전용 뽑기입니다.\n[친구 초대] ★4 멤버 확정 뽑기 티켓을 1장 사용하여 뽑기를 1회 진행할 수 있습니다.\n \n■개최 기간\n2026\/03\/27 12:00~2026\/05\/31 23:59\n  \n■출현하는 ★4 멤버\n출현하는 ★4 멤버는 2024\/9\/20 12:00까지에 등장했던 일반 멤버입니다.\n※기간 한정, 컬러풀 페스티벌 한정, 생일 한정, 기념일 한정, 컬래버레이션 한정 멤버는 출현하지 않습니다.\n  \n처음 획득하는 일부 ★4 멤버는 '라이브 의상'이 포함되어 있습니다.\n또한, '라이브 의상'을 획득하면 다른 캐릭터가 착용할 수 있는 의상을 '의상 상점'에서 제작할 수 있게 됩니다.\n다른 캐릭터가 착용하는 '라이브 의상'은 일부 디자인과 액세서리에서 차이가 있을 수 있습니다.\n자세한 내용은 [멤버]→[라이브 의상] 화면에서 확인할 수 있습니다.\n  \n■주의 사항\n- 출현하는 멤버는 모두 특훈 전 상태입니다.\n- 뽑기에서 출현하는 멤버는 중복될 수 있습니다.\n- 중복으로 획득한 멤버는 대기실로 자동 이동됩니다.\n- 뽑기는 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 멤버라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n- 뽑기 페이지의 멤버 상세 정보에 기재된 내용은 레벨 MAX, 스킬 레벨 MAX 상태입니다.\n- 출현하는 멤버의 제공 확률은 제공 확률 탭에서 확인할 수 있습니다.\n- 출현하는 멤버의 능력치와 스킬은 뽑기 페이지의 멤버 상세 보기에서 확인할 수 있습니다.\n- 라이브 의상 포함 멤버는 제공 확률 탭에서 확인할 수 있습니다.\n- 뽑기 실행 후 게임을 강제 종료하거나 네트워크가 끊겨 뽑기 결과 화면이 정상적으로 표시되지 않더라도 멤버 획득이 반영됩니다. 멤버 목록이나 대기실을 확인해 주세요.\n- 본 뽑기에서는 뽑기 스티커를 획득할 수 없습니다.\n- 이 뽑기에는 컬러풀 페스티벌 한정, 기간 한정, 생일 한정, 기념일 한정, 컬래버레이션 한정 멤버는 출현하지 않습니다.\n- 개최 일정은 예고 없이 변경될 수 있습니다.\n  \n앞으로도 '프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠'에 많은 사랑 부탁드립니다.\"\n },\n ] \n}"
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_CODE",
@@ -8602,6 +8970,10 @@
   {
     "wordingKey": "WORD_GACHA_LIMITED_SET_PERIOD",
     "value": "개최 기간 {0}까지"
+  },
+  {
+    "wordingKey": "WORD_GACHA_MYSEKAI_FIXTURE",
+    "value": "가구 포함"
   },
   {
     "wordingKey": "WORD_GACHA_OMAKE_CHARA_TICKET_EXCHANGE_DIALOG",
@@ -9610,6 +9982,10 @@
   {
     "wordingKey": "WORD_LIMITED_FIRST_BONUS",
     "value": "초회 특전"
+  },
+  {
+    "wordingKey": "WORD_LIMITED_FIXTURE",
+    "value": "기간 한정"
   },
   {
     "wordingKey": "WORD_LIMITED_SET_PERIOD",
@@ -11048,6 +11424,10 @@
     "value": "MV 데이터"
   },
   {
+    "wordingKey": "WORD_MV_ONLY_DECK_NAME",
+    "value": "MV 전용 유닛"
+  },
+  {
     "wordingKey": "WORD_MV_ON_JACKET",
     "value": "MV"
   },
@@ -11108,6 +11488,34 @@
     "value": "이용 제한으로 인해 대화가 불가능합니다."
   },
   {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_CLOSE_CONFIRM",
+    "value": "축하 파티를 종료합니다.\n계속하시겠습니까?\n※기간 동안에는 파티를 회상할 수 있습니다."
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_CONFIRM",
+    "value": "{0}(을)를 축하 파티에 초대하시겠습니까?"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_CRAFT_TERM",
+    "value": "한정 가구 제작"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_DATE_PERIOD",
+    "value": "{0:yyyy\/MM\/dd HH:mm} ~ {1:MM\/dd HH:mm}"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_HARVEST_TERM",
+    "value": "축제의 이슬 획득"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_REMEMBER_CONFIRM",
+    "value": "{0}의 축하 파티를 회상하시겠습니까?"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_BIRTHDAY_PARTY_TERM",
+    "value": "축하 파티"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_CAN_PUT",
     "value": "배치한 가구"
   },
@@ -11134,6 +11542,22 @@
   {
     "wordingKey": "WORD_MYSEKAI_DAILY_UPDATE",
     "value": "매일 업데이트"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DELIVERY_DELIVERY_OF_PERIOD",
+    "value": "납품 기간이 종료되었습니다"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DELIVERY_FLOWER_BLOOM_UNTIL",
+    "value": "꽃이 피기까지"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DELIVERY_HARVEST_OF_PERIOD",
+    "value": "획득 기간이 종료되었습니다"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DELIVERY_MEMBER_BONUS",
+    "value": "멤버 보너스 +{0}!"
   },
   {
     "wordingKey": "WORD_MYSEKAI_DETAIL_JSON",
@@ -11184,12 +11608,224 @@
     "value": "처음부터 방문하는 캐릭터"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_AGGREGATING",
+    "value": "집계 중…"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER",
+    "value": "마이세카이 백경"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_BACK_NUMBER_EN",
+    "value": "MYSEKAI BEST SELECTION"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_COMMENT_TITLE",
+    "value": "한마디"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_DEFAULT_SUBMIT_NAME",
+    "value": "{0}의 마이세카이"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_LATEST_BACK_NUMBER",
+    "value": "최신 호"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_LOTTERY_RESULT",
+    "value": "콘테스트"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_LOTTERY_RESULT_EN",
+    "value": "CONTEST"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_NEW_ARRIVAL",
+    "value": "신착"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_PERIOD_TITLE",
+    "value": "좋아요 기간"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_PHOTO_TITLE",
+    "value": "사진"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_POPULAR",
+    "value": "인기"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_RECOMMEND",
+    "value": "추천"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_FIRST_FLOOR",
+    "value": "1F 레이아웃"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_HOME",
+    "value": "정원 레이아웃"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_SECOND_FLOOR",
+    "value": "2F 레이아웃"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_SUBMISSION_NAME",
+    "value": "작품명"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_THIRD_FLOOR",
+    "value": "3F 레이아웃"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_REPORT_PART_TYPE_WORD",
+    "value": "한마디"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_RESUBMIT",
+    "value": "다시 올리기"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_RE_CAPTURE",
+    "value": "다시 찍기"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SCOPE_TITLE",
+    "value": "투고 범위"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SELECT_SCREENSHOT",
+    "value": "사진 선택"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SELECT_SCREENSHOT_LIST",
+    "value": "올리기에 사용할 사진을 한 장 선택해 주세요."
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SELECT_SUBMISSION_SCOPE_TITLE",
+    "value": "올릴 범위"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SELECT_SUBMISSION_SITE_TITLE",
+    "value": "올릴 사진을 촬영할 에어리어"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMISSION_INFO",
+    "value": "작품 정보"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT",
+    "value": "업로드"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMITTED_MYSEKAI",
+    "value": "올린 마이세카이"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_AFTER",
+    "value": "애프터"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_BEFORE",
+    "value": "비포"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_SCOPE_BESIDES_2F",
+    "value": "2F 제외"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_SCOPE_BESIDES_2F_3F",
+    "value": "2F, 3F 제외"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_TITLE_FIRST_FLOOR",
+    "value": "1F"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_TITLE_HOME",
+    "value": "정원"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_TITLE_SECOND_FLOOR",
+    "value": "2F"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_CONFIRM_SITE_TITLE_THIRD_FLOOR",
+    "value": "3F"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_ID",
+    "value": "작품 ID"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_ID_SEARCH",
+    "value": "작품 ID 검색"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_PERIOD",
+    "value": "업로드 기간"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_RELOAD",
+    "value": "새로 고침"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_REVIEW",
+    "value": "좋아요"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_THEME",
+    "value": "테마"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_SUBMIT_TITLE",
+    "value": "작품명"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_TAG_POPULAR_TITLE",
+    "value": "인기"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_TAG_TREND_TITLE",
+    "value": "급상승!"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_TO_SCREENSHOT",
+    "value": "촬영하기"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_COMPETITION_TREND",
+    "value": "급상승"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_REPORT_PART_TYPE_FIRST_FLOOR",
+    "value": "1F 레이아웃"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_REPORT_PART_TYPE_HOME",
+    "value": "정원 레이아웃"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_REPORT_PART_TYPE_SECOND_FLOOR",
+    "value": "2F 레이아웃"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_HOUSING_REPORT_PART_TYPE_THIRD_FLOOR",
+    "value": "3F 레이아웃"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_INFO",
     "value": "마이세카이 정보"
   },
   {
     "wordingKey": "WORD_MYSEKAI_INVALID_ANIMATION_SPACE",
     "value": "애니메이션 공간을 확보해야 하는 가구가 있습니다.\n배치를 다시 확인해 주세요."
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_FIXTURE_LIST_OK_BUTTON",
+    "value": "정리하고 저장"
   },
   {
     "wordingKey": "WORD_MYSEKAI_INVALID_LAYOUT",
@@ -11281,7 +11917,7 @@
   },
   {
     "wordingKey": "WORD_MY_SEKAI_MATERIAL_GAME_CHARACTER",
-    "value": "무지개색\n메모리아"
+    "value": "메모리아"
   },
   {
     "wordingKey": "WORD_NAME",
@@ -11980,6 +12616,14 @@
     "value": "한마디"
   },
   {
+    "wordingKey": "WORD_PLAYER_FRAME",
+    "value": "프레임"
+  },
+  {
+    "wordingKey": "WORD_PLAYER_FRAME_LIST_PREVIEW",
+    "value": "리스트 미리 보기"
+  },
+  {
     "wordingKey": "WORD_PLAYER_ID",
     "value": "플레이어 ID"
   },
@@ -12225,11 +12869,11 @@
   },
   {
     "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
-    "value": "레이아웃을 배치했습니다."
+    "value": "가구 최대 배치 수를 초과하여 레이아웃을 배치할 수 없습니다."
   },
   {
     "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
-    "value": "<color=#F59>{0}<\/color> 프리셋을 마이세카이에 배치합니다.\n현재 배치 중인 가구는 정리됩니다. 계속하시겠습니까?\n<color=#F36>※프리셋에 포함된 현재 보유하지 않은 가구는 배치되지 않습니다.<\/color>\n<color=#F36>※블록 가구가 포함되어 있는 경우\n소지품이나 같은 에어리어에 배치해 둔 상태여야 합니다.<\/color>"
+    "value": "<color=#F59>{0}<\/color> 프리셋을 마이세카이에 배치합니다.\n현재 배치 중인 가구는 정리됩니다. 계속하시겠습니까?\n\n<color=#F36>※프리셋에 포함된 현재 보유하지 않은 가구는 배치되지 않습니다.<\/color>"
   },
   {
     "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
@@ -13828,6 +14472,10 @@
     "value": "「세카이」 입주 퀘스트"
   },
   {
+    "wordingKey": "WORD_START_BIRTHDAY_PARTY",
+    "value": "초대하기"
+  },
+  {
     "wordingKey": "WORD_START_CHEERFUL_CARNIVAL_EVENT_ANNOUNCE_TITLE",
     "value": "치어풀 카니발 이벤트"
   },
@@ -13997,7 +14645,7 @@
   },
   {
     "wordingKey": "WORD_SURETURN_PASSTIME",
-    "value": "1774584000000"
+    "value": "1773892800000"
   },
   {
     "wordingKey": "WORD_SUSPENSION",
@@ -15136,6 +15784,10 @@
     "value": "네"
   },
   {
+    "wordingKey": "WORD_YOU",
+    "value": "나"
+  },
+  {
     "wordingKey": "WORLD_BLOOM_CHAPTER_RANKING_REWARD",
     "value": "「%s」 섹션 %d 순위 %d등에 대한 보상입니다"
   },
@@ -15157,7 +15809,7 @@
   },
   {
     "wordingKey": "W_C_101",
-    "value": "  "
+    "value": "OK"
   },
   {
     "wordingKey": "W_C_102",
@@ -17633,7 +18285,7 @@
   },
   {
     "wordingKey": "W_C_66",
-    "value": "  "
+    "value": "<color=#FF5599>200MB<\/color>의 추가 데이터를 다운로드하시겠습니까?"
   },
   {
     "wordingKey": "W_C_660",
@@ -17869,7 +18521,7 @@
   },
   {
     "wordingKey": "W_C_712",
-    "value": "지금은 말을 걸 수 없습니다."
+    "value": "아직 대화할 수 없습니다."
   },
   {
     "wordingKey": "W_C_713",
