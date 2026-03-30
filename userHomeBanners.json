@@ -38,23 +38,63 @@
     "endAt": 4101375600000
   },
   {
-    "homeBannerId": 1023,
-    "seq": 180,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha703",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 703,
-    "startAt": 1773975600000,
-    "endAt": 1774839600000
-  },
-  {
-    "homeBannerId": 1024,
+    "homeBannerId": 1028,
     "seq": 170,
     "homeBannerType": "event",
-    "assetbundleName": "event_notes_2025",
+    "assetbundleName": "event_dreamview_2025",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 161,
-    "startAt": 1773986400000,
-    "endAt": 1774850400000
+    "transitionDestinationId": 162,
+    "startAt": 1774850400000,
+    "endAt": 1775646000000
+  },
+  {
+    "homeBannerId": 1030,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha704",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 704,
+    "startAt": 1774839600000,
+    "endAt": 1775271599000
+  },
+  {
+    "homeBannerId": 1031,
+    "seq": 80,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha705",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 705,
+    "startAt": 1774839600000,
+    "endAt": 1775617200000
+  },
+  {
+    "homeBannerId": 1032,
+    "seq": 200,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha707",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 707,
+    "startAt": 1774839600000,
+    "endAt": 1777516199000
+  },
+  {
+    "homeBannerId": 1033,
+    "seq": 30,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha709",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 709,
+    "startAt": 1774839600000,
+    "endAt": 1775617200000
+  },
+  {
+    "homeBannerId": 1034,
+    "seq": 60,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha710",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 710,
+    "startAt": 1774839600000,
+    "endAt": 1775617200000
   }
 ]
