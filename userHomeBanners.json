@@ -38,36 +38,6 @@
     "endAt": 4101375600000
   },
   {
-    "homeBannerId": 1027,
-    "seq": 180,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha711",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 711,
-    "startAt": 1775271600000,
-    "endAt": 1775617200000
-  },
-  {
-    "homeBannerId": 1028,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_dreamview_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 162,
-    "startAt": 1774850400000,
-    "endAt": 1775646000000
-  },
-  {
-    "homeBannerId": 1031,
-    "seq": 80,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha705",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 705,
-    "startAt": 1774839600000,
-    "endAt": 1775617200000
-  },
-  {
     "homeBannerId": 1032,
     "seq": 200,
     "homeBannerType": "general",
@@ -78,26 +48,6 @@
     "endAt": 1777516199000
   },
   {
-    "homeBannerId": 1033,
-    "seq": 30,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha709",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 709,
-    "startAt": 1774839600000,
-    "endAt": 1775617200000
-  },
-  {
-    "homeBannerId": 1034,
-    "seq": 60,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha710",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 710,
-    "startAt": 1774839600000,
-    "endAt": 1775617200000
-  },
-  {
     "homeBannerId": 1035,
     "seq": 190,
     "homeBannerType": "general",
@@ -106,5 +56,25 @@
     "transitionDestinationId": 712,
     "startAt": 1775012400000,
     "endAt": 1776826800000
+  },
+  {
+    "homeBannerId": 1037,
+    "seq": 180,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha713",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 713,
+    "startAt": 1775617200000,
+    "endAt": 1776826799000
+  },
+  {
+    "homeBannerId": 1038,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_wl_2nd_street_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 163,
+    "startAt": 1775646000000,
+    "endAt": 1776837599000
   }
 ]
