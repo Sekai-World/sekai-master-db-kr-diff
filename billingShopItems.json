@@ -8268,6 +8268,20 @@
     "billingShopTabChildId": 203
   },
   {
+    "id": 1714,
+    "seq": 2000005,
+    "billingShopItemType": "costume_3d",
+    "name": "[500만 명 돌파 기념] GLOBAL EDITION' 의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1622",
+    "resourceBoxId": 1576,
+    "startAt": 1777604400000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
     "id": 10173,
     "seq": 430000,
     "billingShopItemType": "value_set",
