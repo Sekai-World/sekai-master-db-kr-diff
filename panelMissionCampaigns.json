@@ -14599,6 +14599,384 @@
     ]
   },
   {
+    "id": 10,
+    "name": "'프로세카×다마고치' 컬래버레이션 기념 스탬프 미션",
+    "assetbundleName": "tamagotchi_collab_2025_pm",
+    "bgmAssetbundleName": "tamagotchi_collab_2025_pm_bgm",
+    "selectableLimit": 3,
+    "startAt": 1779418800000,
+    "progressEndAt": 1780239599000,
+    "closedAt": 1780239599000,
+    "distributionEndAt": 1780844399000,
+    "informationId": 1978,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1001,
+        "panelMissionCampaignId": 10,
+        "name": "로그인",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 100101,
+            "panelMissionSheetGroupId": 1001,
+            "name": "로그인 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_login",
+            "panelMissions": [
+              {
+                "id": 10010101,
+                "panelMissionSheetId": 100101,
+                "name": "누적 1일\n로그인",
+                "description": "누적 1일 로그인 하기",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010102,
+                "panelMissionSheetId": 100101,
+                "name": "누적 2일\n로그인",
+                "description": "누적 2일 로그인 하기",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010103,
+                "panelMissionSheetId": 100101,
+                "name": "누적 3일\n로그인",
+                "description": "누적 3일 로그인 하기",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010104,
+                "panelMissionSheetId": 100101,
+                "name": "누적 4일\n로그인",
+                "description": "누적 4일 로그인 하기",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010105,
+                "panelMissionSheetId": 100101,
+                "name": "누적 5일\n로그인",
+                "description": "누적 5일 로그인 하기",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010106,
+                "panelMissionSheetId": 100101,
+                "name": "누적 6일\n로그인",
+                "description": "누적 6일 로그인 하기",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 6,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010107,
+                "panelMissionSheetId": 100101,
+                "name": "누적 7일\n로그인",
+                "description": "누적 7일 로그인 하기",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1785
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1002,
+        "panelMissionCampaignId": 10,
+        "name": "라이브",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 100201,
+            "panelMissionSheetGroupId": 1002,
+            "name": "라이브 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_live",
+            "panelMissions": [
+              {
+                "id": 10020101,
+                "panelMissionSheetId": 100201,
+                "name": "누적 1회\n라이브 클리어",
+                "description": "라이브 누적 1회 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 1,
+                "panelMissionType": "live_clear",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10020102,
+                "panelMissionSheetId": 100201,
+                "name": "누적 3회\n라이브 클리어",
+                "description": "라이브 누적 3회 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 2,
+                "panelMissionType": "live_clear",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10020103,
+                "panelMissionSheetId": 100201,
+                "name": "누적 5회\n라이브 클리어",
+                "description": "라이브 누적 5회 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 3,
+                "panelMissionType": "live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10020104,
+                "panelMissionSheetId": 100201,
+                "name": "누적 10회\n라이브 클리어",
+                "description": "라이브 누적 10회 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 4,
+                "panelMissionType": "live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10020105,
+                "panelMissionSheetId": 100201,
+                "name": "누적 15회\n라이브 클리어",
+                "description": "라이브 누적 15회 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10020106,
+                "panelMissionSheetId": 100201,
+                "name": "누적 20회\n라이브 클리어",
+                "description": "라이브 누적 20회 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 6,
+                "panelMissionType": "live_clear",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10020107,
+                "panelMissionSheetId": 100201,
+                "name": "누적 30회\n라이브 클리어",
+                "description": "라이브 누적 30회 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 7,
+                "panelMissionType": "live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1786
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1003,
+        "panelMissionCampaignId": 10,
+        "name": "마이세카이",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 100301,
+            "panelMissionSheetGroupId": 1003,
+            "name": "마이세카이 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_mysekai",
+            "panelMissions": [
+              {
+                "id": 10030101,
+                "panelMissionSheetId": 100301,
+                "name": "마이세카이에서 재료\n10개 채집",
+                "description": "마이세카이에서 재료 10개 채집하기",
+                "seq": 1,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10030102,
+                "panelMissionSheetId": 100301,
+                "name": "마이세카이에서 재료\n50개 채집",
+                "description": "마이세카이에서 재료 50개 채집하기",
+                "seq": 2,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10030103,
+                "panelMissionSheetId": 100301,
+                "name": "마이세카이에서 재료\n100개 채집",
+                "description": "마이세카이에서 재료 100개 채집하기",
+                "seq": 3,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10030104,
+                "panelMissionSheetId": 100301,
+                "name": "마이세카이에서 재료\n300개 채집",
+                "description": "마이세카이에서 재료 300개 채집하기",
+                "seq": 4,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 300,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10030105,
+                "panelMissionSheetId": 100301,
+                "name": "마이세카이에서 재료\n500개 채집",
+                "description": "마이세카이에서 재료 500개 채집하기",
+                "seq": 5,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10030106,
+                "panelMissionSheetId": 100301,
+                "name": "마이세카이에서 재료\n700개 채집",
+                "description": "마이세카이에서 재료 700개 채집하기",
+                "seq": 6,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 700,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10030107,
+                "panelMissionSheetId": 100301,
+                "name": "마이세카이에서 재료\n1000개 채집",
+                "description": "마이세카이에서 재료 1000개 채집하기",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1787
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 101,
     "name": "2주년 기념 애니버서리 스탬프 미션",
     "assetbundleName": "2nd_anniv_pm",
