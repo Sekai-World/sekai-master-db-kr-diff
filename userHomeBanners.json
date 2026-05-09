@@ -38,16 +38,6 @@
     "endAt": 4101375600000
   },
   {
-    "homeBannerId": 1050,
-    "seq": 180,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha725",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 725,
-    "startAt": 1777518000000,
-    "endAt": 1778295600000
-  },
-  {
     "homeBannerId": 1053,
     "seq": 190,
     "homeBannerType": "general",
@@ -58,14 +48,24 @@
     "endAt": 1779505200000
   },
   {
-    "homeBannerId": 1055,
-    "seq": 130,
+    "homeBannerId": 1058,
+    "seq": 180,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha728",
+    "assetbundleName": "banner_gacha733",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 728,
-    "startAt": 1778252400000,
-    "endAt": 1778338799000
+    "transitionDestinationId": 733,
+    "startAt": 1778295600000,
+    "endAt": 1779505199000
+  },
+  {
+    "homeBannerId": 1059,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_wl_2nd_themepark_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 167,
+    "startAt": 1778324400000,
+    "endAt": 1779515999000
   },
   {
     "homeBannerId": 1182,
