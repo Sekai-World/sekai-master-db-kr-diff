@@ -29734,7 +29734,8 @@
     "mysekaiFixtureTagGroup": {
       "id": 837,
       "mysekaiFixtureTagId1": 10839,
-      "mysekaiFixtureTagId2": 75
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
     },
     "isAssembled": true,
     "isDisassembled": false,
@@ -29765,7 +29766,8 @@
     "mysekaiFixtureTagGroup": {
       "id": 838,
       "mysekaiFixtureTagId1": 10842,
-      "mysekaiFixtureTagId2": 75
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
     },
     "isAssembled": true,
     "isDisassembled": false,
@@ -29796,7 +29798,8 @@
     "mysekaiFixtureTagGroup": {
       "id": 839,
       "mysekaiFixtureTagId1": 10840,
-      "mysekaiFixtureTagId2": 75
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
     },
     "isAssembled": true,
     "isDisassembled": false,
@@ -29827,7 +29830,8 @@
     "mysekaiFixtureTagGroup": {
       "id": 840,
       "mysekaiFixtureTagId1": 10841,
-      "mysekaiFixtureTagId2": 75
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
     },
     "isAssembled": true,
     "isDisassembled": false,
@@ -29858,7 +29862,8 @@
     "mysekaiFixtureTagGroup": {
       "id": 841,
       "mysekaiFixtureTagId1": 10843,
-      "mysekaiFixtureTagId2": 75
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
     },
     "isAssembled": true,
     "isDisassembled": true,
@@ -29889,7 +29894,8 @@
     "mysekaiFixtureTagGroup": {
       "id": 842,
       "mysekaiFixtureTagId1": 10844,
-      "mysekaiFixtureTagId2": 75
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
     },
     "isAssembled": true,
     "isDisassembled": true,
@@ -29920,7 +29926,8 @@
     "mysekaiFixtureTagGroup": {
       "id": 843,
       "mysekaiFixtureTagId1": 10845,
-      "mysekaiFixtureTagId2": 75
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
     },
     "isAssembled": true,
     "isDisassembled": true,
@@ -30419,7 +30426,7 @@
     "mysekaiFixtureHandleType": "light",
     "mysekaiSettableSiteType": "any",
     "mysekaiSettableLayoutType": "floor",
-    "mysekaiFixturePutType": "none",
+    "mysekaiFixturePutType": "put_base",
     "mysekaiFixtureAnotherColors": [],
     "mysekaiFixturePutSoundId": 3,
     "mysekaiFixtureTagGroup": {
@@ -31262,7 +31269,7 @@
       "mysekaiFixtureTagId2": 90
     },
     "isAssembled": true,
-    "isDisassembled": true,
+    "isDisassembled": false,
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_ext0020_house_house1"
@@ -31318,7 +31325,7 @@
     "gridSize": {
       "width": 8,
       "depth": 8,
-      "height": 10
+      "height": 12
     },
     "colorCode": "#F9F9FE",
     "mysekaiFixtureMainGenreId": 2,
@@ -31559,7 +31566,7 @@
     "id": 1024,
     "mysekaiFixtureType": "normal",
     "name": "로맨틱 가든 테이블",
-    "pronunciation": "ろまんてぃっくがーでんのでーぶる",
+    "pronunciation": "ろまんてぃっくがーでんのてーぶる",
     "flavorText": "로맨틱 가든 테이블",
     "seq": 30020009,
     "gridSize": {
@@ -31569,7 +31576,7 @@
     },
     "colorCode": "#F9F9FE",
     "mysekaiFixtureMainGenreId": 2,
-    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureSubGenreId": 3,
     "mysekaiFixtureHandleType": "none",
     "mysekaiSettableSiteType": "any",
     "mysekaiSettableLayoutType": "floor",
@@ -31610,7 +31617,7 @@
     },
     "colorCode": "#F9F9FE",
     "mysekaiFixtureMainGenreId": 2,
-    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureSubGenreId": 4,
     "mysekaiFixtureHandleType": "none",
     "mysekaiSettableSiteType": "any",
     "mysekaiSettableLayoutType": "floor",
@@ -31767,7 +31774,7 @@
     "name": "극장판 프로세카 메인 비주얼 포스터",
     "pronunciation": "げきじょうばんぷろせかめいんびじゅあるぽすたー",
     "flavorText": "극장판 프로세카 메인 비주얼 포스터",
-    "seq": 29001002,
+    "seq": 99001001,
     "gridSize": {
       "width": 3,
       "depth": 1,
@@ -31798,7 +31805,7 @@
     "name": "극장판 프로세카 메인 비주얼 포스터 제2탄",
     "pronunciation": "げきじょうばんぷろせかめいんびじゅあるだいにだんぽすたー",
     "flavorText": "극장판 프로세카 메인 비주얼 포스터 제2탄",
-    "seq": 29001003,
+    "seq": 99001002,
     "gridSize": {
       "width": 3,
       "depth": 1,
@@ -31829,7 +31836,7 @@
     "name": "극장판 프로세카 Blue-ray 신규 일러스트 포스터",
     "pronunciation": "げきじょうばんぷろせかぶるーれいかきおろしいらすとぽすたー",
     "flavorText": "극장판 프로세카 Blue-ray 신규 일러스트 포스터",
-    "seq": 29001004,
+    "seq": 99001003,
     "gridSize": {
       "width": 3,
       "depth": 1,
@@ -31853,6 +31860,37 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_non9001_fixture_movposter3"
+  },
+  {
+    "id": 1469,
+    "mysekaiFixtureType": "normal",
+    "name": "Mirai 조각상",
+    "pronunciation": "みらいのぞう",
+    "flavorText": "Mirai 조각상",
+    "seq": 90001017,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 8,
+    "mysekaiFixtureTagGroup": {
+      "id": 1469,
+      "mysekaiFixtureTagId1": 11462,
+      "mysekaiFixtureTagId2": 103
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb1105_fixture_mirai1large"
   },
   {
     "id": 90001,
@@ -32114,12 +32152,7 @@
     "mysekaiSettableSiteType": "home",
     "mysekaiSettableLayoutType": "floor",
     "mysekaiFixturePutType": "none",
-    "mysekaiFixtureAnotherColors": [
-      {
-        "textureId": 2,
-        "colorCode": "#FFA300"
-      }
-    ],
+    "mysekaiFixtureAnotherColors": [],
     "mysekaiFixturePutSoundId": 7,
     "mysekaiFixtureTagGroup": {
       "id": 90009,
@@ -32149,12 +32182,7 @@
     "mysekaiSettableSiteType": "home",
     "mysekaiSettableLayoutType": "floor",
     "mysekaiFixturePutType": "none",
-    "mysekaiFixtureAnotherColors": [
-      {
-        "textureId": 3,
-        "colorCode": "#0092FF"
-      }
-    ],
+    "mysekaiFixtureAnotherColors": [],
     "mysekaiFixturePutSoundId": 7,
     "mysekaiFixtureTagGroup": {
       "id": 90010,

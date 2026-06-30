@@ -38,56 +38,6 @@
     "endAt": 4101375600000
   },
   {
-    "homeBannerId": 1075,
-    "seq": 190,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha747",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 747,
-    "startAt": 1780369200000,
-    "endAt": 1782183600000
-  },
-  {
-    "homeBannerId": 1076,
-    "seq": 180,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha749",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 749,
-    "startAt": 1780974000000,
-    "endAt": 1782183599000
-  },
-  {
-    "homeBannerId": 1077,
-    "seq": 170,
-    "homeBannerType": "event",
-    "assetbundleName": "event_wl_2nd_schoolrefusal_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 170,
-    "startAt": 1781002800000,
-    "endAt": 1782212399000
-  },
-  {
-    "homeBannerId": 1079,
-    "seq": 140,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha750",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 750,
-    "startAt": 1781233200000,
-    "endAt": 1782010800000
-  },
-  {
-    "homeBannerId": 1080,
-    "seq": 150,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha751",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 751,
-    "startAt": 1781233200000,
-    "endAt": 1782010800000
-  },
-  {
     "homeBannerId": 1081,
     "seq": 190,
     "homeBannerType": "general",
@@ -98,14 +48,44 @@
     "endAt": 1783393200000
   },
   {
-    "homeBannerId": 1183,
-    "seq": 20,
+    "homeBannerId": 1084,
+    "seq": 180,
     "homeBannerType": "general",
-    "assetbundleName": "banner_gacha2057",
+    "assetbundleName": "banner_gacha757",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 2057,
-    "startAt": 1779246000000,
-    "endAt": 1782226799000
+    "transitionDestinationId": 757,
+    "startAt": 1782183600000,
+    "endAt": 1783393199000
+  },
+  {
+    "homeBannerId": 1085,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_wl_2nd_lightsound_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 171,
+    "startAt": 1782212400000,
+    "endAt": 1783403999000
+  },
+  {
+    "homeBannerId": 1087,
+    "seq": 160,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha758",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 758,
+    "startAt": 1782356400000,
+    "endAt": 1783134000000
+  },
+  {
+    "homeBannerId": 1089,
+    "seq": 80,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha759",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 759,
+    "startAt": 1782788400000,
+    "endAt": 1783566000000
   },
   {
     "homeBannerId": 1187,
@@ -113,8 +93,8 @@
     "homeBannerType": "general",
     "assetbundleName": "banner_questionnaire_4",
     "transitionDestinationType": "questionnaire",
-    "transitionDestinationId": 20319685,
-    "startAt": 1779246000000,
+    "transitionDestinationId": 20319775,
+    "startAt": 1781838000000,
     "endAt": 4102412399000
   },
   {
@@ -123,8 +103,18 @@
     "homeBannerType": "general",
     "assetbundleName": "banner_questionnaire_5",
     "transitionDestinationType": "questionnaire",
-    "transitionDestinationId": 20319686,
-    "startAt": 1779246000000,
+    "transitionDestinationId": 20319776,
+    "startAt": 1781838000000,
     "endAt": 4102412399000
+  },
+  {
+    "homeBannerId": 1595,
+    "seq": 10,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_gacha965",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 965,
+    "startAt": 1781935200000,
+    "endAt": 1783004399000
   }
 ]

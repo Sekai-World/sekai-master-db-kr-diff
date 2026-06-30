@@ -14977,6 +14977,142 @@
     ]
   },
   {
+    "id": 15,
+    "name": "[DEEMO×Cytus 시리즈] 컬래버레이션 기념 스탬프 미션",
+    "assetbundleName": "dc_tieup_pm",
+    "bgmAssetbundleName": "dc_tieup_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1781935200000,
+    "progressEndAt": 1783004399000,
+    "closedAt": 1783004399000,
+    "distributionEndAt": 1784213999000,
+    "informationId": 2644,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1501,
+        "panelMissionCampaignId": 15,
+        "name": "컬래버레이션",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 150101,
+            "panelMissionSheetGroupId": 1501,
+            "name": "컬래버레이션 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_dc_tieup",
+            "panelMissions": [
+              {
+                "id": 15010101,
+                "panelMissionSheetId": 150101,
+                "name": "악곡\n'SAIRAI'\n을 2회 클리어",
+                "description": "악곡 'SAIRAI'를 2회 클리어하세요\n※2026\/6\/20 15:00 악곡 추가",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010102,
+                "panelMissionSheetId": 150101,
+                "name": "악곡\n'CHAOS'\n을 2회 클리어",
+                "description": "악곡 'CHAOS'를 2회 클리어하세요\n※2026\/6\/21 15:00 악곡 추가",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010103,
+                "panelMissionSheetId": 150101,
+                "name": "악곡\n'Saika'\n을 2회 클리어",
+                "description": "악곡 'Saika'를 2회 클리어하세요\n※2026\/6\/22 15:00 악곡 추가",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010104,
+                "panelMissionSheetId": 150101,
+                "name": "악곡\n'99 Glooms'\n을 2회 클리어",
+                "description": "악곡 '99 Glooms'를 2회 클리어하세요\n※2026\/6\/23 15:00 악곡 추가",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010105,
+                "panelMissionSheetId": 150101,
+                "name": "악곡\n'ANiMA'\n을 2회 클리어",
+                "description": "악곡 'ANiMA'를 2회 클리어하세요\n※2026\/6\/24 15:00 악곡 추가",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010106,
+                "panelMissionSheetId": 150101,
+                "name": "악곡\n'Masquerade'\n을 2회 클리어",
+                "description": "악곡 'Masquerade'를 2회 클리어하세요\n※2026\/6\/25 15:00 악곡 추가",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010107,
+                "panelMissionSheetId": 150101,
+                "name": "멀티 라이브\n10회 클리어",
+                "description": "'멀티 라이브' 10회 클리어하기",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                2045
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 101,
     "name": "2주년 기념 애니버서리 스탬프 미션",
     "assetbundleName": "2nd_anniv_pm",
