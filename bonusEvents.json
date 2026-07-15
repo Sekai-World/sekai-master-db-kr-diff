@@ -268,5 +268,53 @@
       18
     ],
     "limitMissionGroupId": 22
+  },
+  {
+    "id": 7,
+    "startAt": 1783134000000,
+    "endAt": 1783954799000,
+    "url": "https:\/\/lf3-cdn-tos.draftstatic.com\/obj\/ies-hotsoon-draft\/mk-korea\/fff4edb7-57c6-4b79-bf8e-05db8f1f208e.html",
+    "bonusAssetbundleName": "event_bonus",
+    "bonuses": [
+      {
+        "bonusType": "rate",
+        "resourceType": "material",
+        "resourceId": 14,
+        "value": 3.0
+      },
+      {
+        "bonusType": "rate",
+        "resourceType": "material",
+        "resourceId": 17,
+        "value": 3.0
+      },
+      {
+        "bonusType": "exp_card",
+        "value": 2.0
+      }
+    ],
+    "normalBoxDailyLimit": 6,
+    "exBoxDailyLimit": 2,
+    "normalBoxResourceBoxIds": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "exBoxResourceBoxIds": [
+      25,
+      26,
+      9,
+      4,
+      5,
+      12,
+      13,
+      14,
+      17,
+      18
+    ],
+    "limitMissionGroupId": 23
   }
 ]

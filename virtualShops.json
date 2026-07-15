@@ -5932,6 +5932,50 @@
     "virtualShopDisplayType": "out_of_scope"
   },
   {
+    "id": 312,
+    "name": "「コネクトライブ Dreamscape」グッズショップ",
+    "virtualShopItems": [
+      {
+        "id": 504,
+        "virtualShopId": 312,
+        "virtualShopItemType": "costume",
+        "seq": 99870,
+        "resourceBoxId": 399,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1784775600000,
+        "endAt": 1786186799000,
+        "limitValue": 1
+      },
+      {
+        "id": 505,
+        "virtualShopId": 312,
+        "virtualShopItemType": "costume",
+        "seq": 99871,
+        "resourceBoxId": 400,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1784775600000,
+        "endAt": 1786186799000,
+        "limitValue": 1
+      },
+      {
+        "id": 506,
+        "virtualShopId": 312,
+        "virtualShopItemType": "accessory",
+        "seq": 99868,
+        "resourceBoxId": 401,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1784775600000,
+        "endAt": 1786186799000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
     "id": 1001,
     "name": "春节2024",
     "virtualShopItems": [
