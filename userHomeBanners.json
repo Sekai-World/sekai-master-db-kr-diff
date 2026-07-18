@@ -78,6 +78,16 @@
     "endAt": 1784786399000
   },
   {
+    "homeBannerId": 1101,
+    "seq": 130,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_virtuallive387",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 387,
+    "startAt": 1784354400000,
+    "endAt": 1784473199000
+  },
+  {
     "homeBannerId": 1187,
     "seq": 20,
     "homeBannerType": "general",
@@ -116,5 +126,15 @@
     "transitionDestinationId": 3017,
     "startAt": 1783134000000,
     "endAt": 1786503599000
+  },
+  {
+    "homeBannerId": 30005,
+    "seq": 20,
+    "homeBannerType": "general",
+    "assetbundleName": "banner_questionnaire_costume",
+    "transitionDestinationType": "questionnaire",
+    "transitionDestinationId": 20319825,
+    "startAt": 1784343600000,
+    "endAt": 1785293999000
   }
 ]
