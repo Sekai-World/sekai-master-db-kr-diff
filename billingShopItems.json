@@ -8805,6 +8805,129 @@
     "billingShopTabChildId": 204
   },
   {
+    "id": 1750,
+    "seq": 999999,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1647,
+    "name": "홀리데이 응원 계획·BASIC 버전",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1646",
+    "resourceBoxId": 1607,
+    "startAt": 1785466800000,
+    "endAt": 1786762799000,
+    "billingShopTabChildId": 201
+  },
+  {
+    "id": 1751,
+    "seq": 999999,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1648,
+    "name": "홀리데이 응원 계획·LEVEL UP 버전",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1647",
+    "resourceBoxId": 1608,
+    "startAt": 1785466800000,
+    "endAt": 1786762799000,
+    "billingShopTabChildId": 201
+  },
+  {
+    "id": 1752,
+    "seq": 999999,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1649,
+    "name": "깜짝 증정 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1640",
+    "resourceBoxId": 1609,
+    "startAt": 1790218800000,
+    "endAt": 1791428340000,
+    "billingShopTabChildId": 204
+  },
+  {
+    "id": 1753,
+    "seq": 999998,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1650,
+    "name": "깜짝 크리스탈 세트",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1641",
+    "resourceBoxId": 1610,
+    "startAt": 1790218800000,
+    "endAt": 1791428340000,
+    "billingShopTabChildId": 101
+  },
+  {
+    "id": 1754,
+    "seq": 999990,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1651,
+    "name": "[쿨 썸머 한정]크리스탈E",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1648",
+    "resourceBoxId": 1571,
+    "bonusResourceBoxId": 1444,
+    "startAt": 1785466800000,
+    "endAt": 1785725999000,
+    "billingShopTabChildId": 101
+  },
+  {
+    "id": 1755,
+    "seq": 999989,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1652,
+    "name": "[쿨 썸머 한정]크리스탈F",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1175",
+    "resourceBoxId": 1175,
+    "bonusResourceBoxId": 1175,
+    "startAt": 1785466800000,
+    "endAt": 1785725999000,
+    "billingShopTabChildId": 101
+  },
+  {
+    "id": 1756,
+    "seq": 999988,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 1653,
+    "name": "[쿨 썸머 한정]크리스탈G",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1176",
+    "resourceBoxId": 1176,
+    "bonusResourceBoxId": 1176,
+    "startAt": 1785466800000,
+    "endAt": 1785725999000,
+    "billingShopTabChildId": 101
+  },
+  {
+    "id": 1757,
+    "seq": 999987,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 1654,
+    "name": "[쿨 썸머 한정] 성장 패키지 ",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1649",
+    "resourceBoxId": 1612,
+    "startAt": 1785466800000,
+    "endAt": 1785725999000,
+    "billingShopTabChildId": 204
+  },
+  {
     "id": 10173,
     "seq": 430000,
     "billingShopItemType": "value_set",
@@ -9696,7 +9819,7 @@
   },
   {
     "id": 261001,
-    "seq": 100000,
+    "seq": 46244,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261001,
     "name": "[호시노 이치카]생일 세트B",
@@ -9711,7 +9834,7 @@
   },
   {
     "id": 261002,
-    "seq": 100000,
+    "seq": 46150,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261002,
     "name": "[텐마 사키]생일 세트B",
@@ -9726,7 +9849,7 @@
   },
   {
     "id": 261003,
-    "seq": 100000,
+    "seq": 46321,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261003,
     "name": "[모치즈키 호나미]생일 세트B",
@@ -9741,7 +9864,7 @@
   },
   {
     "id": 261004,
-    "seq": 100000,
+    "seq": 46394,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261004,
     "name": "[히노모리 시호]생일 세트B",
@@ -9756,7 +9879,7 @@
   },
   {
     "id": 261005,
-    "seq": 100000,
+    "seq": 46125,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261005,
     "name": "[하나사토 미노리]생일 세트B",
@@ -9771,7 +9894,7 @@
   },
   {
     "id": 261006,
-    "seq": 100000,
+    "seq": 46299,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261006,
     "name": "[키리타니 하루카]생일 세트B",
@@ -9786,7 +9909,7 @@
   },
   {
     "id": 261007,
-    "seq": 100000,
+    "seq": 46464,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261007,
     "name": "[모모이 아이리]생일 세트B",
@@ -9801,7 +9924,7 @@
   },
   {
     "id": 261008,
-    "seq": 100000,
+    "seq": 46361,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261008,
     "name": "[히노모리 시즈쿠]생일 세트B",
@@ -9816,7 +9939,7 @@
   },
   {
     "id": 261009,
-    "seq": 100000,
+    "seq": 46447,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261009,
     "name": "[아즈사와 코하네]생일 세트B",
@@ -9831,7 +9954,7 @@
   },
   {
     "id": 261010,
-    "seq": 100000,
+    "seq": 46228,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261010,
     "name": "[시라이시 안]생일 세트B",
@@ -9846,7 +9969,7 @@
   },
   {
     "id": 261011,
-    "seq": 100000,
+    "seq": 46337,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261011,
     "name": "[시노노메 아키토]생일 세트B",
@@ -9861,7 +9984,7 @@
   },
   {
     "id": 261012,
-    "seq": 100000,
+    "seq": 46166,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261012,
     "name": "[아오야기 토우야]생일 세트B",
@@ -9876,7 +9999,7 @@
   },
   {
     "id": 261013,
-    "seq": 100000,
+    "seq": 46158,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261013,
     "name": "[텐마 츠카사]생일 세트B",
@@ -9891,7 +10014,7 @@
   },
   {
     "id": 261014,
-    "seq": 100000,
+    "seq": 46273,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261014,
     "name": "[오오토리 에무]생일 세트B",
@@ -9906,7 +10029,7 @@
   },
   {
     "id": 261015,
-    "seq": 100000,
+    "seq": 46222,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261015,
     "name": "[쿠사나기 네네]생일 세트B",
@@ -9921,7 +10044,7 @@
   },
   {
     "id": 261016,
-    "seq": 100000,
+    "seq": 46196,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261016,
     "name": "[카미시로 루이]생일 세트B",
@@ -9936,7 +10059,7 @@
   },
   {
     "id": 261017,
-    "seq": 100000,
+    "seq": 46427,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261017,
     "name": "[요이사키 카나데]생일 세트B",
@@ -9951,7 +10074,7 @@
   },
   {
     "id": 261018,
-    "seq": 100000,
+    "seq": 46413,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261018,
     "name": "[아사히나 마후유]생일 세트B",
@@ -9966,7 +10089,7 @@
   },
   {
     "id": 261019,
-    "seq": 100000,
+    "seq": 46141,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261019,
     "name": "[시노노메 에나]생일 세트B",
@@ -9981,7 +10104,7 @@
   },
   {
     "id": 261020,
-    "seq": 100000,
+    "seq": 46260,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261020,
     "name": "[아키야마 미즈키]생일 세트B",
@@ -9996,7 +10119,7 @@
   },
   {
     "id": 261021,
-    "seq": 100000,
+    "seq": 46264,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261021,
     "name": "[하츠네 미쿠] 기념일 세트B",
@@ -10011,7 +10134,7 @@
   },
   {
     "id": 261022,
-    "seq": 100000,
+    "seq": 46382,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261022,
     "name": "[카가미네 린] 기념일 세트B",
@@ -10026,7 +10149,7 @@
   },
   {
     "id": 261023,
-    "seq": 100000,
+    "seq": 46382,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261023,
     "name": "[카가미네 렌] 기념일 세트B",
@@ -10041,7 +10164,7 @@
   },
   {
     "id": 261024,
-    "seq": 100000,
+    "seq": 46416,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261024,
     "name": "[메구리네 루카] 기념일 세트B",
@@ -10056,7 +10179,7 @@
   },
   {
     "id": 261025,
-    "seq": 100000,
+    "seq": 46330,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261025,
     "name": "[MEIKO] 기념일 세트B",
@@ -10071,7 +10194,7 @@
   },
   {
     "id": 261026,
-    "seq": 100000,
+    "seq": 46434,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 261026,
     "name": "[KAITO] 기념일 세트B",
@@ -10086,7 +10209,7 @@
   },
   {
     "id": 262001,
-    "seq": 100000,
+    "seq": 46243,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262001,
     "name": "[호시노 이치카]생일 세트A",
@@ -10101,7 +10224,7 @@
   },
   {
     "id": 262002,
-    "seq": 100000,
+    "seq": 46149,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262002,
     "name": "[텐마 사키]생일 세트A",
@@ -10116,7 +10239,7 @@
   },
   {
     "id": 262003,
-    "seq": 100000,
+    "seq": 46320,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262003,
     "name": "[모치즈키 호나미]생일 세트A",
@@ -10131,7 +10254,7 @@
   },
   {
     "id": 262004,
-    "seq": 100000,
+    "seq": 46393,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262004,
     "name": "[히노모리 시호]생일 세트A",
@@ -10146,7 +10269,7 @@
   },
   {
     "id": 262005,
-    "seq": 100000,
+    "seq": 46121,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262005,
     "name": "[하나사토 미노리]생일 세트A",
@@ -10161,7 +10284,7 @@
   },
   {
     "id": 262006,
-    "seq": 100000,
+    "seq": 46298,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262006,
     "name": "[키리타니 하루카]생일 세트A",
@@ -10176,7 +10299,7 @@
   },
   {
     "id": 262007,
-    "seq": 100000,
+    "seq": 46463,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262007,
     "name": "[모모이 아이리]생일 세트A",
@@ -10191,7 +10314,7 @@
   },
   {
     "id": 262008,
-    "seq": 100000,
+    "seq": 46360,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262008,
     "name": "[히노모리 시즈쿠]생일 세트A",
@@ -10206,7 +10329,7 @@
   },
   {
     "id": 262009,
-    "seq": 100000,
+    "seq": 46446,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262009,
     "name": "[아즈사와 코하네]생일 세트A",
@@ -10221,7 +10344,7 @@
   },
   {
     "id": 262010,
-    "seq": 100000,
+    "seq": 46227,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262010,
     "name": "[시라이시 안]생일 세트A",
@@ -10236,7 +10359,7 @@
   },
   {
     "id": 262011,
-    "seq": 100000,
+    "seq": 46336,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262011,
     "name": "[시노노메 아키토]생일 세트A",
@@ -10251,7 +10374,7 @@
   },
   {
     "id": 262012,
-    "seq": 100000,
+    "seq": 46165,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262012,
     "name": "[아오야기 토우야]생일 세트A",
@@ -10266,7 +10389,7 @@
   },
   {
     "id": 262013,
-    "seq": 100000,
+    "seq": 46157,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262013,
     "name": "[텐마 츠카사]생일 세트A",
@@ -10281,7 +10404,7 @@
   },
   {
     "id": 262014,
-    "seq": 100000,
+    "seq": 46272,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262014,
     "name": "[오오토리 에무]생일 세트A",
@@ -10296,7 +10419,7 @@
   },
   {
     "id": 262015,
-    "seq": 100000,
+    "seq": 46221,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262015,
     "name": "[쿠사나기 네네]생일 세트A",
@@ -10311,7 +10434,7 @@
   },
   {
     "id": 262016,
-    "seq": 100000,
+    "seq": 46560,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262016,
     "name": "[카미시로 루이]생일 세트A",
@@ -10326,7 +10449,7 @@
   },
   {
     "id": 262017,
-    "seq": 100000,
+    "seq": 46426,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262017,
     "name": "[요이사키 카나데]생일 세트A",
@@ -10341,7 +10464,7 @@
   },
   {
     "id": 262018,
-    "seq": 100000,
+    "seq": 46412,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262018,
     "name": "[아사히나 마후유]생일 세트A",
@@ -10356,7 +10479,7 @@
   },
   {
     "id": 262019,
-    "seq": 100000,
+    "seq": 46140,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262019,
     "name": "[시노노메 에나]생일 세트A",
@@ -10371,7 +10494,7 @@
   },
   {
     "id": 262020,
-    "seq": 100000,
+    "seq": 46259,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262020,
     "name": "[아키야마 미즈키]생일 세트A",
@@ -10386,7 +10509,7 @@
   },
   {
     "id": 262021,
-    "seq": 100000,
+    "seq": 46263,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262021,
     "name": "[하츠네 미쿠] 기념일 세트A",
@@ -10401,7 +10524,7 @@
   },
   {
     "id": 262022,
-    "seq": 100000,
+    "seq": 46381,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262022,
     "name": "[카가미네 린] 기념일 세트A",
@@ -10416,7 +10539,7 @@
   },
   {
     "id": 262023,
-    "seq": 100000,
+    "seq": 46381,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262023,
     "name": "[카가미네 렌] 기념일 세트A",
@@ -10431,7 +10554,7 @@
   },
   {
     "id": 262024,
-    "seq": 100000,
+    "seq": 46415,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262024,
     "name": "[메구리네 루카] 기념일 세트A",
@@ -10446,7 +10569,7 @@
   },
   {
     "id": 262025,
-    "seq": 100000,
+    "seq": 46329,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262025,
     "name": "[MEIKO] 기념일 세트A",
@@ -10461,7 +10584,7 @@
   },
   {
     "id": 262026,
-    "seq": 100000,
+    "seq": 46433,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 262026,
     "name": "[KAITO] 기념일 세트A",
