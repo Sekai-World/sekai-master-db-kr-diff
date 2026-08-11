@@ -32195,6 +32195,195 @@
     "assetbundleName": "mdl_krcollect_fixture_niwa1_2"
   },
   {
+    "id": 90011,
+    "mysekaiFixtureType": "normal",
+    "name": "인어의 조개 침대",
+    "pronunciation": "인어의 조개 침대",
+    "flavorText": "인어의 조개 침대",
+    "seq": 91001013,
+    "gridSize": {
+      "width": 7,
+      "depth": 7,
+      "height": 7
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 90011,
+      "mysekaiFixtureTagId1": 90011
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_krcollect_fixture_room4"
+  },
+  {
+    "id": 90012,
+    "mysekaiFixtureType": "normal",
+    "name": "파도 소리 책상",
+    "pronunciation": "파도 소리 책상",
+    "flavorText": "파도 소리 책상",
+    "seq": 91001014,
+    "gridSize": {
+      "width": 4,
+      "depth": 3,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 3,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 14,
+    "mysekaiFixtureTagGroup": {
+      "id": 90012,
+      "mysekaiFixtureTagId1": 90012
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_room5"
+  },
+  {
+    "id": 90013,
+    "mysekaiFixtureType": "normal",
+    "name": "해변 세면대",
+    "pronunciation": "해변 세면대",
+    "flavorText": "해변 세면대",
+    "seq": 91001015,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90013,
+      "mysekaiFixtureTagId1": 90013
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "loop",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_krcollect_fixture_room6"
+  },
+  {
+    "id": 90014,
+    "mysekaiFixtureType": "normal",
+    "name": "버스 정류장",
+    "pronunciation": "버스 정류장",
+    "flavorText": "버스 정류장",
+    "seq": 91001016,
+    "gridSize": {
+      "width": 10,
+      "depth": 4,
+      "height": 10
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90014,
+      "mysekaiFixtureTagId1": 90014
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_krcollect_fixture_niwa4"
+  },
+  {
+    "id": 90015,
+    "mysekaiFixtureType": "normal",
+    "name": "버스 정류장 표지판",
+    "pronunciation": "버스 정류장 표지판",
+    "flavorText": "버스 정류장 표지판",
+    "seq": 91001017,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 10
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90015,
+      "mysekaiFixtureTagId1": 90015
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_niwa5"
+  },
+  {
+    "id": 90016,
+    "mysekaiFixtureType": "normal",
+    "name": "버스 정류장 쓰레기통",
+    "pronunciation": "버스 정류장 쓰레기통",
+    "flavorText": "버스 정류장 쓰레기통",
+    "seq": 91001018,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FBFBFD"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#ABD0FA"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 90016,
+      "mysekaiFixtureTagId1": 90016
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_krcollect_fixture_niwa6"
+  },
+  {
     "id": 900002,
     "mysekaiFixtureType": "gate",
     "name": "게이트",

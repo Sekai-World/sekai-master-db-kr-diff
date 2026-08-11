@@ -949,5 +949,47 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 66,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1786590000000,
+    "endAt": 1788015599000,
+    "episodes": [
+      {
+        "id": 71,
+        "specialStoryId": 66,
+        "episodeNo": 1,
+        "title": "[프로세카×앙상블스타즈!!] 컬래버레이션 기념 로그인 스토리 프롤로그",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1788015600000,
+    "endAt": 1788101999000,
+    "episodes": [
+      {
+        "id": 72,
+        "specialStoryId": 67,
+        "episodeNo": 1,
+        "title": "[프로세카×앙상블스타즈!!] 컬래버레이션 기념 로그인 스토리 에필로그",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]
