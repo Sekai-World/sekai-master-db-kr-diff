@@ -32209,17 +32209,18 @@
     "mysekaiFixtureMainGenreId": 2,
     "mysekaiFixtureSubGenreId": 2,
     "mysekaiFixtureHandleType": "none",
-    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableSiteType": "any",
     "mysekaiSettableLayoutType": "floor",
     "mysekaiFixturePutType": "none",
     "mysekaiFixtureAnotherColors": [],
     "mysekaiFixturePutSoundId": 2,
     "mysekaiFixtureTagGroup": {
       "id": 90011,
-      "mysekaiFixtureTagId1": 90011
+      "mysekaiFixtureTagId1": 90011,
+      "mysekaiFixtureTagId2": 90017
     },
     "isAssembled": true,
-    "isDisassembled": false,
+    "isDisassembled": true,
     "mysekaiFixturePlayerActionType": "timeline",
     "isGameCharacterAction": true,
     "assetbundleName": "mdl_krcollect_fixture_room4"
@@ -32239,17 +32240,18 @@
     "mysekaiFixtureMainGenreId": 2,
     "mysekaiFixtureSubGenreId": 3,
     "mysekaiFixtureHandleType": "none",
-    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableSiteType": "any",
     "mysekaiSettableLayoutType": "floor",
     "mysekaiFixturePutType": "put_base",
     "mysekaiFixtureAnotherColors": [],
     "mysekaiFixturePutSoundId": 14,
     "mysekaiFixtureTagGroup": {
       "id": 90012,
-      "mysekaiFixtureTagId1": 90012
+      "mysekaiFixtureTagId1": 90012,
+      "mysekaiFixtureTagId2": 90017
     },
     "isAssembled": true,
-    "isDisassembled": false,
+    "isDisassembled": true,
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_krcollect_fixture_room5"
@@ -32269,17 +32271,18 @@
     "mysekaiFixtureMainGenreId": 2,
     "mysekaiFixtureSubGenreId": 13,
     "mysekaiFixtureHandleType": "none",
-    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableSiteType": "any",
     "mysekaiSettableLayoutType": "floor",
     "mysekaiFixturePutType": "none",
     "mysekaiFixtureAnotherColors": [],
     "mysekaiFixturePutSoundId": 7,
     "mysekaiFixtureTagGroup": {
       "id": 90013,
-      "mysekaiFixtureTagId1": 90013
+      "mysekaiFixtureTagId1": 90013,
+      "mysekaiFixtureTagId2": 90017
     },
     "isAssembled": true,
-    "isDisassembled": false,
+    "isDisassembled": true,
     "mysekaiFixturePlayerActionType": "loop",
     "isGameCharacterAction": true,
     "assetbundleName": "mdl_krcollect_fixture_room6"
@@ -32306,10 +32309,11 @@
     "mysekaiFixturePutSoundId": 7,
     "mysekaiFixtureTagGroup": {
       "id": 90014,
-      "mysekaiFixtureTagId1": 90014
+      "mysekaiFixtureTagId1": 90014,
+      "mysekaiFixtureTagId2": 90017
     },
     "isAssembled": true,
-    "isDisassembled": false,
+    "isDisassembled": true,
     "mysekaiFixturePlayerActionType": "timeline",
     "isGameCharacterAction": true,
     "assetbundleName": "mdl_krcollect_fixture_niwa4"
@@ -32336,10 +32340,11 @@
     "mysekaiFixturePutSoundId": 7,
     "mysekaiFixtureTagGroup": {
       "id": 90015,
-      "mysekaiFixtureTagId1": 90015
+      "mysekaiFixtureTagId1": 90015,
+      "mysekaiFixtureTagId2": 90017
     },
     "isAssembled": true,
-    "isDisassembled": false,
+    "isDisassembled": true,
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_krcollect_fixture_niwa5"
@@ -32359,26 +32364,23 @@
     "mysekaiFixtureMainGenreId": 2,
     "mysekaiFixtureSubGenreId": 13,
     "mysekaiFixtureHandleType": "none",
-    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableSiteType": "any",
     "mysekaiSettableLayoutType": "floor",
     "mysekaiFixturePutType": "none",
     "mysekaiFixtureAnotherColors": [
       {
         "textureId": 2,
-        "colorCode": "#FBFBFD"
-      },
-      {
-        "textureId": 3,
         "colorCode": "#ABD0FA"
       }
     ],
     "mysekaiFixturePutSoundId": 7,
     "mysekaiFixtureTagGroup": {
       "id": 90016,
-      "mysekaiFixtureTagId1": 90016
+      "mysekaiFixtureTagId1": 90016,
+      "mysekaiFixtureTagId2": 90017
     },
     "isAssembled": true,
-    "isDisassembled": false,
+    "isDisassembled": true,
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_krcollect_fixture_niwa6"

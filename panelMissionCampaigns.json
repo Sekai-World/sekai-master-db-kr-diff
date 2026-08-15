@@ -14977,6 +14977,269 @@
     ]
   },
   {
+    "id": 14,
+    "name": "[프로세카×앙상블스타즈!!] 컬래버레이션 기념 스탬프 미션",
+    "assetbundleName": "ensemble_collab_2026_pm",
+    "bgmAssetbundleName": "ensemble_collab_2026_pm_bgm",
+    "selectableLimit": 2,
+    "startAt": 1786590000000,
+    "progressEndAt": 1788015599000,
+    "closedAt": 1788015599000,
+    "distributionEndAt": 1789311599000,
+    "informationId": 2749,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1401,
+        "panelMissionCampaignId": 14,
+        "name": "악곡",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 140101,
+            "panelMissionSheetGroupId": 1401,
+            "name": "악곡 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_ensemble_collab_music",
+            "panelMissions": [
+              {
+                "id": 14010101,
+                "panelMissionSheetId": 140101,
+                "name": "악곡\n'퓨전'을\n1회 클리어",
+                "description": "악곡 '퓨전'을 1회 클리어하세요.",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14010102,
+                "panelMissionSheetId": 140101,
+                "name": "3종류의 악곡\n클리어",
+                "description": "3종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14010103,
+                "panelMissionSheetId": 140101,
+                "name": "5종류의 악곡\n클리어",
+                "description": "5종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14010104,
+                "panelMissionSheetId": 140101,
+                "name": "10종류의 악곡\n클리어",
+                "description": "10종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14010105,
+                "panelMissionSheetId": 140101,
+                "name": "15종류의 악곡\n클리어",
+                "description": "15종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14010106,
+                "panelMissionSheetId": 140101,
+                "name": "20종류의 악곡\n클리어",
+                "description": "20종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14010107,
+                "panelMissionSheetId": 140101,
+                "name": "25종류의 악곡\n클리어",
+                "description": "25종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                2035
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1402,
+        "panelMissionCampaignId": 14,
+        "name": "마이세카이",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 140201,
+            "panelMissionSheetGroupId": 1402,
+            "name": "마이세카이 카드",
+            "seq": 1,
+            "assetbundleName": "sheet_ensemble_collab_mysekai",
+            "panelMissions": [
+              {
+                "id": 14020101,
+                "panelMissionSheetId": 140201,
+                "name": "마이세카이에서 재료\n10개 채집",
+                "description": "마이세카이에서 재료 10개 채집하기",
+                "seq": 1,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14020102,
+                "panelMissionSheetId": 140201,
+                "name": "마이세카이에서 재료\n50개 채집",
+                "description": "마이세카이에서 재료 50개 채집하기",
+                "seq": 2,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14020103,
+                "panelMissionSheetId": 140201,
+                "name": "마이세카이에서 재료\n100개 채집",
+                "description": "마이세카이에서 재료 100개 채집하기",
+                "seq": 3,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14020104,
+                "panelMissionSheetId": 140201,
+                "name": "마이세카이에서 재료\n300개 채집",
+                "description": "마이세카이에서 재료 300개 채집하기",
+                "seq": 4,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 300,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14020105,
+                "panelMissionSheetId": 140201,
+                "name": "마이세카이에서 재료\n500개 채집",
+                "description": "마이세카이에서 재료 500개 채집하기",
+                "seq": 5,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14020106,
+                "panelMissionSheetId": 140201,
+                "name": "마이세카이에서 재료\n700개 채집",
+                "description": "마이세카이에서 재료 700개 채집하기",
+                "seq": 6,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 700,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              },
+              {
+                "id": 14020107,
+                "panelMissionSheetId": 140201,
+                "name": "마이세카이에서 재료\n1000개 채집",
+                "description": "마이세카이에서 재료 1000개 채집하기",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  [
+                    1883
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                2036
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 15,
     "name": "[DEEMO×Cytus 시리즈] 컬래버레이션 기념 스탬프 미션",
     "assetbundleName": "dc_tieup_pm",
