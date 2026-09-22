@@ -1353,5 +1353,238 @@
     "sentence": "위 미션들을 모두 통과하세요.",
     "resourceBoxId": 100026,
     "selectableRewardGroupId": 1005
+  },
+  {
+    "limitMissionGroupId": 1116,
+    "id": 1000,
+    "seq": 1,
+    "limitMissionType": "clear_live_miku_leader",
+    "requirement": 15,
+    "sentence": " '하츠네 미쿠'를 리더로 편성하여 \n 라이브 15회 플레이하기",
+    "resourceBoxId": 100021,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1116,
+    "id": 1001,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": " '마음의 조각 교환소'에서 1회 교환하기\n('마음의 조각'은 '대기실'에서 멤버와 교환하여 획득 가능)",
+    "resourceBoxId": 100022,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1116,
+    "id": 1002,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": " 이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100023,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1116,
+    "id": 1003,
+    "seq": 1,
+    "limitMissionType": "character_rank_miku",
+    "requirement": 5,
+    "sentence": " 하츠네 미쿠 캐릭터 레벨 5 달성하기",
+    "resourceBoxId": 100024,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1116,
+    "id": 1004,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_miku",
+    "requirement": 3,
+    "sentence": " 하츠네 미쿠로 챌린지 라이브 3회 플레이하기",
+    "resourceBoxId": 100025,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1116,
+    "id": 1005,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": " 하츠네 미쿠의 모든 기념일 한정 미션 완료하기",
+    "resourceBoxId": 100026,
+    "selectableRewardGroupId": 1000
+  },
+  {
+    "limitMissionGroupId": 1117,
+    "id": 1006,
+    "seq": 1,
+    "limitMissionType": "clear_live_meiko_leader",
+    "requirement": 15,
+    "sentence": "MEIKO를 리더로 편성하여\n라이브 15회 플레이하기",
+    "resourceBoxId": 100016
+  },
+  {
+    "limitMissionGroupId": 1117,
+    "id": 1007,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
+    "resourceBoxId": 100045
+  },
+  {
+    "limitMissionGroupId": 1117,
+    "id": 1008,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100044
+  },
+  {
+    "limitMissionGroupId": 1117,
+    "id": 1009,
+    "seq": 1,
+    "limitMissionType": "character_rank_meiko",
+    "requirement": 5,
+    "sentence": "MEIKO의 캐릭터 랭크 5 달성하기",
+    "resourceBoxId": 100028
+  },
+  {
+    "limitMissionGroupId": 1117,
+    "id": 1010,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_meiko",
+    "requirement": 3,
+    "sentence": "MEIKO로 챌린지 라이브 1회 클리어하기",
+    "resourceBoxId": 100025
+  },
+  {
+    "limitMissionGroupId": 1117,
+    "id": 1011,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "MEIKO의 기념일 축제 한정 미션 모두 클리어하기",
+    "resourceBoxId": 100026,
+    "selectableRewardGroupId": 1001
+  },
+  {
+    "limitMissionGroupId": 1118,
+    "id": 1012,
+    "seq": 1,
+    "limitMissionType": "clear_live_kagamine_leader",
+    "requirement": 15,
+    "sentence": "카가미네 린과 카가미네 렌으로 편성하여 라이브 15회 플레이하기",
+    "resourceBoxId": 100016
+  },
+  {
+    "limitMissionGroupId": 1118,
+    "id": 1013,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 1,
+    "sentence": "마음의 조각 교환소에서 1회 교환하기 (마음의 조각은 대기실에서 멤버 교환을 통해 획득 가능)",
+    "resourceBoxId": 100045
+  },
+  {
+    "limitMissionGroupId": 1118,
+    "id": 1014,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100044
+  },
+  {
+    "limitMissionGroupId": 1118,
+    "id": 1015,
+    "seq": 1,
+    "limitMissionType": "character_rank_kagamine",
+    "requirement": 5,
+    "sentence": "카가미네 린과 카가미네 렌의 캐릭터 랭크 5 달성하기",
+    "resourceBoxId": 100047
+  },
+  {
+    "limitMissionGroupId": 1118,
+    "id": 1016,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "멤버의 마스터 랭크 누적 1회 랭크 업 하기",
+    "resourceBoxId": 100046
+  },
+  {
+    "limitMissionGroupId": 1118,
+    "id": 1017,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "sentence": "버추얼 라이브' 1회 참가하기",
+    "resourceBoxId": 100025
+  },
+  {
+    "limitMissionGroupId": 1118,
+    "id": 1018,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "sentence": "카가미네 린 또는 카가미네 렌의 기념일 축제 한정 미션 모두 클리어하기",
+    "resourceBoxId": 100026,
+    "selectableRewardGroupId": 1002
+  },
+  {
+    "limitMissionGroupId": 1122,
+    "id": 1019,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "'챌린지 라이브' 5회 플레이하기.",
+    "resourceBoxId": 100041
+  },
+  {
+    "limitMissionGroupId": 1122,
+    "id": 1020,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "'멀티 라이브' 10회 플레이하기",
+    "resourceBoxId": 100035
+  },
+  {
+    "limitMissionGroupId": 1122,
+    "id": 1021,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "이벤트 교환소에서 3회 교환하기",
+    "resourceBoxId": 100027
+  },
+  {
+    "limitMissionGroupId": 1122,
+    "id": 1022,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "라이브 보너스 30개 사용하기\n ('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
+    "resourceBoxId": 100019
+  },
+  {
+    "limitMissionGroupId": 1122,
+    "id": 1023,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "아무 멤버의 마스터 랭크 1회 올리기.",
+    "resourceBoxId": 100018
+  },
+  {
+    "limitMissionGroupId": 1122,
+    "id": 1024,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "위 미션들을 모두 통과하세요.",
+    "resourceBoxId": 100043
   }
 ]

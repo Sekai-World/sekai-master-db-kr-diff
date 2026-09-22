@@ -5976,6 +5976,98 @@
     "virtualShopDisplayType": "out_of_scope"
   },
   {
+    "id": 315,
+    "name": "ハッピーニューイヤーライブ",
+    "virtualShopItems": [
+      {
+        "id": 513,
+        "virtualShopId": 315,
+        "virtualShopItemType": "coordinate",
+        "seq": 99815,
+        "resourceBoxId": 408,
+        "costPaidJewel": 1000,
+        "startAt": 1798696800000
+      }
+    ],
+    "virtualShopType": "special_live",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 316,
+    "name": "2027감주 상점",
+    "virtualShopItems": [
+      {
+        "id": 514,
+        "virtualShopId": 316,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1798696800000,
+        "endAt": 1799647199000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 317,
+    "name": "[復刻]サンリオキャラクターズコラボ",
+    "virtualShopItems": [
+      {
+        "id": 515,
+        "virtualShopId": 317,
+        "virtualShopItemType": "coordinate",
+        "seq": 10,
+        "resourceBoxId": 308,
+        "costPaidJewel": 1000,
+        "startAt": 1801796400000,
+        "endAt": 1803049199000
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 318,
+    "name": "太鼓の達人コラボ",
+    "virtualShopItems": [
+      {
+        "id": 516,
+        "virtualShopId": 318,
+        "virtualShopItemType": "accessory",
+        "seq": 99868,
+        "resourceBoxId": 409,
+        "costPaidJewel": 1000,
+        "startAt": 1803189600000,
+        "endAt": 1808319599000
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
+    "id": 319,
+    "name": "[재등장] 'Ensemble in SEKAI' ",
+    "virtualShopItems": [
+      {
+        "id": 517,
+        "virtualShopId": 319,
+        "virtualShopItemType": "costume",
+        "seq": 99872,
+        "resourceBoxId": 395,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1786590000000,
+        "endAt": 1788015599000
+      }
+    ],
+    "virtualShopType": "other",
+    "virtualShopDisplayType": "out_of_scope"
+  },
+  {
     "id": 1001,
     "name": "春节2024",
     "virtualShopItems": [

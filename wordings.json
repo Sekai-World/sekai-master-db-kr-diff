@@ -80,6 +80,10 @@
     "value": "컬렉션 BOX 설명"
   },
   {
+    "wordingKey": "COLORFUL_PASS_V2_FINALE_CHAPTER_COMPENSATION",
+    "value": "월드 링크 이벤트 '피날레 챕터' 개최에 따른 컬러풀 패스 오토 라이브 상한 추가 관련 보상입니다."
+  },
+  {
     "wordingKey": "CONNECT_LIVE_PASS_TIME",
     "value": "2547,11040000000,3960000000,2548,15980000000,4830000000"
   },
@@ -290,6 +294,14 @@
   {
     "wordingKey": "FORMAT_SEND_INVITATION_CHARACTER",
     "value": "{0} {1}"
+  },
+  {
+    "wordingKey": "FORMAT_UNTIL_FULL_RECOVERY",
+    "value": "모두 회복까지 <color=#ff5599>{0}<\/color>"
+  },
+  {
+    "wordingKey": "FORMAT_UNTIL_RECOVERY",
+    "value": "추가 회복까지 <color=#ff5599>{0}<\/color>"
   },
   {
     "wordingKey": "FRIEND_SHARE_PRESENT_SENTENCE",
@@ -816,6 +828,10 @@
     "value": "도구가 망가졌습니다."
   },
   {
+    "wordingKey": "MSG_BUNDLE_FIXTURE_BLUE_PRINT_BUY",
+    "value": "전체 사이즈 구매"
+  },
+  {
     "wordingKey": "MSG_BUY_COMPLETE",
     "value": "구매를 완료했습니다."
   },
@@ -904,8 +920,20 @@
     "value": "다음 미션을 달성하여 아이템을 받았습니다."
   },
   {
+    "wordingKey": "MSG_CHARACTER_SELECTING_CAUTION",
+    "value": "※설정한 후에는 제공 캐릭터를 변경할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_CHARACTER_SELECTING_CONFIRM",
+    "value": "이 캐릭터를 설정합니다.\n선택한 캐릭터만 뽑기에서 제공됩니다.\n계속하시겠습니까?"
+  },
+  {
     "wordingKey": "MSG_CHARACTER_SELECT_DESCRIPTION",
     "value": "캐릭터를 선택해 주세요."
+  },
+  {
+    "wordingKey": "MSG_CHARACTER_SELECT_GACHA_DESCRIPTION",
+    "value": "캐릭터를 1명 선택해 주세요.\n선택한 캐릭터만 뽑기에서 제공됩니다."
   },
   {
     "wordingKey": "MSG_CHARA_MATERIAL_DROP",
@@ -958,6 +986,10 @@
   {
     "wordingKey": "MSG_COIN_DESCRIPTION",
     "value": " 각 에어리어 상점에서 다양한 아이템으로 교환할 수\n있는 코인. 라이브 등을 통해 획득 가능."
+  },
+  {
+    "wordingKey": "MSG_COLLABORATION_MUSIC_OUT_OF_TERM",
+    "value": "악곡의 플레이 가능 기간이 지났습니다."
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_RESALE_TIME_OVER",
@@ -1360,8 +1392,16 @@
     "value": "사진 촬영 중입니다…"
   },
   {
+    "wordingKey": "MSG_CREATE_CUSTOM_ROOM_TITLE",
+    "value": "커스텀 룸 만들기"
+  },
+  {
     "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
     "value": "'{0}'\n의 프라이빗 룸을 만듭니다."
+  },
+  {
+    "wordingKey": "MSG_CREATE_PRIVATE_ROOM_TITLE",
+    "value": "프라이빗 룸 만들기"
   },
   {
     "wordingKey": "MSG_CREATOR_NAME",
@@ -1390,6 +1430,10 @@
   {
     "wordingKey": "MSG_CS_BAN",
     "value": "접속하신 플레이어 데이터는\n조사를 위해 일시적으로 데이터 이용이 정지되었습니다."
+  },
+  {
+    "wordingKey": "MSG_CUSOM_ROOM_CREATE_DISCRIPTION",
+    "value": "규칙을 설정한 전용 룸에서 라이브"
   },
   {
     "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
@@ -1486,6 +1530,10 @@
   {
     "wordingKey": "MSG_DEFERRED_PURCHASE",
     "value": "상품은 결제 완료 후 상점 화면에서 반영됩니다.\n상품 반영에 시간이 걸릴 수 있습니다."
+  },
+  {
+    "wordingKey": "MSG_DIFFICULTY_SELECTION_ERROR",
+    "value": "선택 가능한 난이도를 설정하지 않아, 룸을 만들 수 없습니다."
   },
   {
     "wordingKey": "MSG_DISCONNECT_LEFT_ROOM",
@@ -1636,6 +1684,14 @@
     "value": "오류가 발생했습니다. 타이틀로 돌아갑니다."
   },
   {
+    "wordingKey": "MSG_EVENT_BREAK_BODY",
+    "value": "- 휴식 게이지는 라이브 플레이 또는 마이세카이에서 채집 시 쌓입니다.\n- 라이브는 악곡 길이, 채집은 채집 시 획득한 이벤트 P에 따라 게이지 축적치가 다릅니다.\n- 휴식 게이지가 100% 이상이 되면 이벤트 P & 배지를 획득할 수 없습니다.\n- 휴식 게이지는 라이브 및 채집을 하지 않는 시간이 누적 30분에 도달하면 낮아집니다.\n\n<color=#ff3366>※오토 라이브, 챌린지 라이브는 휴식 게이지가 쌓이지 않으며 100% 이상이어도 이벤트 P & 배지를 획득할 수 있습니다.\n※상세 내용은 FAQ를 확인해 주시기 바랍니다.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_EVENT_BREAK_TITLE",
+    "value": "휴식 게이지 안내"
+  },
+  {
     "wordingKey": "MSG_EVENT_INITIALIZE_ERROR",
     "value": "이벤트 데이터를 가져오지 못했거나\n해당 이벤트가 종료되었습니다."
   },
@@ -1738,6 +1794,14 @@
   {
     "wordingKey": "MSG_EX_MISSION_LOOPS_INFORMATION",
     "value": "EX 미션 {0}회째"
+  },
+  {
+    "wordingKey": "MSG_FAVORITE_CHARACTER_GACHA_CAUTION",
+    "value": "<color=#ff3366>※선택한 캐릭터의 멤버만 등장합니다.\n각 멤버의 등장 확률은 캐릭터 선택 후에 결정됩니다.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_FAVORITE_CHARACTER_SELECT_CANCEL",
+    "value": "캐릭터를 결정하지 않았습니다.\n제공 캐릭터를 설정하지 않으면\n{0}\n(을)를 진행할 수 없습니다.\n캐릭터를 나중에 설정하시겠습니까?"
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
@@ -2256,6 +2320,10 @@
     "value": "현재 라이브 미션 개최 중이 아닙니다."
   },
   {
+    "wordingKey": "MSG_LIVE_PLAYER_INFO_SETTING",
+    "value": "라이브 중 플레이어 표시"
+  },
+  {
     "wordingKey": "MSG_LIVE_RESULT_EVENT_MAINTENANCE",
     "value": "이벤트 점검 중이므로 이벤트 P와 배지를 획득하지 못했습니다.\n자세한 내용은 공지 사항을 확인해 주세요."
   },
@@ -2532,6 +2600,10 @@
     "value": "스코어 랭크는 연결이 끊긴 플레이어를 제외하고 조정되었습니다."
   },
   {
+    "wordingKey": "MSG_MULTI_MUSIC_SELECTING_OWNER",
+    "value": "방장이 선곡 중… 잠시 기다려 주시기 바랍니다."
+  },
+  {
     "wordingKey": "MSG_MULTI_MUSIC_SELECTING_PLAYER",
     "value": "참가자가 선곡하는 중… 잠시만 기다려 주세요."
   },
@@ -2676,12 +2748,44 @@
     "value": "새싹이 다시 자라 채집이 가능해졌습니다"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_HOME_LAYOUT_COST_TITLE",
+    "value": "합계 레이아웃 코스트(정원)"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_HOME_LAYOUT_COST_UP",
+    "value": "정원의 합계 레이아웃 코스트가 상승했습니다."
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
     "value": "마이 홈에 배치할 수 있는 <color=#ff5599>울타리와 길<\/color> 최대치가 상승했습니다."
   },
   {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_MYROOM_LAYOUT_COST",
+    "value": "각 {0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_MYROOM_LAYOUT_COST_TITLE",
+    "value": "합계 레이아웃 코스트(방)"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_MYROOM_LAYOUT_COST_UP",
+    "value": "방의 합계 레이아웃 코스트가 상승했습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_PUT_COST",
+    "value": "{0}(1개째) \/ {1}(2개 이후)"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_PUT_COST_LIMIT_OVER",
+    "value": "이 가구는 합계 레이아웃 코스트를 초과하므로, 설치할 수 없습니다."
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
     "value": "마이 홈에 배치할 수 있는 <color=#ff5599>가구<\/color> 최대치가 상승했습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_SINGLE_PUT_COST",
+    "value": "{0}(1개째)"
   },
   {
     "wordingKey": "MSG_MYSEKAI_GATE_CHANGE_INTERVAL_FORMAT",
@@ -2894,6 +2998,10 @@
   {
     "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
     "value": "현재 방문할 수 있는 인원수가 최대치에 도달하여\n이 플레이어의 마이세카이에 방문할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_LAYOUT_COST",
+    "value": "합계 레이아웃 코스트"
   },
   {
     "wordingKey": "MSG_MYSEKAI_LAYOUT_EDIT_PLANNING_COUNT",
@@ -3568,6 +3676,10 @@
     "value": "{0}건"
   },
   {
+    "wordingKey": "MSG_PRIVETE_ROOM_CREATE_DISCRIPTION",
+    "value": "이벤트 규칙 전용 룸에서 라이브"
+  },
+  {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_1",
     "value": "뽑기를 1회 이용할 때마다 각종 아이템을 상품으로 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 개별 추첨을 진행합니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득할 수 있는 '[brand new your world 기념] 블룸 페스티벌 뽑기 전용 티켓'은 9월 30일 12시 개최 예정인 '[brand new your world 기념] 블룸 페스티벌 뽑기 드림 픽'에서만 사용할 수 있는 뽑기 티켓입니다. 아울러 개최 기한이 지나면 '[4주년 기념] 블룸 페스티벌 뽑기 전용 티켓'은 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득할 수 있는 '[brand new your world 기념] 10회 연속 무료 뽑기 티켓'은 9월 30일 12시 개최 예정인 '[brand new your world 기념] 10회 연속 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 아울러 개최 기한이 지난 경우 '[4주년 기념] 10회 연속 무료 뽑기 티켓'은 이용할 수 없으니 주의하시기 바랍니다."
   },
@@ -3597,31 +3709,31 @@
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_3",
-    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[5주년 기념] 블룸 페스티벌 뽑기 드림 픽', '[5주년 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[5주년 기념] 무료 뽑기 티켓'은 '[5주년 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
+    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 드림 픽', '[Memories of Melody 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 무료 뽑기 티켓'은 '[Memories of Melody 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_4",
-    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[5주년 기념] 블룸 페스티벌 뽑기 드림 픽', '[5주년 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[5주년 기념] 무료 뽑기 티켓'은 '[5주년 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
+    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 드림 픽', '[Memories of Melody 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 무료 뽑기 티켓'은 '[Memories of Melody 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_5",
-    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[5주년 기념] 블룸 페스티벌 뽑기 드림 픽', '[5주년 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[5주년 기념] 무료 뽑기 티켓'은 '[5주년 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
+    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 드림 픽', '[Memories of Melody 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 무료 뽑기 티켓'은 '[Memories of Melody 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_6",
-    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[5주년 기념] 블룸 페스티벌 뽑기 드림 픽', '[5주년 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[5주년 기념] 무료 뽑기 티켓'은 '[5주년 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
+    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 드림 픽', '[Memories of Melody 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 무료 뽑기 티켓'은 '[Memories of Melody 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_7",
-    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[5주년 기념] 블룸 페스티벌 뽑기 드림 픽', '[5주년 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[5주년 기념] 무료 뽑기 티켓'은 '[5주년 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
+    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 드림 픽', '[Memories of Melody 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 무료 뽑기 티켓'은 '[Memories of Melody 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_8",
-    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[5주년 기념] 블룸 페스티벌 뽑기 드림 픽', '[5주년 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[5주년 기념] 무료 뽑기 티켓'은 '[5주년 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[5주년 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
+    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'은 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 드림 픽', '[Memories of Melody 기념] 블룸 페스티벌 뽑기 골드 피버'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 블룸 페스티벌 뽑기 전용 티켓'을 이용할 수 없으니 주의하시기 바랍니다.\n※상품으로 획득하는 '[Memories of Melody 기념] 무료 뽑기 티켓'은 '[Memories of Melody 기념] 무료 뽑기'에서만 사용할 수 있는 뽑기 티켓입니다. 또한 개최 기간이 지난 경우 '[Memories of Melody 기념] 무료 뽑기 티켓'을 이용할 수 없으니 주의하시기 바랍니다."
   },
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_9",
-    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '골드 메달'은 '홈' → 5주년 기념 '브라이트 메모리즈 캠페인' → '골드 메달 교환소'에서 이용하실 수 있습니다.\n※'골드 메달'의 '교환 기한'은 골드 메달 교환소의 개최 기간 종료시까지입니다. 교환 기한이 지난 경우, '골드 메달'을 이용할 수 없으니 주의하시기 바랍니다.\n※'골드 메달'은 골드 메달 교환소 외에서는 이용하실 수 없습니다."
+    "value": "뽑기를 1회 이용할 때마다 상품으로 각종 아이템을 획득합니다.\n\n※상품 추첨은 뽑기 결과 화면에서 실행됩니다.\n※상품은 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 아이템이라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n※상품으로 획득하는 '골드 메달'은 '홈' → Memories of Melody 기념 '브라이트 메모리즈 캠페인' → '골드 메달 교환소'에서 이용하실 수 있습니다.\n※'골드 메달'의 '교환 기한'은 골드 메달 교환소의 개최 기간 종료시까지입니다. 교환 기한이 지난 경우, '골드 메달'을 이용할 수 없으니 주의하시기 바랍니다.\n※'골드 메달'은 골드 메달 교환소 외에서는 이용하실 수 없습니다."
   },
   {
     "wordingKey": "MSG_PRODUCT_IS_PENDING",
@@ -3636,8 +3748,24 @@
     "value": "표시할 칭호의 랭크를 선택해 주세요."
   },
   {
+    "wordingKey": "MSG_PUBLISH_FREE_MATCH",
+    "value": "''프리 매치'에 룸을 공개하여\n다른 플레이어가 입장할 수 있도록 하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_PUBLISH_FREE_ROOM",
+    "value": "'프리 룸'에\n룸을 오픈해 다른 플레이어의 입장을 허가하시겠습니까?"
+  },
+  {
     "wordingKey": "MSG_PUBLISH_ROOM",
     "value": "룸을 공개하여 다른 플레이어가\n입장할 수 있도록 하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_PUBLISH_VETERAN_MATCH",
+    "value": "''베테랑 매치'에 룸을 공개하여\n다른 플레이어가 입장할 수 있도록 하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_PUBLISH_VETERAN_ROOM",
+    "value": "'베테랑 룸'에\n룸을 오픈해 다른 플레이어의 입장을 허가하시겠습니까?"
   },
   {
     "wordingKey": "MSG_PURCHASE_LIMIT",
@@ -3750,6 +3878,34 @@
   {
     "wordingKey": "MSG_RANK_MATCH_REMINDER",
     "value": "랭크 매치에 참가하지 않았습니다."
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_RATE_NOTICE",
+    "value": "- ★4 확률은 픽업 리스트를 모두 설정했을 때의 확률이므로 총합이 100%가 되지 않을 수 있습니다.\n- 픽업 리스트에 설정하면 '★★★★ 멤버' 목록에서 '★★★★ 픽업 멤버' 목록으로 이동합니다."
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_REGISTER_CAUTION",
+    "value": "※설정 후에는 리스트의 멤버를 변경할 수 없습니다."
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_REGISTER_CONFIRM",
+    "value": "멤버를 설정하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_SELECTED_RATE_NOTICE",
+    "value": "픽업 리스트에 설정한 멤버가 픽업 확률로 등장합니다."
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_SELECTION_CARD_NUMBER",
+    "value": "아래에서 원하는 멤버를 {0}명 선택해 주세요."
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_SELECT_MEMBER_BALLOON",
+    "value": "먼저 멤버를 고르자!"
+  },
+  {
+    "wordingKey": "MSG_RATE_CHOICE_GACHA_UNDECIDED_CONFIRM",
+    "value": "멤버를 결정하지 않았습니다.\n리스트에 모든 멤버를 설정하지 않으면\n{0}\n(을)를 진행할 수 없습니다.\n픽업 리스트를 나중에 설정하시겠습니까?"
   },
   {
     "wordingKey": "MSG_RATING",
@@ -3976,6 +4132,10 @@
     "value": "프라이빗 룸에 있는 플레이어와\n다시 한번 라이브를 진행하시겠습니까?"
   },
   {
+    "wordingKey": "MSG_RE_LIVE_CUSTOM_CURRENT_MEMBER",
+    "value": "커스텀 룸에 있는 플레이어와\n다시 한번 라이브를 진행하시겠습니까?"
+  },
+  {
     "wordingKey": "MSG_RE_SPIN",
     "value": "다시 한번 뽑기"
   },
@@ -3984,12 +4144,20 @@
     "value": "룸이 해산되었습니다.\n해산에 따른 페널티는 부여되지 않습니다."
   },
   {
+    "wordingKey": "MSG_RULE_SETTING_ONLY_OWNER",
+    "value": "※규칙은 방장만 변경할 수 있습니다."
+  },
+  {
     "wordingKey": "MSG_SALE_COSTUME_SHOP",
     "value": "에어리어 '쇼핑몰'의\n 의상 상점에서 제작 가능"
   },
   {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "설정할 액션을 아래에서 선택해 주세요."
+  },
+  {
+    "wordingKey": "MSG_SELECT_CHARACTER_BALLOON",
+    "value": "먼저 캐릭터를 고르자!"
   },
   {
     "wordingKey": "MSG_SELECT_CLEANUP",
@@ -4042,6 +4210,10 @@
   {
     "wordingKey": "MSG_SET_DISCOUNT_ANNOTATION",
     "value": "※미션 패스의 세트 구매 할인이 적용되어 있습니다."
+  },
+  {
+    "wordingKey": "MSG_SE_V2_TIME_OVER",
+    "value": "이벤트가 이미 종료되었습니다."
   },
   {
     "wordingKey": "MSG_SHOP_AGE_CONFIRM",
@@ -4166,6 +4338,10 @@
   {
     "wordingKey": "MSG_SINGER_NAME",
     "value": "Vo. {0}"
+  },
+  {
+    "wordingKey": "MSG_SINGLE_FIXTURE_BLUE_PRINT_BUY",
+    "value": "{0} 사이즈 구매"
   },
   {
     "wordingKey": "MSG_SKETCH_WARNING_OWNER_EDIT_MODE",
@@ -4354,6 +4530,14 @@
   {
     "wordingKey": "MSG_TOTAL_LIVE_POINT",
     "value": "이달의 누적 라이브 P♪"
+  },
+  {
+    "wordingKey": "MSG_TOTAL_POWER_DETAIL_EVENT_LIMIT_CAUTION",
+    "value": "※이벤트 진행 중 발휘 가능한 종합 능력치는 최대 {0}(으)로 제한됩니다."
+  },
+  {
+    "wordingKey": "MSG_TOTAL_POWER_SETTING_ERROR",
+    "value": "하한선으로 설정한 종합 능력치가 상한선보다 높아,\n룸을 만들 수 없습니다."
   },
   {
     "wordingKey": "MSG_TOURNAMENT_LIVE_FAILED",
@@ -4573,23 +4757,27 @@
   },
   {
     "wordingKey": "MSG_VIRTUAL_MESSAGE_CHARACTER_SELECT",
-    "value": "''5주년 스페셜 메시지'를 보고 싶은 캐릭터를 선택해 주세요."
+    "value": "'Memories of Melody  스페셜 메시지'를 보고 싶은 캐릭터를 선택해 주세요."
   },
   {
     "wordingKey": "MSG_VIRTUAL_MESSAGE_CHARACTER_SELECTION_CONFIRM",
-    "value": "''5주년 스페셜 메시지 티켓'을 사용해서\n{0}의 5주년 스페셜 메시지를 확인합니다.\n계속하시겠습니까?\n\n<color=#FF3366>※이후에는 변경할 수 없습니다.<\/color>"
+    "value": "'Memories of Melody 스페셜 메시지 티켓'을 사용해서\n{0}의 Memories of Melody 스페셜 메시지를 확인합니다.\n계속하시겠습니까?\n\n<color=#FF3366>※이후에는 변경할 수 없습니다.<\/color>"
   },
   {
     "wordingKey": "MSG_VIRTUAL_MESSAGE_EXIT_FROM_HOME_CONFIRM",
-    "value": "5주년 스페셜 메시지 확인을 취소하시겠습니까?\n※기간 동안에는 다시 확인할 수 있습니다."
+    "value": "Memories of Melody 스페셜 메시지 확인을 취소하시겠습니까?\n※기간 동안에는 다시 확인할 수 있습니다."
   },
   {
     "wordingKey": "MSG_VIRTUAL_MESSAGE_EXIT_FROM_ITEM_CONFIRM",
-    "value": "5주년 스페셜 메시지 확인을 취소하시겠습니까?"
+    "value": "Memories of Melody 스페셜 메시지 확인을 취소하시겠습니까?"
   },
   {
     "wordingKey": "MSG_VIRTUAL_MESSAGE_REWATCH_CONFIRM",
-    "value": "{0}의 5주년 스페셜 메시지를 다시 확인하시겠습니까?"
+    "value": "{0}의 Memories of Melody 스페셜 메시지를 다시 확인하시겠습니까?"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_MESSAGE_WATCH_CONFIRM",
+    "value": "{0}의 Memories of Melody 스페셜 메시지를 확인하시겠습니까?"
   },
   {
     "wordingKey": "MSG_VISIT_CHARACTER",
@@ -4933,7 +5121,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_PERSONAL_REWARD",
-    "value": "'응원제! 2026 세카이의 새해' 이벤트의 개인 보상입니다."
+    "value": "'세카이 투어 응원제!' 이벤트의 개인 보상입니다."
   },
   {
     "wordingKey": "SUPPORT_EVENT_REWARD_LEGEND",
@@ -4949,7 +5137,11 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_TOTAL_REWARD",
-    "value": "'응원제! 2026 세카이의 새해' 이벤트의 참여 보상입니다."
+    "value": "'세카이 투어 응원제!' 이벤트의 참여 보상입니다."
+  },
+  {
+    "wordingKey": "SUPPORT_EVENT_V2_STAGE_REWARD",
+    "value": "세카이 투어 응원제!의 기간이 만료된 미수령 보상입니다."
   },
   {
     "wordingKey": "TAB_TITLE_BOX_PROVISION",
@@ -6040,6 +6232,18 @@
     "value": "중단"
   },
   {
+    "wordingKey": "WORD_BREAK_POINT_EXCEED_THRESHOLD",
+    "value": "휴식 게이지가 100%가 되었습니다.\n휴식하여 게이지가 감소할 때까지 이벤트 P & 배지를 획득할 수 없습니다."
+  },
+  {
+    "wordingKey": "WORD_BREAK_POINT_OVER_LIMIT",
+    "value": "휴식 게이지가 100%이므로, 이벤트 P & 배지를 획득하지 못했습니다."
+  },
+  {
+    "wordingKey": "WORD_BREAK_POINT_OVER_LIMIT_LIVE",
+    "value": "라이브 시작 시점에 휴식 게이지가 100%이므로, 이벤트 P & 배지를 획득하지 못했습니다."
+  },
+  {
     "wordingKey": "WORD_BROWSED",
     "value": "열람 완료"
   },
@@ -6180,6 +6384,26 @@
     "value": "후편"
   },
   {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_BLOOM_FESTIVAL",
+    "value": "블룸 페스티벌 한정"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_COLORFUL_FESTIVAL",
+    "value": "컬러풀 페스티벌 한정"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_NORMAL",
+    "value": "일반"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_TERM_LIMITED",
+    "value": "기간 한정"
+  },
+  {
+    "wordingKey": "WORD_CARD_FILTER_DIALOG_CARD_TYPE_UNIT_EVENT",
+    "value": "유닛 이벤트 한정"
+  },
+  {
     "wordingKey": "WORD_CARD_LIST_FILTER",
     "value": "멤버 필터링"
   },
@@ -6194,6 +6418,10 @@
   {
     "wordingKey": "WORD_CARD_RELEASE_CONDITION_FORMAT",
     "value": "'{0} {1}' 획득"
+  },
+  {
+    "wordingKey": "WORD_CARD_SELECT_DIALOG_CARD_EMPTY",
+    "value": "---"
   },
   {
     "wordingKey": "WORD_CARD_SORT",
@@ -6538,6 +6766,10 @@
   {
     "wordingKey": "WORD_CHECK_PROFILE",
     "value": "미리 보기"
+  },
+  {
+    "wordingKey": "WORD_CHECK_RULE",
+    "value": "규칙 확인"
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
@@ -7324,6 +7556,10 @@
     "value": "현재 하이 스코어"
   },
   {
+    "wordingKey": "WORD_CURRENT_HONOR",
+    "value": "현재 이벤트 칭호"
+  },
+  {
     "wordingKey": "WORD_CURRENT_PERIOD_SHOP",
     "value": "특별 추천"
   },
@@ -7572,12 +7808,20 @@
     "value": "폰트 선택"
   },
   {
+    "wordingKey": "WORD_CUSTOM_ROOM_EN",
+    "value": "CUSTOM ROOM"
+  },
+  {
     "wordingKey": "WORD_CUTIN_EFFECT",
     "value": "컷인 연출"
   },
   {
     "wordingKey": "WORD_DANCE",
     "value": "댄스"
+  },
+  {
+    "wordingKey": "WORD_DASH_SYMBOL",
+    "value": "ー"
   },
   {
     "wordingKey": "WORD_DATATIME",
@@ -7666,6 +7910,10 @@
   {
     "wordingKey": "WORD_DECK_TOTAL_POWER",
     "value": "종합 능력치"
+  },
+  {
+    "wordingKey": "WORD_DECK_TOTAL_POWER_LIMITE",
+    "value": "이벤트 제한"
   },
   {
     "wordingKey": "WORD_DefalutMusicName",
@@ -8098,6 +8346,14 @@
   {
     "wordingKey": "WORD_EVENT_BONUS_PROGRESS",
     "value": "오늘의 진행 상황"
+  },
+  {
+    "wordingKey": "WORD_EVENT_BREAK_TIME_REFRESH_GAUGE_FULL",
+    "value": "휴식 게이지가 100%이므로\n이벤트 P & 배지를 획득하지\n못했습니다."
+  },
+  {
+    "wordingKey": "WORD_EVENT_BREAK_TIME_REFRESH_GAUGE_NEARLY_FULL",
+    "value": "휴식 게이지가\n곧 가득 찹니다."
   },
   {
     "wordingKey": "WORD_EVENT_CLOSE",
@@ -8548,6 +8804,10 @@
     "value": "즐겨찾기"
   },
   {
+    "wordingKey": "WORD_FAVORITE_CHARACTER_GACHA_DETAIL_TITLE",
+    "value": "셀렉트 캐릭터"
+  },
+  {
     "wordingKey": "WORD_FAVORITE_COMMENT",
     "value": "추천 코멘트"
   },
@@ -8684,6 +8944,10 @@
     "value": "가구 상세 보기"
   },
   {
+    "wordingKey": "WORD_FIXTURE_LAYOUT_COST",
+    "value": "레이아웃 코스트"
+  },
+  {
     "wordingKey": "WORD_FIXTURE_POSSESSION",
     "value": "가구 최대 보유 수량 상승"
   },
@@ -8760,6 +9024,10 @@
     "value": "솔로 라이브"
   },
   {
+    "wordingKey": "WORD_FREE_ROOM_ENGLISH",
+    "value": "FREE ROOM"
+  },
+  {
     "wordingKey": "WORD_FREE_THEMA",
     "value": "자유 테마"
   },
@@ -8793,7 +9061,7 @@
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_CAMPAIGN_DETAIL_JSON",
-    "value": "{\n \"title\": \"[세카이에 어서 와 대작전!!\",\n \"list\" : [ \n {\n \"head\" : \"■개최 기간\",\n \"desc\" : \"[캠페인 개최 기간]\n2026\/08\/13 12:00:00  ~ 2026\/08\/29 23:59:59\n \n[미션 달성 보상 수령 기간]\n2026\/08\/13 12:00:00 ~ 2026\/09\/05 23:59:59\n \n[친구 초대] ★4 멤버 확정 뽑기 개최 기간]\n2026\/08\/13 12:00:00 ~ 2026\/09\/12 11:59:59\"\n },\n {\n\"head\" : \"■미션 진행 방법\",\n\"desc\" : \" ▼초대하는 플레이어\n초대한 친구가 초대 미션을 달성하면 풍성한 보너스를 획득할 수 있습니다.\n \n[대상 플레이어]\n2026\/08\/13 11:59까지 튜토리얼을 클리어한 플레이어\n \n[순서]\n[1] 초대 캠페인 화면에 있는 자신의 초대 코드를 친구에게 보내자!\n[2] 초대 코드를 입력한 친구가 초대 미션을 모두 클리어하면 보너스 GET!\n \n[보너스]\n클리어 보너스 1명\n- 초회 한정: [친구 초대] ★4 멤버 확정 뽑기 티켓x1\n※과거에 개최한 '세카이에 어서 와 대작전!!'에서 초회 한정 보상을 받은 경우, 미션 보상 '마음의 조각×1,000'이 됩니다.\n \n클리어 보너스 2~10명\n- 1명이 클리어할 때마다 마음의 조각x50\n \n▼초대받은 플레이어\n초대 미션에 도전하면 미션 진행도에 따라 풍성한 보너스를 획득할 수 있습니다.\n \n[대상 플레이어]\n2026\/08\/13 11:59 이후에 튜토리얼을 클리어한 플레이어\n \n[순서]\n[1] 이미 프로세카를 즐기고 있는 친구에게 초대 코드를 받아 초대 캠페인 화면에 입력하자!\n[2] 메인 스토리를 메인 스토리 스킵하거나 배속하지 않고 읽자!\n \n[보너스]\n총 5화 분의 메인 스토리 독파\n- 마음의 조각×300\n \n총 10화 분의 메인 스토리 독파\n- 크리스탈×300\n \n총 20화 분의 메인 스토리 독파\n- [친구 초대] ★4 멤버 확정 뽑기 티켓x1\n \n■주의사항\n- 개최 일정은 예고 없이 변경될 수 있습니다.\n- [친구 초대]★4 멤버 확정 뽑기 티켓은 이후 개최되는 [친구 초대] ★4 멤버 확정 뽑기에서는 사용할 수 없습니다.\n- 본 캠페인으로 초회 한정 보상을 받을 경우, 향후 초대 캠페인으로 획득할 수 있는 보상이 다를 수 있습니다.\n- 초대받은 플레이어가 초대 미션을 모두 달성할 경우, 초대한 플레이어에게 어떤 유닛의 스토리를 독파했는지 공유됩니다.\n- 미션 보상은 미션 달성 보상 수령 기간에 수령하지 않을 경우 획득할 수 없으니 주의해 주시기 바랍니다.\n\"\n },\n {\n\"head\" : \" ■[친구 초대] ★4 멤버 확정 뽑기 안내\",\n\"desc\" : \" [친구 초대] ★4 멤버 확정 뽑기 티켓으로 진행할 수 있는 전용 뽑기입니다.\n[친구 초대] ★4 멤버 확정 뽑기 티켓을 1장 사용하여 뽑기를 1회 진행할 수 있습니다.\n \n■개최 기간\n2026\/08\/13 12:00:00 ~ 2026\/09\/12 11:59:59\n  \n■출현하는 ★4 멤버\n출현하는 ★4 멤버는 2025\/7\/9 12:00까지에 등장했던 일반 멤버입니다.\n※기간 한정, 컬러풀 페스티벌 한정, 생일 한정, 기념일 한정, 컬래버레이션 한정 멤버는 출현하지 않습니다.\n  \n처음 획득하는 일부 ★4 멤버는 '라이브 의상'이 포함되어 있습니다.\n또한, '라이브 의상'을 획득하면 다른 캐릭터가 착용할 수 있는 의상을 '의상 상점'에서 제작할 수 있게 됩니다.\n다른 캐릭터가 착용하는 '라이브 의상'은 일부 디자인과 액세서리에서 차이가 있을 수 있습니다.\n자세한 내용은 [멤버]→[라이브 의상] 화면에서 확인할 수 있습니다.\n  \n■주의 사항\n- 출현하는 멤버는 모두 특훈 전 상태입니다.\n- 뽑기에서 출현하는 멤버는 중복될 수 있습니다.\n- 중복으로 획득한 멤버는 대기실로 자동 이동됩니다.\n- 뽑기는 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 멤버라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n- 뽑기 페이지의 멤버 상세 정보에 기재된 내용은 레벨 MAX, 스킬 레벨 MAX 상태입니다.\n- 출현하는 멤버의 제공 확률은 제공 확률 탭에서 확인할 수 있습니다.\n- 출현하는 멤버의 능력치와 스킬은 뽑기 페이지의 멤버 상세 보기에서 확인할 수 있습니다.\n- 라이브 의상 포함 멤버는 제공 확률 탭에서 확인할 수 있습니다.\n- 뽑기 실행 후 게임을 강제 종료하거나 네트워크가 끊겨 뽑기 결과 화면이 정상적으로 표시되지 않더라도 멤버 획득이 반영됩니다. 멤버 목록이나 대기실을 확인해 주세요.\n- 본 뽑기에서는 뽑기 스티커를 획득할 수 없습니다.\n- 이 뽑기에는 컬러풀 페스티벌 한정, 기간 한정, 생일 한정, 기념일 한정, 컬래버레이션 한정 멤버는 출현하지 않습니다.\n- 개최 일정은 예고 없이 변경될 수 있습니다.\n  \n앞으로도 '프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠'에 많은 사랑 부탁드립니다.\"\n },\n ] \n}"
+    "value": "{\n \"title\": \"[Memories of Melodys기념]세카이에 어서 와 대작전!!\",\n \"list\" : [ \n {\n \"head\" : \"■개최 기간\",\n \"desc\" : \"[캠페인 개최 기간]\n2026\/09\/26 12:00:00~2026\/10\/19 23:59:59\n \n[미션 달성 보상 수령 기간]\n2026\/09\/26 12:00:00 ~ 2026\/10\/28 23:59:59\n \n[친구 초대] ★4 멤버 확정 뽑기 개최 기간]\n2026\/09\/26 12:00:00  ~ 2026\/11\/27 23:59:59\"\n },\n {\n\"head\" : \"■미션 진행 방법\",\n\"desc\" : \" ▼초대하는 플레이어\n초대한 친구가 초대 미션을 달성하면 풍성한 보너스를 획득할 수 있습니다.\n \n[대상 플레이어]\n2026\/09\/26 11:59까지 튜토리얼을 클리어한 플레이어\n \n[순서]\n[1] 초대 캠페인 화면에 있는 자신의 초대 코드를 친구에게 보내자!\n[2] 초대 코드를 입력한 친구가 초대 미션을 모두 클리어하면 보너스 GET!\n \n[보너스]\n클리어 보너스 1명\n- 초회 한정: [친구 초대] ★4 멤버 확정 뽑기 티켓x1\n※과거에 개최한 '세카이에 어서 와 대작전!!'에서 초회 한정 보상을 받은 경우, 미션 보상 '마음의 조각×1,000'이 됩니다.\n \n클리어 보너스 2~10명\n- 1명이 클리어할 때마다 마음의 조각x50\n \n▼초대받은 플레이어\n초대 미션에 도전하면 미션 진행도에 따라 풍성한 보너스를 획득할 수 있습니다.\n \n[대상 플레이어]\n2026\/09\/26 11:59 이후에 튜토리얼을 클리어한 플레이어\n \n[순서]\n[1] 이미 프로세카를 즐기고 있는 친구에게 초대 코드를 받아 초대 캠페인 화면에 입력하자!\n[2] 메인 스토리를 메인 스토리 스킵하거나 배속하지 않고 읽자!\n \n[보너스]\n총 5화 분의 메인 스토리 독파\n- 마음의 조각×300\n \n총 10화 분의 메인 스토리 독파\n- 크리스탈×300\n \n총 20화 분의 메인 스토리 독파\n- [친구 초대] ★4 멤버 확정 뽑기 티켓x1\n \n■주의사항\n- 개최 일정은 예고 없이 변경될 수 있습니다.\n- [친구 초대]★4 멤버 확정 뽑기 티켓은 이후 개최되는 [친구 초대] ★4 멤버 확정 뽑기에서는 사용할 수 없습니다.\n- 본 캠페인으로 초회 한정 보상을 받을 경우, 향후 초대 캠페인으로 획득할 수 있는 보상이 다를 수 있습니다.\n- 초대받은 플레이어가 초대 미션을 모두 달성할 경우, 초대한 플레이어에게 어떤 유닛의 스토리를 독파했는지 공유됩니다.\n- 미션 보상은 미션 달성 보상 수령 기간에 수령하지 않을 경우 획득할 수 없으니 주의해 주시기 바랍니다.\n\"\n },\n {\n\"head\" : \" ■[친구 초대] ★4 멤버 확정 뽑기 안내\",\n\"desc\" : \" [친구 초대] ★4 멤버 확정 뽑기 티켓으로 진행할 수 있는 전용 뽑기입니다.\n[친구 초대] ★4 멤버 확정 뽑기 티켓을 1장 사용하여 뽑기를 1회 진행할 수 있습니다.\n \n■개최 기간\n2026\/09\/26 12:00:00  ~ 2026\/11\/27 23:59:59\n  \n■출현하는 ★4 멤버\n출현하는 ★4 멤버는 2025\/9\/20 12:00까지에 등장했던 일반 멤버입니다.\n※기간 한정, 컬러풀 페스티벌 한정, 생일 한정, 기념일 한정, 컬래버레이션 한정 멤버는 출현하지 않습니다.\n  \n처음 획득하는 일부 ★4 멤버는 '라이브 의상'이 포함되어 있습니다.\n또한, '라이브 의상'을 획득하면 다른 캐릭터가 착용할 수 있는 의상을 '의상 상점'에서 제작할 수 있게 됩니다.\n다른 캐릭터가 착용하는 '라이브 의상'은 일부 디자인과 액세서리에서 차이가 있을 수 있습니다.\n자세한 내용은 [멤버]→[라이브 의상] 화면에서 확인할 수 있습니다.\n  \n■주의 사항\n- 출현하는 멤버는 모두 특훈 전 상태입니다.\n- 뽑기에서 출현하는 멤버는 중복될 수 있습니다.\n- 중복으로 획득한 멤버는 대기실로 자동 이동됩니다.\n- 뽑기는 제공 확률에 기반하여 1회마다 추첨됩니다. 예를 들어 제공 확률이 1%인 멤버라도 100회 중 반드시 1회 출현하는 시스템이 아닙니다.\n- 뽑기 페이지의 멤버 상세 정보에 기재된 내용은 레벨 MAX, 스킬 레벨 MAX 상태입니다.\n- 출현하는 멤버의 제공 확률은 제공 확률 탭에서 확인할 수 있습니다.\n- 출현하는 멤버의 능력치와 스킬은 뽑기 페이지의 멤버 상세 보기에서 확인할 수 있습니다.\n- 라이브 의상 포함 멤버는 제공 확률 탭에서 확인할 수 있습니다.\n- 뽑기 실행 후 게임을 강제 종료하거나 네트워크가 끊겨 뽑기 결과 화면이 정상적으로 표시되지 않더라도 멤버 획득이 반영됩니다. 멤버 목록이나 대기실을 확인해 주세요.\n- 본 뽑기에서는 뽑기 스티커를 획득할 수 없습니다.\n- 이 뽑기에는 컬러풀 페스티벌 한정, 기간 한정, 생일 한정, 기념일 한정, 컬래버레이션 한정 멤버는 출현하지 않습니다.\n- 개최 일정은 예고 없이 변경될 수 있습니다.\n  \n앞으로도 '프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠'에 많은 사랑 부탁드립니다.\"\n },\n ] \n}"
   },
   {
     "wordingKey": "WORD_FRIEND_INVITE_CODE",
@@ -9604,6 +9872,10 @@
     "value": "소지한 유료 크리스탈"
   },
   {
+    "wordingKey": "WORD_HAVE_SUPPORTV2HONOR",
+    "value": "획득 완료"
+  },
+  {
     "wordingKey": "WORD_HAVE_TICKET",
     "value": "소지한 티켓"
   },
@@ -9630,6 +9902,10 @@
   {
     "wordingKey": "WORD_HIDE_MUSIC_NAME",
     "value": "???"
+  },
+  {
+    "wordingKey": "WORD_HIDE_ROOM_ID",
+    "value": "-----"
   },
   {
     "wordingKey": "WORD_HIGH_SCORE",
@@ -9968,6 +10244,10 @@
     "value": "참가 상황"
   },
   {
+    "wordingKey": "WORD_JOIN_TOTAL_POWER_SETTING",
+    "value": "참가 가능 종합 능력치 설정"
+  },
+  {
     "wordingKey": "WORD_KEY_SOTRY",
     "value": "키 스토리"
   },
@@ -10160,6 +10440,10 @@
     "value": "4시에 초기화"
   },
   {
+    "wordingKey": "WORD_LIVE_BOOST_RECOMMENDED",
+    "value": "현재 휴식 게이지가 최대로 쌓인 상태입니다."
+  },
+  {
     "wordingKey": "WORD_LIVE_BOOST_RECOVER",
     "value": "라이브 보너스 회복"
   },
@@ -10252,6 +10536,10 @@
     "value": "라이브 P 즉시 획득 가능!"
   },
   {
+    "wordingKey": "WORD_LIVE_MUSIC_SELECT_SETTING",
+    "value": "악곡 선택"
+  },
+  {
     "wordingKey": "WORD_LIVE_NOTE_SETTING",
     "value": "노트 설정"
   },
@@ -10266,6 +10554,14 @@
   {
     "wordingKey": "WORD_LIVE_P",
     "value": "라이브 P"
+  },
+  {
+    "wordingKey": "WORD_LIVE_PLAYER_INFO_OFF",
+    "value": "OFF"
+  },
+  {
+    "wordingKey": "WORD_LIVE_PLAYER_INFO_ON",
+    "value": "ON"
   },
   {
     "wordingKey": "WORD_LIVE_POINT",
@@ -10286,6 +10582,10 @@
   {
     "wordingKey": "WORD_LIVE_ROTATION_MODE",
     "value": "라이브 상하 반전"
+  },
+  {
+    "wordingKey": "WORD_LIVE_SCORE_SETTING",
+    "value": "스코어 계산 방법"
   },
   {
     "wordingKey": "WORD_LIVE_SETTING",
@@ -10474,6 +10774,10 @@
   {
     "wordingKey": "WORD_MASTER_LESSON_POSSIBLE",
     "value": "마스터 트레이닝 가능"
+  },
+  {
+    "wordingKey": "WORD_MASTER_PIECE_SP",
+    "value": "마음의 조각-특수 아이템"
   },
   {
     "wordingKey": "WORD_MASTER_PRACTICE",
@@ -10858,6 +11162,10 @@
   {
     "wordingKey": "WORD_MULTI_LIVE",
     "value": "멀티 라이브"
+  },
+  {
+    "wordingKey": "WORD_MULTI_TOTAL_SCORE",
+    "value": "전체 스코어"
   },
   {
     "wordingKey": "WORD_MUSIC",
@@ -11385,7 +11693,7 @@
   },
   {
     "wordingKey": "WORD_MUSIC_CATEGORY_LIMITED",
-    "value": "만우절"
+    "value": "기간 한정"
   },
   {
     "wordingKey": "WORD_MUSIC_CATEGORY_OTHER",
@@ -11460,6 +11768,10 @@
     "value": "악곡 선택"
   },
   {
+    "wordingKey": "WORD_MUSIC_SELECT_ALL_PLAYER",
+    "value": "전원이 선택"
+  },
+  {
     "wordingKey": "WORD_MUSIC_SELECT_BACK",
     "value": "악곡 선택으로 이동"
   },
@@ -11470,6 +11782,10 @@
   {
     "wordingKey": "WORD_MUSIC_SELECT_ORDER",
     "value": "악곡 선택 정렬"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SELECT_OWNER",
+    "value": "방장이 선택"
   },
   {
     "wordingKey": "WORD_MUSIC_SHOP",
@@ -11638,6 +11954,10 @@
   {
     "wordingKey": "WORD_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
     "value": "설치 물품의 수"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_TOTAL_PUT_COST",
+    "value": "합계 레이아웃 코스트"
   },
   {
     "wordingKey": "WORD_MYSEKAI_GATE_CHARACTER_VISIT_COUNT_RATE",
@@ -11908,6 +12228,10 @@
     "value": "999+"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_LAYOUT_COST_ORDER",
+    "value": "레이아웃 코스트순"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_MATERIAL_MAX",
     "value": "9,999+"
   },
@@ -12038,6 +12362,10 @@
   {
     "wordingKey": "WORD_NORMAL_MISSION",
     "value": "일반 미션"
+  },
+  {
+    "wordingKey": "WORD_NORMAL_SCORE_LIVE_MODE",
+    "value": "일반 모드"
   },
   {
     "wordingKey": "WORD_NORMAL_VOICE",
@@ -12454,6 +12782,10 @@
   {
     "wordingKey": "WORD_OTHER_COUNT",
     "value": "기타 {0}건"
+  },
+  {
+    "wordingKey": "WORD_OTHER_FIXTURE_BLUE_PRINT",
+    "value": "그 외 {0}종"
   },
   {
     "wordingKey": "WORD_OTHER_KIND_COUNT",
@@ -12972,6 +13304,10 @@
     "value": "미리 보기"
   },
   {
+    "wordingKey": "WORD_PREVIEW_EVENT_BREAK",
+    "value": "휴식 게이지가 곧 가득 찹니다."
+  },
+  {
     "wordingKey": "WORD_PREVIEW_NOTE_SHOW_TIME_FORMAT",
     "value": "{0:0.000}초"
   },
@@ -13002,6 +13338,10 @@
   {
     "wordingKey": "WORD_PRIVATE_ROOM",
     "value": "프라이빗 룸"
+  },
+  {
+    "wordingKey": "WORD_PRIVATE_ROOM_EN",
+    "value": "PRIVATE ROOM"
   },
   {
     "wordingKey": "WORD_PRIZE_GIFT",
@@ -13196,6 +13536,18 @@
     "value": "★★★★ 멤버"
   },
   {
+    "wordingKey": "WORD_RATE_CHOICE_GACHA_SELECT_MEMBER_HEADER_MAIN",
+    "value": "메인"
+  },
+  {
+    "wordingKey": "WORD_RATE_CHOICE_GACHA_SELECT_MEMBER_HEADER_SUB",
+    "value": "서브"
+  },
+  {
+    "wordingKey": "WORD_RATE_CHOICE_GACHA_SELECT_MEMBER_SORTING",
+    "value": "정렬"
+  },
+  {
     "wordingKey": "WORD_RATING_TITLE",
     "value": "소중한 리뷰를 남겨 주세요."
   },
@@ -13250,6 +13602,10 @@
   {
     "wordingKey": "WORD_RECEIPT_DEADLINE",
     "value": "기한"
+  },
+  {
+    "wordingKey": "WORD_RECEIVED",
+    "value": "수령 완료"
   },
   {
     "wordingKey": "WORD_RECEIVE_PRESENT",
@@ -13362,6 +13718,10 @@
   {
     "wordingKey": "Word_ReEnter",
     "value": "재입력"
+  },
+  {
+    "wordingKey": "WORD_REFRESH_GAUGE",
+    "value": "휴식"
   },
   {
     "wordingKey": "WORD_REGISTER",
@@ -13480,12 +13840,20 @@
     "value": "회전 초기화"
   },
   {
+    "wordingKey": "WORD_REST",
+    "value": "앞으로"
+  },
+  {
     "wordingKey": "WORD_RESTRICT_TIME",
     "value": "기능 제한 해제까지"
   },
   {
     "wordingKey": "WORD_REST_P_VALUE",
     "value": "앞으로 {0}P"
+  },
+  {
+    "wordingKey": "WORD_REST_TILE",
+    "value": "앞으로 {0}칸."
   },
   {
     "wordingKey": "WORD_REST_TIME",
@@ -13634,6 +14002,14 @@
   {
     "wordingKey": "WORD_ROTATE",
     "value": "회전"
+  },
+  {
+    "wordingKey": "WORD_ROUND_N",
+    "value": "다회차"
+  },
+  {
+    "wordingKey": "WORD_ROUND_ONE",
+    "value": "1회차"
   },
   {
     "wordingKey": "WORD_RUFUND_DESCRIPTION",
@@ -13976,6 +14352,18 @@
     "value": "세트로 구매"
   },
   {
+    "wordingKey": "WORD_SE_V2_BOOST_INFO",
+    "value": "{0} 스태미나를 소모했습니다."
+  },
+  {
+    "wordingKey": "WORD_SE_V2_FINISH",
+    "value": "이번 이벤트가 이미 종료되었습니다."
+  },
+  {
+    "wordingKey": "WORD_SE_V2_START",
+    "value": "ROUND{0}"
+  },
+  {
     "wordingKey": "WORD_SHAPE",
     "value": "도형"
   },
@@ -13998,6 +14386,10 @@
   {
     "wordingKey": "WORD_SHARE_CANCEL",
     "value": "공유를 취소했습니다"
+  },
+  {
+    "wordingKey": "WORD_SHARE_FAIL",
+    "value": "공유 실패"
   },
   {
     "wordingKey": "WORD_SHARE_INFO_ID",
@@ -14572,6 +14964,10 @@
     "value": "능력치"
   },
   {
+    "wordingKey": "WORD_STILL_SHORT",
+    "value": "앞으로"
+  },
+  {
     "wordingKey": "WORD_STOP_PERIOD",
     "value": "정지 기간: {0}\/{1:00}\/{2:00} {3:00}:{4:00}까지"
   },
@@ -14685,11 +15081,159 @@
   },
   {
     "wordingKey": "WORD_SUPPORTACTIVITY_RESULT_EFFECTNAME_1",
-    "value": "stage_midaccount_effect"
+    "value": "SekaiEffect"
   },
   {
     "wordingKey": "WORD_SUPPORTACTIVITY_RESULT_EFFECTNAME_2",
     "value": "stage_midaccount_bg"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_BACK_UNIT",
+    "value": "응원 유닛 선택"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_FIRST_ROUND",
+    "value": "1회차"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_GET_POINT",
+    "value": "행동 포인트 획득!"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_BADGE",
+    "value": "응원 배지"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_HONORMATERIAL_NOTENOUGH",
+    "value": "칭호 해제 또는 레벨업에 필요한 재료가 부족합니다."
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_LEVEL1",
+    "value": "1레벨"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_LEVELUP",
+    "value": "칭호 레벨 업!"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_MAXLEVEL",
+    "value": "이미 최고 레벨을 달성했습니다."
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_OWNED",
+    "value": "획득 완료"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_RELEASE_NOTICE",
+    "value": "본 이벤트에서 이미 응원 유닛의 캐릭터 칭호를 선택하여,\n다른 유닛의 캐릭터 칭호를 해제할 수 없습니다."
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_RELEASE_TIMEOUT",
+    "value": "현재 이벤트 기간이 아니므로 응원 칭호를 해제할 수 없습니다."
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_UNIT_UNLOCK",
+    "value": "응원 유닛의 보상 칭호를 선택하세요."
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_UNLOCK",
+    "value": "10 응원 배지로\n해당 칭호를 해제하시겠습니까?"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_HONOR_UPGRTEMATERIAL_NOTICE",
+    "value": "레벨업에 필요한 배지 수량:"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_MOVE",
+    "value": "전진!"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_MULTI_ROUND",
+    "value": "다회차"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_NEXT_STAGE_REWARD_DISTANCE",
+    "value": "다음 단계 보상까지 {0}칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_OPENHONOR",
+    "value": "칭호 레벨업하기"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_POINT",
+    "value": "행동 포인트"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_SERVER_SUPPORT_DESC",
+    "value": "세카이의 주민들과 함께 전진하세요!"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_STAGE_REWARD_COMPLETE",
+    "value": "단계 보상 달성!"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_STAGE_TILE_REWARD",
+    "value": "단계 칸 보상"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_STEPS_LEFT",
+    "value": "{0}걸음 남음"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_SUPPORT_UNIT_CONFIRM",
+    "value": "해당 조합을 응원하시겠습니까?\n(응원 조합의 응원 칭호 선택*1 획득 가능)"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_BLANK",
+    "value": "일반 칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_BOX",
+    "value": "히든 보물상자 칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_COMBO",
+    "value": "연타 칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_DANCE",
+    "value": "댄스 칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_JUMP",
+    "value": "점프 칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_MATERIAL_HIGH",
+    "value": "풍성한 보상 칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_MATERIAL_LOW",
+    "value": "아이템 칸(소)"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_MATERIAL_MIDDLE",
+    "value": "아이템 칸(중)"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_STAGE",
+    "value": "단계 칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_SUP",
+    "value": "응원 칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TILE_UNIT",
+    "value": "조합 칸"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TOTAL_REWARD",
+    "value": "전서버 응원 보상!"
+  },
+  {
+    "wordingKey": "WORD_SUPPORTV2_TOTAL_REWARD_PROGRESS",
+    "value": "전서버 보상 진도"
   },
   {
     "wordingKey": "WORD_SUPPORT_DECK_BONUS",
@@ -14705,7 +15249,7 @@
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_REWARD_DESCRIBE_X",
-    "value": "'응원제! 2026 세카이의 새해' 이벤트의 팔로워 수 {0}억 돌파 보상입니다."
+    "value": "'세카이 투어 응원제!' 이벤트의 팔로워 수 {0}억 돌파 보상입니다."
   },
   {
     "wordingKey": "WORD_SUPPORT_EVENT_UNIT_SCORE_REWARD",
@@ -14721,7 +15265,7 @@
   },
   {
     "wordingKey": "WORD_SURETURN_PASSTIME",
-    "value": "1779206400000"
+    "value": "1790481600000"
   },
   {
     "wordingKey": "WORD_SUSPENSION",
@@ -14780,6 +15324,14 @@
     "value": "대상"
   },
   {
+    "wordingKey": "WORD_TARGET_TAG",
+    "value": "대상 태그"
+  },
+  {
+    "wordingKey": "WORD_TECHNICAL_SCORE_LIVE_MODE",
+    "value": "대회 모드"
+  },
+  {
     "wordingKey": "WORD_TEMPLATE_LAYOUT",
     "value": "템플릿"
   },
@@ -14790,6 +15342,10 @@
   {
     "wordingKey": "WORD_TEMP_LIMIT",
     "value": "일시 제한 중"
+  },
+  {
+    "wordingKey": "WORD_TEN_THOUSAND",
+    "value": "{0}만"
   },
   {
     "wordingKey": "WORD_TERM",
@@ -14834,6 +15390,14 @@
   {
     "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
     "value": "티켓 교환소"
+  },
+  {
+    "wordingKey": "WORD_TILDE",
+    "value": "~"
+  },
+  {
+    "wordingKey": "WORD_TILE",
+    "value": "칸"
   },
   {
     "wordingKey": "Word_TimeZoneInfo_Current",
@@ -15044,8 +15608,24 @@
     "value": "칭호 보너스"
   },
   {
+    "wordingKey": "WORD_TOTAL_POWER_NO_LOWER_LIMIT",
+    "value": "하한선 없음"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_NO_UPPER_LIMIT",
+    "value": "상한선 없음"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_SP",
+    "value": "종합\n능력치"
+  },
+  {
     "wordingKey": "WORD_TOTAL_SCORE",
     "value": "합계 스코어"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_TIP",
+    "value": "전서버 응원 보상"
   },
   {
     "wordingKey": "WORD_TOURNAMENT_HIGH_SCORE",
@@ -15318,6 +15898,10 @@
   {
     "wordingKey": "WORD_VALUE_SHOP_NL",
     "value": "특별 할인 세트"
+  },
+  {
+    "wordingKey": "WORD_VETERAN_ROOM_ENGLISH",
+    "value": "VETERAN ROOM"
   },
   {
     "wordingKey": "Word_virtualChat_punish",
@@ -15806,6 +16390,14 @@
   {
     "wordingKey": "WORD_WISH_LIST_SELECT_END",
     "value": "뽑기 진행하기"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_BLOOM_LIMITED",
+    "value": "블룸 페스티벌 한정"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_COLORFUL_LIMITED",
+    "value": "컬러풀 페스티벌 한정"
   },
   {
     "wordingKey": "WORD_WISH_LIST_TYPE_LIMITED",
@@ -19177,7 +19769,7 @@
   },
   {
     "wordingKey": "W_C_843",
-    "value": "그 외 3종류"
+    "value": "그 외 3종"
   },
   {
     "wordingKey": "W_C_844",
@@ -19300,12 +19892,88 @@
     "value": "플레이어 랭크 30 달성\\n"
   },
   {
+    "wordingKey": "W_C_872",
+    "value": "그 외 5종"
+  },
+  {
+    "wordingKey": "W_C_873",
+    "value": "상한선 없음"
+  },
+  {
+    "wordingKey": "W_C_874",
+    "value": "하한선 없음"
+  },
+  {
+    "wordingKey": "W_C_875",
+    "value": "- 휴식 게이지는 라이브 플레이 또는 마이세카이에서 채집 시 쌓입니다.\\n - 라이브는 악곡에 따라, 채집은 채집 대상에 따라 게이지 축적치가 다릅니다.\\n - 휴식 게이지가 100% 이상이 되면, 라이브 플레이 및 마이세카이의 채집으로 이벤트 P 및 배지를 획득할 수 없습니다.\\n - 휴식 게이지는 라이브 또는 마이세카이 채집을 하지 않고 쉬면 30분마다 낮아집니다.\\n\\n ※오토 라이브, 챌린지 라이브는 휴식 게이지가 쌓이지 않으며 100% 이상이어도 이벤트 P 및 이벤트 배지를 획득할 수 있습니다.\\n ※상세 내용은 FAQ를 확인해 주시기 바랍니다."
+  },
+  {
+    "wordingKey": "W_C_876",
+    "value": "이름 이름"
+  },
+  {
+    "wordingKey": "W_C_877",
+    "value": "미설정"
+  },
+  {
+    "wordingKey": "W_C_878",
+    "value": "(제한 없음:"
+  },
+  {
+    "wordingKey": "W_C_879",
+    "value": "999(1개째)\/999(2개 이후)"
+  },
+  {
     "wordingKey": "W_C_88",
     "value": "MAX"
   },
   {
+    "wordingKey": "W_C_880",
+    "value": "□□□□□□□□□□□□□□□□□□□□\\n□□□□□□□□□□□□□□□□□□□□\\n□□□□□□□□□□□□□□□□□□□□"
+  },
+  {
+    "wordingKey": "W_C_881",
+    "value": "참가자가 선곡 중… 잠시 기다려 주시기 바랍니다."
+  },
+  {
+    "wordingKey": "W_C_882",
+    "value": "999(1개째)\/999(2개 이후)"
+  },
+  {
+    "wordingKey": "W_C_883",
+    "value": "가구명 16자 그 이상은 스크롤 설계도"
+  },
+  {
+    "wordingKey": "W_C_884",
+    "value": "9999(1개째)\/9999(2개 이후)"
+  },
+  {
+    "wordingKey": "W_C_885",
+    "value": "합계 레이아웃 코스트"
+  },
+  {
+    "wordingKey": "W_C_886",
+    "value": "<color=#ff5599>00:00<\/color> 후 모두 회복"
+  },
+  {
+    "wordingKey": "W_C_887",
+    "value": "상한선 없음"
+  },
+  {
+    "wordingKey": "W_C_888",
+    "value": "하한선 없음"
+  },
+  {
+    "wordingKey": "W_C_889",
+    "value": "멤버 결정"
+  },
+  {
     "wordingKey": "W_C_89",
     "value": "10배"
+  },
+  {
+    "wordingKey": "W_C_890",
+    "value": "휴식 게이지 안내"
   },
   {
     "wordingKey": "W_C_9",

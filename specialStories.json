@@ -911,8 +911,8 @@
   {
     "id": 58,
     "assetbundleName": "5th-anniversary-login-story",
-    "startAt": 1790694000000,
-    "endAt": 1791730799000,
+    "startAt": 1790434800000,
+    "endAt": 1791471599000,
     "episodes": [
       {
         "id": 63,
@@ -946,7 +946,9 @@
         "releaseConditionId": 1,
         "isAbleSkip": true,
         "isActionSetRefresh": false,
-        "rewardResourceBoxIds": []
+        "rewardResourceBoxIds": [
+          134
+        ]
       }
     ]
   },
@@ -988,6 +990,49 @@
         "releaseConditionId": 1,
         "isAbleSkip": true,
         "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "assetbundleName": "aprilfool-story-2026",
+    "startAt": 1806505200000,
+    "endAt": 1806591599000,
+    "episodes": [
+      {
+        "id": 69,
+        "specialStoryId": 64,
+        "episodeNo": 1,
+        "title": "エイプリルフール2026導入ムービー",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 28,
+        "assetbundleName": "story_aprilfool_2026",
+        "scenarioId": "aprilfool_2026_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "assetbundleName": "aprilfool-story-2026",
+    "startAt": 1806591600000,
+    "endAt": 1806677999000,
+    "episodes": [
+      {
+        "id": 70,
+        "specialStoryId": 65,
+        "episodeNo": 1,
+        "title": "エイプリルフール2026後日談ムービー",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2026",
+        "scenarioId": "aprilfool_2026_02",
+        "releaseConditionId": 1000400,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
         "rewardResourceBoxIds": []
       }
     ]

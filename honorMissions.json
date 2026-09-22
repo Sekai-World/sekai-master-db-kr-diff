@@ -130,6 +130,18 @@
     "startAt": 1640876400000
   },
   {
+    "id": 209,
+    "seq": 9,
+    "honorMissionType": "player_rank",
+    "requirement": 800,
+    "sentence": "플레이어 랭크 800달성하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1788
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -205,6 +217,19 @@
         "resourceBoxId": 1561
       }
     ]
+  },
+  {
+    "id": 406,
+    "seq": 6,
+    "honorMissionType": "login_total",
+    "requirement": 2190,
+    "sentence": "누적2190일 로그인 하기",
+    "rewards": [
+      {
+        "resourceBoxId": 1789
+      }
+    ],
+    "startAt": 1640876400000
   },
   {
     "id": 501,

@@ -14977,6 +14977,1738 @@
     ]
   },
   {
+    "id": 11,
+    "name": "Memories of Melodys  스탬프 미션",
+    "assetbundleName": "5th_anniv_pm",
+    "bgmAssetbundleName": "5th_anniv_pm_bgm",
+    "selectableLimit": 4,
+    "startAt": 1790434800000,
+    "progressEndAt": 1791601199000,
+    "closedAt": 1791601199000,
+    "distributionEndAt": 1792810799000,
+    "informationId": 2843,
+    "panelMissionSelectionType": "manual",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1101,
+        "panelMissionCampaignId": 11,
+        "name": "유닛",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 110101,
+            "panelMissionSheetGroupId": 1101,
+            "name": "유닛 카드 버추얼 싱어",
+            "seq": 1,
+            "assetbundleName": "sheet_unit_piapro",
+            "panelMissions": [
+              {
+                "id": 11010101,
+                "panelMissionSheetId": 110101,
+                "name": "유닛 악곡으로 라이브\n1회 플레이하기",
+                "description": "'악곡 선택' 화면의 버추얼 싱어 탭에서\n악곡을 선택하여 라이브 1회 플레이하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010102,
+                "panelMissionSheetId": 110101,
+                "name": "유닛 악곡으로 라이브\n3회 플레이하기",
+                "description": "'악곡 선택' 화면의 버추얼 싱어 탭에서\n악곡을 선택하여 라이브 3회 플레이하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010103,
+                "panelMissionSheetId": 110101,
+                "name": "유닛 악곡으로 라이브\n5회 플레이하기",
+                "description": "'악곡 선택' 화면의 버추얼 싱어 탭에서\n악곡을 선택하여 라이브 5회 플레이하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1801
+                  ]
+                ]
+              },
+              {
+                "id": 11010104,
+                "panelMissionSheetId": 110101,
+                "name": "유닛 악곡으로 라이브\n10회 플레이하기",
+                "description": "'악곡 선택' 화면의 버추얼 싱어 탭에서\n악곡을 선택하여 라이브 10회 플레이하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1802
+                  ]
+                ]
+              },
+              {
+                "id": 11010105,
+                "panelMissionSheetId": 110101,
+                "name": "유닛 악곡으로 라이브\n15회 플레이하기",
+                "description": "'악곡 선택' 화면의 버추얼 싱어 탭에서\n악곡을 선택하여 라이브 15회 플레이하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 5,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1803
+                  ]
+                ]
+              },
+              {
+                "id": 11010106,
+                "panelMissionSheetId": 110101,
+                "name": "유닛 악곡으로 라이브\n20회 플레이하기",
+                "description": "'악곡 선택' 화면의 버추얼 싱어 탭에서\n악곡을 선택하여 라이브 20회 플레이하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 6,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1804
+                  ]
+                ]
+              },
+              {
+                "id": 11010107,
+                "panelMissionSheetId": 110101,
+                "name": "유닛 악곡으로 라이브\n30회 플레이하기",
+                "description": "'악곡 선택' 화면의 버추얼 싱어 탭에서\n악곡을 선택하여 라이브 30회 플레이하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 7,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1805
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1806
+              ]
+            ]
+          },
+          {
+            "id": 110102,
+            "panelMissionSheetGroupId": 1101,
+            "name": "유닛 카드 Leo\/need",
+            "seq": 2,
+            "assetbundleName": "sheet_unit_lightsound",
+            "panelMissions": [
+              {
+                "id": 11010201,
+                "panelMissionSheetId": 110102,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n1회 클리어하기",
+                "description": "Leo\/need의 이벤트 오리지널 악곡으로 라이브 1회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010202,
+                "panelMissionSheetId": 110102,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n3회 클리어하기",
+                "description": "Leo\/need의 이벤트 오리지널 악곡으로 라이브 3회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010203,
+                "panelMissionSheetId": 110102,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n5회 클리어하기",
+                "description": "Leo\/need의 이벤트 오리지널 악곡으로 라이브 5회 클리어하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1801
+                  ]
+                ]
+              },
+              {
+                "id": 11010204,
+                "panelMissionSheetId": 110102,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n10회 클리어하기",
+                "description": "Leo\/need의 이벤트 오리지널 악곡으로 라이브 10회 클리어하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1802
+                  ]
+                ]
+              },
+              {
+                "id": 11010205,
+                "panelMissionSheetId": 110102,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n15회 클리어하기",
+                "description": "Leo\/need의 이벤트 오리지널 악곡으로 라이브 15회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1803
+                  ]
+                ]
+              },
+              {
+                "id": 11010206,
+                "panelMissionSheetId": 110102,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n20회 클리어하기",
+                "description": "Leo\/need의 이벤트 오리지널 악곡으로 라이브 20회 클리어하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1804
+                  ]
+                ]
+              },
+              {
+                "id": 11010207,
+                "panelMissionSheetId": 110102,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n30회 클리어하기",
+                "description": "Leo\/need의 이벤트 오리지널 악곡으로 라이브 30회 클리어하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1805
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1807
+              ]
+            ]
+          },
+          {
+            "id": 110103,
+            "panelMissionSheetGroupId": 1101,
+            "name": "유닛 카드 MORE MORE JUMP!",
+            "seq": 3,
+            "assetbundleName": "sheet_unit_idol",
+            "panelMissions": [
+              {
+                "id": 11010301,
+                "panelMissionSheetId": 110103,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n1회 클리어하기",
+                "description": "MORE MORE JUMP!의 이벤트 오리지널 악곡으로 라이브 1회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010302,
+                "panelMissionSheetId": 110103,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n3회 클리어하기",
+                "description": "MORE MORE JUMP!의 이벤트 오리지널 악곡으로 라이브 3회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010303,
+                "panelMissionSheetId": 110103,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n5회 클리어하기",
+                "description": "MORE MORE JUMP!의 이벤트 오리지널 악곡으로 라이브 5회 클리어하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1801
+                  ]
+                ]
+              },
+              {
+                "id": 11010304,
+                "panelMissionSheetId": 110103,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n10회 클리어하기",
+                "description": "MORE MORE JUMP!의 이벤트 오리지널 악곡으로 라이브 10회 클리어하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1802
+                  ]
+                ]
+              },
+              {
+                "id": 11010305,
+                "panelMissionSheetId": 110103,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n15회 클리어하기",
+                "description": "MORE MORE JUMP!의 이벤트 오리지널 악곡으로 라이브 15회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1803
+                  ]
+                ]
+              },
+              {
+                "id": 11010306,
+                "panelMissionSheetId": 110103,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n20회 클리어하기",
+                "description": "MORE MORE JUMP!의 이벤트 오리지널 악곡으로 라이브 20회 클리어하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1804
+                  ]
+                ]
+              },
+              {
+                "id": 11010307,
+                "panelMissionSheetId": 110103,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n30회 클리어하기",
+                "description": "MORE MORE JUMP!의 이벤트 오리지널 악곡으로 라이브 30회 클리어하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1805
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1808
+              ]
+            ]
+          },
+          {
+            "id": 110104,
+            "panelMissionSheetGroupId": 1101,
+            "name": "유닛 카드 Vivid BAD SQUAD",
+            "seq": 4,
+            "assetbundleName": "sheet_unit_street",
+            "panelMissions": [
+              {
+                "id": 11010401,
+                "panelMissionSheetId": 110104,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n1회 클리어하기",
+                "description": "Vivid BAD SQUAD의 이벤트 오리지널 악곡으로 라이브 1회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010402,
+                "panelMissionSheetId": 110104,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n3회 클리어하기",
+                "description": "Vivid BAD SQUAD의 이벤트 오리지널 악곡으로 라이브 3회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010403,
+                "panelMissionSheetId": 110104,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n5회 클리어하기",
+                "description": "Vivid BAD SQUAD의 이벤트 오리지널 악곡으로 라이브 5회 클리어하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1801
+                  ]
+                ]
+              },
+              {
+                "id": 11010404,
+                "panelMissionSheetId": 110104,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n10회 클리어하기",
+                "description": "Vivid BAD SQUAD의 이벤트 오리지널 악곡으로 라이브 10회 클리어하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1802
+                  ]
+                ]
+              },
+              {
+                "id": 11010405,
+                "panelMissionSheetId": 110104,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n15회 클리어하기",
+                "description": "Vivid BAD SQUAD의 이벤트 오리지널 악곡으로 라이브 15회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1803
+                  ]
+                ]
+              },
+              {
+                "id": 11010406,
+                "panelMissionSheetId": 110104,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n20회 클리어하기",
+                "description": "Vivid BAD SQUAD의 이벤트 오리지널 악곡으로 라이브 20회 클리어하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1804
+                  ]
+                ]
+              },
+              {
+                "id": 11010407,
+                "panelMissionSheetId": 110104,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n30회 클리어하기",
+                "description": "Vivid BAD SQUAD의 이벤트 오리지널 악곡으로 라이브 30회 클리어하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1805
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1809
+              ]
+            ]
+          },
+          {
+            "id": 110105,
+            "panelMissionSheetGroupId": 1101,
+            "name": "유닛 카드 원더랜즈×쇼타임",
+            "seq": 5,
+            "assetbundleName": "sheet_unit_theme_park",
+            "panelMissions": [
+              {
+                "id": 11010501,
+                "panelMissionSheetId": 110105,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n1회 클리어하기",
+                "description": "원더랜즈×쇼타임의 이벤트 오리지널 악곡으로 라이브 1회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010502,
+                "panelMissionSheetId": 110105,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n3회 클리어하기",
+                "description": "원더랜즈×쇼타임의 이벤트 오리지널 악곡으로 라이브 3회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010503,
+                "panelMissionSheetId": 110105,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n5회 클리어하기",
+                "description": "원더랜즈×쇼타임의 이벤트 오리지널 악곡으로 라이브 5회 클리어하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1801
+                  ]
+                ]
+              },
+              {
+                "id": 11010504,
+                "panelMissionSheetId": 110105,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n10회 클리어하기",
+                "description": "원더랜즈×쇼타임의 이벤트 오리지널 악곡으로 라이브 10회 클리어하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1802
+                  ]
+                ]
+              },
+              {
+                "id": 11010505,
+                "panelMissionSheetId": 110105,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n15회 클리어하기",
+                "description": "원더랜즈×쇼타임의 이벤트 오리지널 악곡으로 라이브 15회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1803
+                  ]
+                ]
+              },
+              {
+                "id": 11010506,
+                "panelMissionSheetId": 110105,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n20회 클리어하기",
+                "description": "원더랜즈×쇼타임의 이벤트 오리지널 악곡으로 라이브 20회 클리어하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1804
+                  ]
+                ]
+              },
+              {
+                "id": 11010507,
+                "panelMissionSheetId": 110105,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n30회 클리어하기",
+                "description": "원더랜즈×쇼타임의 이벤트 오리지널 악곡으로 라이브 30회 클리어하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1805
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1810
+              ]
+            ]
+          },
+          {
+            "id": 110106,
+            "panelMissionSheetGroupId": 1101,
+            "name": "유닛 카드 25시, 나이트 코드에서.",
+            "seq": 6,
+            "assetbundleName": "sheet_unit_schoolrefusal",
+            "panelMissions": [
+              {
+                "id": 11010601,
+                "panelMissionSheetId": 110106,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n1회 클리어하기",
+                "description": "25시, 나이트 코드에서.의 이벤트 오리지널 악곡으로 라이브 1회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010602,
+                "panelMissionSheetId": 110106,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n3회 클리어하기",
+                "description": "25시, 나이트 코드에서.의 이벤트 오리지널 악곡으로 라이브 3회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1800
+                  ]
+                ]
+              },
+              {
+                "id": 11010603,
+                "panelMissionSheetId": 110106,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n5회 클리어하기",
+                "description": "25시, 나이트 코드에서.의 이벤트 오리지널 악곡으로 라이브 5회 클리어하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1801
+                  ]
+                ]
+              },
+              {
+                "id": 11010604,
+                "panelMissionSheetId": 110106,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n10회 클리어하기",
+                "description": "25시, 나이트 코드에서.의 이벤트 오리지널 악곡으로 라이브 10회 클리어하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1802
+                  ]
+                ]
+              },
+              {
+                "id": 11010605,
+                "panelMissionSheetId": 110106,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n15회 클리어하기",
+                "description": "25시, 나이트 코드에서.의 이벤트 오리지널 악곡으로 라이브 15회 클리어하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1803
+                  ]
+                ]
+              },
+              {
+                "id": 11010606,
+                "panelMissionSheetId": 110106,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n20회 클리어하기",
+                "description": "25시, 나이트 코드에서.의 이벤트 오리지널 악곡으로 라이브 20회 클리어하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1804
+                  ]
+                ]
+              },
+              {
+                "id": 11010607,
+                "panelMissionSheetId": 110106,
+                "name": "유닛의\n이벤트\n오리지널 악곡으로\n30회 클리어하기",
+                "description": "25시, 나이트 코드에서.의 이벤트 오리지널 악곡으로 라이브 30회 클리어하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1805
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1811
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1102,
+        "panelMissionCampaignId": 11,
+        "name": "라이브",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 110201,
+            "panelMissionSheetGroupId": 1102,
+            "name": "라이브 카드 캐주얼",
+            "seq": 1,
+            "assetbundleName": "sheet_live_casual",
+            "panelMissions": [
+              {
+                "id": 11020101,
+                "panelMissionSheetId": 110201,
+                "name": "Memories of Melodys 기념 추가\n악곡으로 라이브\n1회 플레이하기",
+                "description": "Memories of Melodys 기념 악곡 추가 캠페인으로 추가된 악곡을\n누적 1회 라이브하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1812
+                  ]
+                ]
+              },
+              {
+                "id": 11020102,
+                "panelMissionSheetId": 110201,
+                "name": "Memories of Melodys 기념 추가\n악곡으로 라이브\n3회 플레이하기",
+                "description": "Memories of Melodys 기념 악곡 추가 캠페인으로 추가된 악곡을\n누적 3회 라이브하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1812
+                  ]
+                ]
+              },
+              {
+                "id": 11020103,
+                "panelMissionSheetId": 110201,
+                "name": "Memories of Melodys 기념 추가\n악곡으로 라이브\n5회 플레이하기",
+                "description": "Memories of Melodys 기념 악곡 추가 캠페인으로 추가된 악곡을\n누적 5회 라이브하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1813
+                  ]
+                ]
+              },
+              {
+                "id": 11020104,
+                "panelMissionSheetId": 110201,
+                "name": "Memories of Melodys 기념 추가\n악곡으로 라이브\n10회 플레이하기",
+                "description": "Memories of Melodys 기념 악곡 추가 캠페인으로 추가된 악곡을\n누적 10회 라이브하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1813
+                  ]
+                ]
+              },
+              {
+                "id": 11020105,
+                "panelMissionSheetId": 110201,
+                "name": "Memories of Melodys 기념 추가\n악곡으로 라이브\n15회 플레이하기",
+                "description": "Memories of Melodys 기념 악곡 추가 캠페인으로 추가된 악곡을\n누적 15회 라이브하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1814
+                  ]
+                ]
+              },
+              {
+                "id": 11020106,
+                "panelMissionSheetId": 110201,
+                "name": "Memories of Melodys 기념 추가\n악곡으로 라이브\n20회 플레이하기",
+                "description": "Memories of Melodys 기념 악곡 추가 캠페인으로 추가된 악곡을\n누적 20회 라이브하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1814
+                  ]
+                ]
+              },
+              {
+                "id": 11020107,
+                "panelMissionSheetId": 110201,
+                "name": "Memories of Melodys 기념 추가\n악곡으로 라이브\n30회 플레이하기",
+                "description": "Memories of Melodys 기념 악곡 추가 캠페인으로 추가된 악곡을\n누적 30회 라이브하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1814
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1820
+              ]
+            ]
+          },
+          {
+            "id": 110202,
+            "panelMissionSheetGroupId": 1102,
+            "name": "라이브 카드 레귤러",
+            "seq": 2,
+            "assetbundleName": "sheet_live_regular",
+            "panelMissions": [
+              {
+                "id": 11020201,
+                "panelMissionSheetId": 110202,
+                "name": "누적 1회\n풀 콤보",
+                "description": "라이브 누적 1회 풀 콤보로 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1814
+                  ]
+                ]
+              },
+              {
+                "id": 11020202,
+                "panelMissionSheetId": 110202,
+                "name": "누적 3회 풀 콤보",
+                "description": "라이브 누적 3회 풀 콤보로 클리어하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1815
+                  ]
+                ]
+              },
+              {
+                "id": 11020203,
+                "panelMissionSheetId": 110202,
+                "name": "누적 5회\n풀 콤보",
+                "description": "라이브 누적 5회 풀 콤보로 클리어하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1815
+                  ]
+                ]
+              },
+              {
+                "id": 11020204,
+                "panelMissionSheetId": 110202,
+                "name": "누적 7회 풀 콤보",
+                "description": "라이브 누적 7회 풀 콤보로 클리어하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 7,
+                "rewards": [
+                  [
+                    1815
+                  ]
+                ]
+              },
+              {
+                "id": 11020205,
+                "panelMissionSheetId": 110202,
+                "name": "누적 10회\n풀 콤보",
+                "description": "라이브 누적 10회 풀 콤보로 클리어하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1816
+                  ]
+                ]
+              },
+              {
+                "id": 11020206,
+                "panelMissionSheetId": 110202,
+                "name": "누적 15회\n풀 콤보",
+                "description": "라이브 누적 15회 풀 콤보로 클리어하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1816
+                  ]
+                ]
+              },
+              {
+                "id": 11020207,
+                "panelMissionSheetId": 110202,
+                "name": "누적 20회\n풀 콤보",
+                "description": "라이브 누적 20회 풀 콤보로 클리어하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1816
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1821
+              ]
+            ]
+          },
+          {
+            "id": 110203,
+            "panelMissionSheetGroupId": 1102,
+            "name": "라이브 카드 언리미티드",
+            "seq": 3,
+            "assetbundleName": "sheet_live_unlimited",
+            "panelMissions": [
+              {
+                "id": 11020301,
+                "panelMissionSheetId": 110203,
+                "name": "누적 1회\nAP",
+                "description": "라이브 누적 1회 ALL PERFECT로 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1817
+                  ]
+                ]
+              },
+              {
+                "id": 11020302,
+                "panelMissionSheetId": 110203,
+                "name": "누적 2회 AP",
+                "description": "라이브 누적 2회 ALL PERFECT로 클리어하기",
+                "seq": 2,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    1817
+                  ]
+                ]
+              },
+              {
+                "id": 11020303,
+                "panelMissionSheetId": 110203,
+                "name": "누적 3회 AP",
+                "description": "라이브 누적 3회 ALL PERFECT로 클리어하기",
+                "seq": 3,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1818
+                  ]
+                ]
+              },
+              {
+                "id": 11020304,
+                "panelMissionSheetId": 110203,
+                "name": "누적 5회\nAP",
+                "description": "라이브 누적 5회 ALL PERFECT로 클리어하기",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1818
+                  ]
+                ]
+              },
+              {
+                "id": 11020305,
+                "panelMissionSheetId": 110203,
+                "name": "누적 7회 AP",
+                "description": "라이브 누적 7회 ALL PERFECT로 클리어하기",
+                "seq": 5,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 7,
+                "rewards": [
+                  [
+                    1819
+                  ]
+                ]
+              },
+              {
+                "id": 11020306,
+                "panelMissionSheetId": 110203,
+                "name": "누적 10회\nAP",
+                "description": "라이브 누적 10회 ALL PERFECT로 클리어하기",
+                "seq": 6,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1819
+                  ]
+                ]
+              },
+              {
+                "id": 11020307,
+                "panelMissionSheetId": 110203,
+                "name": "누적 15회\nAP",
+                "description": "라이브 누적 15회 ALL PERFECT로 클리어하기",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1819
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1822
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1103,
+        "panelMissionCampaignId": 11,
+        "name": "트라이",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 110301,
+            "panelMissionSheetGroupId": 1103,
+            "name": "트라이 카드 캐주얼",
+            "seq": 1,
+            "assetbundleName": "sheet_try_casual",
+            "panelMissions": [
+              {
+                "id": 11030101,
+                "panelMissionSheetId": 110301,
+                "name": "'펜타토닉'\n1회 클리어하기",
+                "description": "Memories of Melodys 기념 악곡 '펜타토닉' 1회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1812
+                  ]
+                ]
+              },
+              {
+                "id": 11030102,
+                "panelMissionSheetId": 110301,
+                "name": "멀티 라이브를\n10회 클리어",
+                "description": "'멀티 라이브' 10회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1812
+                  ]
+                ]
+              },
+              {
+                "id": 11030103,
+                "panelMissionSheetId": 110301,
+                "name": "'SUPER FEVER'\n3회 달성",
+                "description": "'멀티 라이브'에서 'SUPER FEVER'를 3회 달성하기",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1813
+                  ]
+                ]
+              },
+              {
+                "id": 11030104,
+                "panelMissionSheetId": 110301,
+                "name": "라이브 보너스 누적 50개 사용",
+                "description": "라이브 보너스 누적 50개 사용하기\n※마이세카이는 라이브 보너스를 스태미나로 사용한 것만 카운트됩니다.",
+                "seq": 4,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1813
+                  ]
+                ]
+              },
+              {
+                "id": 11030105,
+                "panelMissionSheetId": 110301,
+                "name": "이벤트\n'Our Golden Days'\n최종화 읽기",
+                "description": "이벤트 'Our Golden Days'의 이벤트 스토리 최종화 읽기",
+                "seq": 5,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1814
+                  ]
+                ]
+              },
+              {
+                "id": 11030106,
+                "panelMissionSheetId": 110301,
+                "name": "이벤트 P\n누적 20만 획득",
+                "description": "이벤트 'Our Golden Days'에서 이벤트 P 누적 20만p 획득하기\n※이벤트 P는 10\/9 20:59까지 획득할 수 있습니다.",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 200000,
+                "rewards": [
+                  [
+                    1814
+                  ]
+                ]
+              },
+              {
+                "id": 11030107,
+                "panelMissionSheetId": 110301,
+                "name": "마이세카이에서 재료\n200개 채집",
+                "description": "마이세카이에서 재료 200개 채집하기",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 200,
+                "rewards": [
+                  [
+                    1814
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1820
+              ]
+            ]
+          },
+          {
+            "id": 110302,
+            "panelMissionSheetGroupId": 1103,
+            "name": "트라이 카드 레귤러",
+            "seq": 2,
+            "assetbundleName": "sheet_try_regular",
+            "panelMissions": [
+              {
+                "id": 11030201,
+                "panelMissionSheetId": 110302,
+                "name": "'펜타토닉'\n10회 클리어하기",
+                "description": "Memories of Melodys 기념 악곡 '펜타토닉' 10회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1814
+                  ]
+                ]
+              },
+              {
+                "id": 11030202,
+                "panelMissionSheetId": 110302,
+                "name": "멀티 라이브를\n30회 클리어",
+                "description": "'멀티 라이브' 30회 클리어하기",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1815
+                  ]
+                ]
+              },
+              {
+                "id": 11030203,
+                "panelMissionSheetId": 110302,
+                "name": "'SUPER FEVER'\n10회 달성",
+                "description": "'멀티 라이브'에서 'SUPER FEVER'를 10회 달성하기",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1815
+                  ]
+                ]
+              },
+              {
+                "id": 11030204,
+                "panelMissionSheetId": 110302,
+                "name": "라이브 보너스\n누적 100 사용",
+                "description": "라이브 보너스 누적 100개 사용하기\n※마이세카이는 라이브 보너스를 스태미나로 사용한 것만 카운트됩니다.",
+                "seq": 4,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    1815
+                  ]
+                ]
+              },
+              {
+                "id": 11030205,
+                "panelMissionSheetId": 110302,
+                "name": "이벤트\n'Our Golden Days'\n최종화 읽기",
+                "description": "이벤트 'Our Golden Days'의 이벤트 스토리 최종화 읽기",
+                "seq": 5,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1816
+                  ]
+                ]
+              },
+              {
+                "id": 11030206,
+                "panelMissionSheetId": 110302,
+                "name": "누적 이벤트 P\n400000 달성하기",
+                "description": "이벤트 'Our Golden Days'에서 이벤트 P 누적 40만p 획득하기\n※이벤트 P는 10\/9 20:59까지 획득할 수 있습니다.",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 400000,
+                "rewards": [
+                  [
+                    1816
+                  ]
+                ]
+              },
+              {
+                "id": 11030207,
+                "panelMissionSheetId": 110302,
+                "name": "마이세카이에서 재료\n500개 채집",
+                "description": "마이세카이에서 재료 500개 채집하기",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  [
+                    1816
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1821
+              ]
+            ]
+          },
+          {
+            "id": 110303,
+            "panelMissionSheetGroupId": 1103,
+            "name": "트라이 카드 언리미티드",
+            "seq": 3,
+            "assetbundleName": "sheet_try_unlimited",
+            "panelMissions": [
+              {
+                "id": 11030301,
+                "panelMissionSheetId": 110303,
+                "name": "전원 풀 콤보로\n라이브 1회 클리어하기",
+                "description": "'멀티 라이브'에서 전원 풀 콤보로\n라이브 1회 클리어하기",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1817
+                  ]
+                ]
+              },
+              {
+                "id": 11030302,
+                "panelMissionSheetId": 110303,
+                "name": "'SUPER FEVER'\n15회 달성",
+                "description": "'멀티 라이브'에서 'SUPER FEVER'를 15회 달성하기",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1817
+                  ]
+                ]
+              },
+              {
+                "id": 11030303,
+                "panelMissionSheetId": 110303,
+                "name": "'MVP\/\nSUPER STAR' 10회 획득",
+                "description": "'멀티 라이브\/치어풀 라이브'에서\n\"MVP\/SUPER STAR\" 누적 10회 달성하기",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1818
+                  ]
+                ]
+              },
+              {
+                "id": 11030304,
+                "panelMissionSheetId": 110303,
+                "name": "30종류의 악곡\n클리어",
+                "description": "30종류의 악곡을 클리어하기\n※오토 라이브도 카운트됩니다.",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 30,
+                "requirement2": 1,
+                "rewards": [
+                  [
+                    1818
+                  ]
+                ]
+              },
+              {
+                "id": 11030305,
+                "panelMissionSheetId": 110303,
+                "name": "라이브 보너스\n누적 300 사용",
+                "description": "라이브 보너스 누적 300개 사용하기\n※마이세카이는 라이브 보너스를 스태미나로 사용한 것만 카운트됩니다.",
+                "seq": 5,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 300,
+                "rewards": [
+                  [
+                    1819
+                  ]
+                ]
+              },
+              {
+                "id": 11030306,
+                "panelMissionSheetId": 110303,
+                "name": "이벤트 P\n누적 100만 획득",
+                "description": "이벤트 'Our Golden Days'에서 이벤트 P 누적 100만p 획득하기\n※이벤트 P는 10\/9 20:59까지 획득할 수 있습니다.",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  [
+                    1819
+                  ]
+                ]
+              },
+              {
+                "id": 11030307,
+                "panelMissionSheetId": 110303,
+                "name": "마이세카이에서 재료\n1000개 채집",
+                "description": "마이세카이에서 재료 1000개 채집하기",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  [
+                    1819
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1822
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1104,
+        "panelMissionCampaignId": 11,
+        "name": "뽑기\/상점",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 110401,
+            "panelMissionSheetGroupId": 1104,
+            "name": "뽑기\/상점 카드 스탠다드",
+            "seq": 1,
+            "assetbundleName": "sheet_shop_standard",
+            "panelMissions": [
+              {
+                "id": 11040101,
+                "panelMissionSheetId": 110401,
+                "name": "뽑기를\n누적 1회\n진행",
+                "description": "뽑기를 누적 1회 진행\n※각종 무료 뽑기도 카운트 대상입니다.",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1823
+                  ]
+                ]
+              },
+              {
+                "id": 11040102,
+                "panelMissionSheetId": 110401,
+                "name": "뽑기를\n누적 5회\n진행",
+                "description": "뽑기를 누적 5회 진행\n※각종 무료 뽑기도 카운트 대상입니다.",
+                "seq": 2,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1824
+                  ]
+                ]
+              },
+              {
+                "id": 11040103,
+                "panelMissionSheetId": 110401,
+                "name": "뽑기를\n누적 10회\n진행",
+                "description": "뽑기를 누적 10회 진행\n※각종 무료 뽑기도 카운트 대상입니다.",
+                "seq": 3,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1824
+                  ]
+                ]
+              },
+              {
+                "id": 11040104,
+                "panelMissionSheetId": 110401,
+                "name": "뽑기를\n누적 20회\n진행",
+                "description": "뽑기를 누적 20회 진행\n※각종 무료 뽑기도 카운트 대상입니다.",
+                "seq": 4,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1824
+                  ]
+                ]
+              },
+              {
+                "id": 11040105,
+                "panelMissionSheetId": 110401,
+                "name": "뽑기를\n누적 30회\n진행",
+                "description": "뽑기를 누적 30회 진행\n※각종 무료 뽑기도 카운트 대상입니다.",
+                "seq": 5,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1825
+                  ]
+                ]
+              },
+              {
+                "id": 11040106,
+                "panelMissionSheetId": 110401,
+                "name": "뽑기를\n누적 40회\n진행",
+                "description": "뽑기를 누적 40회 진행\n※각종 무료 뽑기도 카운트 대상입니다.",
+                "seq": 6,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 40,
+                "rewards": [
+                  [
+                    1825
+                  ]
+                ]
+              },
+              {
+                "id": 11040107,
+                "panelMissionSheetId": 110401,
+                "name": "뽑기를\n누적 50회\n진행",
+                "description": "뽑기를 누적 50회 진행\n※각종 무료 뽑기도 카운트 대상입니다.",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1825
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1828
+              ]
+            ]
+          },
+          {
+            "id": 110402,
+            "panelMissionSheetGroupId": 1104,
+            "name": "뽑기\/상점 카드 골드",
+            "seq": 2,
+            "assetbundleName": "sheet_shop_gold",
+            "panelMissions": [
+              {
+                "id": 11040201,
+                "panelMissionSheetId": 110402,
+                "name": "뽑기를\n누적 100회\n진행",
+                "description": "뽑기를 누적 100회 진행\n※각종 무료 뽑기도 카운트 대상입니다.",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    1826
+                  ]
+                ]
+              },
+              {
+                "id": 11040202,
+                "panelMissionSheetId": 110402,
+                "name": "'블룸 페스티벌\n기간 한정 뽑기'\n50회 진행",
+                "description": "[Memories of Melodys 기념] 블룸 페스티벌 뽑기 드림 픽',\n'[Memories of Melodys 기념] 블룸 페스티벌 뽑기 골드 피버',\n또는 'EYES ON ME 뽑기' 50회 이용하기",
+                "seq": 2,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1826
+                  ]
+                ]
+              },
+              {
+                "id": 11040203,
+                "panelMissionSheetId": 110402,
+                "name": "'1\/3 셀렉트\n리스트 뽑기 \nLIMITED EDITION'\n를1회 진행",
+                "description": "'[Memories of Melodys 기념] 1\/3 셀렉트 리스트 뽑기 LIMITED EDITION' 1회 진행하기",
+                "seq": 3,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1826
+                  ]
+                ]
+              },
+              {
+                "id": 11040204,
+                "panelMissionSheetId": 110402,
+                "name": "'메모리얼\n셀렉트 뽑기'를\n1회 진행",
+                "description": "'[Memories of Melodys 기념] 메모리얼 셀렉트 뽑기' 1회 진행하기",
+                "seq": 4,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1826
+                  ]
+                ]
+              },
+              {
+                "id": 11040205,
+                "panelMissionSheetId": 110402,
+                "name": "'프리미엄\n선물 뽑기'\n1종류 뽑기",
+                "description": "'[Memories of Melodys 기념] 프리미엄 선물 뽑기' 1회 진행하기",
+                "seq": 5,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1826
+                  ]
+                ]
+              },
+              {
+                "id": 11040206,
+                "panelMissionSheetId": 110402,
+                "name": "'Memories of Melodys 기념 세트'\n1종류 구매하기",
+                "description": "크리스탈 상점에서 'Memories of Melodys 기념 세트' 1종류 구매하기\n※'Memories of Melodys 기념 감사 세트'는 제외",
+                "seq": 6,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1826
+                  ]
+                ]
+              },
+              {
+                "id": 11040207,
+                "panelMissionSheetId": 110402,
+                "name": "2026년 10월\n'미션 패스' \n구매",
+                "description": "2026년 10월의 '프리미엄 미션 패스'\n또는 '마이세카이 미션 패스' 구매하기",
+                "seq": 7,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1826
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1829
+              ]
+            ]
+          },
+          {
+            "id": 110403,
+            "panelMissionSheetGroupId": 1104,
+            "name": "뽑기\/상점 카드 다이아몬드",
+            "seq": 3,
+            "assetbundleName": "sheet_shop_diamond",
+            "panelMissions": [
+              {
+                "id": 11040301,
+                "panelMissionSheetId": 110403,
+                "name": "뽑기를\n누적 200회\n진행",
+                "description": "뽑기를 누적 200회 진행\n※각종 무료 뽑기도 카운트 대상입니다.",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 200,
+                "rewards": [
+                  [
+                    1826
+                  ]
+                ]
+              },
+              {
+                "id": 11040302,
+                "panelMissionSheetId": 110403,
+                "name": "'블룸 페스티벌\n기간 한정 뽑기'\n100회 진행",
+                "description": "'[Memories of Melodys 기념] 블룸 페스티벌 뽑기 드림 픽',\n'[Memories of Melodys 기념] 블룸 페스티벌 뽑기 골드 피버',\n또는 'EYES ON ME 뽑기' 100회 이용하기",
+                "seq": 2,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    1827
+                  ]
+                ]
+              },
+              {
+                "id": 11040303,
+                "panelMissionSheetId": 110403,
+                "name": "'1\/3 셀렉트\n리스트 뽑기 \nLIMITED EDITION'\n를1회 진행",
+                "description": "'[Memories of Melodys 기념] 1\/3 셀렉트 리스트 뽑기 LIMITED EDITION' 1회 진행하기",
+                "seq": 3,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1827
+                  ]
+                ]
+              },
+              {
+                "id": 11040304,
+                "panelMissionSheetId": 110403,
+                "name": "'메모리얼\n셀렉트 뽑기'를\n1회 진행",
+                "description": "'[Memories of Melodys 기념] 메모리얼 셀렉트 뽑기' 1회 진행하기",
+                "seq": 4,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1827
+                  ]
+                ]
+              },
+              {
+                "id": 11040305,
+                "panelMissionSheetId": 110403,
+                "name": "'프리미엄\n선물 뽑기'\n2종류 뽑기",
+                "description": "'[Memories of Melodys 기념] 프리미엄 선물 뽑기' 2회 진행하기",
+                "seq": 5,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    1827
+                  ]
+                ]
+              },
+              {
+                "id": 11040306,
+                "panelMissionSheetId": 110403,
+                "name": "'Memories of Melodys 기념 세트'\n2종류 구매하기",
+                "description": "크리스탈 상점에서 'Memories of Melodys 기념 세트' 2종류 구매하기\n※'Memories of Melodys 기념 감사 세트'는 제외",
+                "seq": 6,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    1827
+                  ]
+                ]
+              },
+              {
+                "id": 11040307,
+                "panelMissionSheetId": 110403,
+                "name": "2026년 10월\n'미션 패스' \n구매",
+                "description": "2026년 10월의 '프리미엄 미션 패스'\n또는 '마이세카이 미션 패스' 구매하기",
+                "seq": 7,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1827
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1830
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 14,
     "name": "[프로세카×앙상블스타즈!!] 컬래버레이션 기념 스탬프 미션",
     "assetbundleName": "ensemble_collab_2026_pm",

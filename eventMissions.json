@@ -11088,6 +11088,2206 @@
     "rewards": []
   },
   {
+    "id": 801,
+    "eventId": 181,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "누적 10일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 802,
+    "eventId": 181,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 803,
+    "eventId": 181,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 804,
+    "eventId": 181,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 805,
+    "eventId": 181,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 'Our Golden Days' 이벤트 스토리 엔딩 읽기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 806,
+    "eventId": 181,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 'Our Golden Days' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 807,
+    "eventId": 181,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'Our Golden Days 애프터 라이브'에 참가하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 808,
+    "eventId": 181,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": []
+  },
+  {
+    "id": 809,
+    "eventId": 182,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "누적 9일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 810,
+    "eventId": 182,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 811,
+    "eventId": 182,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 812,
+    "eventId": 182,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 813,
+    "eventId": 182,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '너와 이어 가는 Heart Beat' 이벤트 스토리 엔딩 읽기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 814,
+    "eventId": 182,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '너와 이어 가는 Heart Beat' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 815,
+    "eventId": 182,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'너와 이어 가는 Heart Beat 애프터 라이브'에 참가하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 816,
+    "eventId": 182,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": []
+  },
+  {
+    "id": 817,
+    "eventId": 183,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "누적 9일 동안 라이브 1일 1회 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 818,
+    "eventId": 183,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "라이브 50회 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 819,
+    "eventId": 183,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "라이브에서 악곡을 풀 콤보로 10회 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 820,
+    "eventId": 183,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "라이브에서 10종류의 악곡을 클리어하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 821,
+    "eventId": 183,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "이벤트 '어우러지는 색은 그날 그대로' 이벤트 스토리 엔딩 읽기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 822,
+    "eventId": 183,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "이벤트 '어우러지는 색은 그날 그대로' 교환소에서 배지 20,000개 사용하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 823,
+    "eventId": 183,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "'어우러지는 색은 그날 그대로 애프터 라이브'에 참가하기",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 824,
+    "eventId": 183,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7개의 미션 모두 달성하기",
+    "rewards": []
+  },
+  {
+    "id": 825,
+    "eventId": 184,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 826,
+    "eventId": 184,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 827,
+    "eventId": 184,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 828,
+    "eventId": 184,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 829,
+    "eventId": 184,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Colors of Pure Sense」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 830,
+    "eventId": 184,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Colors of Pure Sense」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 831,
+    "eventId": 184,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Colors of Pure Sense アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 832,
+    "eventId": 184,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 833,
+    "eventId": 185,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 834,
+    "eventId": 185,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 835,
+    "eventId": 185,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 836,
+    "eventId": 185,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 837,
+    "eventId": 185,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「超克のプロタゴニスタ」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 838,
+    "eventId": 185,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「超克のプロタゴニスタ」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 839,
+    "eventId": 185,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「超克のプロタゴニスタ アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 840,
+    "eventId": 185,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 849,
+    "eventId": 187,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 850,
+    "eventId": 187,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 851,
+    "eventId": 187,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 852,
+    "eventId": 187,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 853,
+    "eventId": 187,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Overcome one's limits」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 854,
+    "eventId": 187,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Overcome one's limits」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 855,
+    "eventId": 187,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Overcome one's limits アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 856,
+    "eventId": 187,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 857,
+    "eventId": 188,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 858,
+    "eventId": 188,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 859,
+    "eventId": 188,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 860,
+    "eventId": 188,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 861,
+    "eventId": 188,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「仰ぐ夜空に、星は紛れて」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 862,
+    "eventId": 188,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「仰ぐ夜空に、星は紛れて」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 863,
+    "eventId": 188,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「仰ぐ夜空に、星は紛れて アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 864,
+    "eventId": 188,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 865,
+    "eventId": 189,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 866,
+    "eventId": 189,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 867,
+    "eventId": 189,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 868,
+    "eventId": 189,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 869,
+    "eventId": 189,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「ともに、トゥルールートを目指して」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 870,
+    "eventId": 189,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「ともに、トゥルールートを目指して」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 871,
+    "eventId": 189,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「ともに、トゥルールートを目指して アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 872,
+    "eventId": 189,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 873,
+    "eventId": 190,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 874,
+    "eventId": 190,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 875,
+    "eventId": 190,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 876,
+    "eventId": 190,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 877,
+    "eventId": 190,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「この物語は希望をのせて」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 878,
+    "eventId": 190,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「この物語は希望をのせて」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 879,
+    "eventId": 190,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「この物語は希望をのせて アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 880,
+    "eventId": 190,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 881,
+    "eventId": 191,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "累計10日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8003
+      ]
+    ]
+  },
+  {
+    "id": 882,
+    "eventId": 191,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8003
+      ]
+    ]
+  },
+  {
+    "id": 883,
+    "eventId": 191,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8003
+      ]
+    ]
+  },
+  {
+    "id": 884,
+    "eventId": 191,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8003
+      ]
+    ]
+  },
+  {
+    "id": 885,
+    "eventId": 191,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「新年言祝ぐ、祈りの舞」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8003
+      ]
+    ]
+  },
+  {
+    "id": 886,
+    "eventId": 191,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「新年言祝ぐ、祈りの舞」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8003
+      ]
+    ]
+  },
+  {
+    "id": 887,
+    "eventId": 191,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「新年言祝ぐ、祈りの舞 アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8003
+      ]
+    ]
+  },
+  {
+    "id": 888,
+    "eventId": 191,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 889,
+    "eventId": 192,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 890,
+    "eventId": 192,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 891,
+    "eventId": 192,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 892,
+    "eventId": 192,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 893,
+    "eventId": 192,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「覚めない幻想をノックして」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 894,
+    "eventId": 192,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「覚めない幻想をノックして」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 895,
+    "eventId": 192,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「覚めない幻想をノックして アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 896,
+    "eventId": 192,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 897,
+    "eventId": 193,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 898,
+    "eventId": 193,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 899,
+    "eventId": 193,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 900,
+    "eventId": 193,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 901,
+    "eventId": 193,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「GO ALL OUT」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 902,
+    "eventId": 193,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「GO ALL OUT」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 903,
+    "eventId": 193,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「GO ALL OUT アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 904,
+    "eventId": 193,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 905,
+    "eventId": 194,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 906,
+    "eventId": 194,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 907,
+    "eventId": 194,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 908,
+    "eventId": 194,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 909,
+    "eventId": 194,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「粉砕せよ！アンヴァレンタインの復讐」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 910,
+    "eventId": 194,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「粉砕せよ！アンヴァレンタインの復讐」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 911,
+    "eventId": 194,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「粉砕せよ！アンヴァレンタインの復讐 アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 912,
+    "eventId": 194,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 913,
+    "eventId": 195,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 914,
+    "eventId": 195,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 915,
+    "eventId": 195,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 916,
+    "eventId": 195,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 917,
+    "eventId": 195,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Path made by faith」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 918,
+    "eventId": 195,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Path made by faith」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 919,
+    "eventId": 195,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Path made by faith アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 920,
+    "eventId": 195,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 921,
+    "eventId": 196,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 922,
+    "eventId": 196,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 923,
+    "eventId": 196,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 924,
+    "eventId": 196,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 925,
+    "eventId": 196,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「CHANGE！えむは王女さま！？」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 926,
+    "eventId": 196,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「CHANGE！えむは王女さま！？」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 927,
+    "eventId": 196,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「CHANGE！えむは王女さま！？ アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 928,
+    "eventId": 196,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 929,
+    "eventId": 197,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 930,
+    "eventId": 197,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 931,
+    "eventId": 197,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 932,
+    "eventId": 197,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 933,
+    "eventId": 197,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「悪夢の庭を歌い明かして」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 934,
+    "eventId": 197,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「悪夢の庭を歌い明かして」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 935,
+    "eventId": 197,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「悪夢の庭を歌い明かして アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 936,
+    "eventId": 197,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 937,
+    "eventId": 198,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 938,
+    "eventId": 198,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 939,
+    "eventId": 198,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 940,
+    "eventId": 198,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 941,
+    "eventId": 198,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Open up new horizons！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 942,
+    "eventId": 198,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Open up new horizons！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 943,
+    "eventId": 198,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Open up new horizons！ アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 944,
+    "eventId": 198,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 945,
+    "eventId": 199,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 946,
+    "eventId": 199,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 947,
+    "eventId": 199,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 948,
+    "eventId": 199,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 949,
+    "eventId": 199,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Amid the Wavering Light」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 950,
+    "eventId": 199,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Amid the Wavering Light」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 951,
+    "eventId": 199,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Amid the Wavering Light アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8002
+      ]
+    ]
+  },
+  {
+    "id": 952,
+    "eventId": 199,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 1,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 953,
+    "eventId": 200,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 9,
+    "sentence": "累計9日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 954,
+    "eventId": 200,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 955,
+    "eventId": 200,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 956,
+    "eventId": 200,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 957,
+    "eventId": 200,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「残照のInside Direction」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 958,
+    "eventId": 200,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「残照のInside Direction」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 959,
+    "eventId": 200,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「残照のInside Direction アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 960,
+    "eventId": 200,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
+    "id": 961,
+    "eventId": 201,
+    "seq": 1,
+    "eventMissionType": "live_clear_daily",
+    "eventMissionCategory": "normal",
+    "requirement1": 8,
+    "sentence": "累計8日ライブを1日1回クリアしよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 962,
+    "eventId": 201,
+    "seq": 2,
+    "eventMissionType": "any_live_clear",
+    "eventMissionCategory": "normal",
+    "requirement1": 50,
+    "sentence": "ライブを50回クリアしよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 963,
+    "eventId": 201,
+    "seq": 3,
+    "eventMissionType": "live_clear_full_combo",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "sentence": "ライブで楽曲をフルコンボで10回クリアしよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 964,
+    "eventId": 201,
+    "seq": 4,
+    "eventMissionType": "live_clear_different_music",
+    "eventMissionCategory": "normal",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "ライブで10種類の楽曲をクリアしよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 965,
+    "eventId": 201,
+    "seq": 5,
+    "eventMissionType": "read_last_event_story_episode",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "イベント「Show 'em what's up！」のイベントストーリー第8話を読もう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 966,
+    "eventId": 201,
+    "seq": 6,
+    "eventMissionType": "consume_event_item",
+    "eventMissionCategory": "normal",
+    "requirement1": 20000,
+    "sentence": "イベント「Show 'em what's up！」の交換所でバッジを20000個消費しよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 967,
+    "eventId": 201,
+    "seq": 7,
+    "eventMissionType": "join_virtual_live",
+    "eventMissionCategory": "normal",
+    "requirement1": 1,
+    "sentence": "「Show 'em what's up！ アフターライブ」に参加しよう。",
+    "rewards": [
+      [
+        8004
+      ]
+    ]
+  },
+  {
+    "id": 968,
+    "eventId": 201,
+    "seq": 8,
+    "eventMissionType": "achieve_event_mission",
+    "eventMissionCategory": "complete_selectable_reward",
+    "requirement1": 7,
+    "eventMissionSelectableRewardGroupId": 2,
+    "sentence": "7つのミッションを全て達成しよう。",
+    "rewards": []
+  },
+  {
     "id": 10001,
     "eventId": 70,
     "seq": 1,

@@ -321,7 +321,7 @@
     "additionalAreaType": "out_of_ring",
     "name": "창이 열린 세카이",
     "startAt": 1748444400000,
-    "endAt": 4102412399000,
+    "endAt": 1790089200000,
     "releaseConditionId": 2000000
   },
   {
@@ -351,5 +351,20 @@
     "startAt": 1790593200000,
     "releaseConditionId": 117902,
     "releaseConditionId2": 117903
+  },
+  {
+    "id": 28,
+    "assetbundleName": "area28",
+    "groupId": 310,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "april_fool",
+    "name": "이상한 마을 세카이?",
+    "subName": "마을",
+    "startAt": 1806505200000,
+    "endAt": 1782917999000,
+    "releaseConditionId": 1
   }
 ]
