@@ -32777,6 +32777,27 @@
     "archivePublishedAt": 1770530400000
   },
   {
+    "id": 1286,
+    "musicId": 729,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "버추얼 싱어 ver.",
+    "characters": [
+      {
+        "id": 2154,
+        "musicId": 729,
+        "musicVocalId": 1286,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 7290
+      }
+    ],
+    "assetbundleName": "vs_0729_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1791093600000
+  },
+  {
     "id": 1358,
     "musicId": 395,
     "musicVocalType": "sekai",
@@ -45371,6 +45392,59 @@
     "assetbundleName": "vs_0803_01",
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1787896800000
+  },
+  {
+    "id": 2089,
+    "musicId": 729,
+    "musicVocalType": "sekai",
+    "seq": 201,
+    "releaseConditionId": 5,
+    "caption": "세카이 ver.",
+    "characters": [
+      {
+        "id": 4066,
+        "musicId": 729,
+        "musicVocalId": 2089,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 7291
+      },
+      {
+        "id": 4067,
+        "musicId": 729,
+        "musicVocalId": 2089,
+        "characterType": "game_character",
+        "characterId": 5,
+        "seq": 7292
+      },
+      {
+        "id": 4068,
+        "musicId": 729,
+        "musicVocalId": 2089,
+        "characterType": "game_character",
+        "characterId": 6,
+        "seq": 7293
+      },
+      {
+        "id": 4069,
+        "musicId": 729,
+        "musicVocalId": 2089,
+        "characterType": "game_character",
+        "characterId": 7,
+        "seq": 7294
+      },
+      {
+        "id": 4070,
+        "musicId": 729,
+        "musicVocalId": 2089,
+        "characterType": "game_character",
+        "characterId": 8,
+        "seq": 7295
+      }
+    ],
+    "assetbundleName": "se_0729_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1791093600000
   },
   {
     "id": 10001,
