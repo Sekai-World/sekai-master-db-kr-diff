@@ -38,26 +38,6 @@
     "endAt": 4101375600000
   },
   {
-    "homeBannerId": 1156,
-    "seq": 100,
-    "homeBannerType": "event",
-    "assetbundleName": "event_wl_2nd_finale_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 180,
-    "startAt": 1790334000000,
-    "endAt": 1790747999000
-  },
-  {
-    "homeBannerId": 1158,
-    "seq": 100,
-    "homeBannerType": "general",
-    "assetbundleName": "banner_gacha817",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 817,
-    "startAt": 1790305200000,
-    "endAt": 1790737199000
-  },
-  {
     "homeBannerId": 1161,
     "seq": 20,
     "homeBannerType": "general",
@@ -106,6 +86,16 @@
     "transitionDestinationId": 834,
     "startAt": 1790434800000,
     "endAt": 1794711599000
+  },
+  {
+    "homeBannerId": 1166,
+    "seq": 100,
+    "homeBannerType": "event",
+    "assetbundleName": "event_golden_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 181,
+    "startAt": 1790748000000,
+    "endAt": 1791698400000
   },
   {
     "homeBannerId": 1170,
