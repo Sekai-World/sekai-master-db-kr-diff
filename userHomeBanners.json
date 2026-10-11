@@ -48,16 +48,6 @@
     "endAt": 1794711599000
   },
   {
-    "homeBannerId": 1166,
-    "seq": 100,
-    "homeBannerType": "event",
-    "assetbundleName": "event_golden_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 181,
-    "startAt": 1790748000000,
-    "endAt": 1791698400000
-  },
-  {
     "homeBannerId": 1171,
     "seq": 180,
     "homeBannerType": "general",
@@ -66,6 +56,16 @@
     "transitionDestinationId": 841,
     "startAt": 1791687600000,
     "endAt": 1792551599000
+  },
+  {
+    "homeBannerId": 1172,
+    "seq": 170,
+    "homeBannerType": "event",
+    "assetbundleName": "event_heartbeat_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 182,
+    "startAt": 1791698400000,
+    "endAt": 1792562399000
   },
   {
     "homeBannerId": 1187,
