@@ -7719,7 +7719,7 @@
   },
   {
     "id": 1668,
-    "seq": 2321,
+    "seq": 2325,
     "billingShopItemType": "costume_3d",
     "saleType": "bundle",
     "name": "'블루종' 의상 모든 컬러",
@@ -7733,7 +7733,7 @@
   },
   {
     "id": 1669,
-    "seq": 2322,
+    "seq": 2326,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'블루종' 의상 오리지널 컬러",
@@ -7747,7 +7747,7 @@
   },
   {
     "id": 1670,
-    "seq": 2323,
+    "seq": 2327,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'블루종' 의상 어나더 컬러 1",
@@ -7761,7 +7761,7 @@
   },
   {
     "id": 1671,
-    "seq": 2324,
+    "seq": 2328,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'블루종' 의상 어나더 컬러 2",
@@ -7775,7 +7775,7 @@
   },
   {
     "id": 1672,
-    "seq": 2325,
+    "seq": 2329,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'블루종' 의상 어나더 컬러 3",
@@ -7789,7 +7789,7 @@
   },
   {
     "id": 1673,
-    "seq": 2332,
+    "seq": 2334,
     "billingShopItemType": "costume_3d",
     "saleType": "bundle",
     "name": "'2025 겨울' 의상 모든 컬러",
@@ -7803,7 +7803,7 @@
   },
   {
     "id": 1674,
-    "seq": 2333,
+    "seq": 2335,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'2025 겨울' 의상 오리지널 컬러",
@@ -7817,7 +7817,7 @@
   },
   {
     "id": 1675,
-    "seq": 2334,
+    "seq": 2336,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'2025 겨울' 의상 어나더 컬러 1",
@@ -7831,7 +7831,7 @@
   },
   {
     "id": 1676,
-    "seq": 2335,
+    "seq": 2337,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'2025 겨울' 의상 어나더 컬러 2",
@@ -7845,7 +7845,7 @@
   },
   {
     "id": 1677,
-    "seq": 2336,
+    "seq": 2338,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'2025 겨울' 의상 어나더 컬러 3",
@@ -9508,6 +9508,35 @@
     "billingShopTabChildId": 203
   },
   {
+    "id": 1786,
+    "seq": 2321,
+    "billingShopItemType": "costume_3d",
+    "name": "Haunted Marionette' 테마 의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1672",
+    "resourceBoxId": 1632,
+    "startAt": 1793329200000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
+    "id": 1787,
+    "seq": 2322,
+    "billingShopItemType": "costume_3d",
+    "name": "2026 핼러윈' 테마 의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1673",
+    "resourceBoxId": 1633,
+    "startAt": 1793329200000,
+    "endAt": 1794538799000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
     "id": 10173,
     "seq": 430000,
     "billingShopItemType": "value_set",
@@ -10638,8 +10667,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_birthdayfood_1112_26",
     "resourceBoxId": 261011,
-    "startAt": 1794409200000,
-    "endAt": 1795013999000,
+    "startAt": 1794063600000,
+    "endAt": 1794668399000,
     "billingShopTabChildId": 204
   },
   {
@@ -10841,22 +10870,22 @@
     "id": 261025,
     "seq": 46330,
     "billingShopItemType": "value_set",
-    "billingProductGroupId": 261025,
+    "billingProductGroupId": 261026,
     "name": "[MEIKO] 기념일 세트B",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_birthdayfood_1105_26",
     "resourceBoxId": 261025,
-    "startAt": 1793804400000,
-    "endAt": 1794409199000,
+    "startAt": 1793458800000,
+    "endAt": 1794063599000,
     "billingShopTabChildId": 204
   },
   {
     "id": 261026,
     "seq": 46434,
     "billingShopItemType": "value_set",
-    "billingProductGroupId": 261026,
+    "billingProductGroupId": 261025,
     "name": "[KAITO] 기념일 세트B",
     "billableLimitType": "count",
     "billableLimitValue": 1,
@@ -11028,8 +11057,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_birthdayfood_1112_25",
     "resourceBoxId": 50011,
-    "startAt": 1794409200000,
-    "endAt": 1795013999000,
+    "startAt": 1794063600000,
+    "endAt": 1794668399000,
     "billingShopTabChildId": 204
   },
   {
@@ -11238,8 +11267,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_birthdayfood_1105_25",
     "resourceBoxId": 50025,
-    "startAt": 1793804400000,
-    "endAt": 1794409199000,
+    "startAt": 1793458800000,
+    "endAt": 1794063599000,
     "billingShopTabChildId": 204
   },
   {
@@ -12979,7 +13008,7 @@
   },
   {
     "id": 301090,
-    "seq": 2367,
+    "seq": 2369,
     "billingShopItemType": "costume_3d",
     "saleType": "bundle",
     "name": "'매지컬 미라이 2024' 의상",
@@ -12995,7 +13024,7 @@
   },
   {
     "id": 301100,
-    "seq": 2367,
+    "seq": 2369,
     "billingShopItemType": "costume_3d",
     "saleType": "bundle",
     "name": "'매지컬 미라이 2025' 의상",
