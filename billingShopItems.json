@@ -7789,7 +7789,7 @@
   },
   {
     "id": 1673,
-    "seq": 2334,
+    "seq": 2336,
     "billingShopItemType": "costume_3d",
     "saleType": "bundle",
     "name": "'2025 겨울' 의상 모든 컬러",
@@ -7803,7 +7803,7 @@
   },
   {
     "id": 1674,
-    "seq": 2335,
+    "seq": 2337,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'2025 겨울' 의상 오리지널 컬러",
@@ -7817,7 +7817,7 @@
   },
   {
     "id": 1675,
-    "seq": 2336,
+    "seq": 2338,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'2025 겨울' 의상 어나더 컬러 1",
@@ -7831,7 +7831,7 @@
   },
   {
     "id": 1676,
-    "seq": 2337,
+    "seq": 2339,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'2025 겨울' 의상 어나더 컬러 2",
@@ -7845,7 +7845,7 @@
   },
   {
     "id": 1677,
-    "seq": 2338,
+    "seq": 2340,
     "billingShopItemType": "costume_3d",
     "saleType": "single",
     "name": "'2025 겨울' 의상 어나더 컬러 3",
@@ -9533,6 +9533,35 @@
     "resourceBoxId": 1633,
     "startAt": 1793329200000,
     "endAt": 1794538799000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
+    "id": 1788,
+    "seq": 2331,
+    "billingShopItemType": "costume_3d",
+    "name": "시티 팝'테마 의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1674",
+    "resourceBoxId": 1634,
+    "startAt": 1794020400000,
+    "endAt": 1794884399000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 301
+  },
+  {
+    "id": 1789,
+    "seq": 2335,
+    "billingShopItemType": "costume_3d",
+    "name": "3.5주년 기념' 한정 의상",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_1675",
+    "resourceBoxId": 1635,
+    "startAt": 1794625200000,
     "purchaseOption": "exchange",
     "billingShopTabChildId": 301
   },
@@ -13008,7 +13037,7 @@
   },
   {
     "id": 301090,
-    "seq": 2369,
+    "seq": 2371,
     "billingShopItemType": "costume_3d",
     "saleType": "bundle",
     "name": "'매지컬 미라이 2024' 의상",
@@ -13024,7 +13053,7 @@
   },
   {
     "id": 301100,
-    "seq": 2369,
+    "seq": 2371,
     "billingShopItemType": "costume_3d",
     "saleType": "bundle",
     "name": "'매지컬 미라이 2025' 의상",
