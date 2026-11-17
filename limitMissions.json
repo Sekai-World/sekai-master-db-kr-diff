@@ -1353,5 +1353,59 @@
     "sentence": "MEIKO의 기념일 축제 한정 미션 모두 클리어하기",
     "resourceBoxId": 100026,
     "selectableRewardGroupId": 1006
+  },
+  {
+    "limitMissionGroupId": 26,
+    "id": 155,
+    "seq": 1,
+    "limitMissionType": "buy_music",
+    "requirement": 3,
+    "sentence": "음반 상점에서 악곡 3회 교환하기",
+    "resourceBoxId": 100035
+  },
+  {
+    "limitMissionGroupId": 26,
+    "id": 156,
+    "seq": 1,
+    "limitMissionType": "live_clear_in_music_group",
+    "requirement": 6,
+    "sentence": "4.5주년 악곡 추가 캠페인에 포함된 악곡을 6회 플레이하기\n(대상 악곡은 공지에서 확인 가능)",
+    "resourceBoxId": 100049
+  },
+  {
+    "limitMissionGroupId": 26,
+    "id": 157,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "'챌린지 라이브' 5회 플레이하기",
+    "resourceBoxId": 100003
+  },
+  {
+    "limitMissionGroupId": 26,
+    "id": 158,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "'멀티 라이브' 10회 플레이하기",
+    "resourceBoxId": 100016
+  },
+  {
+    "limitMissionGroupId": 26,
+    "id": 159,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 100,
+    "sentence": "라이브 보너스 100개 사용하기\n('라이브'의 '설정'에서 라이브 보너스 사용 수 변경 가능)",
+    "resourceBoxId": 100013
+  },
+  {
+    "limitMissionGroupId": 26,
+    "id": 160,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "위 미션들 모두 통과하기",
+    "resourceBoxId": 100052
   }
 ]
